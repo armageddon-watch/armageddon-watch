@@ -213,34 +213,55 @@ FRAMING_SYSTEM = (
 
 
 def framing_summary(story, api_key):
-    """Ask Claude to compare framing across regions, from headlines only. Returns text or None."""
+    """Ask Claude to compare framing across regions, from headlines only.
+
+    Returns ({"text", "model"}, None) on success or (None, reason) on failure.
+    The reason is the API's own error text, which never contains the key.
+    """
     import os
-    model = os.environ.get("NEWS_MODEL") or "claude-haiku-5-5"
+    models = [m for m in [os.environ.get("NEWS_MODEL"), "claude-haiku-5-5", "claude-haiku-4-5", "claude-sonnet-5-5"] if m]
     lines = ["Story: %s%s" % (story["topic"], " / " + story["focus"] if story["focus"] else ""), ""]
     for r in story["regions"]:
         lines.append("%s (%d%s articles in 24h):" % (r["name"], r["count"], "+" if r["capped"] else ""))
         lines += ["- " + h["title"] for h in r["headlines"]] or ["- (no coverage found)"]
         lines.append("")
-    body = json.dumps({
-        "model": model,
-        "max_tokens": 400,
-        "system": FRAMING_SYSTEM,
-        "messages": [{"role": "user", "content": "<headlines>\n" + "\n".join(lines) + "</headlines>"}],
-    }).encode("utf-8")
-    req = urllib.request.Request(
-        "https://api.anthropic.com/v1/messages", data=body, method="POST",
-        headers={"x-api-key": api_key, "anthropic-version": "2023-06-01", "content-type": "application/json"},
-    )
-    try:
-        with urllib.request.urlopen(req, timeout=60) as r:
-            data = json.loads(r.read().decode("utf-8"))
-    except urllib.error.HTTPError as e:
-        # Print the API's reason (never the key) so a wrong model name or empty balance is easy to spot.
-        print("framing summary failed: HTTP %s %s" % (e.code, e.read().decode("utf-8", "replace")[:300]))
-        return None
-    text = " ".join(b.get("text", "") for b in data.get("content", []) if b.get("type") == "text").strip()
-    text = re.sub(r"\s+", " ", text)[:900]
-    return {"text": text, "model": model} if text else None
+    reason = "no model tried"
+    for model in models:
+        body = json.dumps({
+            "model": model,
+            "max_tokens": 400,
+            "system": FRAMING_SYSTEM,
+            "messages": [{"role": "user", "content": "<headlines>\n" + "\n".join(lines) + "</headlines>"}],
+        }).encode("utf-8")
+        req = urllib.request.Request(
+            "https://api.anthropic.com/v1/messages", data=body, method="POST",
+            headers={"x-api-key": api_key, "anthropic-version": "2023-06-01", "content-type": "application/json"},
+        )
+        try:
+            with urllib.request.urlopen(req, timeout=60) as r:
+                data = json.loads(r.read().decode("utf-8"))
+        except urllib.error.HTTPError as e:
+            detail = e.read().decode("utf-8", "replace")
+            try:
+                err = json.loads(detail).get("error", {})
+                detail = "%s: %s" % (err.get("type", ""), err.get("message", ""))
+            except Exception:  # noqa: BLE001
+                pass
+            reason = ("HTTP %s %s (model %s)" % (e.code, detail, model))[:300]
+            print("framing summary failed:", reason)
+            if e.code == 404:
+                continue  # model name not available on this account: try the next one
+            return None, reason
+        except Exception as e:  # noqa: BLE001
+            reason = "%s (model %s)" % (type(e).__name__, model)
+            print("framing summary failed:", reason)
+            return None, reason
+        text = " ".join(b.get("text", "") for b in data.get("content", []) if b.get("type") == "text").strip()
+        text = re.sub(r"\s+", " ", text)[:900]
+        if text:
+            return {"text": text, "model": model}, None
+        reason = "empty reply (model %s)" % model
+    return None, reason
 
 
 def main():
@@ -298,14 +319,14 @@ def main():
     import os
     api_key = (os.environ.get("ANTHROPIC_API_KEY") or "").strip()
     if api_key:
-        try:
-            framing = framing_summary(story, api_key)
-            if framing:
-                story["framing"] = framing
-                print("framing summary: %d chars" % len(framing["text"]))
-        except Exception as e:  # noqa: BLE001
-            print("framing summary failed:", type(e).__name__)
+        framing, reason = framing_summary(story, api_key)
+        if framing:
+            story["framing"] = framing
+            print("framing summary: %d chars" % len(framing["text"]))
+        else:
+            story["framing_error"] = reason
     else:
+        story["framing_error"] = "ANTHROPIC_API_KEY secret not visible to the workflow"
         print("ANTHROPIC_API_KEY not set: skipping the AI framing summary.")
 
     OUT.write_text(json.dumps(story, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
