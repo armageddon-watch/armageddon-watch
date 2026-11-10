@@ -26,7 +26,7 @@ TERMS = "(war OR conflict OR fighting OR attack OR airstrike OR militants OR tro
 CONFLICT_WORD = re.compile(
     r"\bwar\b|warfare|conflict|fight|attack|strike|militan|troop|ceasefire|truce|kill|rebel|jihad|clash|\barmy\b|"
     r"drone|bomb|insurg|violen|shell(ed|ing)|soldier|militia|junta|\bcoup\b|gunm[ae]n|terror|hostage|missile|"
-    r"offensive|invasion|\\btalks\\b|negotiat|massacre|displace|ambush|raid", re.I)
+    r"offensive|invasion|\btalks\b|negotiat|massacre|displace|ambush|raid", re.I)
 
 # What to type into the search when the map name is not what newspapers write.
 SEARCH_AS = {"DR Congo": "DR Congo", "Congo": "Congo-Brazzaville", "Palestine": "Gaza", "Central African Republic": "Central African Republic"}
