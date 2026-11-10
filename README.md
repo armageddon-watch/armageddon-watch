@@ -58,3 +58,7 @@ Until then the form shows "Signup opens soon".
 - A scheduled GitHub Action that fetches the feeds, scores each risk against its own history, and commits fresh JSON. Keys stay in repository secrets, never in the page.
 - News tagging for the signs, showing headline, source and link only.
 - Fill "Same story, every region" from GDELT: group articles into stories, split by the outlet list, add volume, tone and one linked headline per region, then an AI summary of framing from headlines only.
+
+## After changing CSS or JS
+
+Bump the `?v=` number on the `css/` and `js/` links in `index.html`, so browsers fetch the new files instead of cached ones.
