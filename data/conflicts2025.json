@@ -2,7 +2,8 @@
   "title": "Countries with state-based armed conflict, 2025",
   "source": "UCDP, via Our World in Data (CC BY)",
   "sourceUrl": "https://ourworldindata.org/grapher/number-of-armed-conflicts",
-  "note": "Where fighting took place, not every country taking part. Marker positions are approximate country centres.",
+  "note": "Where fighting took place, not every country taking part.",
+  "outlineNames": {"Central African Republic": "Central African Rep.", "DR Congo": "Dem. Rep. Congo", "South Sudan": "S. Sudan"},
   "countries": [
     ["Afghanistan", 33.9, 67.7], ["Angola", -11.2, 17.9], ["Benin", 9.3, 2.3], ["Burkina Faso", 12.2, -1.6],
     ["Cambodia", 12.6, 104.9], ["Cameroon", 7.4, 12.4], ["Central African Republic", 6.6, 20.9], ["Chad", 15.5, 18.7],

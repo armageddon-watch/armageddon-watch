@@ -12,28 +12,35 @@
 </head>
 <body>
 <header class="top">
-  <div class="brand">Armageddon Watch</div>
-  <nav class="tabs" aria-label="Sections">
-    <button class="tab" data-tab="doomsday" aria-pressed="false">Doomsday</button>
-    <button class="tab" data-tab="bible" aria-pressed="true">Bible last days</button>
-  </nav>
+  <div class="top-inner">
+    <div class="brand">Armageddon Watch</div>
+    <nav class="tabs" aria-label="Sections">
+      <button class="tab" data-tab="doomsday" aria-pressed="false">Doomsday</button>
+      <button class="tab" data-tab="bible" aria-pressed="true">Bible last days</button>
+    </nav>
+  </div>
 </header>
 
 <main>
   <section id="bible" class="panel">
-    <div class="intro">
-      <h1>Where are we in the prophecy?</h1>
-      <p class="muted">Events described in scripture, in order. A watched event is marked only once it has clearly happened.</p>
+    <div class="split">
+      <div class="col">
+        <div class="intro">
+          <h1>Where are we in the prophecy?</h1>
+          <p class="muted">Events described in scripture, in order. A watched event is marked only once it has clearly happened.</p>
+        </div>
+        <ol class="road" id="road"></ol>
+      </div>
+      <div class="col col-side">
+        <h2 class="side-h">The signs today</h2>
+        <p class="muted">Each sign against its own history. Tap a sign with data to jump to its chart.</p>
+        <div class="signs" id="signs"></div>
+      </div>
     </div>
-    <ol class="road" id="road"></ol>
-
-    <h2>The signs today</h2>
-    <p class="muted">Each sign against its own history. Tap a sign with data to jump to its chart.</p>
-    <div class="signs" id="signs"></div>
 
     <h2>50 years of history</h2>
     <p class="muted">Real figures, so each sign can be judged against the past rather than against headlines.</p>
-    <div id="history"></div>
+    <div id="history" class="history"></div>
 
     <blockquote class="verse">"Concerning that day and hour nobody knows." Matthew 24:36. This page shows order, never a countdown.</blockquote>
   </section>
@@ -43,30 +50,38 @@
       <h1>World risk watch</h1>
       <p class="muted">Live readings from public data feeds. The combined score arrives once the data pipeline is running.</p>
     </div>
-    <div class="cards" id="live"></div>
 
-    <h2>World map</h2>
-    <p class="muted">Where the fighting is and where the ground is shaking.</p>
-    <div class="map-legend small">
-      <span><i class="key key-war"></i>Armed conflict, 2025</span>
-      <span><i class="key key-quake"></i>Earthquake M4.5+, last 7 days (live)</span>
+    <div class="split split-map">
+      <div class="col">
+        <h2 class="side-h">World map</h2>
+        <div class="map-legend small">
+          <span><i class="key key-war"></i>Armed conflict, 2025</span>
+          <span><i class="key key-quake"></i>Earthquake M4.5+, last 7 days (live)</span>
+        </div>
+        <div id="map" class="map" role="region" aria-label="World map of conflicts and recent earthquakes"></div>
+        <p class="small muted" id="map-src"></p>
+      </div>
+      <div class="col col-side">
+        <h2 class="side-h">Live readings</h2>
+        <div class="cards cards-stack" id="live"></div>
+        <h2>Context</h2>
+        <div class="cards cards-stack">
+          <div class="card"><div class="label">Doomsday Clock</div><div class="big">85 s</div><div class="muted small">to midnight, set January 2026. Bulletin of the Atomic Scientists</div></div>
+          <div class="card"><div class="label">Planetary boundaries</div><div class="big">7 of 9</div><div class="muted small">breached. Planetary Health Check 2025</div></div>
+        </div>
+      </div>
     </div>
-    <div id="map" class="map" role="region" aria-label="World map of conflicts and recent earthquakes"></div>
-    <p class="small muted" id="map-src"></p>
 
     <h2>Same story, every region</h2>
     <p class="muted">One story, as each part of the world reports it. Outlets are fixed and <a href="data/outlets.json">published</a>, so the balance can be checked.</p>
     <div class="story" id="story"></div>
-
-    <h2>Context</h2>
-    <div class="cards">
-      <div class="card"><div class="label">Doomsday Clock</div><div class="big">85 s</div><div class="muted small">to midnight, set January 2026. Bulletin of the Atomic Scientists</div></div>
-      <div class="card"><div class="label">Planetary boundaries</div><div class="big">7 of 9</div><div class="muted small">breached. Planetary Health Check 2025</div></div>
-    </div>
   </section>
+
   <section class="signup" aria-labelledby="signup-h">
-    <h2 id="signup-h">Get the daily brief</h2>
-    <p class="muted">A short email each morning: what moved, which signs changed, and alerts when a watched event gets a candidate. Unsubscribe any time.</p>
+    <div class="signup-text">
+      <h2 id="signup-h">Get the daily brief</h2>
+      <p class="muted">A short email each morning: what moved, which signs changed, and alerts when a watched event gets a candidate. Unsubscribe any time.</p>
+    </div>
     <form id="signup-form" method="post" target="_blank">
       <label for="signup-email" class="small">Email address</label>
       <div class="signup-row">
@@ -79,7 +94,7 @@
 </main>
 
 <footer class="foot muted small">
-  Data: USGS, NOAA SWPC, UCDP, PRIO, FAO, Our World in Data (CC BY), Pew Research Center. Map tiles © OpenStreetMap contributors, © CARTO. Headlines link to their sources.
+  Data: USGS, NOAA SWPC, UCDP, PRIO, FAO, Our World in Data (CC BY), Pew Research Center. Map outline: Natural Earth (public domain). Headlines link to their sources.
 </footer>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>

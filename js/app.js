@@ -109,24 +109,45 @@
   /* World map: 2025 conflict countries (static file) + live USGS quakes */
   var map = null;
   function loadMap() {
-    if (map) { setTimeout(function () { map.invalidateSize(); }, 0); return; }
+    if (map) { setTimeout(function () { map.invalidateSize(); map.fitBounds([[-56, -170], [78, 190]]); }, 0); return; }
     if (!window.L) { document.getElementById('map').innerHTML = '<p class="muted small" style="padding:12px">Map library could not load.</p>'; return; }
-    map = L.map('map', { worldCopyJump: true, minZoom: 1, zoomControl: true }).setView([20, 15], 1);
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-      subdomains: 'abcd', maxZoom: 8,
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'
-    }).addTo(map);
-    get('data/conflicts2025.json').then(function (d) {
-      d.countries.forEach(function (c) {
-        L.circleMarker([c[1], c[2]], { radius: 9, color: '#E58C6A', weight: 1.5, fillColor: '#E58C6A', fillOpacity: 0.45 })
-          .bindPopup('<b>' + esc(c[0]) + '</b><br>Armed conflict in 2025').addTo(map);
+    /* No tile server: the world outline ships in the repo (Natural Earth, public domain), so no API key or tile terms. */
+    var world = [[-56, -170], [78, 190]];
+    map = L.map('map', { zoomSnap: 0.25, minZoom: 1, maxZoom: 6, maxBounds: [[-75, -200], [88, 200]], maxBoundsViscosity: 0.8, attributionControl: true });
+    map.fitBounds(world);
+    map.attributionControl.setPrefix('<a href="https://leafletjs.com">Leaflet</a>').addAttribution('<a href="https://www.naturalearthdata.com/">Natural Earth</a>');
+    map.createPane('quakes').style.zIndex = 450;
+
+    var fit = function () { map.invalidateSize(); map.fitBounds(world); };
+    window.addEventListener('resize', function () { clearTimeout(fit.t); fit.t = setTimeout(fit, 200); });
+
+    Promise.all([get('data/world.geojson'), get('data/conflicts2025.json')]).then(function (d) {
+      var outline = d[0], c = d[1], alias = c.outlineNames || {};
+      var hot = {};
+      c.countries.forEach(function (row) { hot[alias[row[0]] || row[0]] = row[0]; });
+      L.geoJSON(outline, {
+        style: function (f) {
+          var on = hot[f.properties.name];
+          return on ? { color: '#E58C6A', weight: 1, fillColor: '#E58C6A', fillOpacity: 0.55 }
+                    : { color: '#2E3850', weight: 0.6, fillColor: '#1B2232', fillOpacity: 1 };
+        },
+        onEachFeature: function (f, layer) {
+          var on = hot[f.properties.name];
+          layer.bindTooltip(esc(on || f.properties.name) + (on ? ': armed conflict in 2025' : ''), { sticky: true });
+        }
+      }).addTo(map);
+      /* Small countries vanish at world scale, so every conflict country also gets a ring at its centre */
+      c.countries.forEach(function (row) {
+        L.circleMarker([row[1], row[2]], { radius: 4, color: '#E58C6A', weight: 1.5, fillColor: '#E58C6A', fillOpacity: 0.9 })
+          .bindTooltip(esc(row[0]) + ': armed conflict in 2025').addTo(map);
       });
-      document.getElementById('map-src').innerHTML = esc(d.countries.length + ' countries. ' + d.note) + ' Sources: <a href="' + d.sourceUrl + '">' + esc(d.source) + '</a>, <a href="https://earthquake.usgs.gov/earthquakes/map/">USGS</a>.';
+      document.getElementById('map-src').innerHTML = esc(c.countries.length + ' countries. ' + c.note) + ' Sources: <a href="' + c.sourceUrl + '">' + esc(c.source) + '</a>, <a href="https://earthquake.usgs.gov/earthquakes/map/">USGS</a>, Natural Earth.';
     });
+
     get('https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson').then(function (gj) {
       gj.features.forEach(function (f) {
         var p = f.properties, xy = f.geometry.coordinates;
-        L.circleMarker([xy[1], xy[0]], { radius: Math.max(3, (p.mag - 4) * 3), color: '#7FB3D5', weight: 1, fillColor: '#7FB3D5', fillOpacity: 0.5 })
+        L.circleMarker([xy[1], xy[0]], { pane: 'quakes', radius: Math.max(2.5, (p.mag - 4) * 3), color: '#7FB3D5', weight: 1, fillColor: '#7FB3D5', fillOpacity: 0.55 })
           .bindPopup('<b>M' + p.mag.toFixed(1) + '</b> ' + esc(p.place || '') + '<br>' + new Date(p.time).toUTCString().slice(5, 22) + ' UTC<br><a href="' + p.url + '" target="_blank" rel="noopener">USGS details</a>').addTo(map);
       });
     }).catch(function () { /* quakes layer simply stays empty if USGS is unreachable */ });
@@ -143,7 +164,7 @@
           '<div class="skel" aria-hidden="true"></div><div class="skel-line">Coverage volume, tone and top headline appear here</div></div>';
       }).join('');
       document.getElementById('story').innerHTML = '<span class="badge">Layout preview</span>' +
-        '<p class="story-title">Today\'s top risk story</p><p class="small muted">Filled automatically once the news pipeline runs. Headlines link to the original outlet.</p>' + rows +
+        '<p class="story-title">Today\'s top risk story</p><p class="small muted">Filled automatically once the news pipeline runs. Headlines link to the original outlet.</p><div class="regions">' + rows + '</div>' +
         '<div class="ai-box"><b>How the framing differs</b> (AI summary of headlines only): appears here, clearly labelled.</div>';
     });
   }
@@ -170,5 +191,11 @@
   }).catch(function () {
     document.getElementById('road').innerHTML = '<li class="muted">Could not load data. If you opened the file directly, serve the folder instead (see README).</li>';
   });
+  function tabFromHash() {
+    if (/^#\/?doomsday$/.test(location.hash)) return showTab('doomsday');
+    if (/^#\/?bible$/.test(location.hash) || !location.hash) return showTab('bible');
+    /* any other hash (a chart anchor) leaves the current tab as it is */
+  }
+  window.addEventListener('hashchange', tabFromHash);
   showTab(/^#\/?doomsday$/.test(location.hash) ? 'doomsday' : 'bible');
 })();

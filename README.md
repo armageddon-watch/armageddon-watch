@@ -37,7 +37,7 @@ Until then the form shows "Signup opens soon".
 
 ## Before charging money
 
-- Map tiles come from CARTO's free basemaps, which are for non-commercial use. A paid version needs a commercial tile plan (CARTO, MapTiler or similar).
+- The map needs no tile service: its outline is `data/world.geojson` (Natural Earth, public domain), so there is no key or usage limit to worry about.
 - ACLED data needs a commercial licence. USGS, NOAA and Our World in Data are fine with credit.
 
 ## Data and credits
@@ -50,7 +50,7 @@ Until then the form shows "Signup opens soon".
 | Undernourishment | [FAO via Our World in Data](https://ourworldindata.org/grapher/prevalence-of-undernourishment) | CC BY 4.0 |
 | Religion restrictions | [Pew Research Center](https://www.pewresearch.org/religion/) | Cited figures only |
 | Conflict map, 2025 | [UCDP via Our World in Data](https://ourworldindata.org/grapher/number-of-armed-conflicts) | CC BY 4.0 |
-| Map tiles | [OpenStreetMap](https://www.openstreetmap.org/copyright), [CARTO](https://carto.com/attributions) | ODbL, CARTO terms |
+| World map outline | [Natural Earth](https://www.naturalearthdata.com/) via [world-atlas](https://github.com/topojson/world-atlas), 1:110m | Public domain |
 | Live quakes and space weather | [USGS](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php), [NOAA SWPC](https://www.swpc.noaa.gov/) | Public domain |
 
 ## Next
