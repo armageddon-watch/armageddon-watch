@@ -133,13 +133,15 @@
         },
         onEachFeature: function (f, layer) {
           var on = hot[f.properties.name];
-          layer.bindTooltip(esc(on || f.properties.name) + (on ? ': armed conflict in 2025' : ''), { sticky: true });
+          layer.bindTooltip(esc(on || f.properties.name) + (on ? ': armed conflict in 2025. Click for news' : ''), { sticky: true });
+          if (on) layer.bindPopup(function () { return conflictPopup(on); }, { maxWidth: 300 });
         }
       }).addTo(map);
       /* Small countries vanish at world scale, so every conflict country also gets a ring at its centre */
       c.countries.forEach(function (row) {
         L.circleMarker([row[1], row[2]], { radius: 4, color: '#E58C6A', weight: 1.5, fillColor: '#E58C6A', fillOpacity: 0.9 })
-          .bindTooltip(esc(row[0]) + ': armed conflict in 2025').addTo(map);
+          .bindTooltip(esc(row[0]) + ': armed conflict in 2025. Click for news')
+          .bindPopup(function () { return conflictPopup(row[0]); }, { maxWidth: 300 }).addTo(map);
       });
       document.getElementById('map-src').innerHTML = esc(c.countries.length + ' countries. ' + c.note) + ' Sources: <a href="' + c.sourceUrl + '">' + esc(c.source) + '</a>, <a href="https://earthquake.usgs.gov/earthquakes/map/">USGS</a>, Natural Earth.';
     });
@@ -161,6 +163,30 @@
       .then(function (d) { quakeNews = d.quakes || {}; })
       .catch(function () { /* no news file yet: popups fall back to the search link */ });
 
+    /* Conflict headlines per country, collected by scripts/fetch_conflict_news.py */
+    var conflictNews = null;
+    (repo ? get('https://raw.githubusercontent.com/' + repo + '/main/data/conflict_news.json') : Promise.reject())
+      .catch(function () { return get('data/conflict_news.json'); })
+      .then(function (d) { conflictNews = d; })
+      .catch(function () { /* no file yet: popups fall back to the search link */ });
+
+    function newsList(headlines) {
+      return headlines.map(function (h) {
+        return '<a href="' + esc(safeUrl(h.url)) + '" target="_blank" rel="noopener noreferrer">' + esc(h.title) + (h.source ? ' <span class="pop-meta">' + esc(h.source) + '</span>' : '') + '</a>';
+      }).join('');
+    }
+
+    function conflictPopup(name) {
+      var entry = conflictNews && conflictNews.countries[name];
+      var html = '<b>' + esc(name) + '</b><br><span class="pop-meta">Armed conflict recorded in 2025 (UCDP)</span>';
+      if (entry && entry.headlines.length) {
+        html += '<div class="pop-news"><b>In the news, ' + esc(conflictNews.window || 'recently') + '</b>' + newsList(entry.headlines) + '</div>';
+      } else {
+        html += '<div class="pop-news pop-meta">' + (entry ? 'No conflict headlines found in the ' + esc(conflictNews.window || 'last 48 hours') + '.' : 'Headlines not loaded yet.') + '</div>';
+      }
+      return html + '<div class="pop-links"><a href="' + esc('https://news.google.com/search?q=' + encodeURIComponent(name + ' conflict')) + '" target="_blank" rel="noopener noreferrer">Search news</a></div>';
+    }
+
     function quakePopup(f) {
       var p = f.properties, xy = f.geometry.coordinates;
       var html = '<b>M' + p.mag.toFixed(1) + '</b> ' + esc(p.place || '') +
@@ -168,9 +194,7 @@
         (typeof xy[2] === 'number' ? ' · ' + Math.round(xy[2]) + ' km deep' : '') + (p.tsunami ? ' · tsunami alert issued' : '') + '</span>';
       var news = quakeNews[f.id], search = 'https://news.google.com/search?q=' + encodeURIComponent('earthquake ' + (p.place || '').replace(/^.* of /, ''));
       if (news && news.headlines.length) {
-        html += '<div class="pop-news"><b>In the news</b>' + news.headlines.map(function (h) {
-          return '<a href="' + esc(safeUrl(h.url)) + '" target="_blank" rel="noopener noreferrer">' + esc(h.title) + (h.source ? ' <span class="pop-meta">' + esc(h.source) + '</span>' : '') + '</a>';
-        }).join('') + '</div>';
+        html += '<div class="pop-news"><b>In the news</b>' + newsList(news.headlines) + '</div>';
       } else {
         html += '<div class="pop-news pop-meta">' + (news ? 'No news coverage found for this quake.' : 'Headlines are collected for the week\'s biggest quakes only.') + '</div>';
       }
