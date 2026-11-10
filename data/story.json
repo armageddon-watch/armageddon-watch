@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T21:29:17Z",
+ "generated": "2026-11-10T21:35:28Z",
  "window": "last 24 hours",
  "source": "Google News",
  "topic": "War and conflict",
@@ -41,14 +41,14 @@
      "domain": "nytimes.com"
     },
     {
+     "title": "Iran-backed terror suspects plotted attack on US troops using vans packed with fuel, DOJ says",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaXcweDU5YVNCWGtFSFV2WjlaR0ZZZEY0QzczcmNCUlRudjA2eWV6X1BjcjI2WXhfbDd3aVV4NDExbFRadW9MbVlMQ2w1MU4tUDdpTDJReVBkSGlIR2Y5MC1HSTBORjRkQ0M2RXZJV3BCdElVcXpDM3ZEQ3ZUaWJDenp6OHpqYWZTSGt2ajFpbnN3RUxFS2F6a20xVzE5WnJTMHBmM2dVQ1_SAa4BQVVfeXFMT1FKZXFmZlhhNEZSdDFrZ1F4RXJFaGdfRkg4aU9uMUtDV1RMT0JZM3dxUmxXUWJiQmFmNXRkNS1zUmVMR2I5MXVTQXVSTnplTG5GYmFjbXY5R0g3TEVKakpVLWgyYUplbW4zb3pvcW9LQ3psVUhkOF9QWVN0d2VZQVBNOFZyQldhdkRaZ2x3d0J2Sy1jem5ZWk5qYnVOOHY1N0hBQjhfeG5CbzQ5SGhB?oc=5",
+     "domain": "foxnews.com"
+    },
+    {
      "title": "Trump after meeting with Qatari PM says he believes war with Iran is militarily 'effectively over'",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOelU0dnZ5Y2ROMkdrZXlYYURIcnJocXdKbWx1eTlPcENLMk1vX3ctTC1ycGlfQ0dlemFiX2pHRzRvSkd4NTZ3aEdxU3h5OW5ZeUo3cU50YTVPODlxb2lZMVBwRFU4bXlmYlJiTmdHSHcxUUdQMFptNG43Y1hsanUzbTJHMHc5eTlVeVlz?oc=5",
      "domain": "apnews.com"
-    },
-    {
-     "title": "Trump's first Iran war escalation post-midterm losses seeks to choke off Tehran’s trade",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVHNYa19POGtkVEdEX0E1M2c1TWtBd1VSZzUzcGJoVVItMkw5WHNmTHUzQkVpQl9GbTZuRUEzRGlTeXNxMURlNVlXZjRWbld4UUdPeTVXOWlsOGVEajRJbVBZQzlGWlNCX0xPUlUyQTFpUUN3QUtmRHFjWWZEU19vZWVCNU0yTkFEejBjcnVlczlGWTRBUmpJNTlBUXg1b21hWmFCVTZJdFZGQ3VGcDBkbzc2UHQ5QdIBuwFBVV95cUxNSjVHek9yQzFBZUVXdmdpb0hhZUxEU0ZnNzlGeGhpVFloR19aVElnWGY0b2tlclRqY2h0VHljSHpqbExSVm81ekxMM2FSbDIxaFpRQ01udVIyak4waVhZQmswM0JBZVZlcDc4MVJ3SVJnUnBxRl9BYnhISl9rSXYxZjRSazBab1NMQVpMWlNJTFozQUpPOHp5czdkZ0tyMnVldlpSNlBlTExKcUFKMFYxSFVsYTNFLXFiSExZ?oc=5",
-     "domain": "foxnews.com"
     }
    ],
    "error": false
@@ -79,7 +79,7 @@
   },
   {
    "name": "Russia",
-   "count": 27,
+   "count": 26,
    "capped": false,
    "tone": null,
    "headlines": [
@@ -156,14 +156,14 @@
    "tone": null,
    "headlines": [
     {
-     "title": "\"We Didn't Start Iran War\": Pete Hegseth's Defence Amid Impeachment Threat",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSGNDdzJIX3NzLTllNzU0UUZUMHFOY1VLeWNsRGlzS0RtNFFnMENHb2hmaWJ2M2pmekJ1R1NxUW5WajlTTkltOTZ3dWNKU1ZBNHhEMW5FRlM4RDQ3UmdaUlJoOG1DLU4wbFU3UVZId2czV0w5ZEdWYXRIMkdMY3ZUeWNxZk9aaUJISklxR3lHcU54S29USFVCX2pGNDNGUHJ3WE9OTXNYd2hlLUHSAbMBQVVfeXFMTnkyMko1OHV6M1JGUWx1M3lJMUtodkVuTnRIXzVxUmZqQmRHa0JOTFJSTk9wbG8yMVA5dDhIQ201ZEFWX1E1cGU3S25lZ2dHUllBdFZTTEdKcGw3MXNEcjZyc3I1bDB5MUFwRzYxWGpwMVdha2M4cHBLUzhYdWdpNFFiVGprQ1FlRFpiRHIzWDhmNTI3cy1aZ3MxSUtXUkloRl92VFNucVU0UUxBTkRwd1hHSGs?oc=5",
-     "domain": "ndtv.com"
-    },
-    {
      "title": "Netanyahu's daily calls to Trump over Iran war spark pushback within White House: Report",
      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZmQyTGZoZ2pwM3RtVmFfRWh4a0xXcmQxZWtia1ZJVWFKZHN6LWIzaV82NDlzNW5MVmtQN21MdTVMUnVQTFQyS3hpWnlKZzdHQ1dGSjVjNDM5SmpUdkdnbzFCU3lWUF8zeGZzblJpR3dKYVNKTlZCQndzUHhhb2xvT1ExaGtMaDRzWHR5Y2xWSlY4Uk9FXzgxZFFaNDhSOVVMdXIwZDJJY2h1V1hiMUJPWVlORkh2TElvMVRaVHNvSlZ3dU5kOUx1ZFU5T1FqUmtmdDRtNDc0SGNQRXJzR09SNEtMUUpfUTRwRUZ4dVBB0gHzAUFVX3lxTE5MVjlZeWEwWW1WTDVFQWNqRGx0RUxKVExoMmNFMjFOdnEzX2RLbk9lcXdvVzdnZmltQ1ZaaF9YM1ozMHE2QVhpZU92X1pZMGpwRjl5eU0yeEdQVmNWcUZ6X3lzN0lWMmRHZTlJc3RHdU0zc0dxOHFTTWJpODZNY2l2ZE01YTZvTGp4SmYxa0xGMFFsU2oxQ2J0Qm5YWUFWYzFWWXQwVVpBVkkyRXFnVk9tc200TDYxS184bGRoeEhNbGFJUmt2WnRHaFdRdzgzcHBHWEZhRGM0MmdZUlpIemJNMUVQYm5qbTR4ZlpvUHIwRzVFQQ?oc=5",
      "domain": "timesofindia.indiatimes.com"
+    },
+    {
+     "title": "War On Iran Is \"Effectively Over\", Says Trump After Meeting With Qatari PM",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcU5qZXdWb3pGRXFIcVZqaWJqc0N1U2RHdGxMXzEzUHhMQXBCOXE3enBPcXdVdzU1Ui1tOEcwVTl2WnhUbDFXUVNwNUNNdE42WFpjLUVlb3lkZWxrYzJMQUN6QU5WLWJsUUc5X0JidXZEbHRmbm5NblFJMXdaMXVjV2FfREFCUzA5WURaRHduMkdqaDN6dEgyeEdfcG1xZ0VHcHlkWjRtYXZocTBGXzJCMFQwMHVHTHZmQnJ0eVFjUWpKMFhhZDFV0gHPAUFVX3lxTFBYbGFDSDBBaGJXak5zY1hDcG5DbXFhTU5FdkJSVWJIWkVKYnphbEJIZ2Q2QXVZUmtKOGF3ZkpERGY5NDR3YkVvTVA1cUo3Yy01NFZ1elVwTm1peFV2Y0Rrb0Vab2pRSXhXOUVyNFRiNjB6X3MwYjZodzM2T1lvdnFUMGtreVNaWjVZQ2tXaV9zM01uUkFFQ1VfOS00YzdDbUVUMW1UZnNWMVFEdVY4bV9LQlkyeFNzZGF5MGJ5M2RaWWkwTUp1aklobnB2M1pZMA?oc=5",
+     "domain": "ndtv.com"
     },
     {
      "title": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
@@ -207,7 +207,7 @@
   }
  ],
  "framing": {
-  "text": "UK and US outlets emphasise Trump's statements about the war ending, alongside economic impacts like falling oil prices and reduced carbon emissions. European coverage similarly highlights Trump's remarks and emissions effects. Russia and China focus more on diplomatic efforts and economic consequences—China particularly emphasises EV export growth. Middle East reporting emphasises ongoing diplomatic negotiations and military positioning. India highlights domestic political responses to the conflict. Africa has minimal coverage, whilst Latin America has none.",
-  "model": "claude-haiku-4-5"
+  "text": "Most regions lead with Tr",
+  "model": "claude-haiku-5-5"
  }
 }
