@@ -30,15 +30,18 @@ jobs:
         env:
           # Optional. Without it the AI framing summary is skipped and everything else still runs.
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-      - name: Commit story.json if it changed
+      - name: Fetch news for the week's biggest earthquakes
+        continue-on-error: true
+        run: python3 scripts/fetch_quake_news.py
+      - name: Commit data files if they changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/story.json
+          git add data/story.json data/quake_news.json 2>/dev/null || git add data/story.json
           if git diff --cached --quiet; then
             echo "No change."
           else
-            git commit -m "Update regional news comparison"
+            git commit -m "Update news data"
             git pull --rebase origin main
             git push origin HEAD:main
           fi

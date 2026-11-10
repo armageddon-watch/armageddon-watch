@@ -152,6 +152,31 @@
       month: { url: feed + '4.5_month.geojson', label: 'M4.5+, last 30 days' },
       year: { url: 'https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=6&starttime=' + new Date().getUTCFullYear() + '-01-01', label: 'M6+, this year so far' }
     };
+    /* News for the week's biggest quakes, collected by scripts/fetch_quake_news.py. Loads in the background;
+       popups are built when opened, so they pick it up as soon as it arrives. */
+    var quakeNews = {};
+    var repo = (window.SITE_CONFIG || {}).dataRepo;
+    (repo ? get('https://raw.githubusercontent.com/' + repo + '/main/data/quake_news.json') : Promise.reject())
+      .catch(function () { return get('data/quake_news.json'); })
+      .then(function (d) { quakeNews = d.quakes || {}; })
+      .catch(function () { /* no news file yet: popups fall back to the search link */ });
+
+    function quakePopup(f) {
+      var p = f.properties, xy = f.geometry.coordinates;
+      var html = '<b>M' + p.mag.toFixed(1) + '</b> ' + esc(p.place || '') +
+        '<br><span class="pop-meta">' + new Date(p.time).toUTCString().slice(5, 22) + ' UTC' +
+        (typeof xy[2] === 'number' ? ' · ' + Math.round(xy[2]) + ' km deep' : '') + (p.tsunami ? ' · tsunami alert issued' : '') + '</span>';
+      var news = quakeNews[f.id], search = 'https://news.google.com/search?q=' + encodeURIComponent('earthquake ' + (p.place || '').replace(/^.* of /, ''));
+      if (news && news.headlines.length) {
+        html += '<div class="pop-news"><b>In the news</b>' + news.headlines.map(function (h) {
+          return '<a href="' + esc(safeUrl(h.url)) + '" target="_blank" rel="noopener noreferrer">' + esc(h.title) + (h.source ? ' <span class="pop-meta">' + esc(h.source) + '</span>' : '') + '</a>';
+        }).join('') + '</div>';
+      } else {
+        html += '<div class="pop-news pop-meta">' + (news ? 'No news coverage found for this quake.' : 'Headlines are collected for the week\'s biggest quakes only.') + '</div>';
+      }
+      return html + '<div class="pop-links"><a href="' + esc(search) + '" target="_blank" rel="noopener noreferrer">Search news</a> · <a href="' + esc(safeUrl(p.url)) + '" target="_blank" rel="noopener noreferrer">USGS details</a></div>';
+    }
+
     var quakeLayer = L.layerGroup().addTo(map), wanted = null;
     var quakeText = document.getElementById('quake-legend');
     function showQuakes(key) {
@@ -165,7 +190,7 @@
           var p = f.properties, xy = f.geometry.coordinates;
           if (typeof p.mag !== 'number') return;
           L.circleMarker([xy[1], xy[0]], { pane: 'quakes', radius: Math.max(2.5, (p.mag - 4) * 3), color: '#7FB3D5', weight: 1, fillColor: '#7FB3D5', fillOpacity: 0.55 })
-            .bindPopup('<b>M' + p.mag.toFixed(1) + '</b> ' + esc(p.place || '') + '<br>' + new Date(p.time).toUTCString().slice(5, 22) + ' UTC<br><a href="' + safeUrl(p.url) + '" target="_blank" rel="noopener">USGS details</a>').addTo(quakeLayer);
+            .bindPopup(function () { return quakePopup(f); }, { maxWidth: 300 }).addTo(quakeLayer);
         });
         quakeText.textContent = 'Earthquakes ' + periods[key].label + ': ' + gj.features.length + ' (live)';
       }).catch(function () {

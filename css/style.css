@@ -108,6 +108,14 @@ a.sign:hover { border-color: var(--accent); color: var(--ink); }
 .key-quake { background: rgba(127, 179, 213, .55); border: 1.5px solid #7FB3D5; }
 .leaflet-container { font: 13px Inter, system-ui, sans-serif; }
 .leaflet-popup-content-wrapper, .leaflet-popup-tip { background: var(--card); color: var(--ink); }
+.pop-meta { color: var(--muted); font-size: 12px; }
+.pop-news { margin-top: 8px; padding-top: 8px; border-top: 1px solid var(--line); display: flex; flex-direction: column; gap: 6px; }
+.pop-news a { color: var(--ink); line-height: 1.35; }
+.pop-news a:hover { color: var(--accent); }
+.pop-links { margin-top: 8px; font-size: 12px; }
+.leaflet-container .pop-links a { color: var(--accent); }
+.leaflet-popup-content { margin: 12px 14px; }
+.leaflet-container a.leaflet-popup-close-button { color: var(--muted); }
 .map.leaflet-container { background: #0B0F19; }
 .leaflet-bar a, .leaflet-bar a:hover { background: var(--card); color: var(--ink); border-bottom-color: var(--line); }
 .leaflet-bar a.leaflet-disabled { background: var(--bg); color: var(--line); }
