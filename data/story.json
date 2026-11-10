@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T20:57:16Z",
+ "generated": "2026-11-10T21:01:03Z",
  "window": "last 24 hours",
  "source": "Google News",
  "topic": "War and conflict",
@@ -79,7 +79,7 @@
   },
   {
    "name": "Russia",
-   "count": 26,
+   "count": 28,
    "capped": false,
    "tone": null,
    "headlines": [
@@ -207,7 +207,7 @@
   }
  ],
  "framing": {
-  "text": "UK, US and European outlets emphasise Trump's statements about the war ending and its effects on oil prices and carbon emissions. Russia and China focus on diplomatic settlement prospects and economic impacts, with China highlighting EV export gains. The Middle East emphasises diplomatic talks and regional security concerns, whilst India stresses domestic political reactions. Africa has minimal coverage, and Latin America shows no coverage of this story.",
+  "text": "UK and US outlets emphasise Trump's statements about the war being militarily concluded, with UK coverage notably focusing on oil price impacts. Europe highlights both diplomatic progress and emissions reductions from reduced fuel consumption. Russia and China report diplomatic settlement possibilities, whilst China additionally emphasises EV export gains. Middle East coverage stresses ongoing diplomatic efforts and military positioning concerns. India focuses on domestic political implications, particularly impeachment threats and Netanyahu's involvement. Africa has minimal coverage, and Latin America shows no articles on this story.",
   "model": "claude-haiku-4-5"
  }
 }
