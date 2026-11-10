@@ -20,7 +20,7 @@ body {
 }
 a { color: var(--accent); }
 a:hover { color: #F2C46B; }
-h1, h2, .brand, .big, .ev-title { font-family: "Space Grotesk", Inter, sans-serif; }
+h1, h2, .big, .ev-title { font-family: "Space Grotesk", Inter, sans-serif; }
 h1 { font-size: 26px; line-height: 1.2; font-weight: 600; margin: 0 0 6px; }
 h2 { font-size: 20px; font-weight: 600; margin: 32px 0 4px; }
 .muted { color: var(--muted); }
@@ -34,8 +34,14 @@ p { margin: 0 0 12px; }
   padding: 14px 16px 12px;
 }
 .top-inner { max-width: 1200px; margin: 0 auto; }
-.brand { font-weight: 700; font-size: 18px; margin-bottom: 10px; display: flex; align-items: center; gap: 10px; }
-.brand img { display: block; }
+@font-face { font-family: "Cinzel"; font-weight: 700; font-style: normal; font-display: swap; src: url("../fonts/cinzel-latin-700-normal.woff2") format("woff2"); }
+.brand { display: flex; align-items: center; gap: 12px; margin-bottom: 12px; color: var(--ink); text-decoration: none; }
+.brand:hover { color: var(--ink); }
+.brand img { display: block; flex: none; }
+.brand-text { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.brand-name { font-family: "Cinzel", "Space Grotesk", serif; font-weight: 700; font-size: clamp(15px, 4.9vw, 21px); line-height: 1.1; letter-spacing: 0.09em; text-transform: uppercase; white-space: nowrap; }
+.brand-name b { font-weight: 700; color: var(--accent); }
+.brand-tag { display: none; font: 400 12px Inter, sans-serif; color: var(--muted); letter-spacing: 0.02em; }
 .tabs { display: flex; gap: 8px; }
 .tab {
   flex: 1; min-height: 44px; border-radius: 10px;
@@ -166,7 +172,9 @@ a.sign:hover { border-color: var(--accent); color: var(--ink); }
   main, body .foot { max-width: 1200px; padding-left: 32px; padding-right: 32px; }
   .top { padding: 14px 32px; }
   .top-inner { display: flex; align-items: center; justify-content: space-between; gap: 24px; }
-  .brand { margin-bottom: 0; font-size: 20px; }
+  .brand { margin-bottom: 0; }
+  .brand-name { font-size: 24px; }
+  .brand-tag { display: block; }
   .tabs { width: 380px; }
   main { padding-top: 32px; }
   h1 { font-size: 32px; }

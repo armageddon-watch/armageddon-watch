@@ -66,3 +66,7 @@ Bump the `?v=` number on the `css/` and `js/` links in `index.html`, so browsers
 ## News pipeline
 
 `.github/workflows/news.yml` runs `scripts/fetch_news.py` every 6 hours (or on demand from the Actions tab). It picks the risk topic with the biggest jump in coverage, then for each region in `data/outlets.json` saves article count, tone and up to three linked headlines to `data/story.json`. It uses GDELT, and falls back to Google News RSS (no tone) if GDELT does not answer. Check Google News' terms before relying on that fallback in a paid product. No article text is stored.
+
+## Fonts
+
+The header wordmark uses Cinzel (SIL Open Font License 1.1), hosted in `fonts/` with its licence file.
