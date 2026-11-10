@@ -1,0 +1,14 @@
+{
+  "_note": "The fixed outlet list behind 'Same story, five views'. Published so anyone can check the balance. Tags: 'state' = state-controlled, 'public' = public or state funding with editorial independence claimed.",
+  "regions": [
+    {"name": "UK", "outlets": [["BBC News", "public"], ["The Guardian", ""], ["Sky News", ""]]},
+    {"name": "US", "outlets": [["Associated Press", ""], ["New York Times", ""], ["Fox News", ""]]},
+    {"name": "Europe", "outlets": [["DW", "public"], ["France 24", "public"], ["Euronews", ""]]},
+    {"name": "Russia", "outlets": [["TASS", "state"], ["RT", "state"], ["Kommersant", ""]]},
+    {"name": "China", "outlets": [["Xinhua", "state"], ["CGTN", "state"], ["South China Morning Post", ""]]},
+    {"name": "Middle East", "outlets": [["Al Jazeera", "public"], ["Al Arabiya", ""], ["Times of Israel", ""]]},
+    {"name": "India", "outlets": [["The Hindu", ""], ["Times of India", ""], ["NDTV", ""]]},
+    {"name": "Africa", "outlets": [["News24", ""], ["Daily Nation", ""], ["Premium Times", ""]]},
+    {"name": "Latin America", "outlets": [["Folha de S.Paulo", ""], ["Clarín", ""], ["El Universal", ""]]}
+  ]
+}

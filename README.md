@@ -21,10 +21,24 @@ Then open http://localhost:8000.
 
 Settings → Pages → Source: *Deploy from a branch* → Branch: `main`, folder `/ (root)`.
 
+## Switch on the email signup
+
+1. Make a free account at [buttondown.com](https://buttondown.com).
+2. Put your Buttondown username in `js/config.js` (`buttondownUser`).
+
+Until then the form shows "Signup opens soon".
+
 ## Updating
 
 - **Event status**: edit `status` in `data/events.json` (`now`, `watching`, `occurred`, `future`). Nothing changes it automatically, on purpose.
 - **History data**: `data/history.json`, one `[year, value]` pair per row. Add each new year when the source publishes it.
+- **Conflict map layer**: `data/conflicts2025.json`. Replace yearly with UCDP's new figures.
+- **Regional outlets**: `data/outlets.json` is the published source list for "Same story, every region". Keep it balanced and public.
+
+## Before charging money
+
+- Map tiles come from CARTO's free basemaps, which are for non-commercial use. A paid version needs a commercial tile plan (CARTO, MapTiler or similar).
+- ACLED data needs a commercial licence. USGS, NOAA and Our World in Data are fine with credit.
 
 ## Data and credits
 
@@ -35,9 +49,12 @@ Settings → Pages → Source: *Deploy from a branch* → Branch: `main`, folder
 | Armed conflicts | [UCDP via Our World in Data](https://ourworldindata.org/grapher/number-of-armed-conflicts) | CC BY 4.0 |
 | Undernourishment | [FAO via Our World in Data](https://ourworldindata.org/grapher/prevalence-of-undernourishment) | CC BY 4.0 |
 | Religion restrictions | [Pew Research Center](https://www.pewresearch.org/religion/) | Cited figures only |
+| Conflict map, 2025 | [UCDP via Our World in Data](https://ourworldindata.org/grapher/number-of-armed-conflicts) | CC BY 4.0 |
+| Map tiles | [OpenStreetMap](https://www.openstreetmap.org/copyright), [CARTO](https://carto.com/attributions) | ODbL, CARTO terms |
 | Live quakes and space weather | [USGS](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php), [NOAA SWPC](https://www.swpc.noaa.gov/) | Public domain |
 
 ## Next
 
 - A scheduled GitHub Action that fetches the feeds, scores each risk against its own history, and commits fresh JSON. Keys stay in repository secrets, never in the page.
 - News tagging for the signs, showing headline, source and link only.
+- Fill "Same story, every region" from GDELT: group articles into stories, split by the outlet list, add volume, tone and one linked headline per region, then an AI summary of framing from headlines only.

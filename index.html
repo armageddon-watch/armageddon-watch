@@ -7,6 +7,7 @@
 <meta name="description" content="World risks and the Bible's last-days signs, tracked against real data.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
 <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -43,18 +44,46 @@
       <p class="muted">Live readings from public data feeds. The combined score arrives once the data pipeline is running.</p>
     </div>
     <div class="cards" id="live"></div>
+
+    <h2>World map</h2>
+    <p class="muted">Where the fighting is and where the ground is shaking.</p>
+    <div class="map-legend small">
+      <span><i class="key key-war"></i>Armed conflict, 2025</span>
+      <span><i class="key key-quake"></i>Earthquake M4.5+, last 7 days (live)</span>
+    </div>
+    <div id="map" class="map" role="region" aria-label="World map of conflicts and recent earthquakes"></div>
+    <p class="small muted" id="map-src"></p>
+
+    <h2>Same story, every region</h2>
+    <p class="muted">One story, as each part of the world reports it. Outlets are fixed and <a href="data/outlets.json">published</a>, so the balance can be checked.</p>
+    <div class="story" id="story"></div>
+
     <h2>Context</h2>
     <div class="cards">
       <div class="card"><div class="label">Doomsday Clock</div><div class="big">85 s</div><div class="muted small">to midnight, set January 2026. Bulletin of the Atomic Scientists</div></div>
       <div class="card"><div class="label">Planetary boundaries</div><div class="big">7 of 9</div><div class="muted small">breached. Planetary Health Check 2025</div></div>
     </div>
   </section>
+  <section class="signup" aria-labelledby="signup-h">
+    <h2 id="signup-h">Get the daily brief</h2>
+    <p class="muted">A short email each morning: what moved, which signs changed, and alerts when a watched event gets a candidate. Unsubscribe any time.</p>
+    <form id="signup-form" method="post" target="_blank">
+      <label for="signup-email" class="small">Email address</label>
+      <div class="signup-row">
+        <input id="signup-email" type="email" name="email" required autocomplete="email" placeholder="you@example.com">
+        <button type="submit">Sign up</button>
+      </div>
+      <p class="small muted" id="signup-note"></p>
+    </form>
+  </section>
 </main>
 
 <footer class="foot muted small">
-  Data: USGS, NOAA SWPC, UCDP, PRIO, FAO, Our World in Data (CC BY), Pew Research Center. Headlines link to their sources.
+  Data: USGS, NOAA SWPC, UCDP, PRIO, FAO, Our World in Data (CC BY), Pew Research Center. Map tiles © OpenStreetMap contributors, © CARTO. Headlines link to their sources.
 </footer>
 
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="js/config.js"></script>
 <script src="js/charts.js"></script>
 <script src="js/app.js"></script>
 </body>

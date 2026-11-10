@@ -95,5 +95,36 @@ a.sign:hover { border-color: var(--accent); color: var(--ink); }
 .label { font-size: 13px; color: var(--muted); }
 .big { font-size: 32px; font-weight: 700; margin: 2px 0; }
 
+/* Map */
+.map { height: 340px; border: 1px solid var(--line); border-radius: 14px; margin-top: 10px; background: #0B0F19; }
+.map-legend { display: flex; flex-wrap: wrap; gap: 14px; color: var(--muted); margin-top: 8px; }
+.key { display: inline-block; width: 12px; height: 12px; border-radius: 50%; vertical-align: -1px; margin-right: 6px; }
+.key-war { background: rgba(229, 140, 106, .55); border: 1.5px solid #E58C6A; }
+.key-quake { background: rgba(127, 179, 213, .55); border: 1.5px solid #7FB3D5; }
+.leaflet-container { font: 13px Inter, system-ui, sans-serif; }
+.leaflet-popup-content-wrapper, .leaflet-popup-tip { background: var(--card); color: var(--ink); }
+
+/* Same story, every region */
+.story { border: 1px solid var(--line); border-radius: 14px; padding: 14px; margin-top: 12px; }
+.badge { display: inline-block; font-size: 12px; font-weight: 600; color: var(--bg); background: var(--accent); border-radius: 999px; padding: 2px 8px; }
+.story-title { font-family: "Space Grotesk", Inter, sans-serif; font-size: 17px; font-weight: 600; margin: 8px 0 2px; }
+.region { border-top: 1px solid var(--line-soft); padding: 10px 0; display: grid; grid-template-columns: 96px minmax(0, 1fr); gap: 4px 10px; }
+.region-name { font-weight: 600; font-size: 14px; }
+.region-outlets { font-size: 12px; color: var(--muted); }
+.tag { font-size: 10.5px; border: 1px solid var(--line); border-radius: 999px; padding: 0 6px; margin-left: 4px; white-space: nowrap; }
+.tag.state { color: var(--hot); border-color: #6A4A3E; }
+.skel { height: 8px; border-radius: 4px; background: repeating-linear-gradient(90deg, #232B3D 0 10px, #1B2232 10px 20px); grid-column: 2; }
+.skel-line { font-size: 13px; color: var(--muted); grid-column: 2; font-style: italic; }
+.ai-box { margin-top: 10px; border: 1px dashed var(--line); border-radius: 10px; padding: 10px; font-size: 13px; color: var(--muted); }
+
+/* Signup */
+.signup { border: 1px solid var(--accent); border-radius: 14px; padding: 16px; margin-top: 28px; }
+.signup h2 { margin-top: 0; }
+.signup-row { display: flex; gap: 8px; margin-top: 4px; flex-wrap: wrap; }
+.signup input { flex: 1 1 200px; min-height: 44px; border-radius: 10px; border: 1px solid var(--line); background: var(--bg); color: var(--ink); font: 15px Inter, sans-serif; padding: 0 12px; }
+.signup button { min-height: 44px; border-radius: 10px; border: 0; background: var(--accent); color: var(--bg); font: 600 15px Inter, sans-serif; padding: 0 18px; cursor: pointer; }
+.signup button:disabled { background: var(--line); color: var(--muted); cursor: not-allowed; }
+.signup #signup-note { margin: 8px 0 0; }
+
 .verse { margin: 32px 0 16px; padding: 14px; border: 1px solid var(--line); border-radius: 12px; color: var(--muted); font-size: 14px; }
 .foot { max-width: 720px; margin: 0 auto; padding: 8px 16px 32px; }

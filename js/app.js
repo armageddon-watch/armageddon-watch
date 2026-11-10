@@ -10,10 +10,11 @@
   function showTab(name) {
     document.querySelectorAll('.panel').forEach(function (p) { p.hidden = p.id !== name; });
     document.querySelectorAll('.tab').forEach(function (b) { b.setAttribute('aria-pressed', String(b.dataset.tab === name)); });
-    if (name === 'doomsday') loadLive();
+    if (name === 'doomsday') { loadLive(); loadMap(); loadStory(); }
   }
   document.querySelectorAll('.tab').forEach(function (b) {
-    b.addEventListener('click', function () { history.replaceState(null, '', '#' + b.dataset.tab); showTab(b.dataset.tab); });
+    /* '#/name' rather than '#name', so the browser never scrolls to the section with that id */
+    b.addEventListener('click', function () { history.replaceState(null, '', '#/' + b.dataset.tab); showTab(b.dataset.tab); });
   });
 
   /* Findings: one sentence per chart, worked out from the rows so it can never disagree with them */
@@ -105,6 +106,61 @@
     });
   }
 
+  /* World map: 2025 conflict countries (static file) + live USGS quakes */
+  var map = null;
+  function loadMap() {
+    if (map) { setTimeout(function () { map.invalidateSize(); }, 0); return; }
+    if (!window.L) { document.getElementById('map').innerHTML = '<p class="muted small" style="padding:12px">Map library could not load.</p>'; return; }
+    map = L.map('map', { worldCopyJump: true, minZoom: 1, zoomControl: true }).setView([20, 15], 1);
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+      subdomains: 'abcd', maxZoom: 8,
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'
+    }).addTo(map);
+    get('data/conflicts2025.json').then(function (d) {
+      d.countries.forEach(function (c) {
+        L.circleMarker([c[1], c[2]], { radius: 9, color: '#E58C6A', weight: 1.5, fillColor: '#E58C6A', fillOpacity: 0.45 })
+          .bindPopup('<b>' + esc(c[0]) + '</b><br>Armed conflict in 2025').addTo(map);
+      });
+      document.getElementById('map-src').innerHTML = esc(d.countries.length + ' countries. ' + d.note) + ' Sources: <a href="' + d.sourceUrl + '">' + esc(d.source) + '</a>, <a href="https://earthquake.usgs.gov/earthquakes/map/">USGS</a>.';
+    });
+    get('https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson').then(function (gj) {
+      gj.features.forEach(function (f) {
+        var p = f.properties, xy = f.geometry.coordinates;
+        L.circleMarker([xy[1], xy[0]], { radius: Math.max(3, (p.mag - 4) * 3), color: '#7FB3D5', weight: 1, fillColor: '#7FB3D5', fillOpacity: 0.5 })
+          .bindPopup('<b>M' + p.mag.toFixed(1) + '</b> ' + esc(p.place || '') + '<br>' + new Date(p.time).toUTCString().slice(5, 22) + ' UTC<br><a href="' + p.url + '" target="_blank" rel="noopener">USGS details</a>').addTo(map);
+      });
+    }).catch(function () { /* quakes layer simply stays empty if USGS is unreachable */ });
+  }
+
+  /* Same story, every region: layout mockup until the news pipeline fills it */
+  var storyLoaded = false;
+  function loadStory() {
+    if (storyLoaded) return; storyLoaded = true;
+    get('data/outlets.json').then(function (d) {
+      var rows = d.regions.map(function (r) {
+        var outlets = r.outlets.map(function (o) { return esc(o[0]) + (o[1] ? '<span class="tag ' + o[1] + '">' + (o[1] === 'state' ? 'state-controlled' : 'public funding') + '</span>' : ''); }).join(', ');
+        return '<div class="region"><div class="region-name">' + esc(r.name) + '</div><div class="region-outlets">' + outlets + '</div>' +
+          '<div class="skel" aria-hidden="true"></div><div class="skel-line">Coverage volume, tone and top headline appear here</div></div>';
+      }).join('');
+      document.getElementById('story').innerHTML = '<span class="badge">Layout preview</span>' +
+        '<p class="story-title">Today\'s top risk story</p><p class="small muted">Filled automatically once the news pipeline runs. Headlines link to the original outlet.</p>' + rows +
+        '<div class="ai-box"><b>How the framing differs</b> (AI summary of headlines only): appears here, clearly labelled.</div>';
+    });
+  }
+
+  /* Email signup via Buttondown, switched on in js/config.js */
+  (function () {
+    var user = (window.SITE_CONFIG || {}).buttondownUser, form = document.getElementById('signup-form');
+    var note = document.getElementById('signup-note'), btn = form.querySelector('button');
+    if (user) {
+      form.action = 'https://buttondown.com/api/emails/embed-subscribe/' + encodeURIComponent(user);
+      note.textContent = 'You will get one email to confirm. Handled by Buttondown.';
+    } else {
+      btn.disabled = true; form.querySelector('input').disabled = true;
+      note.textContent = 'Signup opens soon.';
+    }
+  })();
+
   /* Boot */
   Promise.all([get('data/events.json'), get('data/history.json')]).then(function (d) {
     var f = findings(d[1]);
@@ -114,5 +170,5 @@
   }).catch(function () {
     document.getElementById('road').innerHTML = '<li class="muted">Could not load data. If you opened the file directly, serve the folder instead (see README).</li>';
   });
-  showTab(location.hash === '#doomsday' ? 'doomsday' : 'bible');
+  showTab(/^#\/?doomsday$/.test(location.hash) ? 'doomsday' : 'bible');
 })();

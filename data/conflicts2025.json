@@ -1,0 +1,18 @@
+{
+  "title": "Countries with state-based armed conflict, 2025",
+  "source": "UCDP, via Our World in Data (CC BY)",
+  "sourceUrl": "https://ourworldindata.org/grapher/number-of-armed-conflicts",
+  "note": "Where fighting took place, not every country taking part. Marker positions are approximate country centres.",
+  "countries": [
+    ["Afghanistan", 33.9, 67.7], ["Angola", -11.2, 17.9], ["Benin", 9.3, 2.3], ["Burkina Faso", 12.2, -1.6],
+    ["Cambodia", 12.6, 104.9], ["Cameroon", 7.4, 12.4], ["Central African Republic", 6.6, 20.9], ["Chad", 15.5, 18.7],
+    ["Colombia", 4.6, -74.3], ["Congo", -0.2, 15.8], ["DR Congo", -4.0, 21.8], ["Ethiopia", 9.1, 40.5],
+    ["Haiti", 18.9, -72.3], ["India", 22.0, 79.0], ["Indonesia", -2.5, 118.0], ["Iran", 32.4, 53.7],
+    ["Iraq", 33.2, 43.7], ["Israel", 31.0, 34.9], ["Kenya", 0.0, 37.9], ["Lebanon", 33.9, 35.9],
+    ["Mali", 17.6, -4.0], ["Mozambique", -18.7, 35.5], ["Myanmar", 21.9, 95.9], ["Nigeria", 9.1, 8.7],
+    ["Niger", 17.6, 8.1], ["Pakistan", 30.4, 69.3], ["Palestine", 31.9, 35.2], ["Philippines", 12.9, 121.8],
+    ["Qatar", 25.4, 51.2], ["Rwanda", -1.9, 29.9], ["Saudi Arabia", 23.9, 45.1], ["Somalia", 5.2, 46.2],
+    ["South Sudan", 6.9, 31.3], ["Sudan", 12.9, 30.2], ["Syria", 34.8, 39.0], ["Thailand", 15.9, 101.0],
+    ["Togo", 8.6, 0.8], ["Ukraine", 48.4, 31.2], ["Yemen", 15.6, 48.5]
+  ]
+}
