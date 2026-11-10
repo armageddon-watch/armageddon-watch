@@ -8,7 +8,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
-<link rel="stylesheet" href="css/style.css?v=5">
+<link rel="stylesheet" href="css/style.css?v=6">
 </head>
 <body>
 <header class="top">
@@ -54,9 +54,15 @@
     <div class="split split-map">
       <div class="col">
         <h2 class="side-h">World map</h2>
+        <div class="period" id="map-period" role="group" aria-label="Earthquake time period">
+          <button data-period="day" aria-pressed="false">24 hours</button>
+          <button data-period="week" aria-pressed="true">7 days</button>
+          <button data-period="month" aria-pressed="false">30 days</button>
+          <button data-period="year" aria-pressed="false">This year</button>
+        </div>
         <div class="map-legend small">
-          <span><i class="key key-war"></i>Armed conflict, 2025</span>
-          <span><i class="key key-quake"></i>Earthquake M4.5+, last 7 days (live)</span>
+          <span><i class="key key-quake"></i><span id="quake-legend">Earthquakes M4.5+, last 7 days (live)</span></span>
+          <span><i class="key key-war"></i>Armed conflict during 2025 (yearly data, not live)</span>
         </div>
         <div id="map" class="map" role="region" aria-label="World map of conflicts and recent earthquakes"></div>
         <p class="small muted" id="map-src"></p>
@@ -98,8 +104,8 @@
 </footer>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
-<script src="js/config.js?v=5"></script>
-<script src="js/charts.js?v=5"></script>
-<script src="js/app.js?v=5"></script>
+<script src="js/config.js?v=6"></script>
+<script src="js/charts.js?v=6"></script>
+<script src="js/app.js?v=6"></script>
 </body>
 </html>

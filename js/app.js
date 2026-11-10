@@ -144,13 +144,38 @@
       document.getElementById('map-src').innerHTML = esc(c.countries.length + ' countries. ' + c.note) + ' Sources: <a href="' + c.sourceUrl + '">' + esc(c.source) + '</a>, <a href="https://earthquake.usgs.gov/earthquakes/map/">USGS</a>, Natural Earth.';
     });
 
-    get('https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson').then(function (gj) {
-      gj.features.forEach(function (f) {
-        var p = f.properties, xy = f.geometry.coordinates;
-        L.circleMarker([xy[1], xy[0]], { pane: 'quakes', radius: Math.max(2.5, (p.mag - 4) * 3), color: '#7FB3D5', weight: 1, fillColor: '#7FB3D5', fillOpacity: 0.55 })
-          .bindPopup('<b>M' + p.mag.toFixed(1) + '</b> ' + esc(p.place || '') + '<br>' + new Date(p.time).toUTCString().slice(5, 22) + ' UTC<br><a href="' + p.url + '" target="_blank" rel="noopener">USGS details</a>').addTo(map);
+    /* Live earthquakes, switchable by period. The year view uses M6+ so the map stays readable. */
+    var feed = 'https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/';
+    var periods = {
+      day: { url: feed + '4.5_day.geojson', label: 'M4.5+, last 24 hours' },
+      week: { url: feed + '4.5_week.geojson', label: 'M4.5+, last 7 days' },
+      month: { url: feed + '4.5_month.geojson', label: 'M4.5+, last 30 days' },
+      year: { url: 'https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=6&starttime=' + new Date().getUTCFullYear() + '-01-01', label: 'M6+, this year so far' }
+    };
+    var quakeLayer = L.layerGroup().addTo(map), wanted = null;
+    var quakeText = document.getElementById('quake-legend');
+    function showQuakes(key) {
+      wanted = key;
+      document.querySelectorAll('#map-period button').forEach(function (b) { b.setAttribute('aria-pressed', String(b.dataset.period === key)); });
+      quakeText.textContent = 'Earthquakes ' + periods[key].label + ': loading…';
+      get(periods[key].url).then(function (gj) {
+        if (wanted !== key) return; /* a newer choice was made while this one loaded */
+        quakeLayer.clearLayers();
+        gj.features.forEach(function (f) {
+          var p = f.properties, xy = f.geometry.coordinates;
+          if (typeof p.mag !== 'number') return;
+          L.circleMarker([xy[1], xy[0]], { pane: 'quakes', radius: Math.max(2.5, (p.mag - 4) * 3), color: '#7FB3D5', weight: 1, fillColor: '#7FB3D5', fillOpacity: 0.55 })
+            .bindPopup('<b>M' + p.mag.toFixed(1) + '</b> ' + esc(p.place || '') + '<br>' + new Date(p.time).toUTCString().slice(5, 22) + ' UTC<br><a href="' + safeUrl(p.url) + '" target="_blank" rel="noopener">USGS details</a>').addTo(quakeLayer);
+        });
+        quakeText.textContent = 'Earthquakes ' + periods[key].label + ': ' + gj.features.length + ' (live)';
+      }).catch(function () {
+        if (wanted === key) quakeText.textContent = 'Earthquakes ' + periods[key].label + ': USGS feed unavailable right now';
       });
-    }).catch(function () { /* quakes layer simply stays empty if USGS is unreachable */ });
+    }
+    document.querySelectorAll('#map-period button').forEach(function (b) {
+      b.addEventListener('click', function () { showQuakes(b.dataset.period); });
+    });
+    showQuakes('week');
   }
 
   /* Same story, every region. data/story.json is written by the scheduled news pipeline (scripts/fetch_news.py).

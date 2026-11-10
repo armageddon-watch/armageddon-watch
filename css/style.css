@@ -97,6 +97,10 @@ a.sign:hover { border-color: var(--accent); color: var(--ink); }
 .big { font-size: 32px; font-weight: 700; margin: 2px 0; }
 
 /* Map */
+.period { display: inline-flex; border: 1px solid var(--line); border-radius: 10px; overflow: hidden; margin-top: 8px; max-width: 100%; }
+.period button { min-height: 40px; padding: 0 14px; border: 0; border-right: 1px solid var(--line); background: transparent; color: var(--muted); font: 500 13px Inter, sans-serif; cursor: pointer; }
+.period button:last-child { border-right: 0; }
+.period button[aria-pressed="true"] { background: #1E2433; color: var(--ink); box-shadow: inset 0 -2px 0 var(--accent); }
 .map { height: 340px; border: 1px solid var(--line); border-radius: 14px; margin-top: 10px; background: #0B0F19; }
 .map-legend { display: flex; flex-wrap: wrap; gap: 14px; color: var(--muted); margin-top: 8px; }
 .key { display: inline-block; width: 12px; height: 12px; border-radius: 50%; vertical-align: -1px; margin-right: 6px; }
