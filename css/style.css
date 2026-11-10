@@ -113,6 +113,9 @@ a.sign:hover { border-color: var(--accent); color: var(--ink); }
 .key { display: inline-block; width: 12px; height: 12px; border-radius: 50%; vertical-align: -1px; margin-right: 6px; }
 .key-war { background: rgba(229, 140, 106, .55); border: 1.5px solid #E58C6A; }
 .key-quake { background: rgba(127, 179, 213, .55); border: 1.5px solid #7FB3D5; }
+.key-unrest { background: rgba(201, 164, 232, .6); border: 1.5px solid #C9A4E8; border-radius: 2px; transform: rotate(45deg) scale(.85); }
+.unrest-mark { display: block; box-sizing: border-box; background: rgba(201, 164, 232, .55); border: 1.5px solid #C9A4E8; border-radius: 2px; transform: rotate(45deg) scale(.85); cursor: pointer; }
+.unrest-mark.has-riot { background: rgba(201, 164, 232, .9); border-color: #EDE6D6; }
 .leaflet-container { font: 13px Inter, system-ui, sans-serif; }
 .leaflet-popup-content-wrapper, .leaflet-popup-tip { background: var(--card); color: var(--ink); }
 .pop-meta { color: var(--muted); font-size: 12px; }

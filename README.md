@@ -70,3 +70,7 @@ Bump the `?v=` number on the `css/` and `js/` links in `index.html`, so browsers
 ## Fonts
 
 The header wordmark uses Cinzel (SIL Open Font License 1.1), hosted in `fonts/` with its licence file.
+
+## Map news layers
+
+Three more pipeline steps feed the map's click boxes: `scripts/fetch_quake_news.py` (headlines for the week's biggest quakes), `scripts/fetch_conflict_news.py` (conflict headlines per conflict country, last 48 hours) and `scripts/fetch_unrest_news.py` (countries with protest or riot headlines, last 24 hours). The unrest layer counts news coverage in English, not events, and keeps protests and riots separate.

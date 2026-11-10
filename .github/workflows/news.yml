@@ -1,6 +1,6 @@
 name: News pipeline
 
-# Fills data/story.json, data/quake_news.json and data/conflict_news.json.
+# Fills data/story.json, quake_news.json, conflict_news.json and unrest_news.json.
 # Only the AI framing summary needs a secret; everything else runs without one.
 on:
   schedule:
@@ -39,12 +39,15 @@ jobs:
       - name: Fetch conflict news for the map
         continue-on-error: true
         run: python3 scripts/fetch_conflict_news.py
+      - name: Fetch protest and riot news for the map
+        continue-on-error: true
+        run: python3 scripts/fetch_unrest_news.py
       - name: Commit data files if they changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           # Only the files this run actually wrote.
-          changed=$(git status --porcelain -- data/story.json data/quake_news.json data/conflict_news.json | awk '{print $2}')
+          changed=$(git status --porcelain -- data/story.json data/quake_news.json data/conflict_news.json data/unrest_news.json | awk '{print $2}')
           if [ -z "$changed" ]; then echo "No change."; exit 0; fi
           mkdir -p "$RUNNER_TEMP/out"
           for f in $changed; do cp "$f" "$RUNNER_TEMP/out/$(basename "$f")"; done

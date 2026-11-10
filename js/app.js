@@ -187,6 +187,34 @@
       return html + '<div class="pop-links"><a href="' + esc('https://news.google.com/search?q=' + encodeURIComponent(name + ' conflict')) + '" target="_blank" rel="noopener noreferrer">Search news</a></div>';
     }
 
+    /* Protests and riots in the news, collected by scripts/fetch_unrest_news.py. Diamond markers, so the layer
+       differs from the round quake and conflict dots by shape as well as colour. */
+    map.createPane('unrest').style.zIndex = 460;
+    (repo ? get('https://raw.githubusercontent.com/' + repo + '/main/data/unrest_news.json') : Promise.reject())
+      .catch(function () { return get('data/unrest_news.json'); })
+      .then(function (d) {
+        var names = Object.keys(d.countries);
+        names.forEach(function (name) {
+          var c = d.countries[name], total = c.protest + c.riot, size = Math.min(24, 12 + 2 * Math.sqrt(total));
+          var icon = L.divIcon({ className: '', iconSize: [size, size], html: '<span class="unrest-mark' + (c.riot ? ' has-riot' : '') + '" style="width:' + size + 'px;height:' + size + 'px"></span>' });
+          L.marker([c.lat, c.lon], { icon: icon, pane: 'unrest', keyboard: false })
+            .bindTooltip(esc(name) + ': protests or riots in the news. Click for headlines')
+            .bindPopup(function () {
+              var count = [];
+              if (c.protest) count.push(c.protest + (c.protest === 1 ? ' protest headline' : ' protest headlines'));
+              if (c.riot) count.push(c.riot + (c.riot === 1 ? ' riot or violent unrest headline' : ' riot or violent unrest headlines'));
+              return '<b>' + esc(name) + '</b><br><span class="pop-meta">' + esc(count.join(' · ')) + ', ' + esc(d.window) + '</span>' +
+                '<div class="pop-news"><b>In the news</b>' + c.headlines.map(function (h) {
+                  return '<a href="' + esc(safeUrl(h.url)) + '" target="_blank" rel="noopener noreferrer">' + esc(h.title) +
+                    ' <span class="pop-meta">' + (h.kind === 'riot' ? 'riot/unrest' : 'protest') + (h.source ? ' · ' + esc(h.source) : '') + '</span></a>';
+                }).join('') + '</div>' +
+                '<div class="pop-links"><a href="' + esc('https://news.google.com/search?q=' + encodeURIComponent(name + ' protest')) + '" target="_blank" rel="noopener noreferrer">Search news</a></div>';
+            }, { maxWidth: 300 }).addTo(map);
+        });
+        document.getElementById('unrest-legend').textContent = 'Protests and riots in the news, ' + d.window + ': ' + names.length + ' countries';
+      })
+      .catch(function () { document.getElementById('unrest-legend').textContent = 'Protests and riots in the news: no data yet'; });
+
     function quakePopup(f) {
       var p = f.properties, xy = f.geometry.coordinates;
       var html = '<b>M' + p.mag.toFixed(1) + '</b> ' + esc(p.place || '') +
