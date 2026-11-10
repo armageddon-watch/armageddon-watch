@@ -194,7 +194,9 @@
           '<p class="small muted">Filled automatically once the news pipeline runs. Headlines link to the original outlet.</p>';
       }
       document.getElementById('story').innerHTML = top + '<div class="regions">' + rows + '</div>' +
-        '<div class="ai-box"><b>How the framing differs</b> (AI summary of headlines only): not switched on yet.</div>';
+        (story && story.framing && story.framing.text
+          ? '<div class="ai-box"><b>How the framing differs</b><p class="ai-text">' + esc(story.framing.text) + '</p><span class="ai-note">Written by AI (' + esc(story.framing.model || 'Claude') + ') from the headlines above only. It can be wrong; check the sources.</span></div>'
+          : '<div class="ai-box"><b>How the framing differs</b> (AI summary of headlines only): not switched on yet.</div>');
     });
   }
 

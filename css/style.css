@@ -130,6 +130,8 @@ a.sign:hover { border-color: var(--accent); color: var(--ink); }
 .region-heads { grid-column: 2; display: flex; flex-direction: column; gap: 6px; }
 .headline { font-size: 13px; line-height: 1.4; color: var(--ink); text-decoration: underline; text-decoration-color: var(--line); text-underline-offset: 3px; overflow-wrap: anywhere; }
 .headline:hover { color: var(--accent); }
+.ai-text { color: var(--ink); font-size: 14px; margin: 6px 0; }
+.ai-note { font-size: 12px; }
 .ai-box { margin-top: 10px; border: 1px dashed var(--line); border-radius: 10px; padding: 10px; font-size: 13px; color: var(--muted); }
 
 /* Signup */

@@ -27,6 +27,9 @@ jobs:
       - uses: actions/checkout@v4
       - name: Fetch regional coverage
         run: python3 scripts/fetch_news.py
+        env:
+          # Optional. Without it the AI framing summary is skipped and everything else still runs.
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       - name: Commit story.json if it changed
         run: |
           git config user.name "github-actions[bot]"
