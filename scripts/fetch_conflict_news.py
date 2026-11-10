@@ -62,7 +62,10 @@ def headlines_for(name):
     url = "https://news.google.com/rss/search?" + urllib.parse.urlencode({"q": q, "hl": "en-GB", "gl": "GB", "ceid": "GB:en"})
     root = ET.fromstring(http_get(url))
     about, out, seen = pattern_for(name), [], set()
-    for it in root.iter("item"):
+    items = list(root.iter("item"))
+    if not items:
+        return None  # Google sent an empty feed: treat as "no answer", not as "no news"
+    for it in items:
         title = (it.findtext("title") or "").strip()
         src = it.find("source")
         source = (src.text or "").strip() if src is not None else ""
@@ -81,6 +84,10 @@ def headlines_for(name):
 
 def main():
     countries = [c[0] for c in json.loads((ROOT / "data" / "conflicts2025.json").read_text(encoding="utf-8"))["countries"]]
+    try:
+        previous = json.loads(OUT.read_text(encoding="utf-8")).get("countries", {})
+    except Exception:  # noqa: BLE001
+        previous = {}
     result, failures = {}, 0
     for name in countries:
         try:
@@ -91,6 +98,11 @@ def main():
             continue
         finally:
             time.sleep(2)
+        if heads is None:
+            print("%-26s empty feed, keeping previous" % name)
+            if name in previous:
+                result[name] = previous[name]
+            continue
         print("%-26s %d headlines" % (name, len(heads)))
         result[name] = {"headlines": heads}
     if failures > len(countries) // 2:

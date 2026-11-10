@@ -25,14 +25,15 @@ MAX_HEADLINES = 4
 
 SEARCHES = [
     "protest OR protests OR protesters when:1d",
-    "demonstration OR demonstrators OR rally OR marchers when:1d",
+    "demonstration OR demonstrators OR marchers when:1d",
     "riot OR riots OR rioters OR looting when:1d",
     '"tear gas" OR curfew OR "state of emergency" OR unrest when:1d',
 ]
 
-UNREST = re.compile(r"protest|demonstrat|\brall(y|ies)\b|\bmarch(ers|es|ed)\b|\bmarch (in|on|through|against|to|for)\b|riot|loot|unrest|clash|curfew|state of emergency|tear ?gas|uprising", re.I)
+UNREST = re.compile(r"protest|demonstrat|\bmarch(ers|es|ed)\b|\bmarch (in|on|through|against|to|for)\b|riot|loot|unrest|clash|curfew|state of emergency|tear ?gas|uprising", re.I)
 # "Rally" and "march" also mean share prices and motorsport; skip those unless the headline is clearly about unrest.
-NOT_UNREST = re.compile(r"stock|shares?\b|market|price|investor|bitcoin|crypto|\bbonds?\b|index|world rally|rally car|\bwrc\b", re.I)
+NOT_UNREST = re.compile(r"stock|shares?\b|market|price|investor|bitcoin|crypto|\bbonds?\b|index|futures|\bgold\b|dollar|nasdaq|riot (platforms|games)|data cent", re.I)
+NEVER = re.compile(r"riot (platforms|games|blockchain)|\bMW\b|data cent(er|re)", re.I)  # companies and products named Riot
 CLEARLY = re.compile(r"protest|demonstrat|riot|loot|unrest|tear ?gas|curfew", re.I)
 VIOLENT = re.compile(r"riot|loot|unrest|clash|curfew|state of emergency|tear ?gas|uprising|violen|torch|arson|burn|dead|kill|shot", re.I)
 
@@ -48,7 +49,7 @@ SKIP = {"Georgia", "Jordan", "Chad", "Guinea", "Dominica", "N. Cyprus", "Somalil
 # Extra ways headlines name a country. Patterns are case-insensitive unless marked (?-i:...).
 ALIASES = {
     "United States": r"(?-i:\bU\.?S\.?A?\b)|\bAmerican?s?\b|United States|\bWashington\b|\bMinneapolis\b|\bLos Angeles\b|\bChicago\b|\bNew York\b",
-    "United Kingdom": r"(?-i:\bUK\b)|\bBritain\b|\bBritish\b|\bEngland\b|\bScotland\b|\bWales\b|\bLondon\b|United Kingdom",
+    "United Kingdom": r"(?-i:\bUK\b)|\bBritain\b|\bBritish\b|\bEngland\b|\bScotland\b|\bWales\b|\bLondon\b|\bEdinburgh\b|\bGlasgow\b|\bManchester\b|\bBelfast\b|United Kingdom",
     "France": r"\bFrance\b|\bFrench\b|\bParis\b", "Germany": r"\bGerman[ys]?\b|\bBerlin\b", "Spain": r"\bSpain\b|\bSpanish\b|\bMadrid\b",
     "Italy": r"\bItal(y|ian)s?\b|\bRome\b", "Greece": r"\bGree(ce|k)s?\b|\bAthens\b", "Turkey": r"\bTurk(ey|ish)\b|\bTürkiye\b|\bIstanbul\b|\bAnkara\b",
     "Russia": r"\bRussian?s?\b|\bMoscow\b", "China": r"\bChin(a|ese)\b|\bBeijing\b|\bHong Kong\b", "India": r"\bIndian?s?\b(?! Ocean)|\bDelhi\b|\bMumbai\b",
@@ -98,8 +99,24 @@ def load_countries():
     return out
 
 
+CAUSE = re.compile(r"\b(pro|anti)[- ]\w+|Palestine Action", re.I)  # what a protest is about, not where it is
+
+
 def countries_in(title, countries):
-    """Countries a headline names (at most two). Matched words are blanked so a shorter name can't re-match them."""
+    """Countries a headline places the unrest in (at most two).
+
+    A country named after "in", "across" or "outside" wins: "Pro-Palestine protesters ... in Dublin" is Ireland.
+    Matched words are blanked so a shorter name can't re-match them.
+    """
+    title = CAUSE.sub(lambda m: " " * len(m.group(0)), title)
+    placed = []
+    for name, pattern, _ in countries:
+        for m in pattern.finditer(title):
+            if re.search(r"\b(in|across|outside|at)\s+(the\s+)?(\w+\s+)?$", title[:m.start()], re.I):
+                placed.append(name)
+                break
+    if placed:
+        return placed[:2]
     found, text = [], title
     for name, pattern, _ in countries:
         m = pattern.search(text)
@@ -132,7 +149,7 @@ def build(items, countries):
     result, seen = {}, set()
     for it in items:
         key = it["title"].lower()
-        if key in seen or not UNREST.search(it["title"]) or (NOT_UNREST.search(it["title"]) and not CLEARLY.search(it["title"])):
+        if key in seen or not UNREST.search(it["title"]) or NEVER.search(it["title"]) or (NOT_UNREST.search(it["title"]) and not CLEARLY.search(it["title"])):
             continue
         seen.add(key)
         kind = "riot" if VIOLENT.search(it["title"]) else "protest"
