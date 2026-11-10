@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T20:40:05Z",
+ "generated": "2026-11-10T20:48:57Z",
  "window": "last 24 hours",
  "source": "Google News",
  "topic": "War and conflict",
@@ -36,18 +36,18 @@
    "tone": null,
    "headlines": [
     {
-     "title": "Trump after meeting with Qatari PM says he believes war with Iran is militarily 'effectively over'",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOelU0dnZ5Y2ROMkdrZXlYYURIcnJocXdKbWx1eTlPcENLMk1vX3ctTC1ycGlfQ0dlemFiX2pHRzRvSkd4NTZ3aEdxU3h5OW5ZeUo3cU50YTVPODlxb2lZMVBwRFU4bXlmYlJiTmdHSHcxUUdQMFptNG43Y1hsanUzbTJHMHc5eTlVeVlz?oc=5",
-     "domain": "apnews.com"
-    },
-    {
      "title": "The Iran War Unexpectedly Drove Down Carbon Emissions This Year",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41YnJEdXJIUUJDd0FYYVVtUnVDZnBPSDhZQnBaRk93cFdRZEs3U0NKd2VWaVh2ODZwVVpURGhaWEJVbjdMY2llRkNuMW82dnA1cjQ1TkxobWZPQkRONE9NVzdEVlZHWjJTNU5sdFJ0ZElac2I1Rk8zOC1ILXdRQQ?oc=5",
      "domain": "nytimes.com"
     },
     {
-     "title": "Rubio's defense of Trump's Iran war draws sharp contrast with Vance's midterm blame",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaFBFNUNIQjYtQ2lGMXJlc1V1V2wyOC1nLXFLbDlZbElFMGJnMC1WSXVoMzltSkpKenJoc0pFUlBzS201RlZZNFgwOXlGam5GdHFUR1N1Y21BVDJjTUtHX1hmdjNfbGRBSUNLVHVRdHJxN3lJOWxhVFVJNlNWZjdJOFVPWXJRaEw1SGdldlgtbXRjbUxSM05CRTdwZmw0SnJFZEJyUVVCN2bSAa4BQVVfeXFMT09GNlZpZ05yRndqY3NHZEJCaF9YZ280S1pFNml5VTRwS0NuZWNiSFBmSVBZb0VCMjhaeVRXdzhKd3lRQWFJdEZFcnNEaGYzUi15dVVKbndSM3VJNXBvZl9naVJTOU9Hbm1uUWRvSnIzdUlyOGdrSGFxM2VlU2wzVEZqN01yTXNMRzNQU3VROFkxWi1vcGRDMGd0WmlfQW5TUWpWNTNCYWc5UTBQTXVn?oc=5",
+     "title": "Trump after meeting with Qatari PM says he believes war with Iran is militarily 'effectively over'",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOelU0dnZ5Y2ROMkdrZXlYYURIcnJocXdKbWx1eTlPcENLMk1vX3ctTC1ycGlfQ0dlemFiX2pHRzRvSkd4NTZ3aEdxU3h5OW5ZeUo3cU50YTVPODlxb2lZMVBwRFU4bXlmYlJiTmdHSHcxUUdQMFptNG43Y1hsanUzbTJHMHc5eTlVeVlz?oc=5",
+     "domain": "apnews.com"
+    },
+    {
+     "title": "Hegseth rips impeachment push from outgoing Republican as 'farce,' 'stunt'",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNzNqOGhtTmM5VVR5US1DV3RXMS1OX1dmQ0h1d1BFZGdMYjdWLTVQWTRQSVctN2tOaHhKRGV3OUlzSk42TjJpR2tDdjBrMXJVNW40V19lb08tLWxwM2pzRTV2RGRBUjkzZUNVMDBuSHFLcEhNSjhfZjQ5Q0IwOTRqbmp4azVILU1YTmZyMTNMWDloWE1aRnhNOFN30gGfAUFVX3lxTE9pWkpHUk9Hd3hRRTdMZVNXTzB2LTBhY2tBendLQy1CZjhObG1SVmdRMmVGYk1lUzBIdEVJYXZHbDNUSDZBM20wR0V2bzhSTmlkR2NPSkpaMVBGVHRQMTZzVE1TdXVXMHdyalVLc0ZYb0o2REticWlGZkY3QWQ4Tlh6NFlGWWtzdTVqZXNKM0F3ZWZhWnBnenNYWnAwREFpVQ?oc=5",
      "domain": "foxnews.com"
     }
    ],
@@ -79,7 +79,7 @@
   },
   {
    "name": "Russia",
-   "count": 27,
+   "count": 28,
    "capped": false,
    "tone": null,
    "headlines": [
@@ -103,7 +103,7 @@
   },
   {
    "name": "China",
-   "count": 30,
+   "count": 48,
    "capped": false,
    "tone": null,
    "headlines": [
