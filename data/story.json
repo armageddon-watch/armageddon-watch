@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T20:48:57Z",
+ "generated": "2026-11-10T20:57:16Z",
  "window": "last 24 hours",
  "source": "Google News",
  "topic": "War and conflict",
@@ -46,8 +46,8 @@
      "domain": "apnews.com"
     },
     {
-     "title": "Hegseth rips impeachment push from outgoing Republican as 'farce,' 'stunt'",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNzNqOGhtTmM5VVR5US1DV3RXMS1OX1dmQ0h1d1BFZGdMYjdWLTVQWTRQSVctN2tOaHhKRGV3OUlzSk42TjJpR2tDdjBrMXJVNW40V19lb08tLWxwM2pzRTV2RGRBUjkzZUNVMDBuSHFLcEhNSjhfZjQ5Q0IwOTRqbmp4azVILU1YTmZyMTNMWDloWE1aRnhNOFN30gGfAUFVX3lxTE9pWkpHUk9Hd3hRRTdMZVNXTzB2LTBhY2tBendLQy1CZjhObG1SVmdRMmVGYk1lUzBIdEVJYXZHbDNUSDZBM20wR0V2bzhSTmlkR2NPSkpaMVBGVHRQMTZzVE1TdXVXMHdyalVLc0ZYb0o2REticWlGZkY3QWQ4Tlh6NFlGWWtzdTVqZXNKM0F3ZWZhWnBnenNYWnAwREFpVQ?oc=5",
+     "title": "Trump's first Iran war escalation post-midterm losses seeks to choke off Tehran’s trade",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVHNYa19POGtkVEdEX0E1M2c1TWtBd1VSZzUzcGJoVVItMkw5WHNmTHUzQkVpQl9GbTZuRUEzRGlTeXNxMURlNVlXZjRWbld4UUdPeTVXOWlsOGVEajRJbVBZQzlGWlNCX0xPUlUyQTFpUUN3QUtmRHFjWWZEU19vZWVCNU0yTkFEejBjcnVlczlGWTRBUmpJNTlBUXg1b21hWmFCVTZJdFZGQ3VGcDBkbzc2UHQ5QdIBuwFBVV95cUxNSjVHek9yQzFBZUVXdmdpb0hhZUxEU0ZnNzlGeGhpVFloR19aVElnWGY0b2tlclRqY2h0VHljSHpqbExSVm81ekxMM2FSbDIxaFpRQ01udVIyak4waVhZQmswM0JBZVZlcDc4MVJ3SVJnUnBxRl9BYnhISl9rSXYxZjRSazBab1NMQVpMWlNJTFozQUpPOHp5czdkZ0tyMnVldlpSNlBlTExKcUFKMFYxSFVsYTNFLXFiSExZ?oc=5",
      "domain": "foxnews.com"
     }
    ],
@@ -79,7 +79,7 @@
   },
   {
    "name": "Russia",
-   "count": 28,
+   "count": 26,
    "capped": false,
    "tone": null,
    "headlines": [
@@ -103,7 +103,7 @@
   },
   {
    "name": "China",
-   "count": 48,
+   "count": 29,
    "capped": false,
    "tone": null,
    "headlines": [
@@ -205,5 +205,9 @@
    "headlines": [],
    "error": false
   }
- ]
+ ],
+ "framing": {
+  "text": "UK, US and European outlets emphasise Trump's statements about the war ending and its effects on oil prices and carbon emissions. Russia and China focus on diplomatic settlement prospects and economic impacts, with China highlighting EV export gains. The Middle East emphasises diplomatic talks and regional security concerns, whilst India stresses domestic political reactions. Africa has minimal coverage, and Latin America shows no coverage of this story.",
+  "model": "claude-haiku-4-5"
+ }
 }
