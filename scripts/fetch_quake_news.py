@@ -33,7 +33,7 @@ def place_terms(place):
     return re.sub(r"[^\w\s\-']", " ", core).strip()
 
 
-def headlines_for(place, when):
+def headlines_for(place, when, mag):
     q = "earthquake %s when:7d" % place_terms(place)
     url = "https://news.google.com/rss/search?" + urllib.parse.urlencode({"q": q, "hl": "en-GB", "gl": "GB", "ceid": "GB:en"})
     root = ET.fromstring(http_get(url))
@@ -51,6 +51,10 @@ def headlines_for(place, when):
             continue
         if published < when - timedelta(hours=1):
             continue  # written before this quake happened: about an older one
+        # A headline that states a magnitude must roughly match this quake, or it is about another one.
+        stated = [float(m) for m in re.findall(r"(?<![\d.])([2-9]\.\d)(?![\d.])", title)]
+        if stated and min(abs(x - mag) for x in stated) > 0.5:
+            continue
         key = title.lower()
         if not QUAKE_WORD.search(title) or key in seen or not link.startswith("https://"):
             continue
@@ -70,7 +74,7 @@ def main():
         p = f["properties"]
         when = datetime.fromtimestamp(p["time"] / 1000, tz=timezone.utc)
         try:
-            heads = headlines_for(p.get("place") or "", when)
+            heads = headlines_for(p.get("place") or "", when, p["mag"])
         except Exception as e:  # noqa: BLE001
             failures += 1
             print("failed %s: %s" % (f["id"], type(e).__name__))
