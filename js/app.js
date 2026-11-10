@@ -153,19 +153,48 @@
     }).catch(function () { /* quakes layer simply stays empty if USGS is unreachable */ });
   }
 
-  /* Same story, every region: layout mockup until the news pipeline fills it */
+  /* Same story, every region. data/story.json is written by the scheduled news pipeline (scripts/fetch_news.py).
+     It is read straight from the repo so a fresh run shows up without waiting for a site rebuild. */
   var storyLoaded = false;
+  function toneWord(t) { return t <= -5 ? 'very negative' : t <= -2 ? 'negative' : t < 2 ? 'neutral' : 'positive'; }
+  function safeUrl(u) { return /^https?:\/\//i.test(u) ? u : '#'; }
   function loadStory() {
     if (storyLoaded) return; storyLoaded = true;
-    get('data/outlets.json').then(function (d) {
+    var repo = (window.SITE_CONFIG || {}).dataRepo;
+    var live = (repo ? get('https://raw.githubusercontent.com/' + repo + '/main/data/story.json') : Promise.reject())
+      .catch(function () { return get('data/story.json'); })
+      .catch(function () { return null; });
+    Promise.all([get('data/outlets.json'), live]).then(function (res) {
+      var d = res[0], story = res[1], byName = {};
+      if (story) story.regions.forEach(function (r) { byName[r.name] = r; });
+      var maxCount = story ? Math.max.apply(null, story.regions.map(function (r) { return r.count; }).concat([1])) : 1;
+
       var rows = d.regions.map(function (r) {
         var outlets = r.outlets.map(function (o) { return esc(o[0]) + (o[1] ? '<span class="tag ' + o[1] + '">' + (o[1] === 'state' ? 'state-controlled' : 'public funding') + '</span>' : ''); }).join(', ');
-        return '<div class="region"><div class="region-name">' + esc(r.name) + '</div><div class="region-outlets">' + outlets + '</div>' +
-          '<div class="skel" aria-hidden="true"></div><div class="skel-line">Coverage volume, tone and top headline appear here</div></div>';
+        var head = '<div class="region"><div class="region-name">' + esc(r.name) + '</div><div class="region-outlets">' + outlets + '</div>';
+        var s = byName[r.name];
+        if (!story) return head + '<div class="skel" aria-hidden="true"></div><div class="skel-line">Coverage volume, tone and top headline appear here</div></div>';
+        if (!s || s.error) return head + '<div class="skel-line">No data on this run</div></div>';
+        var stat = (s.count + (s.capped ? '+' : '')) + (s.count === 1 ? ' article' : ' articles') +
+          (s.tone === null || s.tone === undefined ? '' : ' · tone ' + (s.tone > 0 ? '+' : '') + s.tone + ' (' + toneWord(s.tone) + ')');
+        var heads = s.headlines.length ? s.headlines.map(function (h) {
+          return '<a class="headline" href="' + esc(safeUrl(h.url)) + '" target="_blank" rel="noopener noreferrer">' + esc(h.title) + '</a>';
+        }).join('') : '<div class="skel-line">No coverage found from these outlets</div>';
+        return head + '<div class="vol" aria-hidden="true"><i style="width:' + Math.round(100 * s.count / maxCount) + '%"></i></div>' +
+          '<div class="region-stat">' + esc(stat) + '</div><div class="region-heads">' + heads + '</div></div>';
       }).join('');
-      document.getElementById('story').innerHTML = '<span class="badge">Layout preview</span>' +
-        '<p class="story-title">Today\'s top risk story</p><p class="small muted">Filled automatically once the news pipeline runs. Headlines link to the original outlet.</p><div class="regions">' + rows + '</div>' +
-        '<div class="ai-box"><b>How the framing differs</b> (AI summary of headlines only): appears here, clearly labelled.</div>';
+
+      var top;
+      if (story) {
+        var when = new Date(story.generated);
+        top = '<p class="story-title">Today\'s top risk story: ' + esc(story.topic) + (story.focus ? ' · ' + esc(story.focus) : '') + '</p>' +
+          '<p class="small muted">Coverage in the ' + esc(story.window) + ' from each region\'s outlets. Updated ' + esc(when.toUTCString().slice(5, 22)) + ' UTC. Data: ' + esc(story.source) + '. Headlines link to the original outlet.</p>';
+      } else {
+        top = '<span class="badge">Layout preview</span><p class="story-title">Today\'s top risk story</p>' +
+          '<p class="small muted">Filled automatically once the news pipeline runs. Headlines link to the original outlet.</p>';
+      }
+      document.getElementById('story').innerHTML = top + '<div class="regions">' + rows + '</div>' +
+        '<div class="ai-box"><b>How the framing differs</b> (AI summary of headlines only): not switched on yet.</div>';
     });
   }
 

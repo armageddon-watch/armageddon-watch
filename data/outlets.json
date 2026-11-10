@@ -1,14 +1,14 @@
 {
-  "_note": "The fixed outlet list behind 'Same story, five views'. Published so anyone can check the balance. Tags: 'state' = state-controlled, 'public' = public or state funding with editorial independence claimed.",
+  "_note": "The fixed outlet list behind 'Same story, every region'. Published so anyone can check the balance. Each outlet is [name, tag, web domain]. Tags: 'state' = state-controlled, 'public' = public or state funding with editorial independence claimed.",
   "regions": [
-    {"name": "UK", "outlets": [["BBC News", "public"], ["The Guardian", ""], ["Sky News", ""]]},
-    {"name": "US", "outlets": [["Associated Press", ""], ["New York Times", ""], ["Fox News", ""]]},
-    {"name": "Europe", "outlets": [["DW", "public"], ["France 24", "public"], ["Euronews", ""]]},
-    {"name": "Russia", "outlets": [["TASS", "state"], ["RT", "state"], ["Kommersant", ""]]},
-    {"name": "China", "outlets": [["Xinhua", "state"], ["CGTN", "state"], ["South China Morning Post", ""]]},
-    {"name": "Middle East", "outlets": [["Al Jazeera", "public"], ["Al Arabiya", ""], ["Times of Israel", ""]]},
-    {"name": "India", "outlets": [["The Hindu", ""], ["Times of India", ""], ["NDTV", ""]]},
-    {"name": "Africa", "outlets": [["News24", ""], ["Daily Nation", ""], ["Premium Times", ""]]},
-    {"name": "Latin America", "outlets": [["Folha de S.Paulo", ""], ["Clarín", ""], ["El Universal", ""]]}
+    {"name": "UK", "outlets": [["BBC News", "public", "bbc.co.uk"], ["The Guardian", "", "theguardian.com"], ["Sky News", "", "news.sky.com"]]},
+    {"name": "US", "outlets": [["Associated Press", "", "apnews.com"], ["New York Times", "", "nytimes.com"], ["Fox News", "", "foxnews.com"]]},
+    {"name": "Europe", "outlets": [["DW", "public", "dw.com"], ["France 24", "public", "france24.com"], ["Euronews", "", "euronews.com"]]},
+    {"name": "Russia", "outlets": [["TASS", "state", "tass.com"], ["RT", "state", "rt.com"], ["Kommersant", "", "kommersant.ru"]]},
+    {"name": "China", "outlets": [["Xinhua", "state", "news.cn"], ["CGTN", "state", "cgtn.com"], ["South China Morning Post", "", "scmp.com"]]},
+    {"name": "Middle East", "outlets": [["Al Jazeera", "public", "aljazeera.com"], ["Al Arabiya", "", "alarabiya.net"], ["Times of Israel", "", "timesofisrael.com"]]},
+    {"name": "India", "outlets": [["The Hindu", "", "thehindu.com"], ["Times of India", "", "timesofindia.indiatimes.com"], ["NDTV", "", "ndtv.com"]]},
+    {"name": "Africa", "outlets": [["News24", "", "news24.com"], ["Daily Nation", "", "nation.africa"], ["Premium Times", "", "premiumtimesng.com"]]},
+    {"name": "Latin America", "outlets": [["Folha de S.Paulo", "", "folha.uol.com.br"], ["Clarín", "", "clarin.com"], ["El Universal", "", "eluniversal.com.mx"]]}
   ]
 }

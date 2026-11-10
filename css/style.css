@@ -117,13 +117,19 @@ a.sign:hover { border-color: var(--accent); color: var(--ink); }
 .story { border: 1px solid var(--line); border-radius: 14px; padding: 14px; margin-top: 12px; }
 .badge { display: inline-block; font-size: 12px; font-weight: 600; color: var(--bg); background: var(--accent); border-radius: 999px; padding: 2px 8px; }
 .story-title { font-family: "Space Grotesk", Inter, sans-serif; font-size: 17px; font-weight: 600; margin: 8px 0 2px; }
-.region { border-top: 1px solid var(--line-soft); padding: 10px 0; display: grid; grid-template-columns: 96px minmax(0, 1fr); gap: 4px 10px; }
+.region { border-top: 1px solid var(--line-soft); padding: 10px 0; display: grid; align-content: start; grid-template-columns: 96px minmax(0, 1fr); gap: 4px 10px; }
 .region-name { font-weight: 600; font-size: 14px; }
 .region-outlets { font-size: 12px; color: var(--muted); }
 .tag { font-size: 10.5px; border: 1px solid var(--line); border-radius: 999px; padding: 0 6px; margin-left: 4px; white-space: nowrap; }
 .tag.state { color: var(--hot); border-color: #6A4A3E; }
 .skel { height: 8px; border-radius: 4px; background: repeating-linear-gradient(90deg, #232B3D 0 10px, #1B2232 10px 20px); grid-column: 2; }
 .skel-line { font-size: 13px; color: var(--muted); grid-column: 2; font-style: italic; }
+.vol { grid-column: 2; height: 8px; border-radius: 4px; background: var(--line-soft); overflow: hidden; }
+.vol i { display: block; height: 8px; min-width: 2px; background: var(--bar); border-radius: 4px; }
+.region-stat { grid-column: 2; font-size: 12px; color: var(--muted); }
+.region-heads { grid-column: 2; display: flex; flex-direction: column; gap: 6px; }
+.headline { font-size: 13px; line-height: 1.4; color: var(--ink); text-decoration: underline; text-decoration-color: var(--line); text-underline-offset: 3px; overflow-wrap: anywhere; }
+.headline:hover { color: var(--accent); }
 .ai-box { margin-top: 10px; border: 1px dashed var(--line); border-radius: 10px; padding: 10px; font-size: 13px; color: var(--muted); }
 
 /* Signup */
