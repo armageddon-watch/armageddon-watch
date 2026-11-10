@@ -273,34 +273,48 @@ def main():
     print("topic:", topic["label"])
 
     focus = None
-    try:
-        if use_gdelt:
+    if use_gdelt:
+        try:
             world = gdelt(or_group(topic["terms"]) + " sourcelang:english", "artlist", maxrecords=75, sort="hybridrel").get("articles", [])
             focus = find_focus([a.get("title", "") for a in world], topic)
-        else:
+        except Exception as e:  # noqa: BLE001
+            print("focus via GDELT failed:", type(e).__name__)
+    if focus is None:
+        try:
             focus = find_focus([i["title"] for i in google_rss(topic["terms"], None)], topic)
-    except Exception as e:  # noqa: BLE001
-        print("focus failed:", e)
+        except Exception as e:  # noqa: BLE001
+            print("focus via Google News failed:", type(e).__name__)
     print("focus:", focus)
 
-    regions, ok = [], 0
+    regions, ok, used, gdelt_fails = [], 0, set(), 0
     for r in outlets["regions"]:
         domains = [o[2] for o in r["outlets"] if len(o) > 2 and o[2]]
         entry = {"name": r["name"], "count": 0, "capped": False, "tone": None, "headlines": [], "error": False}
-        try:
-            if use_gdelt:
+        items = None
+        if use_gdelt:
+            try:
                 items, tone = region_gdelt(topic, focus, domains)
                 entry["tone"] = tone
                 entry["capped"] = len(items) >= 75
-            else:
+                used.add("GDELT")
+                gdelt_fails = 0
+            except Exception as e:  # noqa: BLE001
+                gdelt_fails += 1
+                print("region %s: GDELT failed (%s), using Google News" % (r["name"], type(e).__name__))
+                if gdelt_fails >= 2:
+                    use_gdelt = False  # stop waiting on GDELT for the rest of this run
+        if items is None:
+            try:
                 items = google_rss(topic["terms"], focus, domains)
                 entry["capped"] = len(items) >= 100
+                used.add("Google News")
+            except Exception as e:  # noqa: BLE001
+                entry["error"] = True
+                print("region %s failed: %s" % (r["name"], e))
+        if items is not None:
             entry["count"] = len(items)
             entry["headlines"] = clean(items)
             ok += 1
-        except Exception as e:  # noqa: BLE001
-            entry["error"] = True
-            print("region %s failed: %s" % (r["name"], e))
         print("%-14s %3d articles, tone %s" % (r["name"], entry["count"], entry["tone"]))
         regions.append(entry)
 
@@ -311,7 +325,7 @@ def main():
     story = {
         "generated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "window": "last 24 hours",
-        "source": "GDELT" if use_gdelt else "Google News",
+        "source": " and ".join(sorted(used)) or "none",
         "topic": topic["label"],
         "focus": focus,
         "regions": regions,
