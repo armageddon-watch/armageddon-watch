@@ -1,0 +1,61 @@
+{
+  "_howTo": "Edit 'status' by hand when an event has clearly happened: 'now', 'watching', 'occurred' or 'future'. Nothing changes this automatically.",
+  "events": [
+    {
+      "id": "signs",
+      "title": "The signs of the last days",
+      "refs": "Matthew 24:3-14 · Luke 21:10, 11 · 2 Timothy 3:1-5",
+      "status": "now",
+      "text": "Wars, food shortages, pestilences, earthquakes and lawlessness, all together. \"When you see all these things, know that he is near.\" (Matthew 24:33)"
+    },
+    {
+      "id": "kings",
+      "title": "The kings give their power to the beast",
+      "refs": "Revelation 17:12, 13, 17",
+      "status": "watching",
+      "wouldCount": "Nations together handing their authority to one international power.",
+      "watching": "International bodies gaining new powers, mandates or budgets."
+    },
+    {
+      "id": "peace",
+      "title": "\"Peace and security!\"",
+      "refs": "1 Thessalonians 5:3",
+      "status": "watching",
+      "wouldCount": "A notable, worldwide proclamation by the nations, not routine diplomatic wording.",
+      "watching": "Summit declarations and joint statements. Each candidate is reviewed by hand.",
+      "note": "Scripture ties it to sudden destruction but does not fix its exact place beside the next event."
+    },
+    {
+      "id": "harlot",
+      "title": "The harlot is destroyed",
+      "refs": "Revelation 17:16, 17 · Revelation 18:8 · Matthew 24:21, 22",
+      "status": "watching",
+      "wouldCount": "The political powers turn on religion worldwide. The great tribulation begins.",
+      "watching": "Government restrictions on religion, bans and seizures.",
+      "background": "Pew Research: 58 countries had high or very high government restrictions on religion in 2023. Global median score rose from 1.8 (2007) to 3.0 (2021)."
+    },
+    {
+      "id": "gog",
+      "title": "Gog of Magog attacks",
+      "refs": "Ezekiel 38:2, 8-16",
+      "status": "future",
+      "wouldCount": "Many nations come against a people living in peace, \"without walls\"."
+    },
+    {
+      "id": "armageddon",
+      "title": "Armageddon",
+      "refs": "Revelation 16:14, 16 · Revelation 19:11-21",
+      "status": "future"
+    }
+  ],
+  "signs": [
+    {"name": "Wars", "ref": "Matthew 24:6, 7", "history": "wars"},
+    {"name": "Food shortages", "ref": "Matthew 24:7", "history": "hunger"},
+    {"name": "Pestilences", "ref": "Luke 21:11", "data": "WHO outbreak notices (pipeline)"},
+    {"name": "Great earthquakes", "ref": "Luke 21:11", "history": "earthquakes"},
+    {"name": "Lawlessness", "ref": "Matthew 24:12", "data": "No reliable global series"},
+    {"name": "Hard times, hard people", "ref": "2 Timothy 3:1-5", "data": "Not measurable"},
+    {"name": "Scoffers", "ref": "2 Peter 3:3, 4", "data": "Not measurable"},
+    {"name": "Good news preached worldwide", "ref": "Matthew 24:14", "data": "Scripture only"}
+  ]
+}

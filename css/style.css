@@ -1,0 +1,99 @@
+:root {
+  --bg: #0F1420;
+  --card: #161C2A;
+  --line: #2E3850;
+  --line-soft: #232B3D;
+  --ink: #EDE6D6;
+  --muted: #9AA3B5;
+  --accent: #E0A33A;
+  --hot: #F2B8A0;
+  --calm: #B9D7C7;
+  --bar: #6B7A96;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font: 16px/1.5 Inter, system-ui, sans-serif;
+}
+a { color: var(--accent); }
+a:hover { color: #F2C46B; }
+h1, h2, .brand, .big, .ev-title { font-family: "Space Grotesk", Inter, sans-serif; }
+h1 { font-size: 26px; line-height: 1.2; font-weight: 600; margin: 0 0 6px; }
+h2 { font-size: 20px; font-weight: 600; margin: 32px 0 4px; }
+.muted { color: var(--muted); }
+.small { font-size: 13px; }
+p { margin: 0 0 12px; }
+
+.top {
+  position: sticky; top: 0; z-index: 5;
+  background: var(--bg);
+  border-bottom: 1px solid var(--line-soft);
+  padding: 14px 16px 12px;
+}
+.brand { font-weight: 700; font-size: 18px; margin-bottom: 10px; }
+.tabs { display: flex; gap: 8px; }
+.tab {
+  flex: 1; min-height: 44px; border-radius: 10px;
+  border: 1px solid var(--line); background: transparent;
+  color: var(--muted); font: 500 14px Inter, sans-serif; cursor: pointer;
+}
+.tab[aria-pressed="true"] { border-color: var(--accent); background: #1E2433; color: var(--ink); font-weight: 600; }
+
+main { max-width: 720px; margin: 0 auto; padding: 20px 16px 8px; }
+.intro { margin-bottom: 12px; }
+
+/* The road */
+.road { list-style: none; margin: 16px 0 0; padding: 0; }
+.ev { display: flex; gap: 14px; }
+.ev-rail { display: flex; flex-direction: column; align-items: center; width: 22px; flex: none; }
+.dot { width: 14px; height: 14px; border-radius: 50%; border: 2px solid var(--bar); margin-top: 4px; }
+.ev.now .dot { width: 22px; height: 22px; border: 3px solid var(--accent); margin-top: 0; }
+.ev.occurred .dot { background: var(--accent); border-color: var(--accent); }
+.ev.final .dot { border-radius: 3px; transform: rotate(45deg); }
+.rail-line { flex: 1; width: 0; border-left: 2px dashed #3A4560; margin-top: 4px; }
+.ev:last-child .rail-line { display: none; }
+.ev-body { flex: 1; padding-bottom: 22px; min-width: 0; }
+.ev-status { font-size: 12px; font-weight: 600; color: var(--muted); }
+.ev.now .ev-status { color: var(--bg); background: var(--accent); display: inline-block; padding: 2px 8px; border-radius: 999px; }
+.ev-title { font-size: 18px; font-weight: 600; margin: 4px 0 2px; }
+.ev-refs { font-size: 13px; color: var(--muted); margin-bottom: 6px; }
+.ev-text { font-size: 14px; margin: 4px 0 0; }
+.ev-text b { color: var(--muted); font-weight: 500; }
+.ev.watch-open .ev-box { border: 1px dashed var(--accent); border-radius: 12px; padding: 12px; }
+.ev-bg { margin-top: 8px; padding-top: 8px; border-top: 1px solid var(--line-soft); font-size: 13px; color: var(--muted); }
+
+/* Signs */
+.signs { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; margin-top: 12px; }
+.sign {
+  border: 1px solid var(--line); border-radius: 12px; padding: 12px;
+  background: transparent; color: var(--ink); text-align: left; font: inherit;
+  display: flex; flex-direction: column; gap: 4px; min-height: 104px;
+}
+a.sign { text-decoration: none; }
+a.sign:hover { border-color: var(--accent); color: var(--ink); }
+.sign-name { font-weight: 600; font-size: 14px; }
+.sign-ref { font-size: 12px; color: var(--muted); }
+.sign-state { font-size: 13px; margin-top: auto; }
+.hot { color: var(--hot); }
+.calm { color: var(--calm); }
+
+/* Charts */
+.chart-card { border: 1px solid var(--line); border-radius: 14px; padding: 14px; margin-top: 14px; scroll-margin-top: 120px; }
+.chart-title { font-family: "Space Grotesk", Inter, sans-serif; font-size: 17px; font-weight: 600; margin: 0 0 2px; }
+.chart-finding { font-size: 14px; margin: 0 0 8px; }
+.chart svg { display: block; width: 100%; height: auto; }
+.chart-src { font-size: 12px; color: var(--muted); margin-top: 6px; }
+.legend { display: flex; gap: 14px; flex-wrap: wrap; font-size: 12px; color: var(--muted); margin-bottom: 4px; }
+.legend i { display: inline-block; width: 14px; height: 3px; vertical-align: middle; margin-right: 6px; }
+
+/* Doomsday cards */
+.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 10px; margin-top: 12px; }
+.card { border: 1px solid var(--line); border-radius: 12px; padding: 14px; }
+.label { font-size: 13px; color: var(--muted); }
+.big { font-size: 32px; font-weight: 700; margin: 2px 0; }
+
+.verse { margin: 32px 0 16px; padding: 14px; border: 1px solid var(--line); border-radius: 12px; color: var(--muted); font-size: 14px; }
+.foot { max-width: 720px; margin: 0 auto; padding: 8px 16px 32px; }

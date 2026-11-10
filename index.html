@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Armageddon Watch</title>
+<meta name="description" content="World risks and the Bible's last-days signs, tracked against real data.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand">Armageddon Watch</div>
+  <nav class="tabs" aria-label="Sections">
+    <button class="tab" data-tab="doomsday" aria-pressed="false">Doomsday</button>
+    <button class="tab" data-tab="bible" aria-pressed="true">Bible last days</button>
+  </nav>
+</header>
+
+<main>
+  <section id="bible" class="panel">
+    <div class="intro">
+      <h1>Where are we in the prophecy?</h1>
+      <p class="muted">Events described in scripture, in order. A watched event is marked only once it has clearly happened.</p>
+    </div>
+    <ol class="road" id="road"></ol>
+
+    <h2>The signs today</h2>
+    <p class="muted">Each sign against its own history. Tap a sign with data to jump to its chart.</p>
+    <div class="signs" id="signs"></div>
+
+    <h2>50 years of history</h2>
+    <p class="muted">Real figures, so each sign can be judged against the past rather than against headlines.</p>
+    <div id="history"></div>
+
+    <blockquote class="verse">"Concerning that day and hour nobody knows." Matthew 24:36. This page shows order, never a countdown.</blockquote>
+  </section>
+
+  <section id="doomsday" class="panel" hidden>
+    <div class="intro">
+      <h1>World risk watch</h1>
+      <p class="muted">Live readings from public data feeds. The combined score arrives once the data pipeline is running.</p>
+    </div>
+    <div class="cards" id="live"></div>
+    <h2>Context</h2>
+    <div class="cards">
+      <div class="card"><div class="label">Doomsday Clock</div><div class="big">85 s</div><div class="muted small">to midnight, set January 2026. Bulletin of the Atomic Scientists</div></div>
+      <div class="card"><div class="label">Planetary boundaries</div><div class="big">7 of 9</div><div class="muted small">breached. Planetary Health Check 2025</div></div>
+    </div>
+  </section>
+</main>
+
+<footer class="foot muted small">
+  Data: USGS, NOAA SWPC, UCDP, PRIO, FAO, Our World in Data (CC BY), Pew Research Center. Headlines link to their sources.
+</footer>
+
+<script src="js/charts.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
