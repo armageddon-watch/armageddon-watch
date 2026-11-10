@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Armageddon Watch logo: a globe with a clock face near midnight">
+  <defs>
+    <mask id="outside-clock">
+      <rect width="64" height="64" fill="#fff"/>
+      <circle cx="32" cy="32" r="14"/>
+    </mask>
+  </defs>
+  <g fill="none" stroke="#E0A33A" stroke-width="3.5" stroke-linecap="round">
+    <circle cx="32" cy="32" r="27"/>
+    <g mask="url(#outside-clock)" stroke-width="2.8">
+      <path d="M32 5v54M5 32h54M8.9 18h46.2M8.9 46h46.2"/>
+      <ellipse cx="32" cy="32" rx="19.5" ry="27"/>
+    </g>
+    <circle cx="32" cy="32" r="14"/>
+    <path d="M41 32h2.5M20.5 32H23M32 41v2.5" stroke-width="3"/>
+    <path d="M32 32L30.9 21.6M32 32l-3.4-6.6" stroke-width="3"/>
+  </g>
+  <circle cx="32" cy="32" r="2.8" fill="#E0A33A"/>
+</svg>

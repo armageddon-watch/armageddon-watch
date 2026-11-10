@@ -34,7 +34,8 @@ p { margin: 0 0 12px; }
   padding: 14px 16px 12px;
 }
 .top-inner { max-width: 1200px; margin: 0 auto; }
-.brand { font-weight: 700; font-size: 18px; margin-bottom: 10px; }
+.brand { font-weight: 700; font-size: 18px; margin-bottom: 10px; display: flex; align-items: center; gap: 10px; }
+.brand img { display: block; }
 .tabs { display: flex; gap: 8px; }
 .tab {
   flex: 1; min-height: 44px; border-radius: 10px;
