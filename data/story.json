@@ -1,0 +1,209 @@
+{
+ "generated": "2026-11-10T20:40:05Z",
+ "window": "last 24 hours",
+ "source": "Google News",
+ "topic": "War and conflict",
+ "focus": "Iran",
+ "regions": [
+  {
+   "name": "UK",
+   "count": 100,
+   "capped": true,
+   "tone": null,
+   "headlines": [
+    {
+     "title": "Oil prices fall to lowest since August as Trump says Iran war is ‘effectively over’",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVmUxcnRYTG1rQzR0VFZuQW9uSXhBTExLd0stSVNWcFBIZE5aMi0wUnV1eWNFeFpvcFF1SFVvbjF6dDJfZXlQczlkUm92Z0xFYzUyLVlPWTE2d1pHeUhHYlNna0hEaEdBTmhkMU0xclNFRGhvWHZaY3V1WDgxcktaMVNyN3NsaUdTdlpjZ0c5X1pmSmtvd3dyNkdDUXF4ZEt0Slg4bDF3?oc=5",
+     "domain": "theguardian.com"
+    },
+    {
+     "title": "US-Iran war: Trump says more US attacks on Iran 'highly unlikely'",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jaFRKYWFVQWxWSVF0bDFUUG40V0RYMXZaelNOWTBfX3AyZmE3UkFhaHduOU4zaDJIakhUOEo2R1dFZFZyTmpXS3ZLYnlEbTM2U19QT25VQjVSRTYxNkE?oc=5",
+     "domain": "bbc.co.uk"
+    },
+    {
+     "title": "'Positive momentum' towards end to Iran war, Trump says",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY1lnQXd4UHRweTlsa3dNd2h6QWM3QkpxWFJqc28yQl9ETlg4MlAyejE2WS0ya0tLSU54NXNrcDJZaVRVWEJMWHFUNm5yTzZjb3YzME9DTElTS2V4ak5qaURNOW5pdWVsa0ZVZUIwc0lta1NtYUMtOG9yZndmTW1nS283blhyNmd3OElMdXF2R0VNdw?oc=5",
+     "domain": "news.sky.com"
+    }
+   ],
+   "error": false
+  },
+  {
+   "name": "US",
+   "count": 100,
+   "capped": true,
+   "tone": null,
+   "headlines": [
+    {
+     "title": "Trump after meeting with Qatari PM says he believes war with Iran is militarily 'effectively over'",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOelU0dnZ5Y2ROMkdrZXlYYURIcnJocXdKbWx1eTlPcENLMk1vX3ctTC1ycGlfQ0dlemFiX2pHRzRvSkd4NTZ3aEdxU3h5OW5ZeUo3cU50YTVPODlxb2lZMVBwRFU4bXlmYlJiTmdHSHcxUUdQMFptNG43Y1hsanUzbTJHMHc5eTlVeVlz?oc=5",
+     "domain": "apnews.com"
+    },
+    {
+     "title": "The Iran War Unexpectedly Drove Down Carbon Emissions This Year",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41YnJEdXJIUUJDd0FYYVVtUnVDZnBPSDhZQnBaRk93cFdRZEs3U0NKd2VWaVh2ODZwVVpURGhaWEJVbjdMY2llRkNuMW82dnA1cjQ1TkxobWZPQkRONE9NVzdEVlZHWjJTNU5sdFJ0ZElac2I1Rk8zOC1ILXdRQQ?oc=5",
+     "domain": "nytimes.com"
+    },
+    {
+     "title": "Rubio's defense of Trump's Iran war draws sharp contrast with Vance's midterm blame",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaFBFNUNIQjYtQ2lGMXJlc1V1V2wyOC1nLXFLbDlZbElFMGJnMC1WSXVoMzltSkpKenJoc0pFUlBzS201RlZZNFgwOXlGam5GdHFUR1N1Y21BVDJjTUtHX1hmdjNfbGRBSUNLVHVRdHJxN3lJOWxhVFVJNlNWZjdJOFVPWXJRaEw1SGdldlgtbXRjbUxSM05CRTdwZmw0SnJFZEJyUVVCN2bSAa4BQVVfeXFMT09GNlZpZ05yRndqY3NHZEJCaF9YZ280S1pFNml5VTRwS0NuZWNiSFBmSVBZb0VCMjhaeVRXdzhKd3lRQWFJdEZFcnNEaGYzUi15dVVKbndSM3VJNXBvZl9naVJTOU9Hbm1uUWRvSnIzdUlyOGdrSGFxM2VlU2wzVEZqN01yTXNMRzNQU3VROFkxWi1vcGRDMGd0WmlfQW5TUWpWNTNCYWc5UTBQTXVn?oc=5",
+     "domain": "foxnews.com"
+    }
+   ],
+   "error": false
+  },
+  {
+   "name": "Europe",
+   "count": 100,
+   "capped": true,
+   "tone": null,
+   "headlines": [
+    {
+     "title": "Trump says Iran war ‘effectively over’ as Tehran denies planned talks",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY3QtV19VWDdZRDFoV3RqUlhURWJMLVdacldKblllSXIyTlVHWERKZU1aMkNHcXJlV09kRllkZjEwVmxmTFdEeEhETmhhVGdSVGVXeUhlMUJzdzRIZEdqSEFtekdvWHNqTWs2MTdfMnRNcXJ5cldDOXRYdDVyNE1YM2NWTkFmRndxQjhMVmlEQkJzM21Tc3YxSEc3aURuemwtZkRlQVhR?oc=5",
+     "domain": "euronews.com"
+    },
+    {
+     "title": "Global emissions set to dip, driven by Iran war oil shock, study shows",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLTU2MVEyMGxnWkhpeWM4OUNacmkySkh3dm5kVHUxRWhGV3RiM0tDWk9FaHRKSWZyOXd0R2x2UklYY2R6MU9DdV95Y3IzQmwycDZReE5xQnVjWU9DZEQxZzZuZ0ZXVEdnVjZiMGRhRVYtTm5reU1VLUlZcHZ6b2NnTnhCeGd1NkJzQ0FvdldUYTdkWE9kQXVmRVRn0gGaAUFVX3lxTE1GMkJKdnZsRDctSTJQSnZUYWlPajN6bjVQRGpxcDE1aFM2T0Q2bXdNYjNUcnJtY3kwWXVnb0tmWjFmTHBlTHJPQlYwN2lFcDRQcFZBUDdDMFlmdFpTZnk5LVZ0UVlTQVpEZWdXX0lXUk5JNHZSSmRWV0NtY0FZOGQ1VHdFeHNpdmhlcW5BWmRlMjBnMTJlX3VZM3c?oc=5",
+     "domain": "dw.com"
+    },
+    {
+     "title": "Fossil fuel emissions set to fall for first time since Covid, research shows",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMUJrcEU0WGotTzAwQlRYdHRPUURNaWJsQlpRbWlUUF96NEFZVm9xc0lGWGdwSFhPZjhMWGN3SXA3MmlBLWx4RFRzMkRNTHJtTGRiaFpSYVZlcmNEZjhqWE5KMm5tMTJDbVBmVFlTbkdSTGdkcFJNSmtVVWsxWTBGQXJTTGVjQnNKNUl5RzYxT1hNWkl6dFEtU3JwZlVuUFNpR1NiYTI5TFdvRUNzMXpXekxMZ2hiU1VvZ1JpWjJ1ai1tdw?oc=5",
+     "domain": "france24.com"
+    }
+   ],
+   "error": false
+  },
+  {
+   "name": "Russia",
+   "count": 27,
+   "capped": false,
+   "tone": null,
+   "headlines": [
+    {
+     "title": "Qatar says US, Iran both still positive on diplomatic settlement",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE84VTRzTUstblBPancwZEp4TlREcE5kNzhSLTlpQVdiMGJ4OERzLVpWQVRwOFloNzFSLU1PajFNb0x4Q2pC0gFKQVVfeXFMTmgzYjE4MFZySmRwMnI3T1VlYXFnMkNBNzA3NUZ3ellRWThJdkUtR1ZrREJVNjlSYWFHakpvdm82ZGNHWnBHRXFnV3c?oc=5",
+     "domain": "tass.com"
+    },
+    {
+     "title": "Republican renews bid to impeach Hegseth after midterms",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PZndybmViQlpKM0R3SmtEWHZrZDROUklLeHEtV2VIZFgyRGljZURGUC0wOTB3NHNWbi1WWmdIUWk4WGN2Wllsa1gwZGEzZGhRdllmc1VHa2hiRHZmMERtQnJmMHNGZlBLRld3Zi1BMkPSAXtBVV95cUxQaFFLM3M1dUlQVlhmb2lZbHV4MGpNS2xLd1Vfa1BiTWwxb2ZYZEpJN29WZkEwZnBaX0ZySkNwd1dQVkNsRVVBdWR3d1R1X3lETjVhajlVeTl2YUVram56eEFUN1d2eHA4MUl6Z3Joc3REbFZMUmYtcmZGNWs?oc=5",
+     "domain": "rt.com"
+    },
+    {
+     "title": "LNG transportation via Hormuz reached peak in October since February 2026 — Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBZUXVxRklWS2xldlgzeGE3ZTBzXzE5ZGJqUFNzamM1WDZfMEZGamNCUVhjVjFicFgwamdjREhlR3hHYlZHR1V30gFMQVVfeXFMT0lYNS1wZmU2cm1JUVZNdkZKUTlkTDBaWVBGWmFqYk44eGtVdjdVNUZHMEtCLWc1cEw3T2V3WG5ENmx4RTZENjRSeUtubw?oc=5",
+     "domain": "tass.com"
+    }
+   ],
+   "error": false
+  },
+  {
+   "name": "China",
+   "count": 30,
+   "capped": false,
+   "tone": null,
+   "headlines": [
+    {
+     "title": "Trump says 'positive momentum' toward ending US-Iran conflict after talks with Qatari PM",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdk8yRWJKaFpDUllVU2tWSDJGeExVRFNOY2ZDWVE0SmN5SU9lcC1sWnJFR0REblNZdnFkdkZfLVNoSjFGemZTWTRneEVTRUIyVnJCUWJNbjR1dVItQ012Y2dfUlMxTl9nUFprcklncFRTOWp0MGhWLVJQLXNuNjVuWXFyY1E2S0pTRE1iWVpyb3J3dXN3ZGN6ZDdLWmY1dVBFV2JiVzhETldfTjlPSzY3QTBBNlpXTVE?oc=5",
+     "domain": "news.cgtn.com"
+    },
+    {
+     "title": "China’s EV exports surge 145% as Iran war drives up overseas demand",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeURRbmc3V2Ywc2xXMkJaenFsX25HeW41TFYzRG40bi1HdlVIaWZwVUhuUXVFQlZmOVZhWFFxSUtRTWxfUjNpa0t0MzJwaVl0U2dESm9menlzUEUtUVV0bG5zT0RzLUhBeFZXclNlY29hSEFfS2RQWTlyeTA0V3RjR0pac2dBRDFTRGdFTTgwUy1MTW5Fa0RtazNubGplN3VxSXRXS296V1Q5OFYyYWNyVTEtMGsxYk8tZmV5OWZjZUNkS0N3aUhVd0xGOFBvbGY0ZEliblFRZ1hya1F2eUprUA?oc=5",
+     "domain": "scmp.com"
+    },
+    {
+     "title": "Trump says \"positive momentum\" toward ending Iran war after talks with Qatari PM",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93eGFUcU43T2JPSmdzZ3hqc1lQalJQa3hGTkhJZElNRktyWlhybi1FVmN1NExCaUhiYjZCdy1ycFR5RnNOZHlYclctUnZreWhkeW9kdXpJVHFhb1gxNmg2VWVSTTRCbXVJaUVQeFlUdm5EbGVSS1p3dHVwM18?oc=5",
+     "domain": "english.news.cn"
+    }
+   ],
+   "error": false
+  },
+  {
+   "name": "Middle East",
+   "count": 100,
+   "capped": true,
+   "tone": null,
+   "headlines": [
+    {
+     "title": "‘Positive momentum’: Is the US war on Iran about to end?",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkxDMlpGamhRLTVyZGpBdE1zQkRrOHZvLXlrb1ZSWXNMdUhVNDNmaWNzX0lKQm5ncC1ZM01VZm1yb210NW15eG5DVWlaaDBPTFhldXBDRlFJdFFmMElHZWZpekFRb3ByMExFZHNuZ21HOXQ2Tjh4X3V6WVEwLUtlV3ZWS2JQVUFKbm5ISFc2Y2VCVUpKanppczZR0gGfAUFVX3lxTE1fYjdrZmtKMkhWNnF0UnNYZVpXMTNydmRLNVA1VkxpMlVSTkxnX0pfQUxLNzFoTDlHeWhWdzJpYmFRcFcyakJNRzVraUdpT0VpTURSR0VwZ256bTNxZVhMX2k1S2FUVTRObWFlTU04X2piLVNqc0FYSG11a3FPdkhBU2R0QlBEYkhLcEVHajhBRjQxbDBtSWxqblpISHZ2OA?oc=5",
+     "domain": "aljazeera.com"
+    },
+    {
+     "title": "US said to move planes from 2nd British base due to Iran threat; PM said lobbying Trump daily for war",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVFBaS1Y0YnJaMDUydGQ5SnVPYVNnUUZCWkVhNmJsN19teXROMW1xZjY4M05TWXk1QVZRSFNGN2ptdUxmQjd1RURmbFdqTnNlMlNOTzBreS1Ba18zVHlsTGhrRHZzVlhLazVmLWxZdXJWUklmLVlaaXQ1WFFPeDNaNENYUkVvR1BVcy1wVmxiSV9NNXFFUVNlcXVMMUJNQmxXX1lYOXlpb3hNcjZQYlc00gG0AUFVX3lxTE85V3NRN2R2NU1CbGpVdDAyaXc3ZUoyamhjeTA5eXpfSFVNVEdyVmcwVUkzR2hBOWItaDlqQ09fNjJaNDBCaFVCakhwNm02T08zOE8tV3ljRGNaS2NySnhMTXBEb2xGaDFXMWd0NlZkNkRsWGlETVJ4Vkk0MFFOWWtXN0VCT0JUSHVpZzhkMlAtYUxTNnJaUnRMNHBBNkwtRVF4TEFVdXZwWUl1UFJoVjhEcEZ3Yw?oc=5",
+     "domain": "timesofisrael.com"
+    },
+    {
+     "title": "Qatari PM joins Saudi, European ministers for Iran talks after meeting Trump",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSG00aHI3dDNhS2VaUnhyNUhOLUdSWVl2RG9HVFVoSURZZGwzTXVMRjltS1JNcnVlS1h1djk1QTJwSXhieERJVUdTdnZyc2RrVEg0WjJIQ2phTFlNc0M3STNvUXB6a0p0M2tkc09GdTNYSzZLYmU3M1pqVWdFdUs2VzdYSUppOU9kSDJhckl0SkpIT1NaY2FrN181dFl2U2ZvYzE3RHVuTzRiZVdnOUlIdFZMUVdHUTRZZXRVeVZTQWQyME1lUUJsTkV1ZnRiUdIB0wFBVV95cUxPU2J4Q19tTUVmUEtEOEV0WnR6emtrVXREclEtOC1uU0tHSXN1bjVQb2c0SGpEc3hZU3FQaEN2QmtJQVk0Tk4xSUVlOHhjSnA2U2EzbnFldnhfYU41NnREc2E3Qmg5cUxtd3k1NUVYb3M4eTFWby1UYkNCRmRnNFFlbGs5NGtVUjlOdENuV0hydU5YZVdCVFNRamRKOXFvN3RHVVdHZFNxUHRvdG41R2dpSklmWHNrV1oxSGJpT1k0cEllMVVaZHc0QmY4OTJiTXF1eUFz?oc=5",
+     "domain": "english.alarabiya.net"
+    }
+   ],
+   "error": false
+  },
+  {
+   "name": "India",
+   "count": 100,
+   "capped": true,
+   "tone": null,
+   "headlines": [
+    {
+     "title": "\"We Didn't Start Iran War\": Pete Hegseth's Defence Amid Impeachment Threat",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSGNDdzJIX3NzLTllNzU0UUZUMHFOY1VLeWNsRGlzS0RtNFFnMENHb2hmaWJ2M2pmekJ1R1NxUW5WajlTTkltOTZ3dWNKU1ZBNHhEMW5FRlM4RDQ3UmdaUlJoOG1DLU4wbFU3UVZId2czV0w5ZEdWYXRIMkdMY3ZUeWNxZk9aaUJISklxR3lHcU54S29USFVCX2pGNDNGUHJ3WE9OTXNYd2hlLUHSAbMBQVVfeXFMTnkyMko1OHV6M1JGUWx1M3lJMUtodkVuTnRIXzVxUmZqQmRHa0JOTFJSTk9wbG8yMVA5dDhIQ201ZEFWX1E1cGU3S25lZ2dHUllBdFZTTEdKcGw3MXNEcjZyc3I1bDB5MUFwRzYxWGpwMVdha2M4cHBLUzhYdWdpNFFiVGprQ1FlRFpiRHIzWDhmNTI3cy1aZ3MxSUtXUkloRl92VFNucVU0UUxBTkRwd1hHSGs?oc=5",
+     "domain": "ndtv.com"
+    },
+    {
+     "title": "Netanyahu's daily calls to Trump over Iran war spark pushback within White House: Report",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZmQyTGZoZ2pwM3RtVmFfRWh4a0xXcmQxZWtia1ZJVWFKZHN6LWIzaV82NDlzNW5MVmtQN21MdTVMUnVQTFQyS3hpWnlKZzdHQ1dGSjVjNDM5SmpUdkdnbzFCU3lWUF8zeGZzblJpR3dKYVNKTlZCQndzUHhhb2xvT1ExaGtMaDRzWHR5Y2xWSlY4Uk9FXzgxZFFaNDhSOVVMdXIwZDJJY2h1V1hiMUJPWVlORkh2TElvMVRaVHNvSlZ3dU5kOUx1ZFU5T1FqUmtmdDRtNDc0SGNQRXJzR09SNEtMUUpfUTRwRUZ4dVBB0gHzAUFVX3lxTE5MVjlZeWEwWW1WTDVFQWNqRGx0RUxKVExoMmNFMjFOdnEzX2RLbk9lcXdvVzdnZmltQ1ZaaF9YM1ozMHE2QVhpZU92X1pZMGpwRjl5eU0yeEdQVmNWcUZ6X3lzN0lWMmRHZTlJc3RHdU0zc0dxOHFTTWJpODZNY2l2ZE01YTZvTGp4SmYxa0xGMFFsU2oxQ2J0Qm5YWUFWYzFWWXQwVVpBVkkyRXFnVk9tc200TDYxS184bGRoeEhNbGFJUmt2WnRHaFdRdzgzcHBHWEZhRGM0MmdZUlpIemJNMUVQYm5qbTR4ZlpvUHIwRzVFQQ?oc=5",
+     "domain": "timesofindia.indiatimes.com"
+    },
+    {
+     "title": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+     "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5faDBiWWpLa3cyS3BWYU1RQ3BrQmt2b0d4dnp0ZjRvTWZPdndZeGNzdzV0OTF3OXlCa3A3akhB?oc=5",
+     "domain": "thehindu.com"
+    }
+   ],
+   "error": false
+  },
+  {
+   "name": "Africa",
+   "count": 5,
+   "capped": false,
+   "tone": null,
+   "headlines": [
+    {
+     "title": "Trump says Iran war ‘effectively over’",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRlpKckRYQnFqTzlYVEdYcUZ2M2dzMTA0V2hLRzJhR29leHJkTmhSUl9tdDdRQm83OGo5RmJJQlEzbGlPaFVYNE5MUVVlQVVnQ3ptTl92R3JEVzBUNTRXZ203SkNYczNGY3ZNZGlTVFBPcFpLVmd5N05WWHl2empyM25BX1oxWDV0bWoxU0Q3ZzI?oc=5",
+     "domain": "premiumtimesng.com"
+    },
+    {
+     "title": "Trump says he will hold off on fresh Iran strikes for now",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY1RxNEFrbktHY1JZN0I0OWNoZC1qMWVoM1Q3b2NtTGZ0dzVZUWdobEdhY1FzcUY1djEwVkg4enZibWVQX0xLUEFVSGdURTlOUlFxdzVsblJoSV9lN2x4MkQzdEk2YUtpZ19QQ09lMG5TM19hRThWWTVjcWNLeXFqV0pxRzdONm1yTmRlbzJvN0t2X0JZSE00NEVqTEVMQVNhMlE?oc=5",
+     "domain": "news24.com"
+    },
+    {
+     "title": "New twist in KTDA boardroom tussle as court reinstates CEO day after ouster",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQW53RW93SWNRQUlRRWxEOGRnNk1DWTRzcENaVzFZazJaZkxuX1dtT1Y5NUdyOU8tVVh0cW92YVVMZDl0Ul9ybkkybUVxWFExMG1faEZTam1pUjlWck5nNEhRSmF6OHl5dzhzcW9JLV9FajZVbnJjT05LWXNiVEtGUDIwTGpCWExJNW5LM3VhejFJV2prTUJPNG5LcVFWdUtOTE03Mlc0NVNOdlJSLThVTkRfN0V0M1VlRnc?oc=5",
+     "domain": "nation.africa"
+    }
+   ],
+   "error": false
+  },
+  {
+   "name": "Latin America",
+   "count": 0,
+   "capped": false,
+   "tone": null,
+   "headlines": [],
+   "error": false
+  }
+ ]
+}
