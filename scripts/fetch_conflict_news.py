@@ -22,6 +22,12 @@ OUT = ROOT / "data" / "conflict_news.json"
 MAX_HEADLINES = 4
 TERMS = "(war OR conflict OR fighting OR attack OR airstrike OR militants OR troops OR ceasefire)"
 
+# A headline must also be about fighting, not just mention the country.
+CONFLICT_WORD = re.compile(
+    r"\bwar\b|warfare|conflict|fight|attack|strike|militan|troop|ceasefire|truce|kill|rebel|jihad|clash|\barmy\b|"
+    r"drone|bomb|insurg|violen|shell(ed|ing)|soldier|militia|junta|\bcoup\b|gunm[ae]n|terror|hostage|missile|"
+    r"offensive|invasion|peace talks|massacre|displace|ambush|raid", re.I)
+
 # What to type into the search when the map name is not what newspapers write.
 SEARCH_AS = {"DR Congo": "DR Congo", "Congo": "Congo-Brazzaville", "Palestine": "Gaza", "Central African Republic": "Central African Republic"}
 
@@ -64,7 +70,7 @@ def headlines_for(name):
             title = title[: -len(" - " + source)]
         link = (it.findtext("link") or "").strip()
         key = title.lower()
-        if not about.search(title) or key in seen or not link.startswith("https://"):
+        if not about.search(title) or not CONFLICT_WORD.search(title) or key in seen or not link.startswith("https://"):
             continue
         seen.add(key)
         out.append({"title": re.sub(r"\s+", " ", title)[:200], "url": link, "source": source[:60]})
