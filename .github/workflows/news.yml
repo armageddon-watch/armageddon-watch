@@ -1,6 +1,7 @@
 name: News pipeline
 
-# Fills data/story.json for "Same story, every region". No secrets needed.
+# Fills data/story.json, data/quake_news.json and data/conflict_news.json.
+# Only the AI framing summary needs a secret; everything else runs without one.
 on:
   schedule:
     - cron: "17 */6 * * *"   # every 6 hours, at 17 minutes past
@@ -25,6 +26,8 @@ jobs:
     timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main   # always the newest scripts and data, not the commit that triggered the run
       - name: Fetch regional coverage
         run: python3 scripts/fetch_news.py
         env:
@@ -40,13 +43,22 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          for f in data/story.json data/quake_news.json data/conflict_news.json; do
-            if [ -f "$f" ]; then git add "$f"; fi
-          done
-          if git diff --cached --quiet; then
-            echo "No change."
-          else
+          # Only the files this run actually wrote.
+          changed=$(git status --porcelain -- data/story.json data/quake_news.json data/conflict_news.json | awk '{print $2}')
+          if [ -z "$changed" ]; then echo "No change."; exit 0; fi
+          mkdir -p "$RUNNER_TEMP/out"
+          for f in $changed; do cp "$f" "$RUNNER_TEMP/out/$(basename "$f")"; done
+          # Lay the new files over the latest main and push. If main moved meanwhile, start again from the new main.
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            for f in $changed; do cp "$RUNNER_TEMP/out/$(basename "$f")" "$f"; done
+            git add $changed
+            if git diff --cached --quiet; then echo "No change."; exit 0; fi
             git commit -m "Update news data"
-            git pull --rebase origin main
-            git push origin HEAD:main
-          fi
+            if git push origin HEAD:main; then exit 0; fi
+            echo "Push rejected (attempt $attempt); retrying."
+            sleep 5
+          done
+          echo "Could not push after 3 attempts."
+          exit 1
