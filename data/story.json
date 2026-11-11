@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T21:43:03Z",
+ "generated": "2026-11-11T06:30:33Z",
  "window": "last 24 hours",
  "source": "Google News",
  "topic": "War and conflict",
@@ -7,8 +7,8 @@
  "regions": [
   {
    "name": "UK",
-   "count": 100,
-   "capped": true,
+   "count": 70,
+   "capped": false,
    "tone": null,
    "headlines": [
     {
@@ -17,14 +17,14 @@
      "domain": "theguardian.com"
     },
     {
-     "title": "US-Iran war: Trump says more US attacks on Iran 'highly unlikely'",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jaFRKYWFVQWxWSVF0bDFUUG40V0RYMXZaelNOWTBfX3AyZmE3UkFhaHduOU4zaDJIakhUOEo2R1dFZFZyTmpXS3ZLYnlEbTM2U19QT25VQjVSRTYxNkE?oc=5",
-     "domain": "bbc.co.uk"
+     "title": "US aircraft moved from RAF Mildenhall over reported threat from Iran",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTG9GXzBSaVgyMDg0ck41ZEY5V2xqOFExR29IV1F4MElpdUJqb3VnWTFnRmFZTmVKVUkydmt0ZVBNN21aQ1BudkQySUdleVpsTi05LVcxYWNIZloxYndjdWVaSGYzTGlnZ2RGclFDSWY3WjJEYXhEY2IzMUNheEJFOWNXNnFGMUZBZFl4NDQzUG5CZk1LTnBvS2pRbUo2VjFPNDlZR3Qwdw?oc=5",
+     "domain": "news.sky.com"
     },
     {
-     "title": "'Positive momentum' towards end to Iran war, Trump says",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY1lnQXd4UHRweTlsa3dNd2h6QWM3QkpxWFJqc28yQl9ETlg4MlAyejE2WS0ya0tLSU54NXNrcDJZaVRVWEJMWHFUNm5yTzZjb3YzME9DTElTS2V4ak5qaURNOW5pdWVsa0ZVZUIwc0lta1NtYUMtOG9yZndmTW1nS283blhyNmd3OElMdXF2R0VNdw?oc=5",
-     "domain": "news.sky.com"
+     "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zWXpNOXZwdi1GdmRUV3VrYUdYZmxvYzJLaEh5NGlXNmNLSjE0X0x3eHVSRkVDNjRuczR3SjU0aFVRQzIzQWhNdDhURUg0YVpBTzlSXzJWRVZ1SDNXWWc?oc=5",
+     "domain": "bbc.co.uk"
     }
    ],
    "error": false
@@ -36,8 +36,8 @@
    "tone": null,
    "headlines": [
     {
-     "title": "The Iran War Unexpectedly Drove Down Carbon Emissions This Year",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41YnJEdXJIUUJDd0FYYVVtUnVDZnBPSDhZQnBaRk93cFdRZEs3U0NKd2VWaVh2ODZwVVpURGhaWEJVbjdMY2llRkNuMW82dnA1cjQ1TkxobWZPQkRONE9NVzdEVlZHWjJTNU5sdFJ0ZElac2I1Rk8zOC1ILXdRQQ?oc=5",
+     "title": "No Good Choices on Iran",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMFVWdTR1NV9jUHc1LTR5cUNwYjFTSTRXMlNxU1RGZk82WUE4a3d2OG1XODc4a1hkYWxZOWRYd2NGaWF1V2Q4cy01dmZYX2dTZDlNdzhqdXdQVjQyRWI5Y3ZINGRyenRDc05fMVE5ZHlMQjdjZmhwOVF2VjNZQnJmdzB3?oc=5",
      "domain": "nytimes.com"
     },
     {
@@ -46,8 +46,8 @@
      "domain": "foxnews.com"
     },
     {
-     "title": "Trump after meeting with Qatari PM says he believes war with Iran is militarily 'effectively over'",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOelU0dnZ5Y2ROMkdrZXlYYURIcnJocXdKbWx1eTlPcENLMk1vX3ctTC1ycGlfQ0dlemFiX2pHRzRvSkd4NTZ3aEdxU3h5OW5ZeUo3cU50YTVPODlxb2lZMVBwRFU4bXlmYlJiTmdHSHcxUUdQMFptNG43Y1hsanUzbTJHMHc5eTlVeVlz?oc=5",
+     "title": "Russia and Ukraine hold nearly 4 hours of US-mediated talks in Abu Dhabi",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWFsNkFITi02Z1V3NGtpMndYU1JJZ1RKOUNYWW9tbWJvcHRpdDAwNGJzQlg1bURIS2pzMXA0UWRNRF9WY25QM1ppRTR0T1lqRzNRSTlzanQyeUY2WC1uOFJWQ3Mwd3pyMVFQcl8zTkZZeERfSTJQQ0g4WXFlWmpvdlI5RzNFeDNnVUUtdnZsVURBN2JPMmpYSEJUa2pXOWM?oc=5",
      "domain": "apnews.com"
     }
    ],
@@ -65,21 +65,21 @@
      "domain": "euronews.com"
     },
     {
-     "title": "Global emissions set to dip, driven by Iran war oil shock, study shows",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLTU2MVEyMGxnWkhpeWM4OUNacmkySkh3dm5kVHUxRWhGV3RiM0tDWk9FaHRKSWZyOXd0R2x2UklYY2R6MU9DdV95Y3IzQmwycDZReE5xQnVjWU9DZEQxZzZuZ0ZXVEdnVjZiMGRhRVYtTm5reU1VLUlZcHZ6b2NnTnhCeGd1NkJzQ0FvdldUYTdkWE9kQXVmRVRn0gGaAUFVX3lxTE1GMkJKdnZsRDctSTJQSnZUYWlPajN6bjVQRGpxcDE1aFM2T0Q2bXdNYjNUcnJtY3kwWXVnb0tmWjFmTHBlTHJPQlYwN2lFcDRQcFZBUDdDMFlmdFpTZnk5LVZ0UVlTQVpEZWdXX0lXUk5JNHZSSmRWV0NtY0FZOGQ1VHdFeHNpdmhlcW5BWmRlMjBnMTJlX3VZM3c?oc=5",
-     "domain": "dw.com"
-    },
-    {
      "title": "Fossil fuel emissions set to fall for first time since Covid, research shows",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMUJrcEU0WGotTzAwQlRYdHRPUURNaWJsQlpRbWlUUF96NEFZVm9xc0lGWGdwSFhPZjhMWGN3SXA3MmlBLWx4RFRzMkRNTHJtTGRiaFpSYVZlcmNEZjhqWE5KMm5tMTJDbVBmVFlTbkdSTGdkcFJNSmtVVWsxWTBGQXJTTGVjQnNKNUl5RzYxT1hNWkl6dFEtU3JwZlVuUFNpR1NiYTI5TFdvRUNzMXpXekxMZ2hiU1VvZ1JpWjJ1ai1tdw?oc=5",
      "domain": "france24.com"
+    },
+    {
+     "title": "US charges 3 alleged Iranian operatives over plots targeting Jewish communities and a UK airbase",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVVZ1RkJXU0dRLVRjZ1N1dDVBeXE1djFjOXBwT3RUS3llNzhMUjNQSjdaa0ZqdE1SWHgtM2VUTXpybVVpV2ZDOElzTU1OMUNhalNteEEyVGxESEpxcktZTnI4azRtRkpFTUE4a0dhRFdHbk1nMmJPaG1HUWNCTzZpNVZHbW5IT1k2UGJnejVfUkVPSGlITUU4MXRsbGJ4QW1yQ0x5WlM5YUgyRkhnNnE1NGRfeU43cGQtMmdaT0QySi0yUkxNNkxJTNIByAFBVV95cUxNQjBkMVRvTjYxV0JEbDgyeHU0d0hNb2VqclV5RTBaX0Y2NnB1akhfajBPM0NzM1VaakpoZ3ZmZHdVN0pnYXdNU0NjYXMwOURQa1g0blFEeXpMQUJKQkJVQ0J6WHJuejhiTDMyQk13Z1Y5RmxBaFpzRWcweFQ1cEVUZFpZYkZ6akI1bU4xYS1sTWhRX29HV25GS0tUTUVlaC1ieGdOSmpYZGZKOW0xbjFtVEFiM2RkQS1WTjgyNC1BMGI5S1BEeHRTUw?oc=5",
+     "domain": "dw.com"
     }
    ],
    "error": false
   },
   {
    "name": "Russia",
-   "count": 25,
+   "count": 19,
    "capped": false,
    "tone": null,
    "headlines": [
@@ -89,8 +89,8 @@
      "domain": "tass.com"
     },
     {
-     "title": "Republican renews bid to impeach Hegseth after midterms",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PZndybmViQlpKM0R3SmtEWHZrZDROUklLeHEtV2VIZFgyRGljZURGUC0wOTB3NHNWbi1WWmdIUWk4WGN2Wllsa1gwZGEzZGhRdllmc1VHa2hiRHZmMERtQnJmMHNGZlBLRld3Zi1BMkPSAXtBVV95cUxQaFFLM3M1dUlQVlhmb2lZbHV4MGpNS2xLd1Vfa1BiTWwxb2ZYZEpJN29WZkEwZnBaX0ZySkNwd1dQVkNsRVVBdWR3d1R1X3lETjVhajlVeTl2YUVram56eEFUN1d2eHA4MUl6Z3Joc3REbFZMUmYtcmZGNWs?oc=5",
+     "title": "Trump and Netanyahu clash over Iran strikes – media",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qUFZGaWZaSFlYNHN2UjJjVzlpckh2dXNtZmIzU2V3NkRpV0hkVHFKWl9PV0xPTGxOeXFaNTdMSFljQWtqdnNRbGFzZTlzV3hzRm1vaXZLcEtMNko4TzNmMTE1TDk2eTFlOVVlS2tLMNIBekFVX3lxTE1DbjNuZF9EX1ZIT3BteDBHR3J2VExreEtHQkl4bmpfZTVqTnhyb3dsdi1hNFo2cVpJQVN5c3hXOERidE9yU3pSYnd0QVFhYndfZmlwSVQwNEtMNmJTQ2pYQndxWFFfN1VmbUlFdTEzM3FsS1NKTG5rMGJB?oc=5",
      "domain": "rt.com"
     },
     {
@@ -103,24 +103,24 @@
   },
   {
    "name": "China",
-   "count": 29,
+   "count": 26,
    "capped": false,
    "tone": null,
    "headlines": [
-    {
-     "title": "Trump says 'positive momentum' toward ending US-Iran conflict after talks with Qatari PM",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdk8yRWJKaFpDUllVU2tWSDJGeExVRFNOY2ZDWVE0SmN5SU9lcC1sWnJFR0REblNZdnFkdkZfLVNoSjFGemZTWTRneEVTRUIyVnJCUWJNbjR1dVItQ012Y2dfUlMxTl9nUFprcklncFRTOWp0MGhWLVJQLXNuNjVuWXFyY1E2S0pTRE1iWVpyb3J3dXN3ZGN6ZDdLWmY1dVBFV2JiVzhETldfTjlPSzY3QTBBNlpXTVE?oc=5",
-     "domain": "news.cgtn.com"
-    },
     {
      "title": "China’s EV exports surge 145% as Iran war drives up overseas demand",
      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeURRbmc3V2Ywc2xXMkJaenFsX25HeW41TFYzRG40bi1HdlVIaWZwVUhuUXVFQlZmOVZhWFFxSUtRTWxfUjNpa0t0MzJwaVl0U2dESm9menlzUEUtUVV0bG5zT0RzLUhBeFZXclNlY29hSEFfS2RQWTlyeTA0V3RjR0pac2dBRDFTRGdFTTgwUy1MTW5Fa0RtazNubGplN3VxSXRXS296V1Q5OFYyYWNyVTEtMGsxYk8tZmV5OWZjZUNkS0N3aUhVd0xGOFBvbGY0ZEliblFRZ1hya1F2eUprUA?oc=5",
      "domain": "scmp.com"
     },
     {
-     "title": "Trump says \"positive momentum\" toward ending Iran war after talks with Qatari PM",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93eGFUcU43T2JPSmdzZ3hqc1lQalJQa3hGTkhJZElNRktyWlhybi1FVmN1NExCaUhiYjZCdy1ycFR5RnNOZHlYclctUnZreWhkeW9kdXpJVHFhb1gxNmg2VWVSTTRCbXVJaUVQeFlUdm5EbGVSS1p3dHVwM18?oc=5",
+     "title": "Iran's IRGC unveils new missile base",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tYk1lbV9mVFdMWHdfT2E1bDA1VWJGMFQyNDJkUTJaRmdINU15LTR0Ty1NcjBqeXlyLXNlNjExSTNDc1pwQmg4NnAzY2JvMEt2VU10X2xXSW1LOVlBUnJJWEdjeHpFcUlKS3g2ODlub0QyZEZFUlhpY3BZSmU?oc=5",
      "domain": "english.news.cn"
+    },
+    {
+     "title": "Russia, Ukraine hold US-backed talks, first time since February",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSHpUU3ZlWDM0cnZTQTdFZXVkT0UtQ0lPMFdNYlFSc0xvbFBpZGQ0aEx1aW04UWJackZDTVc4QURzV0ZZc1NGUWNNd25taFNoVE1Fb3phR2JhVE9JVU5iY1gtN2hVX1p3dnRrYzMyWXpfenNPX2M1cG5WRFNrdC1lTkgtTWRMOTlqcWpBQzhLRjd3WENYR0VCYXktTThNRkVHRGZyaGhtbnBHczR2VXgtVXBMYmQzODFWb19IalhjcFjSAcABQVVfeXFMT0h6VFN2ZVgzNHJ2U0E3RWV1ZE9FLUNJTzBXTWJRUnNMb2xQaWRkNGhMdWltOFFiWnJGQ01XOEFEc1dGWXNTRlFjTXdubWhTaFRNRW96YUdiYVRPSVVOYmNYLTdoVV9ad3Z0a2MzMll6X3pzT19jNXBuVkRTa3QtZU5ILU1kTDk5anFqQUM4S0Y3d1hDWEdFQmF5LU04TUZFR0RmcmhobW5wR3M0dlV4LVVwTGJkMzgxVm9fSGpYY3BY?oc=5",
+     "domain": "amp.scmp.com"
     }
    ],
    "error": false
@@ -166,8 +166,8 @@
      "domain": "timesofindia.indiatimes.com"
     },
     {
-     "title": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-     "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5faDBiWWpLa3cyS3BWYU1RQ3BrQmt2b0d4dnp0ZjRvTWZPdndZeGNzdzV0OTF3OXlCa3A3akhB?oc=5",
+     "title": "Pranab Mukherjee hinted at desire to become PM, ‘shocked’ me, writes Sonia Gandhi",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRnR2VmxKUzcxU1M3SUVhYTF5Z1FfRTNFNnMwSnYzaEhVSzZDRk5KaGlOaDJweFF6S29SQnpMclFma3JqOUg4S0RuaGY3Zjd6VklDRGhZV25Td0hNaWw3aTZMc2x2VTlieG5rbVphU0pRNGg3OUNWMGpuRlZPN3RMYUtmbFdKMUZ1OGpJVHVHZDZtTzk3SjhSUTNXbVVPNW9BY2NmRHV4M3pvTk1pVG9mbVA3cWRWbUk0WUVJOXJnX2RYTjRKcU9kYTc4NTA3eURIRlHSAdgBQVVfeXFMUGFFZk5nRjBWVjRmRm5LZVVyRktjVk1xRmxNMDFVZGo5bWhIblM4bUpQVWVVYjJ5LXdRM2Fqc2lRUnM1MUJpVS1yREl5dW1Fb3U0d3VhMzlhMWtseFkzbFZIZVZ6bFJuRjhlZ2JWZ1I4X0FCR3J0eUVmWjRlcXk5UHdKdDdjWWFpMjBTTm01Y2tQdXduWldQS01adjRsM0ExVnNoM1M0N3BqSnczOTktczV2eUs5UEVyRFZxZ05iWEViWWFHY3U3YzBiWE1jXzhkOUpaUURPcHoy?oc=5",
      "domain": "thehindu.com"
     }
    ],
@@ -175,7 +175,7 @@
   },
   {
    "name": "Africa",
-   "count": 6,
+   "count": 13,
    "capped": false,
    "tone": null,
    "headlines": [
@@ -207,7 +207,7 @@
   }
  ],
  "framing": {
-  "text": "UK and US outlets emphasise Trump's statements declaring the Iran war militarily over, with UK coverage particularly focusing on oil price impacts. Europe highlights environmental consequences including carbon emissions reductions. Russia and China report diplomatic efforts through Qatar, whilst China additionally covers economic opportunities for EV exports. The Middle East stresses ongoing diplomatic negotiations and military positioning concerns. India focuses on domestic political reactions including impeachment threats. Africa and Latin America show minimal coverage, with Africa reporting only Trump's statements and Latin America having no articles.",
+  "text": "UK and US coverage emphasises Trump's statements that the Iran conflict is \"effectively over\" and security threats to American military installations, with US outlets additionally highlighting alleged Iranian plots against US targets. European media focuses on Trump's claims whilst noting Tehran's denial of planned negotiations. Russia and China report diplomatic settlement prospects and economic implications, including energy transportation and EV exports. Middle Eastern coverage stresses \"positive momentum\" toward ending the war and multilateral diplomatic efforts. India highlights domestic political reactions to the situation. Latin America and Africa show minimal engagement with this story.",
   "model": "claude-haiku-4-5"
  }
 }

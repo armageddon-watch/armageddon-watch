@@ -1,10 +1,15 @@
 {
- "generated": "2026-11-10T21:45:14Z",
+ "generated": "2026-11-11T06:32:46Z",
  "window": "last 48 hours",
  "source": "Google News",
  "countries": {
   "Afghanistan": {
    "headlines": [
+    {
+     "title": "Wendy Allison: 2002-2026, Iran and Afghanistan war-era",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ3NBX21fMmRLQ1JNWGVFaDdUb2kzX1hpSUFnNFBDdFlrR3ZFUUJhSWp0SUJCbzF6cW9kWEhJeXcwbnQ4YnZMdElIdmtkUXNjZ0xTMW45RERERUx0cFBXN05UYWdlY19XTk5ZVUlaRjRRVUNWbmdoUVZybzA2RjJrakZNOVBGMkpMQ1FYQw?oc=5",
+     "source": "SkyHiNews.com"
+    },
     {
      "title": "US Was Humiliated During Afghan Withdrawal, Says Trump's War Secretary",
      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nVVNYbTRKdy1CQ2xZbm43elNINlJnQlRzbGI4dWt2YWlWUU8wT0ZIQ0ZGQkVsOENpQkVJSUs3M0NBeS1EaWRJZUpCQ2pUMWc?oc=5",
@@ -19,11 +24,6 @@
      "title": "US officials revisit Afghanistan war failures",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnVy1uZnUtX0t0bWhDd0JkdzZTQUIwS2VBYnlleFJiQmR6TXhDTXJxSmt4Zng2ZzNGUWFWd0lWSVpyeHdJTnREWDRIY0JmSXRxNFZfd3NYMDJhdzlnZlRzY0VyS3FqeTN3MDBSeURMcHFwaVY3aHFNM0pMSmPSAYIBQVVfeXFMUGpxeVZQTk5QdHQ2bUMzMUhVM2l6LV8tQWpteTdmS25kUzQtc0ZTR0cwMV8tajB4ZUVHWWs2Q3JObFFLclpjUW5RcWRXdTdHSTg4ajU0UmYzMXVCMzIyUm5OaHRzVm5KZ2hmaFZDUmxOcjE1azk1MzlGRU5wM242UERHQQ?oc=5",
      "source": "Ariana News"
-    },
-    {
-     "title": "Former British Soldier Alleges UK Troops Killed Afghan Civilians",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xRHdpRW5oaHhMX3dVZ3FpNkNxVWowS0Q5ZURNYnl4eEVYMWRiV3h1bFV3X3BGUkJJTnpGU1VTZDRnQkhESDhBZkNDSDBNeWtDck1wTUl2Rk1mUEFkV3lVaFZRMA?oc=5",
-     "source": "TOLOnews"
     }
    ]
   },
@@ -50,30 +50,14 @@
      "source": "Defence Security Asia"
     },
     {
-     "title": "Thai army outlines security measures on Myanmar and Cambodia borders",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUzNPd1BoV2dfNkh1Y1VmNHpvckt5TTAzYldoTU1GVU12b0VMX2o5UGVUOVk0b1NlcFhDZVlMTnVsdG1qc3VUeFN2djh5UFVXRXZYbE56OFlkWXI0UkI0?oc=5",
-     "source": "Nation Thailand"
-    },
-    {
      "title": "Team K92 collects remains of three fallen soldiers in Cambodia",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbE5qdGtlRFp1WnBtbEY4a2NxQjZVNjNGOGdDY2RCUXRlX0NaVEVrNGtZMzhRaFV0MmsxS1F4UmZhNUtQSzlRckZwZ01aYUhXODNwcWo5N0dsN1FvdzRhOGdpMU9Zc3NkelpFMWljMG0xUmUxTFNPcExvLXU1MlNrSVo1ekZkRkxaRkw3R0xOR3YxY04wUEFsN2hWb2E1VkxHbnZmLVVrNTIxWUk?oc=5",
      "source": "en.qdnd.vn"
-    },
-    {
-     "title": "The Royal Crusade: How Sihanouk won Cambodia’s independence without a war of attrition",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdVJJUklpMWNjZklTbkRGTkVpSmpsbXFZQThaQjJZMU9MZXpvVDlVR3J0RE1uMG9NUjJPTXpGekIwWE5vZnBxSWJCSzU2c05ON0R0UVZfcVN3Z1JxclJiU1NsRDRETVpmeUtuYWtKRE4xNkdEY1FVLW9DSGlVVjdFOU1GOE5sZExaMkREbkhLbVE1TFhVS2F0aXJ0bW9BWC1RVFVORGVvcDMwMURZYnNVRU5GSzB1N0xQbkhWM3NWTnY1dw?oc=5",
-     "source": "Khmer Times"
     }
    ]
   },
   "Cameroon": {
-   "headlines": [
-    {
-     "title": "New video: Trans woman attacked in Cameroon",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLNzVWLWhrdWwwRThfbVRmYUdzZnNSQ2k0YWp5T2tSU0NuUXBsTHhyRkxteEJmQ0ZodlFVMHo5V3Y1TldTQW5Qb0lkYkxZcDVIdTlDYVNQOHFEaGM?oc=5",
-     "source": "Erasing 76 Crimes"
-    }
-   ]
+   "headlines": []
   },
   "Central African Republic": {
    "headlines": []
@@ -99,9 +83,9 @@
      "source": "Latest news from Azerbaijan"
     },
     {
-     "title": "Targeted by U.S., Armed Group Strikes Back in Colombia",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOWNEdXlRQ2U1M3Z2aVgzLXk0S1ZPLWRrUi1qVkVEdUhZel9XamI2ZEg1X2VOZ3ZOMTRQYkw3ZW9nWGYzd3IzVlg2U01vblFSVTFOMnpCRk9UN2FfUGgwRjlaam95YWNIeWtsNTk0cVBfLWxtTmFXUlMwUHc5aVpYcTBaemZmaG8?oc=5",
-     "source": "The New York Times"
+     "title": "Drone Attack Kills Three Soldiers at Colombian Army Base",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4waDFHem9nMDlWQl80MWhYamJzRlJzQk9mOXpUNVlKOVB6VFlRSnc3b1ZNRGhVUEdvMlg3T3NfUFpWd2hmWVJyVjBkY3UtTTdhWmNVTHgzZTJtUFBxNDV2Nm9TSVNJaWx2ZjJ1a01NRGJLNmRXSGdZdHV30gF_QVVfeXFMUGxPR19yTVdvQmxqU0pYbVl3cXdhVjN2MFRnTlJ6Q2dHZlM5bHpXaWcyMWdFaWNTclpFMFNCbC1ZTlBWamZCOGhCSlJQVzNiTUtvVjJBMWNTaDRMcU1XTnl6RXVuUzhTbEwxUjVuNkVyR1RrNXo3SnlvTDFubWp5RQ?oc=5",
+     "source": "The Defense Post"
     }
    ]
   },
@@ -121,96 +105,91 @@
      "source": "DW.com"
     },
     {
+     "title": "Why has DR Congo sentenced 66 soldiers to death amid intensifying fighting in its east?",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTHRjUjBqY0hlVm1XWXN1SWdLaDlUS1dFZkVpYmFfUzRIbVdHSVMzZ3l3ck40cjVRQVpaQlhFeDVxaktBNDBVNkRWTDcyUHY5T2hpM2UtWDJvRzk0OEF6Z1lQam1YdFhybnJGdFpNbkhabjlSQ3owcy1sbnBwcjR5TWM1NzlxU0VBU1NYZFlLRndVckNCZk1vbGpTZGR2X1U4SFc5VE5oazFGakE?oc=5",
+     "source": "Latest news from Azerbaijan"
+    },
+    {
      "title": "DR Congo sentences 66 soldiers to death for fleeing rebel fighting",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcUhOMm5mV2lFX1JLLTBXa0V3Sm94SHBwdnNUbkN1Q3pNUC1LdXRDOE1LaHpkaGc2aGp6THJNWHZwVWxQekRQZFpOMXhzZy1iMHpER2lrdHhlMHJCTXlIYWplVWlpckp6bXpWYUJBQTVfWTktd3dCRzV4R3M5R1NIcWpkRTA2MFlRUnRxQnllM3dhX25MQzVYaDluVXg1RmdBTkdCYnFkLVbSAa4BQVVfeXFMTWZMcFVSeUhIMkxtS1JwWUNRUzVFaHNCekJQWFdsTDVGNHVaakMwdXBrNlNsanNwTmRENFhTVHllRlJFeGhNcXQxaXdpTG5fSHk3eHJkRlZ4VV9FTzNSN3RnVXVhUVRsaGU5U3BDMUNMWkdrWjdHLTJQZkcwRHQ4dWJPY2I1WE14WWJHOEx4djN6aUphQ2hvUGxGaDBiNlV2dGdjNzVFVk45bVIxUkdn?oc=5",
      "source": "Africanews"
-    },
-    {
-     "title": "DR Congo conflict: Authorities sentence at least 66 Congolese soldiers to death for disobeying orders",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hWENNVUc2eUc4ajBIQlZ4aUF5RnF2TnJCVlFCY0RrNkhZbTBweGRlemxnbEY0ZTk0bl9CcnpFRTU2ZmdKSExyNzRMdnNnZlIzRjFoQ0dEMDV1YVlSV1HSAWNBVV95cUxQS1JVQ0YwOWdKbUs4QTlUWWFoSjZUbEhyRndCa1pvWnJPYW5KTHpoV0xqZnlwV3V6NkVnRHp4TzFJemFTcEpaYkxXNk9pVzFWaTZ0U2loXzBwMnFvYmNyamZzMmc?oc=5",
-     "source": "BBC"
     }
    ]
   },
   "Ethiopia": {
    "headlines": [
     {
-     "title": "More than 50,000 displaced by deadly Ethiopia border clashes",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNclROUWR4UFFvZno2XzBlejhOeHBIcDRaLVlHakljU2FBaWEtcmZ1dG1xVmFjcXNZMmpqU2k2RURxY0FSWEx0WHQ5dENqSG5ibFQ3SFJxNldJaVpmelUzX0pvSy1rdUh0aXFoN1A5Nk9nZ25fc2UwR2U1amFadjA0NUJKVXh5ZjhsLXd5d0ZsVEdKSFRVTm9vaFNERE5qYjVrWkHSAacBQVVfeXFMT3NTb1djUDg3OS00aEUxZ3N3dGl5UlZRaXV1QnBsWnVaVDBXU1NKbVpLOE1kd1lQRFR3T2tkT21JUFVsVTRtWDJXTHN1MW1Sa085VGhBZzZ0a3VaUXRSV3pHZlBjWjRSLWd0UktqRzVUbU9YNk1QTU1EZDRtVTdqWUh4Q2VuZmZDWm1wUm5PMmF0RF9vaUlDZ05HMmo5MU1aaWlxc3FhdXc?oc=5",
-     "source": "Al Jazeera"
+     "title": "Ethiopia War Security Review, November 10, 2026",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOekhIcU9zSHhaRmJPYUxFWjloZVZjR1FQX0piX0k1MmxBMHE4LWhCS2g2Z3AwZ3FNdFZjTWxWVWJDNlpzbDI3WFhGR0pfWXVmRl95WWt3cnFwQVQ5WGtVWm1hT0JnNGR1NGFIZWJwbWVRT0lmQlBNU29RQWJWZUFtM3VYTUIxWUxLN1RxZw?oc=5",
+     "source": "Critical Threats"
     },
     {
-     "title": "War updates from Amhara Region, Ethiopia – October 26th to November 1st, 2026",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeEVBSXJReVFTQ21xNGl2QWNLUW8yMVpXeFJDOEtBZlZnd29nQVY3aWJvUHhkR2poVnA5b1FBR2FlVTNLVDJnNkNsMGIzdWJKTjF1QnRJU0FMeWl3T0RhMmc4dTJPUDRBVU1IQjNqQmdkRm9IMVEyRFM3UTJLcXdBUWJfX25lV2FmdUxLaGlJZUxXTmkwQnhFcHhpc2tkRzRQWUZHT1VWcE00VEM2?oc=5",
-     "source": "Amhara Association of America"
+     "title": "Memorial wall set up in Ethiopia for fallen elite troops of Korean War",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRGF1S25QOUI1eUhKdWktc1dERGJoaWZiSlBhSXNNRmdZMWgwSnhvTnB5YXUtZjJ5RnFaM21MdkgtaGxtYUNGTUFBdmhNTG1qVXR1TnJyYlFMMGtmUkUzOGRFLUpTWkRKaEE4b2JBb3VlVjNzU0FoTTN2c2ZQcEtIU0poS21BQ3V5aVRSaW5RcXY0c0pkT01kS1lNWDNEaUtaVlp3UkhpLU0tQkJIU1c1YkxNMEJpUTJjb2lBdg?oc=5",
+     "source": "Korea JoongAng Daily"
     },
     {
-     "title": "Fleeing conflict in Ethiopia, LGBT refugees find violence in Kenya and S. Sudan",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeDlnWUpHeG9PMXdHN2hQQmhTeHNuNlRCSnU2bG5uY2RSQldOQjZBOHVpU1RHbkFyczcyVVNEbXRkWUdUcVJSZV8tQXJGVmpmdTRsd0ZBQ0JNMnFoeGRmSk1BY3pudEdHY0tPMWFBWUg4LVZSZHN1RGFkbENLLWR3Y1ZBQlVGaVA4VkZFbkhscndDSlpjbFJKZ213VEEzMTZtLXQ4aU80cnZPbVpvZmpr?oc=5",
-     "source": "Erasing 76 Crimes"
+     "title": "In northern Ethiopia, conflict pushes a strained healthcare system to the brink",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOEdEeXB1RDlfTW5uZ3hFM2l3TGtBVXduRHl2eWVuU3dIUzEwMlNtR0RpSVNBZUJTU1dwVkY1dF91WThIWGlra19UWHNjTHMxcDlLUWdsZ0xIb0MtdGdpSEg3U0NqTkJ1T2k1UjlPSGxESmp0MDUtUm9sa25xcmVoRDI3SUhNRU5wODk3X3pLb09PZmtVc2ZKWkZUWFRRRzFnME9sbW9nMjZMY21BNWVpOWhCMHlkdXV3Y3RVdUs1SFU?oc=5",
+     "source": "NPR"
     },
     {
-     "title": "More than 50,000 people have crossed into Kenya as fighting engulfs Ethiopia's divided border town of Moyale",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbTN0SzVrRnQ1Y3FTUEhERWs4RjNnV01UQWlYVDNtNnhkNTdSY241LXdjbnZlcWxXSkpUMVFEY2E3Nlo4U0RlcU0zY0E4Z1AxNV9yQ09GN2VoUTNraFFxcmZBTTFHVXdBZVVkd0FkSGpvYXloZUh0OEFRS1JlUEJzeFRqYw?oc=5",
-     "source": "Latin Times"
+     "title": "HD Construction Equipment, veterans ministry unveil Korean War memorial in Ethiopia",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVnhfeHRlZU9VclVWX0phVERHc2E3bUVKSHBHWjlvbG0wMVhvTlhObDJfSnl0OFdjOXdidUdsM2NwQW14NE1HaUFsZ2FrUDQtS25vQ1hJRjlwdDBqOHZhdU91V2d2NU9sdTgydDJFWUhsWGlLcV85aTBEOVRNV3AxejV4cVFoVFNnLTRoSXRTOUoyM050aW15NGVvRWs4c0FtcGVobXR0OUNHUU1yVUt4SUhZNDhzVlJ1aFVvcmlCbkJFOFM4anNKdC1nY3psR09HaVUzWNIB2gFBVV95cUxNZlNlZFNxR1owSjBXRzVYX0ptcjkzY3haSXUySldnWlRIWWx1VDBhTDkzaGZ0NnM3ZFlOZ2N4X1paM29VLUZ5Uno4a1Q0V1pUNEc1X1hoSXM3WmFudXBGeTdxQnFpOTE3Vlk5aGlxbmhpXzBGd1M2R1VlQUQ0Y3ptaFp1Z3gwRG9oQmJoeGkxREVocm9FRmV5RUJ2SmYwMGtodjRJYVJGRVNGdl9PNFlnUFo2MDdlYmJtZmJMOThVeXE1WXJpeTNLYi01R2R1TkxVRFlaQ2ZVWm9Vdw?oc=5",
+     "source": "The Korea Times"
     }
    ]
   },
   "Haiti": {
    "headlines": [
     {
-     "title": "Salvadoran troops target Haitian gang, leaving 20 dead",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLUhDRWNQcHR3cHFsckJLU0x1QnZBWS05ZHBRV2xLTG1MWkQzazNqQ1JRNzNEY2FaUEN6NkVJZ09ObVZ0ZUJsNmx2UGVCaW81b0pHWTdiNEVlSldRYzl5WmdCRmZZeVIyenVTX3FYVmZqdjd0OTZfTjQ1dkMxVmJXUTJkQUdsUVY5azl0MHJOQ0VFcFBLS0pYdFo1SXlrV0py0gGgAUFVX3lxTE8tSENFY1BwdHdwcWxyQktTTHVCdkFZLTlkcFFXbEtMbUxaRDNrM2pDUlE3M0RjYVpQQ3o2RUlnT05tVnRlQmw2bHZQZUJpbzVvSkdZN2I0RWVKV1FjOXlaZ0JGZll5UjJ6dVNfcVhWZmp2N3Q5Nl9ONDV2QzFWYldRMmRBR2xRVjlrOXQwck5DRUVwUEtLSlh0WjVJeWtXSnI?oc=5",
-     "source": "Al Jazeera"
-    },
-    {
-     "title": "Amnesty urges El Salvador to disclose terms of Haiti troop deployment",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTzM1SUxvakZDNV9scm9PYXg4bDVJOE5BZnI1dFlqZ3p5cG1oTVVFNHFWcTQ1N1c3enhQWGU5Ym5uNzd0NjBWbmlxU1ZsOHlaRnI3Qko5dFFzbXcyY3l2N3AxZl9faldvOUJlWXVpVkhEZGQ4QVY4T2o5MG9SRTdTSnQtMkJRdUU2cjdpYlVKY2dCZHJRUnNNTzgtS1ZXamR3WHpuRWhWU1FKYnVDQ0s2VjRiTHIwZw?oc=5",
+     "title": "Haiti PM praises Bukele after Salvadoran troops help destroy gang headquarters",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUklRMUtQcHNLWFNoZ05aSWlUbDBVQVNRSkZhejZvRUk0TjdTVnp3c0dvdlV2Y1FVWXU4V1JfMGVFWmt6SU9BVUNzSUxVQVBJXzhmd1lkbHNjYU54WlFQbDl3SV81WmhXRzFudTNjVHFqOXZtc1NaM1N2b29fUUhXN2dxUWV0WGRwTnNBdWRtS1UtU21HdUxMRldSQXhYdw?oc=5",
      "source": "France 24"
     },
     {
-     "title": "Scoop: El Salvador blasts U.S. State Dept. over Haiti gang war",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YdUhXT0Npekk4YjIwS2E4cGxSZmpLd0ZuQWxjNzNmb25hVks3QWxLSE5jUWtyZzM1cWxWamFHRHUxVVNzeHlwVFRJRmlxNmVBWWNwVWJ6c3FtemdlNHFvU1ozRldRdjE5UGZ6S0ozTi1sRTBVOGhjSlptZFRxUQ?oc=5",
-     "source": "Axios"
+     "title": "Salvadoran troops target Haitian gang, leaving 20 dead",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWm9UUEdJYm1TbFlWR0FfTzJ3WjdJb2NGM1JsaHBuVmN3bjR6emwyVTI1XzlLLXZUTW5XODhsYi1jd0I0MmYtbGd2dUR1RkduX3VjVUpDR3pLd21SWXJ2UVo3VmVfUEtJU0hIc3lNRHE2YkE3djFkME01RXJtd3ctVGdJZEFHQXdXVURpcEZud1NjTG1uWVBzV0RKNNIBoAFBVV95cUxPLUhDRWNQcHR3cHFsckJLU0x1QnZBWS05ZHBRV2xLTG1MWkQzazNqQ1JRNzNEY2FaUEN6NkVJZ09ObVZ0ZUJsNmx2UGVCaW81b0pHWTdiNEVlSldRYzl5WmdCRmZZeVIyenVTX3FYVmZqdjd0OTZfTjQ1dkMxVmJXUTJkQUdsUVY5azl0MHJOQ0VFcFBLS0pYdFo1SXlrV0py?oc=5",
+     "source": "Al Jazeera"
     },
     {
-     "title": "Conflicting reports emerge over strike on mansion linked to Haiti 400 Mawozo gang Leader",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPREJ4bWFYNGc3U2JqQ1AtUk5KVFNXQWE1OFN2TEhmb2F2ZUtkMzRPLXhlRUJYT2NrVDl1N3Eta0hxLUtRSEsycnhWN3dyMldVN2JreTlMTFBQRmwxMWQ1Qi0tVDVLSGI0VWRnZEdJQUVNZHRWLXNTX0VCZlRXNllmeW1Cc0JjX1VIMGlrUU4zNmlYV3VQ?oc=5",
-     "source": "The Haitian Times"
+     "title": "Dominican president says he backs Bukele and Salvadoran troops in Haiti",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVk4tT1dDS3poc0c3VzBFcHlfSnBjcm9SSnluSjRzbWI0SzZleGdfR184ZEUzRkxtbkYwY3d0U2FhZ25jME95SDRld0hBUXBnTVZnZU5qZUJ4d19neDNLMlR6dnRLTjNyT28zNl9TQ0hIT1JaaHg2Q3RiWVpURmlJSS1iWkxrS2JtdVVoS1BXTXJOSmpwU25GOXphLVU0Tk5qR2VMU1pFdVhrcVozN2Nj0gG0AUFVX3lxTE9acWhtM09fYW9WQUZtc3VNQ0RJNjBoN18zNGgyOXROVjA0QXVhaEoxT2JHcWZGTmQxVGFCVldFX1pKR25ZbzhLelRTNHF4MDBUdWRrVHRVdVF1WDJwTUlDN19TOTV0ZUV0US14Rk1WQkRDTm9VWnlNOVNrcXFYOUQtaE0wRGRxSTVoVHc2R3BPREc4Vk9JcUxfUTZtLTBFelFHZkVqcExZWlRscjNYTWtPTXU0TQ?oc=5",
+     "source": "ABC News - Breaking News, Latest News and Videos"
+    },
+    {
+     "title": "President Abinader says Dominican Republic is helping Salvadoran troops in Haiti — Korea Herald",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY1VUTkNlVDVxakZ1WFBzemJFb2c0NlQ5VGcxVUZEZUNEalMzS3ItbWtXN0dwb21zVjlCUWlSdmxkYmxfaGtRTktOYm43ZWV4Zll2RjRYTUxZZmkxcXhPUkloNm5yTWM4MVNxNkxJQVlSbkpHclRMUzhycVFUWmdYTDFoNGtJbDAwSmZBZDhpQ1cwUU5Ea1F4ck5kejg4WkhkNkM3cmtBcVhHUFRmWENTNzA2UQ?oc=5",
+     "source": "UA.NEWS"
     }
    ]
   },
   "India": {
    "headlines": [
     {
+     "title": "Russia-Ukraine peace talks in UAE: Is India emerging as a key player in ending the war?",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOalo1aGNTYWJzN0F1VW9iWWIteFB3UWtOUHRtUHpTbzJzYUVQbFdseENYN29EVXVKell2MVNvZHJTVmFLNFBoc1VDNm9PMmEtbld2Nlg2aTZYOVFjU0lRUjFocHhWcnFPS3dFWk1XUENaWGhOMjNNRWRBWm1uT1p0UncxNnBSM0RIYjlyMWk4ZVUtM2ZkVTEwM2ctMUFVdlRlX2toU1lIX2diNFV3SXlXNG54dXVtZi16TmfSAb8BQVVfeXFMUDJBYUFpQkNsa1NDeGhLc05uZWxfV3JRdllhOUhJNi1TUzktV1dFRkdUMVV0MGZvN1o2ZllXZkFkODlpWjNEc3ZuUkJCWkVJZ3JtOU5PZzRLb1VsZGp6c2dIZURnTmJINmFMWFZMQmtNc01lamFGSEh2OUpMTXdYOU01bjJVU0J6clNsWFFldGxxQ3pBY2xlRkxoSGo0Ti1zQzdZOF9aMDVsckFCM1J3TGZKV1NXMXgwcjhUekljcVk?oc=5",
+     "source": "Firstpost"
+    },
+    {
+     "title": "Third time’s the charm? What US-mediated Russia-Ukraine talks could yield, the role India can play",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRktNOXNwRXJuSFduOEZxRFdMYXBPSkMzU3lCQXQ3eFJtbHdpc0ZNeFo0YUFjRXNQMHBVQlVzMDFiRnEzRDdta3VBRy1tUHRkb2xrbjVLWjNBTS1KN0t3c1VRZlp1UW5waTZGcF90ZzlQUWFZUTBKa1B2bkNYM2hZdFJubkp3dmE2d2hZLVRwTDVGT3dIV1QwaVdrakZYSjJtUXoyMFFPNmdibVd2SjBKMUx2WknSAbsBQVVfeXFMUEZVN0cwX1QxVEpDVzFSY3M1Z1NCMnQ0d1NBNF9jeEVpZU82cEY5eVMwUF9CaHRObzBOTWp2cm5yLUdTc3FGeHNfRktLQ0VNLWxlUy1rYjRNS0pPODZDWk5ITDN1N0tmV2JCSkxmNUs1eEdlLXNZck12VnNoM1lrMnJnR3ZKV3BsVGswbmVqcmZuUnNUZjVMb2Z5SjcteXMyNjVVamlQdGFLamdQZ0FoOFdDaGRGZzlwZWRtTQ?oc=5",
+     "source": "The Indian Express"
+    },
+    {
+     "title": "India slams USCIRF over gurdwara attack claims",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUmU0MDBTR3Q3LVBrdTd5dVpVb0VjbjVkdlg1TGNXdlZLY2ZhUkFQaTRZUHhyY3RZMlJmT3pWdjYtUjN4bkN6Rld2TkVMUkxFUG9nZW1TVmRZZlZGckU5RThmZWY3ai0xeUJfd1JBbUdpc1FoSzc5WDZnVnZDNEhBZDRFONIBkAFBVV95cUxPM1Q4SVl1QlVqczRhN1BUT1lmemhmWEZrVnNpLTRKa1UyQlVFZDRtVzVSMWlweTh0TDFxdzJha1VFcmtnaXJIZURienN3QTItT3RDd2xyN3VPbjZDNGI0QVJWNGdUM29BUEcxOFN0ZmhzNlFrM25SRWx1MGpuS1otV0NwUXZNZEpnb3BjUmF3azg?oc=5",
+     "source": "Daily Pioneer"
+    },
+    {
      "title": "India reiterates safe passage through Hormuz amid rising attacks on commercial shipping",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWnJMelRfZWFuVHBuSXVOZmdqVVBHdlhIMlZsQlpOTHlZTWlkajluVWkwVzR5U0YxaGZwS1dvbjhKQTRRM0kwUEprNzB3c2tpc2xYZFc3M3VwMHF3WnhFTVVKbDMwRFJacEZKd3VuOFBxMm1TLV9hVm5BZGp1LXJTbDE0M3IwOFJTWHRNZ0ZyeGJqVEVhMmtXWWRhQVUwNnpZYmZodEdRdjVYcUdIWFdaY3dUMzBZNjNpYjRTMGFXUXlIX3lNNFdVU0N1ZEc4bWF5T2haLdIB4gFBVV95cUxPZjJDMWZJQlFlMTFDQ1FaT25MYUJNMDFQUjdkTUpkdmIzZGQ3YlBPODhOUzRfZER4Z0tWMTgyX1BNTGk4VjhNOE5iWUk4aU5wQWZLWjFuMEE2cTlXSXoyMWdMS3FQQmVDcWNEVDBsNEN5bkxreHFIbHBqcmhCZ3hJTmZtSVF1OGl6c2dRZVB0ajBEek5ha3ItRXZpbTJGRm03Z3Z5cU16c1N2TVRpVFdzLWp3NmlQSnNwLWZUeFRXQzhzcElqUE5tM0d4TEQ0djFXMlZnaC1zWjV6QzlYS1BCSzJn?oc=5",
      "source": "The New Indian Express"
-    },
-    {
-     "title": "'Political agenda': India slams USCIRF on Sikh gurdwara attack remarks",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWVU1WlVZcFdPVkFfUk9TaWx0aGZXbU93STlCTmJ6eVJuUzhvTjhTRWpNWXJZX3hnYW5kejM3V1RKTjJiMDBYV1FuNHB5UFN4NEpVclhMdjdNMVpYUkJGT2pjME1KdWtOaXJHMGs5SWdTRzhMZWh2amlMM0psOERGdkQ3QlZ5aTctRzd4Z2ZpZW5PTlU4Zl95QnZtS1JQRW8tTnBVekIzNTUyTld2ZV9Td2VTU2tvMVV10gG4AUFVX3lxTFBZVTVaVVlwV09WQV9ST1NpbHRoZldtT3dJOUJOYnp5Um5TOG9OOFNFak1ZcllfeGdhbmR6MzdXVEpOMmIwMFhXUW40cHlQU3g0SlVyWEx2N00xWlhSQkZPamMwTUp1a05pckcwazlJZ1NHOExlaHZqaUwzSmw4REZ2RDdCVnlpNy1HN3hnZmllbk9OVThmX3lCdm1LUlBFby1OcFV6QjM1NTJOV3ZlX1N3ZVNTa28xVXU?oc=5",
-     "source": "Rediff"
-    },
-    {
-     "title": "India reiterates stand on Russia-Ukraine conflict",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLVBNaHNIWHFZZHRLNjA5R1FKeE0yRkdKTlk4SUZMaDFyOTU4d3J4d2dMS3lxb1REaHNJYUFaUm5SLTVEQWM2UmpNWVM5cDhkQ21kc2hUa2lVbjZjNTJnT1BHekFIcmJiZ3dMYWd1RFZWNHltOVpnRzY2eENvZjB4Yg?oc=5",
-     "source": "News On AIR"
-    },
-    {
-     "title": "A formidable pace unit! India's attack can shine in South Africa during the 2027 ODI World Cup, feels Tinu Yohannan",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVm5VaHBqOEIwS0t1Z000UjRZRVNaejV1b3lUTExuU3FaYlJuRjhtTUFiX3MteURVMTlveHpqck1VZldlZUZuWGRzdUVkRy03d2FCSzl3VVQybUR1Q2ZPRklHTW5QQ1VBTElqMkN0aDhfTVRQVUtwaTdCdzlmeTlabFA4cTBDTS1RWHZn?oc=5",
-     "source": "Yahoo Sports"
     }
    ]
   },
   "Indonesia": {
    "headlines": [
-    {
-     "title": "Indonesia deploys thousands of troops after generals arrested over wiretapping allegations",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbEdjY2d1dk1pTVp5a1JQQ2Mzc1pkZFAteGRQM2pvWFUtV2hhSnA4UXJtQjVaVzlxZ2VyTkdQcklhR08wUUs4WUpRMWt4S0JjR3hob0tXbkFCYUJHMnhuWXpDcWdkTkVveHltZWluc0o1aGdGakl3cThubHZ1U1RaaTBMZkNMeEgteHcyaTZ1WmI0Vm1ta0pxVUtITHhMdGxxSXUxcXlUYTlmT3RoRXBRRm5CN0hoX29hVC0xVWJ0Y9IBxAFBVV95cUxPVGhoOWh2QUlYSWRJWUgzaEVDczNiSGgwQ0ZldXpiTkxTLU9fdDJEYkNVSE9kQzA2SEhObl9oVEhDa1QwbFVZWlNZa0c0UnlQSmYwOUNteVBYeF9GY0M3bGozZGRmelQxZDMzYmdvRUljWDR4WVMzdkNEdU1CcXZoRGVzUHVTV2NVRXNycy1uZDYxalNIMzZPY1hKOUphWlZuQWVPSTFBMjdqbUtORmhsVEtQMXNtYm94Y1E3Z0EtSEt3Z251?oc=5",
-     "source": "ABC News - Breaking News, Latest News and Videos"
-    },
     {
      "title": "The hidden sexual history of Dutch troops in Indonesia",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeFFMTU11RVE0SEEtT3RVYW9UUVBYMEZkN0owZThJMkt6VmIxTURFSWwxNGh4NXdUcXpGZ3J4ZHRCdm1yWHFjeEsyRldrMW0yY002TFhTN3RlQkFfR1hQd3lRVkRmYlllLTdIVzVqZnhwcFRyb3dZeFh3RTVQdWRzVVdqdXlqNHB4Zk12OWxfVzYxZ1hpdUpGRkNzYjREYnY3cFNEYmIxaw?oc=5",
@@ -218,23 +197,23 @@
     },
     {
      "title": "Helicopter fighting Indonesia forest fires crashes, killing 1",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYlE3bExhN1BGVGd2VUMtY3lnNUxvdWUtQzhHQXBaRTh2eWRQRkpCLUI4cTRuLXhuZVFXRGZPNXYxbHBKbFlUYnZGai01Y3pUNV8zMHVRdDBtU2IzUTYycFhuUzEzRk1LS2otam1hdm5yZ2oweldDLUMwSHBCWGlqU3ZfbVBsaUU5TXFubmtzOE5kX3gxellrU1VMbVZscXgzMVB6cWdkQ29qX3hvQXNqTDV3?oc=5",
-     "source": "AccuWeather"
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN0NWazJRVnZtM0dGVWZjRkRGelo1ZjhqUHdEY3NtUmdxRHFWb2c0UkJVdUYyS0ZMYlJrVFRwTG80MTdTeFRzZTBuMHRTMGY4enR1TkVkdlZGbG1ka2paZ1N6UjJUZWs5aXFkWEU1aFprNk5lODdBTTctTjNzakZVNFZXak9hNlk0eGFlUW01Zmx3RnVnYXB3SlhwODJxbjTSAaQBQVVfeXFMTTEzdU0xZzM3VjZ0blc2cnNnaGNlTHZ5RHNNXzA4V1dSTWpMLVZIOXg5YVlFcGdlUnNjYUlGN01pUGR1bFE2Q1QxV0tTc0hUOG5GalhPbXYwcW0zTkhMTUJjam1RSDB1MndSS2E2V0YxNGVtQVdzM0xaRTR1TFRoRzZUOWhPem9EbnRDQkQ1cG9WMDlmaG5CRk5vRDRpX2JVcGtWbks?oc=5",
+     "source": "upi"
     },
     {
-     "title": "Three survive helicopter plunge into river during Indonesia wildfire-fighting mission",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZUJaVUk0aV9KTDNVT2d1bW5ILU1wZnNjNjVzUjJITks1ODZyZS1mSUl2OEw1WldiMlduSE0yZVpsWXgyUWZJMlhKOWtDSG15VXVtWS1BVnFnT3hOUGJkeW9WeVlTcmhQZmlEeDVxTVlNWTRFM1JvSkJpbkJJR1ZUWGFQc2hKS0JLdVpFMWRoLW1PMC1JTVRMT3IyWmg0UklJNS1VNm5zRjFaQ2FUM3E1SEphTDBGMFRDaFM5UGhNeHNtZlpEa3NNODQtT2ZrU2Q2ZGfSAdcBQVVfeXFMT1lYMFdjcHVKMkNscFRPMVhvQ3dWbmFhcmZjRGpSZlNmOGJkWkdOTHhvTExWSDhWN21nWngwSFFkdXlDZFNXeEdCMGo0ZUtMSHJOX1pudnVCT0lhSUQ3TzI4S1B1WlAzS25CTXhnX2l6UzQxTHNuVTNTRGtROUdKNWpOQklTY3lfTjF3elpFZ2psQjh0bUtkd1gyN0l5akptYVdmSlg2eFlZR0V6bnpSVkJVN2FOSEo3cjlPa2c2M29WY2s1MlRNMTU1X2F6NG5RM2Q5VFJqbWM?oc=5",
-     "source": "Malay Mail"
+     "title": "Indonesia Urges Banks to Boost Cyber Defense as Global Attack Surges",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMmlPSkRmUEtPcWEwZmRFWVZtRUhCcWpZb0Y1M3RlaVJTUW5zX0IwQUxVV0hmVldjNlRjX0t4RTFuMWlSeDV2SGh6dlRCV1ZSTDRFWlJnanpsbEFzUnBCNEh6QTZWdDZHbzdiNXEtbzRnTkQ1S2NTeG5Yakd3aEo0ZnNXMlM0dkhmeExLZkl4OGIxSjF3SUR3NVlQQVk0bmlRS0Q0?oc=5",
+     "source": "Tempo.co English"
+    },
+    {
+     "title": "Indonesia urges banks to strengthen cyber defenses amid attack surge",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT1Jscm5WMGdVMFFKaHFHb2JrZ3FlRVBnSkc4bWltUmtmMENlSnZydjk0ODJ6XzRGRmNBb1ZqYVZGZVFCUlR4cnZSc3p2cVBObmpCVEMyeVJwZFNMamtaenlveURaWDhCSHZEeXFFeFhfYmFTTkdDRTV0U3BRRUxaNHgtdVJTaFc5eldna3dpaVhQVFVXVjZwVFJBMzd5LXMxbmhfLUJnX0wxQdIBrwFBVV95cUxOcWN2enJJSzJ1OEExazUtM2h4SVhkTC0wVVotTTQ2UTNfV1k2R1d1ZG55WEVkSEptQ1NHQnlBZ3VrTE1zUTc2YW5VaXpERUdVNUYwdUktWW00NmVBbjlZMGp6NjhBeGNlMWlzX3YyaWhZdG5NOXM5ZEZ3T3VlVkwyRWNheGhpMWJZazlCOW91VE9OMmJ3V3dGblVjVnp3bEFFVUVTNFlITmdQVzJUcnBF?oc=5",
+     "source": "ANTARA News"
     }
    ]
   },
   "Iran": {
    "headlines": [
-    {
-     "title": "‘Positive momentum’: Is the US war on Iran about to end?",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkxDMlpGamhRLTVyZGpBdE1zQkRrOHZvLXlrb1ZSWXNMdUhVNDNmaWNzX0lKQm5ncC1ZM01VZm1yb210NW15eG5DVWlaaDBPTFhldXBDRlFJdFFmMElHZWZpekFRb3ByMExFZHNuZ21HOXQ2Tjh4X3V6WVEwLUtlV3ZWS2JQVUFKbm5ISFc2Y2VCVUpKanppczZR0gGfAUFVX3lxTE1fYjdrZmtKMkhWNnF0UnNYZVpXMTNydmRLNVA1VkxpMlVSTkxnX0pfQUxLNzFoTDlHeWhWdzJpYmFRcFcyakJNRzVraUdpT0VpTURSR0VwZ256bTNxZVhMX2k1S2FUVTRObWFlTU04X2piLVNqc0FYSG11a3FPdkhBU2R0QlBEYkhLcEVHajhBRjQxbDBtSWxqblpISHZ2OA?oc=5",
-     "source": "Al Jazeera"
-    },
     {
      "title": "Iran war is over, says Trump, as US prises open Strait of Hormuz",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaWdMN09aRDBFTm9pVDQtdWFtbTdla1pjcE5JZ3lWT3dCWEZOSk96d2pCUWRnRl9IWHp5d09TakNtQUNUZlY5TDBGXzlDRnpUdXBJU3QtZlBwSGJJb1d4MFhWM1lvRTlzeWhabUtIbkNqV1FVM1Y2UlVyZXZuY0hDQ0hzMC1Cdkg3SC1fYVZCYklfc3RlSFI3bzlEbTlNN0tsRmRWQ0F6Zw?oc=5",
@@ -246,9 +225,14 @@
      "source": "The Guardian"
     },
     {
-     "title": "Trump says Iran war is ‘effectively over’ after midterms humiliation",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWVYteEFBMXhoclRMbkRZT0lFemxyeE9nYXdlcGExNm9iN1o4RDd4WmpPaDROZEhhRHVjbzVLcURWVko4am1fS1VPSGJRalRzbnhNZ1hKcW5fVWFvQTZIX1ZYZ2F5NzZvNDlIRWg4bllqS09naDZKenFmQ2J2QnNHMnFselRhRVJfUWFwXzlfZzZROTd4TzFfUTVJU0FfS1k?oc=5",
-     "source": "The Independent"
+     "title": "Oil rebounds as Hormuz shipping attacks blunt hopes for Iran truce",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUDdYdlFvTWpsUDJOZkVpN1RNYmM1RlIwZUxzSGhrazVnMTJ1el9lT2lpc08yc2VrUjdyR0tSWjJIRVRMdXh2cmJDam5yY2d1QURuUFdvQkh1ZWJDdHFXbmZCejViSHhTYnl6YU1uMmEtS1NIcFU1dmhPQVZpN2R5Ykc1OVBrUXVhemRVa01TblQ5THN6eDBlOXl3Nm5qTEtKRjNDeVVraW1hRjUwZjQyclBwd1hCTlZvNkdaVVdlUDc?oc=5",
+     "source": "Reuters"
+    },
+    {
+     "title": "Oil Is Stuck in Limbo, With No More Iran War But No Peace",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT2F5dklIUm9LbGw1WUJ6c2NKMEpZMkVGdnkzekZJUkVHWTFCWXdwdHpJbnVLQU5hRXY5V3dycEltY1p5VVpCWHBJM0JaUlktcVh6c3FKZWpHdXdqN0RLanVDc2VXVUc1dmN1aThRZjI4OUdEZ19KUm93Vm1wMklHRVFuMkhvemFGNnhrVTk4MkRraUhvT0hqVGRSRDhJdl9UYk9pTGxDc2hkVEg3cWRz?oc=5",
+     "source": "Bloomberg.com"
     }
    ]
   },
@@ -260,19 +244,19 @@
      "source": "Al Jazeera"
     },
     {
-     "title": "Suspected drone attack halts production at Khor Mor in Kurdistan Region of Iraq",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTGktV2s0RG1pREg0Ny1GUmp6d1ZhU3dpTzk3SHFzRFNjTUh2QUJZUGV5SFJhWmFNQ1VCcW1HU1loSExRYnFqOTVOalJUN2pWTTBFbXVYWmRMbUk2UDJKUk1iUGxLbGI3Qm56Sm94eGhONjltU0RmSll5YXF1NnpfXzNyd2VrZTZJLURiOWZwUU1UWFVNQUgwbVNJNnA5VUxuX0VlLUVDSGRhRzllVEYzWkFhWkFVWjFnVTFIazdR?oc=5",
-     "source": "World Oil"
-    },
-    {
      "title": "Attack targets Khor Mor gas field in Iraqi Kurdistan",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU053enBOY2J2NmlodFd0VE40ekFPaVZMbmx1b1dmaVBuOHN5VlZNWHlPb293SWoxbTJDWllZNWZPNHp3ZEVKbkl3SjdpaER3S0lZVmctZTh2N3JXUng5THlzRHB4QmJNR2RrVjM5TFh2VmVwWkhna2RyX0Vaam4xeVRNQjFCSUZIa2FnVE1mTEZEdzg2RU9lZkhzdWNoT0sxdU85aWdMMA?oc=5",
      "source": "FDD's Long War Journal"
     },
     {
      "title": "Hegseth isn't defending our military, he's 'defending his own a**': Iraq War Veteran",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zN0x3QTZfSGpGQUpEeXJYclN4RmhEUmFLX0VQNjE4WVVlM0RCYWpxTG4zN2ljX3lfTHp2ai1veE9xUGxNTnd6UHBlQnk5RDg2R3hGVER6VElJR1dJaWR30gFcQVVfeXFMUFJpamRaR3ZEblkybDk4bGQtRHlFY2c4c3MyLXBFSFRMWkQtRkNOTmM5SXl0b3hIdExFMzl4UUhWOE9qYTVkdUg2WnBSRFE5ZG1pQkhGZ2Nkc2pMQmk?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11UmlWbHVUaGw2OVBZQzdMczdfSkVWTUNtaUU5Y21LaVhsa2lGTjlpUDRVMzduOEdDbEZLb01DeHh0NE90QVhTTlhSMEt1NXQwa04xb1dKSE8xRW9jeGlV0gFcQVVfeXFMUFJpamRaR3ZEblkybDk4bGQtRHlFY2c4c3MyLXBFSFRMWkQtRkNOTmM5SXl0b3hIdExFMzl4UUhWOE9qYTVkdUg2WnBSRFE5ZG1pQkhGZ2Nkc2pMQmk?oc=5",
      "source": "Modern Ghana"
+    },
+    {
+     "title": "Trump warns Iraq's Zaidi he will target factions if they join Iran war: Reports",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaVl6OW5WS3MtcEdxUjgwYXNZQ3JPMjRzMUdLM1I0UjVVU24zSDRqTVFyV0NZX2pXcUdRLWZtU1BlYzFYTk9IQUdIOUVINDRkSTlkQmJwTFlaTnUzQVdKc0VrXzRNZ3FOa3F6RHlrd1FvX0Nsdy05MVVrOXEtT0gzX3AwQ3pDak42dzJ4UE40RWtHZVZQdkRTQm92QW5SOHlEZUFMVUJISWxoeEtpd0Z2WGRodURGcTNTOE5aMnR3?oc=5",
+     "source": "Türkiye Today"
     }
    ]
   },
@@ -284,18 +268,18 @@
      "source": "Al Jazeera"
     },
     {
-     "title": "Newly-elected Adam Hamawy on US support for Israel, war with Iran",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSXJWRWpPOGJrbk95T1dQSzlhZTVxZFRkQ1BNUHN5SDNxYXJqZGFWNERPbmoxMFh4azJOR0k1TVZpNFF0TW1RWFM0MkpuTmNBbnpQRGFDMU1QNDFjNlZsNEJuVTRBOVJhc1plbTUzWEJkX2MwTnV4YmZ5aDEzOFN2VFRQeXZTdklLNVA0VUh3VVlHdmNrRzFMVjZyV3ZDQQ?oc=5",
-     "source": "CNN"
+     "title": "Israel prepares for another war with Iran, warns next conflict could look very different",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YUndVLWVrMzlBbHpta0o4Z0s4MndjMFpHUWJ0WW9xZ1JKNHVsUWVaT1hXQldjNnBLSDlVLW1nN21mbVRxWGxUQlVocXo4cWpGTDJTMDhn?oc=5",
+     "source": "Ynetnews"
     },
     {
-     "title": "Of War and Failed Diplomacy: The Syria-Israel Conflict, 1967–2000",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSTYzWUJ1bUc0WGtoMWpZNmQzMDRWWUdLdloxWEtpZVlhQmpHVUtfY0NETFF1RGpIdHo3aXNfQXFXU2M1S0ZPU0hrX3hHV0hXUDNJQzNlZ05iTDBjUER3LTNRSjIyUmxSd0sxbGpNcTYzbFI5SHktN2c5eHVpV0NiUEg2bE9VamJybDZMSlo0cG55RUNXZ3AyRg?oc=5",
-     "source": "etos.media"
+     "title": "Analysis • After Trump's midterm blowout, Israel remains alone in pushing for war with Iran",
+     "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPU204VnJXelQwaU43eDliZFAyeWcyMUJNNC1BbVZvR0g1QzdBOWtGdy03R1BnZGxHNXd4eHZWYXBjZlM0UnpwUjhfU3JfaVBtcnhRYXNpN3d1LW5zVTlNcHhWTThUZVpsWlo1Wm94Vy1ZT1FzR09iWDhKRXhzUzhuUnRYclVYMjRVR1Y0UEhlRFlLTzlqeHpHMHpTQjRQVmRkamFTQXFPOU1rVVN6X3d6cnZXVm83emxIcms4RUFweXZjdkl1Y19rTWYwR2hVUzNZWTdUVDgwMjlKVlMyanJSMnBwNHFpR2pSNmlmUThHcTdRejloeElzNVU0bFdBSDZZVkxrWkJTMThVUHgtdjI4cWs5TWZER0l5X3BnVzRfOW5pbW9y?oc=5",
+     "source": "Haaretz"
     },
     {
-     "title": "Father, child among six Palestinians killed in Israeli attacks on Gaza",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ3FxRUpfdGZyZ3VEdDRIVDBLd3B0YmVrallzU0YtLVlKa2x0eVh4bURzSDhCWWdaM3N1WThmQkZvNmxuTDFIOG8tZElHTi1BX3hXelo3WWFPSVpGMnZNYXBpVmdHZ1RKZ3RnQ09GaDI3TjBIODVSUFlQWC1kZlp5TF8zQUItVXhOWXk5VE0wWEt3c0p6ZDdpWWRiOUcwNlQ5WXhzcWtfVllCSTl40gGyAUFVX3lxTFB3S1lpYlpBYU9RTzRtd0lNWEdhVGxzTkZINkhuZVRWZWdrQUp4a3UwUHlSWWlaRFh1MF9ZRmpqdE54a2FDamZLZVBsRHFGYU9GOGtJMGwxblI4V3JpZFRNSk1xeFJ5Z1h2cWhJb0ZkOERuM1c0M29ENWJvSVNqc3kyTndLQnVuMUJtMHZ3cUlQdVZMX3ZQVWtDSTgzZThpdzJkNS1YeVNnRmF3YjQ0dDRnYUE?oc=5",
+     "title": "Netanyahu fights to stay relevant as Israel’s opposition closes in",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc2FBejZiSUZtVmgxTXY1SVlrVXJLQzhfb0sxbUJNQkhSSm1tcTB0OWFIdDVqTWR0bkRHekFuLWYwS2JBUmN2bS1TdTl1YnB3QVZZc2YtWUNrZ0Q3Uml0dTloWjRIUzE5Y3R5bWV3b2lmWWlhWEVmaWc5OGRLUzF3RVpYUEdVamZ3ZGJITGI4M0JTVTVzR0IwbXZ5Yl9SazF6Ti1GZlk3SmJSWlnSAbABQVVfeXFMT0JxbEhaZk1MVjNvdGNXQzVnWUd1Rzd0bTcxdThmcWpWMkt5VDFxQTh5am4zUmxfV0h4WkFQSU5aNUlrT0Job25wTGpQTjR5UG9PSkdVNkV1bkVnYjZBZW4yNmpyc3otX2VsZTdrNzh2Zm5YZFluVU1kMjV0d1poWHZCSnd6ek4wblBaUnBpd1RFY1JlNGl3aHVqVTN4aDlTLVozRnhVa2E2RkFyaWpMcDk?oc=5",
      "source": "Al Jazeera"
     }
    ]
@@ -308,9 +292,9 @@
      "source": "Anadolu Ajansı"
     },
     {
-     "title": "Suspected Al-Shabaab militants kill 8 in Kenya ambush",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14Q3FZZTFkMDk2SnRlbGd6M0E0VFdHd1J5Rm9tb1RTNXdkYnhfWURFN1BHb2MzeUxOVF9MdHJKY3NoUVdBTFExYkJiSnZDWlZDd2JEQkVVS3VmRHRzWkhlVzZDRUpyQkFmUlhWZXVhQXBqbXFjeUZDSERELWZEZUE?oc=5",
-     "source": "Latest news from Azerbaijan"
+     "title": "Fleeing conflict in Ethiopia, LGBT refugees find violence in Kenya and S. Sudan",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeDlnWUpHeG9PMXdHN2hQQmhTeHNuNlRCSnU2bG5uY2RSQldOQjZBOHVpU1RHbkFyczcyVVNEbXRkWUdUcVJSZV8tQXJGVmpmdTRsd0ZBQ0JNMnFoeGRmSk1BY3pudEdHY0tPMWFBWUg4LVZSZHN1RGFkbENLLWR3Y1ZBQlVGaVA4VkZFbkhscndDSlpjbFJKZ213VEEzMTZtLXQ4aU80cnZPbVpvZmpr?oc=5",
+     "source": "Erasing 76 Crimes"
     },
     {
      "title": "Eight killed in Al-Shabaab attack near Kenya-Somalia border",
@@ -318,23 +302,23 @@
      "source": "Somali Guardian"
     },
     {
-     "title": "Fleeing conflict in Ethiopia, LGBT refugees find violence in Kenya and S. Sudan",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeDlnWUpHeG9PMXdHN2hQQmhTeHNuNlRCSnU2bG5uY2RSQldOQjZBOHVpU1RHbkFyczcyVVNEbXRkWUdUcVJSZV8tQXJGVmpmdTRsd0ZBQ0JNMnFoeGRmSk1BY3pudEdHY0tPMWFBWUg4LVZSZHN1RGFkbENLLWR3Y1ZBQlVGaVA4VkZFbkhscndDSlpjbFJKZ213VEEzMTZtLXQ4aU80cnZPbVpvZmpr?oc=5",
-     "source": "Erasing 76 Crimes"
+     "title": "How Communications Authority is fighting SIM swap fraud in Kenya",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa1A2ZWVWWTlWYy10eWdYS1pMMTd6c0dLU3B0bEdKalRwNmVwQnBSTVNETTVKX0M0b3VlQjJGZlBBcXhyeHQ0TlJ3dER3RFFyaF9OdVNqN0gycEhFQmFpWmpoVzVtV0JNa19FSUkzaFVvZjFZUWZyYV9ibnZ0Mi1GNXJyU1JTeGZoWUM2NW9QR0ZMS3QzZmdCWFJ5dW5qZw?oc=5",
+     "source": "People Daily"
     }
    ]
   },
   "Lebanon": {
    "headlines": [
     {
+     "title": "Iran war: Israel says it will hold talks with Lebanon 'soon'",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQkFsc0w2YTNGYVdwVUNlMnF5VVJtV21XS0FZWEQ0MGU4ejVpcTJfd2NNOEZfRDNtaTNSSWFvSlpZQlQ2SHhzYzdOdEFIbFdIc2hqUk85SHQxdG02ckJxX3U5QjhNMTJZWDh5WVdrM2F0a3V3OHRXNlpZaE0yamg3Y0RrbVRaTkFYMmRYV05lZjdHVHdzVnFYVg?oc=5",
+     "source": "DW.com"
+    },
+    {
      "title": "Oil Falls After Lebanon and Israel Agree to Ceasefire",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWdNNFhOakNzanM4OEJDMDJ0SnFnYTNzb2hjV3VjVzdua0VXWS1maXZqNnBOX0h3WEdwb2I4NGRDSllZMlBjalQ2OE95NDFKUGdDWGZjbWNNX0tPaVN1OVRMWVlWNlB1OURmRS1Nc2tEc0JDV1Z3b25aRm5WeGlsYmlhR19DaGxGUC0wSA?oc=5",
      "source": "EnergyNow.com"
-    },
-    {
-     "title": "Lebanon awaits impact of US, Israeli elections on stalled talks",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM1B3UV82NlRvb25uaGhCWkYxc3NhSUQtNmJyRXlIeDFuQTBMdV9tUnV1eFBkQ2M4MEJMMmNSQ09sU1VvMjhXRWdlYnZyX1BMZThRQzJ5b3pjN1p3OFBMLUVRX210aEpIUnpBemE5VE14cWVNRGlYcVZkVGxRaEpGYkVBclpmdFEyM3hHNEdwbHpuTWV4dHpIUXhPczg1TUg4QzIwZDlEMkJpdGwtRWc?oc=5",
-     "source": "アラブニュース"
     },
     {
      "title": "Lebanon replaces Detroit consul expelled over 1983 Marines attack posts",
@@ -356,14 +340,14 @@
      "source": "Africa Defense Forum"
     },
     {
-     "title": "Mali: Displaced families in Sarema seek safety and a way forward",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNm1TODFRTTlfRGRmR1dRTzloSlF1TnB6MklHQ2phMm5vLUcyaWtVdGJXVllyNHZPbWpSQ1BndFRlYzNVZ0JIbkp6VXd4ZWpMa2Z2dEFucUZPWDZzZWo3T2lybDM1NHE3cW5sVllCWnZDaF9iYmZpSlNjMWVNVHVRUXBNNzlMcDdNdWNXYkdhNA?oc=5",
-     "source": "OCHA"
-    },
-    {
      "title": "'Terror Has No Borders': Nigeria's Military Push With Niger, Mali, Burkina Faso | Firstpost Africa",
      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNkNTUkxpSGVjUl9tNnl2QVFjNU1SakVyQy1NQ3NOc2pwNm1mX25fclI5NjNjdk9fejk3SnRYb0lwb0t3Yk1ibHhGeW5IZWFGWlVSZFdPSGVPZDJsM01rSnZzLXplTFRrc1VlV3ZPUE9LUlhPRHZxeTFYd2k3TUpLbVl6TFNaY1M4RjZmZmlHTVR2YkZoMUt1aXlYekFhbU93ekpLVzYtT011TFRlamFzWFppaTlIWE54bWNPd0ZjSHh3QkU0NllyYUFtR0JxTG9kbFYyQ2l0S2psTF9TeEM5bnZtZ29jX1MzRUNZVzNMSdIB7wFBVV95cUxNNkNTUkxpSGVjUl9tNnl2QVFjNU1SakVyQy1NQ3NOc2pwNm1mX25fclI5NjNjdk9fejk3SnRYb0lwb0t3Yk1ibHhGeW5IZWFGWlVSZFdPSGVPZDJsM01rSnZzLXplTFRrc1VlV3ZPUE9LUlhPRHZxeTFYd2k3TUpLbVl6TFNaY1M4RjZmZmlHTVR2YkZoMUt1aXlYekFhbU93ekpLVzYtT011TFRlamFzWFppaTlIWE54bWNPd0ZjSHh3QkU0NllyYUFtR0JxTG9kbFYyQ2l0S2psTF9TeEM5bnZtZ29jX1MzRUNZVzNMSQ?oc=5",
      "source": "Firstpost"
+    },
+    {
+     "title": "Mali: Displaced families in Sarema seek safety and a way forward",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNm1TODFRTTlfRGRmR1dRTzloSlF1TnB6MklHQ2phMm5vLUcyaWtVdGJXVllyNHZPbWpSQ1BndFRlYzNVZ0JIbkp6VXd4ZWpMa2Z2dEFucUZPWDZzZWo3T2lybDM1NHE3cW5sVllCWnZDaF9iYmZpSlNjMWVNVHVRUXBNNzlMcDdNdWNXYkdhNA?oc=5",
+     "source": "OCHA"
     }
    ]
   },
@@ -389,9 +373,9 @@
      "source": "Centre for Information Resilience"
     },
     {
-     "title": "Myanmar army seizes key resistance headquarters and 10 bases held by opposition, state media says",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTE9EdHlBREN3TGxPX0Z0THgtblpVejdZNDZvY2FIcU9ydnFwSWM2UHduOFhSbXVldFVNZHE5MlJzbVZVSHE0TnAyQzg5VWJvNWZDaTNrdFpvMllwQjMzMXVicGlrUXJEQUVJNWRya2ZlaEFrNnFBTzFQNnZZZEs3MnVZQnJ3bDRPMG5Xa0JwZVhBSHlBc3RzaGFxZXNfUkxTLWpOS2c0X0xzNFRBNVNZ0gG0AUFVX3lxTFBzZkpsRFk3b0JoMjlRNy16UXFPOVJUc2laUDdscWFsekxHWmg5U2kybE9vekd6MXhPeEJJd3Y2UzBxVVZVck1UeTBEV1dZU05aeFBOcnAtazFpZGp5QmxtQ0thb2NvT1lUV2NleHJxNEg1MTBCN2prdWUxWDN5QmNjWXF3cXlBWDY0dEVFQ1dRTWthNWdGRzJOTWt6QnJfYnRkVFZ3WEptM2gwNU1NQVJNMjIyaQ?oc=5",
-     "source": "ABC News - Breaking News, Latest News and Videos"
+     "title": "Mideast crisis fuels crude conflict in Myanmar civil war",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTFpmeHBKa1RPQ21JZzFOVEVFVi0wOWlmcUV6TGNuTWVDNmtIRWxYaFJYQ2hNSWx2ZVhyTUFSQ2RBaVVsV0xTQVVkS0FOUFZzNi1ubzAxVkJnWDRkSmcxS2ZNd1QxMmZUb2NtY3d0dnlVUDBmRDVnOHB0VElCZUtvTXBxZU9RUWRNWC1QTnBMaFNZb0lyaW45UW1yU3JZNWg1?oc=5",
+     "source": "RTL Today"
     },
     {
      "title": "Myanmar Military Drone Attack Kills Three Bible School Students in Karen State",
@@ -399,9 +383,9 @@
      "source": "Barnabas Aid"
     },
     {
-     "title": "Myanmar military airstrike in Mrauk-U kills pregnant woman",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLW1MVDNtb0xMT2pfZWF5THczMEY3akFCRFFCLS02VEM2MWp1dnVFTkdROWtGVFItRWRpRXAxalVYcUozYUF5Y2UxMVFpMHN6Z0gwYWpDWkxhZ1RQcG1aLXZzNnUtQlk1ZmhiS2E0TS1ROXBvVXpDbjNKRkI4NWw3UEZfd3Z4SEhDbGhhcHVkZ3RMVkhIQWc?oc=5",
-     "source": "Myanmar Now"
+     "title": "Myanmar army seizes key resistance headquarters and 10 bases held by opposition, state media says",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTE9EdHlBREN3TGxPX0Z0THgtblpVejdZNDZvY2FIcU9ydnFwSWM2UHduOFhSbXVldFVNZHE5MlJzbVZVSHE0TnAyQzg5VWJvNWZDaTNrdFpvMllwQjMzMXVicGlrUXJEQUVJNWRya2ZlaEFrNnFBTzFQNnZZZEs3MnVZQnJ3bDRPMG5Xa0JwZVhBSHlBc3RzaGFxZXNfUkxTLWpOS2c0X0xzNFRBNVNZ0gG0AUFVX3lxTFBzZkpsRFk3b0JoMjlRNy16UXFPOVJUc2laUDdscWFsekxHWmg5U2kybE9vekd6MXhPeEJJd3Y2UzBxVVZVck1UeTBEV1dZU05aeFBOcnAtazFpZGp5QmxtQ0thb2NvT1lUV2NleHJxNEg1MTBCN2prdWUxWDN5QmNjWXF3cXlBWDY0dEVFQ1dRTWthNWdGRzJOTWt6QnJfYnRkVFZ3WEptM2gwNU1NQVJNMjIyaQ?oc=5",
+     "source": "ABC News - Breaking News, Latest News and Videos"
     }
    ]
   },
@@ -423,9 +407,9 @@
      "source": "Latest news from Azerbaijan"
     },
     {
-     "title": "Dangerous accusations and the cost of playing both sides in Nigeria’s war against terror",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOEVDdUFrTEJSSUd1R3VUTUF0UXg1QW15VTNQTWNadmRCWFJ4X1pTVVowX0xuTHNzaEtZN1hjYXNVUTlJS3FMS3ljazZXS0p4NjFKbmwyUEVKMG1GQklkQkFjUV9lZVpPUzVhMEVaeVIzNFNla1lJZGozX1NWb3NZZG9ER1FnSDdmVkJuX2RmZy1sVDc3Tl9kZ0pwWHpCS1kyTWV3Sm82aUZjMDVLRGVFOWVn?oc=5",
-     "source": "TheCable"
+     "title": "Suspected Nigerien Terrorist Threatens Mass Attack On Nigeria’s Niger State Over Alleged Killing Of Fulani People",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOczZCWVdNMkZTNksxZjVjX2FYdFJVMXBkUW1xR3F4WlIyUnE3VDJaMXI4YWNIUVp0RkNsUE96TGlMMGlCRndDdFp2T1o2dk0wS1duazZaRkxobFgzbllBR3NFMzIyczZ2UElXUnpsTkNTN0RQTjA4eEtQdmZpUHpqS0NmSUwyVy0zNkEybUk3TDR5am9BNXhnc1YxdnFxREFqdkg2cENhTHNEY3dOUUpOeWI1QUZybFNwTWRnSDI3RlM?oc=5",
+     "source": "Sahara Reporters"
     }
    ]
   },
@@ -437,28 +421,28 @@
      "source": "Reuters"
     },
     {
-     "title": "Troops Rescue 21 Kidnap Victims In Niger",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KaXZTdGo2Tmc3dWhLWmZUQ2w0WFNaVE1adEJCUDdBRTVPRUlqSVY2UHVRcjB6N3FIWXJ1aE9Bdm1YVFAwWWNMazBGY1NNNlRBUzIwU1BrWVN2eVhVTUJialdQXzRmZkZXM0NpZGFpQW43QQ?oc=5",
-     "source": "TVC News"
-    },
-    {
      "title": "Troops rescue 21 abducted people in Niger",
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vSEo3WnV2RVFSR09ubi1hNEJjbDl0SkVZOTBIdldHdkpQd1BMTnduVFhEWGRZVXlmRldROHk0WVEtWkZ6NGttc2Fyb3F4NEY0Wi1MbGpyTExmMUdBcHBwWmNsdmZtcEpWQ3p6S280UGdlSnM?oc=5",
      "source": "Peoples Gazette Nigeria"
     },
     {
-     "title": "PHOTO: Army Rescues 21 Hostages, Repels Terrorists in Niger",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpd1A4NVNUT1dXaTVYZHNHRHZUQ1lHWTl3Zm9icXllQUs1U3JodnVVd0o3TllIbEF5NWlwS0s1YmJkUnJFM3U5Z0VTdG1xdlVST240WjUwdmwyOVhhR1d2V2stTWs2dDhiRkl6SVFB?oc=5",
-     "source": "PRNigeria News"
+     "title": "Troops Rescue 21 Kidnap Victims In Niger",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KaXZTdGo2Tmc3dWhLWmZUQ2w0WFNaVE1adEJCUDdBRTVPRUlqSVY2UHVRcjB6N3FIWXJ1aE9Bdm1YVFAwWWNMazBGY1NNNlRBUzIwU1BrWVN2eVhVTUJialdQXzRmZkZXM0NpZGFpQW43QQ?oc=5",
+     "source": "TVC News"
+    },
+    {
+     "title": "Troops rescue 24 kidnap victims in Niger, Adamawa",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ1F2Vkg0eHFSZTdaWjE1bkZCZWRwMTNiYU1xTXMzZEotSlRQVHc2ejZLRC02Z3pBRDBqQnc2UGJMSVB5VHhFMHk1SHgxeHlUMEV2ZzNhSGt3a1paMk9UWGQzR2E1cFpVUF9MQ1RhXzZVbWhpYTVQTGp2V0tkODd4a0ZiRGF5QdIBiwFBVV95cUxNbUFRM0NYVDRuWnlKVG9oZXhrZnRneFZMOFVUc1NrUVd3OEx2dGdKZEVDLVcteVd0N1FubUZ4d1RiLWF3NlFla1BHMUFaYjdBOUlPTVctWDhNazQzN2gwUEdOOWppdWtEdmtjUXk1WG1zU29MQ2o2QjNSQ2lJbTltVVRITjJEUHkyZkM4?oc=5",
+     "source": "The Nation Newspaper"
     }
    ]
   },
   "Pakistan": {
    "headlines": [
     {
-     "title": "Revealing the Invisible: A decade of fighting for clean air in Pakistan",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMVdYVnFXRExxakhsbWYxdEJGSDVFWHV3bEFTQzlzWmxsRWtabnlQNDF0VTM1aGNWOWRObVNrelJ5RlY3OW10Vk4ydW90QmJrTnZRaGcyMDZaazk4d2ZuZ1NtNkp4RHBrNk1GV3Q0U2JnRFdTY0Y2NkhtWFZqcmV1d2RadjZESFo1em5sZUcwWE1zelBXVk4wUlBGRUM?oc=5",
-     "source": "IQAir"
+     "title": "Iran hopes to contain war between Pakistan, Taliban",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMTNBU1RGcGRqVmcxYTNmRTQyOC1mYzJVY2RlbzE5ck1oTkstNUJKYlBwSHRPanIwNTJjcEhfQWJzQ2daa2hQMW14WmZlRFMzVWUwYUhOZkxzZmtvZV9KX0ZsQVdwY1BIYkhTdlZsRTZCZm54Z3lwXzdORnRTRG14cjlhRldCa3N0?oc=5",
+     "source": "Amwaj.media"
     },
     {
      "title": "5 held in mob attack over blasphemy claims in Pakistan",
@@ -466,9 +450,9 @@
      "source": "Genocide Watch"
     },
     {
-     "title": "Pakistan Opposition Leader: Islamabad must not join war in Yemen",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80QWhkTEtvVEt4YWpfUURfQXNlZ2FlVnZqS0hkTVp5X2hlWGZoU3ZxclhmazltaENwajlwblhQV0JrSkFOZC1BZGtwMFlFTms?oc=5",
-     "source": "وكالة سبأ"
+     "title": "Revealing the Invisible: A decade of fighting for clean air in Pakistan",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMVdYVnFXRExxakhsbWYxdEJGSDVFWHV3bEFTQzlzWmxsRWtabnlQNDF0VTM1aGNWOWRObVNrelJ5RlY3OW10Vk4ydW90QmJrTnZRaGcyMDZaazk4d2ZuZ1NtNkp4RHBrNk1GV3Q0U2JnRFdTY0Y2NkhtWFZqcmV1d2RadjZESFo1em5sZUcwWE1zelBXVk4wUlBGRUM?oc=5",
+     "source": "IQAir"
     },
     {
      "title": "Pakistan Condemns Houthi Attack on Saudi Aramco Building",
@@ -480,53 +464,58 @@
   "Palestine": {
    "headlines": [
     {
-     "title": "Israeli fire kills 5 Palestinians, wounds 14 others in Gaza amid ceasefire violations",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVHdWUkdLS3FtWG9oUDB6R3VQUEdsSHdmaHlCZFVkeXlFSFBCSmNRNnN0Zk5JUFVqQmNuRGIxb1NmZWhVdnpDcWlyQm1QcHZPa1JUV2t1Xy02Y0w2MU1GVVJRaW1QSlp1RHNvTWUyRVp3N1luLWd2U2JzNkt0SGFGX0o1WlRUMjVELW0yTkY5RVBUZU5Zb2NJQ29sY1FsUndlaEdFWEdhLVplcF83bjRoU2IyUHFfUDFHYXdORDRRV3pDZ0pJeTZ2Yw?oc=5",
-     "source": "Anadolu Ajansı"
+     "title": "Father, child among eight Palestinians killed in Israeli attacks on Gaza",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ3FxRUpfdGZyZ3VEdDRIVDBLd3B0YmVrallzU0YtLVlKa2x0eVh4bURzSDhCWWdaM3N1WThmQkZvNmxuTDFIOG8tZElHTi1BX3hXelo3WWFPSVpGMnZNYXBpVmdHZ1RKZ3RnQ09GaDI3TjBIODVSUFlQWC1kZlp5TF8zQUItVXhOWXk5VE0wWEt3c0p6ZDdpWWRiOUcwNlQ5WXhzcWtfVllCSTl40gGyAUFVX3lxTFB3S1lpYlpBYU9RTzRtd0lNWEdhVGxzTkZINkhuZVRWZWdrQUp4a3UwUHlSWWlaRFh1MF9ZRmpqdE54a2FDamZLZVBsRHFGYU9GOGtJMGwxblI4V3JpZFRNSk1xeFJ5Z1h2cWhJb0ZkOERuM1c0M29ENWJvSVNqc3kyTndLQnVuMUJtMHZ3cUlQdVZMX3ZQVWtDSTgzZThpdzJkNS1YeVNnRmF3YjQ0dDRnYUE?oc=5",
+     "source": "Al Jazeera"
     },
     {
-     "title": "Israeli Fire Kills Father and Son in Gaza, Medics Say",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTmpDLWM0aTdKMDhLQk5tdDR1NnYzYi1EbVZ0dWhEN2ZHa3pNY3dsNnRjM3JMeEpfNzI5bWRhb1JXajE3QXEySUt3MGN5Z2R1Sm1iVWo1ZTBsVFk1dExsRUZxbVhDYXVEbXF0Z2VOMnV1alBjQXNJaHpvNjk2WlFnWlRhQjFmd1JBd1ViTTgtTW9hY2Q0NmtUUmUzZw?oc=5",
+     "title": "Abbas says Palestinians facing war, destruction, displacement attempts",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zX2ZsNVlhR3BUZGJUZGFOQk0xMUFQeWlKazhrTTdnR2ZMNURFZ1hzbG5veElPTUxkRjlTSlhDVWRhSnNTWFJVTnRSeE9tZkFYTldIQWVvRzM?oc=5",
+     "source": "chinadailyhk"
+    },
+    {
+     "title": "Israeli Fire Kills Seven, Including a Father and Son, in Gaza, Medics Say",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdGVkSWZRNlJjdEJNdkNOVHF6Mm9BY01yMGU1NGg0dUFacmxHeUlYQ1ZlYWVaaV9tYkZRUXA0RnVSVzJCV3ZVTUNFRkJKMWxoRnA3ZE5DZE9UdFExVlQtTzBVdXdYSnF1MFpYVjUxMjc3U1Z3cC16QkNwdExRUGxURHlHR0tXV0FSZFpUWjJKYlhqdnJYX290NWZ3UG1zWXVJaDBud1hjajc5ZWdMLWRKeg?oc=5",
      "source": "ASHARQ AL-AWSAT English"
     },
     {
-     "title": "Israeli fire kills Palestinian, wounds 4 in Gaza ceasefire breach",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX0VoNmVqUmdRTzRDMjZ2Y0tFdklfSjVleG90T0lLb0hyRUxkamFiVUNBc3BhdmNnc0lCN3k1M2lWWXdBNG1GUFNUZExWMFdPZ1pLR1pQMG5SNzZoQkV1dEFGNnd4NndkQk5qS3Z6cF9rT0FZMEtDMDVMRzFKT2R2QXZNZnRMNC1ZYVBoMW9vbWN6V0t5djRmc1ZJaWhGVTZfX216eXpn?oc=5",
-     "source": "Yeni Safak English"
-    },
-    {
-     "title": "Israeli fire in Gaza Strip said to kill 7, including 13-year-old boy",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaEVJRFJTeWxGNjl1LWRiNmtXSXVlNEN3UDB2ZWlwcS1XeF9vV2NLRVV4QW93TGNwQkhGR3dJeEwwU1JiMVFva0VXWGFjSjBmb19jRG83dU4tSGNjZzdocnpDcEU2eWxOeC1CTnhxMDZEdFJfR1BYczhFbWh6ZmJ4OTN3eU5IaDRQVXhGTkxBcjdaUnRqN1pwQmtmaWhMcTDSAaQBQVVfeXFMTjFlQi1xNWFFYmtPc1ZHOTV5N0tBWl9laEVjZjlUanB0cWcyWG96X0FENUZpNEJIeE51SkhrVkpsSW1FOTdkQUNEeGNSTEdHT1RXOVIzeGRuWTluMUgzdVpqZ1M4c0NOdzBoX2VuaFhMczNteXVIRkFVQkVoT1FJczl2ZG91NW5XYUh4LXA0bXhheVBlZVlxSnFtMGJMMVN1SjUtaGw?oc=5",
-     "source": "The Times of Israel"
+     "title": "Father and son among at least seven killed in Israeli attacks on Gaza",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONFhGRU43clk1dE15TmtaOW1ub2xObk10RlFrVWZsVF9yRWtJRlhiMjc0Zlk3LUJFYkt0RXJWNnpOWVd0ZDhZMl9qa0d3ZnpKV01PVWRvWVpUODVRaVdfQ3dnd1FkSjhLSWxkcFBLM2ppSDNzcG40Z0hCRUt6YUdNQ0lEU1lDY0Z6Z3E0WFJ2bU5JZmVlSjRGbkhVa2YwQ184SmI0TGJUaGhwZ3ZkS3B1N0oxV2VHbHR0NUpzY1l4MDg?oc=5",
+     "source": "The National"
     }
    ]
   },
   "Philippines": {
    "headlines": [
     {
-     "title": "Philippines declares national energy emergency as Asia risks energy crisis amid Iran war",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeE1ldVFZSXdBWWRGcDlTNDdpaEE0aFNicTNidEJrLWlycTQ4NDlqdzFhdXk2cl9XWXRxdExqWFhtcDgzNzdNMTljVmVCQ28zQjhIM1hzUXd5TllON2dEaGZYTm8xSUNtT0xQUm5fOVQzX19RT1E5b3FYVmpXejZWYkFnenVmMllSOVAxNk8xMFRSUXgwblJ6TFdkUXgxbzU3ZFQ2cnNxXzVZeVVhY1VkUzdB0gG3AUFVX3lxTE5mSTJ3M2xnS2g1Nm80TzZ4WGtla3RQSWkzdjRXRXNacWtJQUZvSTdRbXltSy15ZW51cGhzTnBVRXZ0X0JMT1h3Y0ZBOWZrNlZHWGszR3RmVGxRTGFNaUdIMzJpSWRYM3pFY1U3aEtlYnlubVJtZTFyWDRHdExfYnlySWFibktCN2ZPTjROSjgtVnB0Ymk2UkxIdHJkTEVuQWxEM0NMMzBKXzI3dmE4ZENUdllMakRXSQ?oc=5",
-     "source": "ABC News - Breaking News, Latest News and Videos"
-    },
-    {
      "title": "Philippine economic slump worsens on Iran war and bad weather",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeU5xODN5bVhhNl9pVWliR2x0N0xOWTQ4TERHTXFmWHdLNGZ6TW5ocld1bVhJZXI1VkcxMEtpWk5KTlltblh0NkpTazBhUklKak9rWmZyZGR4SUdQdG5jTkpGR2dSa0tMSUUwU2NEeWJ0bXJtS1FnOWZQN1hhSkpVUG9YM21lZ1ZqTUlHOThEdlhwNnl0M2FVMEp3?oc=5",
      "source": "The Japan Times"
     },
     {
-     "title": "PTV. . #PTVNewsTonight | AFP stands firm that it is not picking fights in the West Philippine Sea",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUkQ0RzdOTDI0Sm1RRzl2eHpNanVhempfY0Z5ZFU2NlhkaDRMTHlnVjYwVTJiYjRGaVAyMHVGem83cXBOX2R6WWdsSk5kWDFXNHhTSXo4QlczaDQ5d1Fna080Y3ktcEhIRHF6X1pkcWw1QXRWREV1Mkh2UkFxNHB0cGVjeHdSMjRKbjZRR1dTSlpqNkNLUk9JTGotMHlhZFhkU21kTzlRcXIzYThRTXR3NUwwTVo1ZVdHZHI5WXhvNTZPX0JIRnlINXUzb3Z5d2l5TFE?oc=5",
+     "title": "THE Armed Forces of the Philippines (AFP) maintained on Tuesday, November 10, 2026, that the country is not seeking conflict with any nation, particularly China, by asserting its rights in the West Ph",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbzBkZVZSd19udHhlS0FSVGtPQldBeFN4VWNEenZ4b3JxaXBIbmZYeUotV0hTb2M0SmxNbVpidEFrOHhtRC1mbld6MWhScUNkRVBtdTlGUC0xempDeC1RZldLNWlRUzZyQUUwUDl0b05lVmdMTWdfUHFRVmExRWRsWW80Rm9hdnlJYTc4V1ZIS1dzdU56V08yMHdTZzlXcHdhR2F3VGhDYXZZZHdQWU5mM2p0ZElKLXVkX0xfUzNVQTI4bkxQek1rMFJXNzFQMENwNGl4RHRSZFJTT3FlVG80?oc=5",
      "source": "Facebook"
     },
     {
-     "title": "Philippine Economic Slump Worsens on Iran War, Bad Weather",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVDIwYjBTLXNybWI4blZPcGZPRlVIdjNROU0zTDIxRUc4NUFfX2drMDJ4bXp6a3UxVC01a0NDWGJ4NlE5SHZSY3I5dFZ2VS1jbVkwa3B5eUVkTGlfZUt4YmhxNWdmaFlodmdXTnJjb3Q2d0I2a0dqMHhreHh4dWNlNFJUbnktRU85dTNVazlOMmZOelNvYzFfTk8wZHFVSUdRTnpOT0tRWGJndWJadTNKMlhB?oc=5",
-     "source": "Bloomberg.com"
+     "title": "MANILA, Philippines — Ateneo Blue Eagles head coach Louie Alas on Tuesday apologized for his behavior at the conclusion of last Saturday’s UAAP game against the UP Fighting Maroons. Read more: https:/",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOejc0MWg5YVhsdlpNUGJyNTE0UlYydlVMU185YVdqQk5Na1hoOUNmR3BsTV9VaTRFRzFsMW1qSUM0SjZfcE5zVjU5MlV2UldHV0xFNW1rY0dpYnd4eXBVVFlOZjJTV1dGZDVGblQwWXRnWENVZFVpX0pXenBEblI2bndXWHlMMGd1eUhVVGVKZnVNZWlPclRmV1Rwa0dyMkFmdzFDNXhjMDNwa1JWdWFLcGlVSkJ3TWVjemhr?oc=5",
+     "source": "LinkedIn"
+    },
+    {
+     "title": "LOOK: The Armed Forces of the Philippines (AFP) on Monday (Nov. 9, 2026) recognizes the achievements and contributions of its soldier-athletes in a ceremony led by AFP chief Gen. Antonio Nafarrete in ",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb0VoalhTazhvVkdkaHpRODFGbDM5UTRwTnAzWDRxTDdGUnRpOTFYekgtbXdHMDJ6YWRZYklUMGxXRzBuVFBkOHNhZHUxdkhrVU9uZXZmaGhkRVNRN0RBc1Q2WmtYRGItYkxjVkJQcG9jbElWNGRrRzVUN3h1c09QcW9YMm1BVjE2UUJHS0tvWFBEYk15NXl6UE41ZnEzSEZGZ1puTTFvRmN4YXJWSUkwbW9vU1puSVBweWY5bnphSHE0WmdMSzZKTmhZcXF2SEFOaXc2Qg?oc=5",
+     "source": "Facebook"
     }
    ]
   },
   "Qatar": {
    "headlines": [
+    {
+     "title": "Poland’s Orlen Terminates LNG Supply Deal with Qatar Amid War",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRDZlLU1sVU5HbmVvd3dCTWRUalRBWW1PbDNBYUFlUWtaRGxhWUktYl9ZWm8wZC1KajR1ZnFycUlXZl9mVk8xcllfSmtNN1ZGY29IbHpvSHNNU25DOG9SUHNmUUVJNjV4RVVremRELXNVRFB0RmdXZkZRUmVGLWkxUFJIaXZyQy1xanN5a2oydnR5clZYM0xScDJscDF2QXJyRGlqOWlDS0ZqWVJseVJGbERB?oc=5",
+     "source": "Bloomberg.com"
+    },
     {
      "title": "Final F1 races to take place in Qatar and Abu Dhabi despite Middle East conflict",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSGdLOFp3VHNkaV8tZlBWeklTcDFNT2Ftb0FJcUdhMXZ4VVpiYnQ2N21lOUpGUVZUSlpwVnhTcXZ1eWRLUkt1Z2RuMUhySUE0LVlmWF90TjNabGhxZzE3WjBaWDQtWlJpNXZVOUYyNUFRTWduUGZKRWd0OVpTWlk3dW83RTJOZnhraGdSVlFCN1lnSHNxTUZ5OWhPSl9pQmotczlJbVRqZW8?oc=5",
@@ -536,11 +525,6 @@
      "title": "After meeting Qatar PM, Trump calls Iran war ‘effectively over’ militarily",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQk10al9Za09KSVdSOEJFak01MEtXS0I0bHg2Q2wzSmUzSDlEVlpObU41Mjg0aUZhQU5zR1NIbzdTMHJLV1FDbEk5WExHLUF0aUlHVU9CSlpEMXozNVFzSm5PTm4zekxYVmR6YlZLYUtHVUEzREp3UEIzSW1NTksyMWJXZTFiWTRvNW5oSGtQOVY3ZW1uOHdNYXJuWUtnWmhkVTRQWEsxRdIBrAFBVV95cUxOeDVLZnJwdDZ1b2dWamRIanBpZXUtQXE1dVhQeXVmY0haLVRFUDFwa2Zicl9FQTEyUXhFaE40dldBQmR1amhrSkFqd2U3Z1d4RXhSZ1VFTGpmeHpMNERLc2syWFZYLVk3aGtvQk5WZFRYWlRLODE3NEs4UGF4amM2ZEVFSmZJcElHaEpQSlJ2Z2ZsTFh4TUhhb3BqblV2ZHBHaTRPWXNpcDJMeTdG?oc=5",
      "source": "Al Jazeera"
-    },
-    {
-     "title": "Trump says Qatar, Saudi prefer peace in Iran conflict",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORWZDVUdpZ29BZzAyOUFDVG5ORzBKbHBoOXRZUGJNaXhia09DLVhHVHVMYmNNaHdnMmFOdWZfM1hiVHBDd1Nmd3lJN280Wk9leUROY05KRDFpOWNjMk93S2x5dE9ZeVlwNjg4Zmk1Y3ZfMWhBU3BucHRoM1hXVTZUalF4VkhWa3NJdzdVdGY0d1NFZUhDMlk4cTlB?oc=5",
-     "source": "Al-Monitor"
     },
     {
      "title": "Trump says Iran war could end \"fairly soon\" after Qatar talks, plays down new strikes",
@@ -555,19 +539,19 @@
   "Saudi Arabia": {
    "headlines": [
     {
-     "title": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaGxFOUdxQ2o5dlYtdVRVY242bW5XLW4wQlhsWk92c3QxM1RneTJqTENuYkFza01ORTRrMTNaT0tqZTFIcHVkc2ZkVGxnWXJXX01lSkpXWkNvbFExSFo4cjZwQ21CQXU2bGU1YWRzOF9uRjBkc1I3TFZxU2lGSk4zeThZZVdtRWpKNU5PRzJUTFdPXzFscExmSDBiYlRLLUFBZkh2RkxPMWJoWEljcnZNY1JYUUxMUGFF0gG-AUFVX3lxTE91Tml0Z0VtT3U5OXlDQzBWTGp2WHdKb0dZVzBoU05aOEh1eXhYQXZZYVVNNUQyUlhicy14dm1KR3JkUWh0aHZNa3hOdENYZTdOd2JmbHluRmM0M2NJSHllNzF0Um1qUElNc0h2Rm83Q2RHaXhpMW1WdWhRYWxCZDRWVlRhOUVvZ1pUNlFPend1Mk5DMUZQX0dNOVhmWnUxeEhEblVqOG0ySFNCV0hxeTcxblMyeWtaQTBHSTBSUHc?oc=5",
-     "source": "Al Jazeera"
-    },
-    {
      "title": "Saudi Arabia’s vital East-West pipeline struck in attack",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYVc1aXVWTlN3MlpidFgtWnZKLUhrQkt3dWJPcVFnc3lyY045aDVrY1hzNzZycjQ3dHg2YUdZV2x4WlZqUkVlTU96WVZ6S243WG5Odmlia0FNS29WRXptdjVQeDdPSUROMTFXTHBWOWFla2tsNnRva3NPdU53RTRrdXdtMjM?oc=5",
      "source": "Financial Times"
     },
     {
-     "title": "Saudi-led coalition says it shot down Houthi missiles aimed at Riyadh",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeEFMZHZXSnB4Q1RWMGxYRGJrYUFLdXBsc2ZGcmowbDhlNGVjMWxtOWt6bno5WWZnd2F2NVNncnJKdFM1bm1QU2RGQmNNOFBXampZcHpYLU1mdGxIRFJ4Z0drcHcyNHYtTmhVWEVlY0FldWp1d3ZoWlpoZXljR2w1b1lvb2pSR3owY2tnbUF2MDFYQXZlNUxsUUM1TGdaQ1lJZ3ZSUzl6cVp2czBFeTA3akRSS19vMTR3LW1qcGZGUExhbEJQTlpzSFdfNGc2dw?oc=5",
-     "source": "Reuters"
+     "title": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaGxFOUdxQ2o5dlYtdVRVY242bW5XLW4wQlhsWk92c3QxM1RneTJqTENuYkFza01ORTRrMTNaT0tqZTFIcHVkc2ZkVGxnWXJXX01lSkpXWkNvbFExSFo4cjZwQ21CQXU2bGU1YWRzOF9uRjBkc1I3TFZxU2lGSk4zeThZZVdtRWpKNU5PRzJUTFdPXzFscExmSDBiYlRLLUFBZkh2RkxPMWJoWEljcnZNY1JYUUxMUGFF0gG-AUFVX3lxTE91Tml0Z0VtT3U5OXlDQzBWTGp2WHdKb0dZVzBoU05aOEh1eXhYQXZZYVVNNUQyUlhicy14dm1KR3JkUWh0aHZNa3hOdENYZTdOd2JmbHluRmM0M2NJSHllNzF0Um1qUElNc0h2Rm83Q2RHaXhpMW1WdWhRYWxCZDRWVlRhOUVvZ1pUNlFPend1Mk5DMUZQX0dNOVhmWnUxeEhEblVqOG0ySFNCV0hxeTcxblMyeWtaQTBHSTBSUHc?oc=5",
+     "source": "Al Jazeera"
+    },
+    {
+     "title": "Missiles Targeting Saudi Oil Refineries Shot Down, Sources Say",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMFNOMGZpTFduZXdna01TUWhyRUJJbjh1UUhWMFk3M05ZWWhwTmQ4YkdQRjNYLWk3MHpyRkpkUkNhQ0FjcTNIRW5ZZXVPcldNY0YycHh6NVVtTC1fc3d4d2lZWlBmcW0zcjNJNUxYQnRfV0RSZFlLV0MyNUd5RGVMOVU3STJwcnBZMmpTc09oS3IzY2o3d1lN?oc=5",
+     "source": "EnergyNow.com"
     },
     {
      "title": "Syria Weighs Sending Troops to Aid Saudi War With Houthis",
@@ -584,24 +568,29 @@
      "source": "Somali Guardian"
     },
     {
-     "title": "Türkiye, Somalia discuss security ties as peacekeeping troops begin withdrawal",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90RVU4MVE1TzR4eEhfS2tNNmJZblM4cFUwQzV1blVheV9JYTREZ3ptV2h3ZTNSSTBaUXdEc0UtQWdhNW9SRnhBd1VmN2V2cGhzU3c2WmV6VWU?oc=5",
-     "source": "TRT World"
-    },
-    {
      "title": "US confirms troops left Somalia’s Baledogle military base",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd0lJMXV2ZlFUTko1emRURF96akFERnlHV0dSc3lFbGswYzk1NndoSVhfWXg4dWVmNmJRUkpuWEsxS25KTFc5cnViY2l2ZFcyQlc2b3dZRzU5aE1oY0pPWmttSktCRTRwN1lWZktZRTRzQXU2MlJPaWRMX1IwRXNVYnd4UUlJNXB2N2JCeGk0aXc2X2ZGbTN3M2tGcDRiSk85Y2RRbg?oc=5",
      "source": "Somalia Today"
     },
     {
-     "title": "Uganda begins pulling troops out of Somalia",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NXzRGRmJFcGFkSm9RaUZmano2Mk9mcDRkVzhtaW5tdVB2LWU1ZXM2QkZHQW1iWkFaZXJiYm1ONnNYdjBDTjBWaFFFSG5tZ01XMXltQ2FWQ3hfUnh2WXlXR05OdFZ1RzBmUUJPeE9QakZPNXl0S1p1RS00a2J2SHc?oc=5",
-     "source": "The Week"
+     "title": "Türkiye, Somalia discuss security ties as peacekeeping troops begin withdrawal",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90RVU4MVE1TzR4eEhfS2tNNmJZblM4cFUwQzV1blVheV9JYTREZ3ptV2h3ZTNSSTBaUXdEc0UtQWdhNW9SRnhBd1VmN2V2cGhzU3c2WmV6VWU?oc=5",
+     "source": "TRT World"
+    },
+    {
+     "title": "Uganda begins withdrawing troops from Somalia after 20 years",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRU9Va0h3SV9DNVFtNzJJQU85VjlzM2NXeHNkSllZQUc1SmtSZ2dLa0c0dDAzdC1Fb3FFcVhSM0EwRjN0SllWdXRxSGFrVVQ0eE5oUWF1UTkxaFJ2Y0pfeTI0Sks5NFZjYXcwM1g0anc0clRfUExhT2ZfV0tHb3pGcnE1MEVlT0JNWHRKal9sV0EwR0lJcTlaVVFUUGZGUDBBdkpaWXZBcEx6ZWtXbGw5aUo3Tko2QQ?oc=5",
+     "source": "Hiiraan Online"
     }
    ]
   },
   "South Sudan": {
    "headlines": [
+    {
+     "title": "Security Council LIVE: South Sudan’s first elections loom amid rising violence",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KMU1ab0d4cVdaUmxmX0d3U1dMdnlSRjVvejdmYVBZVW9JR3Y5VWVwdElUSWtfREpOUUJZYUliZTFhWnBOdkFPY0hGcHc5ZXZCQ3E2dnJ2SUw2bVQyQkJkbU1IZm7SAWRBVV95cUxOSjFNWm9HeHFXWlJsZl9Hd1NXTHZ5UkY1b3o3ZmFQWVVvSUd2OVVlcHRJVElrX0RKTlFCWWFJYmUxYVpwTnZBT2NIRnB3OWV2QkNxNnZydklMNm1UMkJCZG1NSGZu?oc=5",
+     "source": "Global Issues.org"
+    },
     {
      "title": "UPDF Troops In South Sudan Undergo Arms Refresher Training",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcGdWLXJsYXF0ZDRHbGFXTWd3ZEdlYkhLWU1mbEFpLXFyY29fRE5pMkV1OFdjRXJWeGN5Sk1weGlRSHRLbkw0ckNSNXRSdHlNaTlfOXdjbFNjRWJ1OVNuNFlmdU1ucHdvT2xiOUd5UkJmdEZ0bTRtX1gyT1FLX2lqTmh5YXRiRnRQY09yLTNibVJYYzNna2fSAZsBQVVfeXFMUFpPLXlsWGNDbE9vN3p2UVJUS09FSWFtbm53ekRmTFBnWlgydlkzWTdmSVNudWoxTFF4NTg5UjZnNm96eUotS2hzZ2VQTzUwc3AxdUU0RWRralk2c1VKYjBfN3pJNElhRThzYTVzbFMwWXNSYllHa0NvVHJiaVFVVXZpanhFbDB5N0hvemVTOUtEYW9XZGVfOWxpMzQ?oc=5",
@@ -616,45 +605,35 @@
      "title": "South Sudan: 23 dead in clashes",
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XYXRtdUVzUzllcEI2TDVVUmd4clM0SEEtNlBtOXNKSWhUWUdWUk9tUVlSQmNralRkR2ZoSW1GeW9rV0VTTGJvYkcxZE5LQWpQN2ZDOG43ZE9KX0VsampOcXZVX2Y?oc=5",
      "source": "Daily Trust"
-    },
-    {
-     "title": "Deadly communal violence disrupts worship in South Sudan; churches struggle",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV1BiSGxhaFB2VVlla3VUSzI1WFBuaGlaWHZJaWo1QzZDRjdZd05IMktabVZ6RGtGY2FTSFBjbEhJbnRlcXp5enNaTnlya3RkZlJPWHBHQ2ZzcU5tVlVMbEF0UmI5RFpKODVoRlNlVWc2MXdCSTVyblAyalRtTlN3UjBmY0tzQUJDU3p3VG1WcTdkQlFqbHZJVHppa3g?oc=5",
-     "source": "Christian Post"
     }
    ]
   },
   "Sudan": {
    "headlines": [
     {
+     "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LX0dZNW0zZjNZbUVBWjA4T0EyWGFlMHV1UWlMTWF6TFhmVFRDZVpZMUhNbi10STlobExDZGQ4Szh3SDJjczdTd1hQOFQ1a0xMOXFYTFFzdE9iRXFMS1E?oc=5",
+     "source": "BBC"
+    },
+    {
      "title": "Sudan war: First ‘suicide’ drone attacks, now long-range strikes are the norm",
      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uaDkyQ3k5RURDdWRTQ25OeW5CdTByclJpck5USTl0czFROFhkT3h5NTh4VW84VEs1cHJUamxVaEdlZEhxNFlzVnpsMXJZRS1nd21GclhlQQ?oc=5",
      "source": "UN News"
     },
     {
-     "title": "Sudan Airstrikes Target Border Zones",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1UeDliZ3FOOUJ5bmZpaGFNR19WUHRvZ0huNEhyUGZkQURBOFFQQnNRcXRXRTBWNkZhU0NTVWpQajQ2RTZFNmpvWUUzLS0xdUpQYWEzYzZCUmltUzl0d3NoWTFvTGI4Zk5hUUE5blJPNlRad1FBRXFmTzVR?oc=5",
-     "source": "Africa Defense Forum"
+     "title": "Australia talks tough on Sudan but won’t confront patrons in UAE",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR2RaaHI3V0M3VGwzVm1rNU1Vb3BEc2k5dFgyN0pFeV9qYmVVRWlWV1lwRjFLN0t0NHNNYThETXhNYUdEQzV5ZXJjd2g4czNMUGxEZEVNUEZOekFraUZSWDZzNHpTdlBLdmxPdUpuYWdMSmVOUUd5X0RDel8xa1dWYmlIa0owTXpWYnZoZ21HQm9Vd1Z2bXJXbGtyN0NBak4tTE9WT3JCNGxwWGtNaEF3?oc=5",
+     "source": "Lowy Institute"
     },
     {
-     "title": "Sudanese refugees in Egypt: caught between war, borders and European money",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQanhrLUtCMHdoV25Xa09CYlhNckNyZkJ0M0Jrd29zNEVnT2NqanFWV2t2dHBlajFnX24zWi1GWTA3eGw1THBWSG93VWZ1UVFOVEZuczFGM3R4NEdDcWJ0c2pEcTZLdjZCTjdsaG5fNGVrQlQ3SW9YWG42eFRBQVJfZTdXOGFzZUdLdG9YdXE1NnYtbGh3RTFTMmU3NDlwVlBEYlloZS1BUV9XQnNwZmg5WElVNXNRdw?oc=5",
-     "source": "InfoMigrants"
-    },
-    {
-     "title": "Attacks on Health Care in Sudan, 16-31 October 2026",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQmNuUC01MzVjeTBMQjlLZjRORUdLTThVcERuZGxyRFRiQXp1LVhScEVRaVpXVUM2UWM1NC1nN0ZmazJSc2h4Mmc5ZjRldS04MXg4RS1WTER0cnN2QURZb19JWE9LYzcwYXZ6UlMxWmh0U19IR0owN1Q5Tm00TEI3ZG51Z19UZw?oc=5",
-     "source": "ReliefWeb"
+     "title": "Egypt’s Strategic Pivot: The Nile, Sudan’s War and a New Route Into Africa",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONll4VjRCT1ZMeGd0RTYydDZfM3ZRMnktSnRmakZpanktT3RZU2Z0dFYza051N0JRVkJ5VWhjUC10SDFyNzNYNWVQV2hEQmpnamtTRXR6dHczaUk4UHlacjJiazYxSEZLaWpfVmFwR0FVVHlzRklnN3hMX2Z0azhPTHZyREFfa0YxQWVaMVozblBWcnVveldSVDJ0QkZYV3k2SmR3SGxn?oc=5",
+     "source": "The Times of Israel"
     }
    ]
   },
   "Syria": {
    "headlines": [
-    {
-     "title": "Explosive remnants of war kill 4 children in Syria in less than a week: Save the Children",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOV2YzTDQyVDFDVlVWMkMxVHFCbHBLWWNhbDFoYW9SUE1EUkNBWWVDMXZ2WlZJeHhJNVRhOXVmbmQ3QTVUUDVQNzBiSi1tUHhiWTN1cWlqWUJvcUZXUlNjRmlabkUxMVpVU1RLYU05LWNqdEJLUzdIeDV1SF91dTI5TEFPc1VTcEJEby1remoxS1pnNVA1Y3RiNzNSdHI0RmlybWtxWC1sdlQzTlpseEJzV0x5c3ByX19taVVhQXRUdHpqalU4Y3VnWW1Sa3g0Zw?oc=5",
-     "source": "Arab News"
-    },
     {
      "title": "Syria confirms sending troops to Saudi Arabia amid battle against Houthis",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRDdTSjlMcUdhQVRNTVB2ZVlSQlNLZ3dLSGJWdXRmNjh0OFlobzNFMFZHUDhZVDc4OENTLUpNZkkzWnpHeEk1eEwtN1lCanlGZDRKX0o5eWVvVGxaWUhxaDhxTnZicU5kLUtJMWhOMWZCTUlENVF3RjBWNDZhMEM4cy1nVXNWUlpzenNMUnNzWW9oTG8ydFNLVDNCckdEeFpOUkZMYWd5aGhTRnljdThPVVVzTkZLNTRLcmfSAb8BQVVfeXFMTnRwWWpRM0YybjRoT3RhZS1CUFhEanRzWlF2cFdtWHJrQktGSWFDOHhWUGI3OEk2NWlQVU9TRDExMGhlbGlNUkc2U2tEelBhdkRCVHFSdWJJVGNjbHZNNHRHM2pjNVFfMmR3cUc0emdDSFZnTk15RWJzeHRkRW5Gd0xZaWFlT3ZfWFg4WlQ1aDh2bk9CR2FSVWcwbExVM1pBS2g5OGdDa3JIMUlvZnFhYXNkRVBPbWk2VWZ5eHJCRk0?oc=5",
@@ -666,9 +645,14 @@
      "source": "The New York Times"
     },
     {
-     "title": "Syria to Send Troops to Saudi Arabia Amid Houthi Escalation: Report",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rQlA4TU9BcTAxUG1Xa3pfUzA3RWh1enU1ZmM4bFBxc1ZmS0ZHRE5TMUNFTFI3anUtRHRmeHY1UzQ0SGJ1aUIyZEwtNzhZX0xPNlUyYnJMcnBmOXRLMHBER0tER2lBMnI0eHNRLVNIT0pfQdIBd0FVX3lxTE1Ua0d2dmxDYUxiaE1wdjBhMm5wV09uT1JSdHlUTy02NTluaEY5aEhXUkVhZnVWakZqLWl1U3dNOFZWMlpsZk9ETUY2TUVGR3J5Z2ZZT1pjbjhtZVdlSmRzYzRqMnotRTBzS0NnYmhRWEV3ZlZPblRB?oc=5",
-     "source": "The Defense Post"
+     "title": "Explosive remnants of war kill 4 children in Syria in less than a week: Save the Children",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOV2YzTDQyVDFDVlVWMkMxVHFCbHBLWWNhbDFoYW9SUE1EUkNBWWVDMXZ2WlZJeHhJNVRhOXVmbmQ3QTVUUDVQNzBiSi1tUHhiWTN1cWlqWUJvcUZXUlNjRmlabkUxMVpVU1RLYU05LWNqdEJLUzdIeDV1SF91dTI5TEFPc1VTcEJEby1remoxS1pnNVA1Y3RiNzNSdHI0RmlybWtxWC1sdlQzTlpseEJzV0x5c3ByX19taVVhQXRUdHpqalU4Y3VnWW1Sa3g0Zw?oc=5",
+     "source": "Arab News"
+    },
+    {
+     "title": "Saudi Arabia turns to Syria for help as fighting with Houthis escalates",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVGN4aE5PQk5OOVJKSW10dE1qUnpMQVAtNVQ5RzVnMUpSOFNmSk94TGpLeFdHQktHYW91OFJFNWR2dmZ2QktlUWZwcWxPb01CVTFUMlRPVndkd2E1ZEp2cTBsNDlHTkxYSVVIc1V3TmRfR1JyaUJtSG5DSlBhUXZtQTBSaF9yMmZMT1BjZ3ZzZEV3d3MyN0kzSnlxWWFKbEtSUHpRTFRjaHhTLXd1?oc=5",
+     "source": "Religion News Service"
     }
    ]
   },
@@ -690,9 +674,9 @@
      "source": "Defence Security Asia"
     },
     {
-     "title": "Thai army outlines security measures on Myanmar and Cambodia borders",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUzNPd1BoV2dfNkh1Y1VmNHpvckt5TTAzYldoTU1GVU12b0VMX2o5UGVUOVk0b1NlcFhDZVlMTnVsdG1qc3VUeFN2djh5UFVXRXZYbE56OFlkWXI0UkI0?oc=5",
-     "source": "Nation Thailand"
+     "title": "ARTICLE: Thailand Under Daily Cyber Pressure as Global Attacks Escalate",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSE1xeDRJNThiNW1Lc0JRTV9RaTd3NF9wOV9Fb3ZQSWhnOVkwTkNZcVNaU19LSEk1dENQaGNvaGlleklUN2FRWVpFcEgyNVZYMjVPcUtPaXJHcURWREF1djRCQjJYNW5uX1hBVnZ2X3VUbFVLNWFLdTFHMUZZek5DY244eWRLQWpu?oc=5",
+     "source": "thestandard.co"
     }
    ]
   },
@@ -702,14 +686,9 @@
   "Ukraine": {
    "headlines": [
     {
-     "title": "First day of Russia-Ukraine talks in Abu Dhabi ‘constructive’: Zelenskyy",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGhONWNmUnBCZjBHMWNrSU5JYjRDbVZ2UVZkcjFaNWVfZEJJS2dSQVd4NTdITjhZaHdUbHFQbDQ1VmhHVXVVLTd4UENvTXNxZUhBZTVsUTExYmJTaktacjUwQ0lpcUY3UU0yMGVSanVodTJYLVJjeERfVUxfTjlhSy12YkRnQ2Qwclp5RnJrRU5BY25wV1NZYlpKaHdZWHF4VnJfajc2ZV9qOXBmMmFCMEtmQdIBuAFBVV95cUxOZWZVY2FpTk0xWS1GSEkwUThabWJYMmQyeVBqWWlLUzh2ZFJOTzhoWEFXRHh1WmxQbE5BaHQyeTEycnlUUFJselphQ2dWVFJMcUdxblYzZ1JOd1VZdmQ2NFRESzRJUVRUWmlLeFZBalVhcHMweXNncnFQcFRLUDhOd2pkLVVMMWdwUDQyZDRiSUtaUWxCQW93TkdJZUdZX1Q1RUlaZzRHRW82OGNNS0EzejVvcTMxeGpL?oc=5",
-     "source": "Al Jazeera"
-    },
-    {
-     "title": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect?",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbFFFNGNPMEZ3M2VBX0owQ0ZnMXZXTU5qVTVOYW93a1Z4cVBvc2cwMTJPOF9UOGxFeExEamlKSzhFOGV6ZnkybHVEZXZCd2F5bjZ1VEs3WmhNVGcwN09jYnZNcENuYV9lVEsxVTlnU0JBNVBkTi1YNjNOZ1dRX1hoVS1DMklTak16YUNJOHpPYzhPTzJQVmVOZ1Qwb0nSAZwBQVVfeXFMUGFWcFhzaVlUZk5EV0hNTlZ1aFp3NHVHOHZVT1hSalYtajVybDlYVzI0OUJuR2tDcEhuOHcxWUVoQWJoWXRmNldUSGZ2a3BYVi1QdkxQcGpKSVQ3eWF1NHQ5S1d3eEVJb0pjUFhjNk12RXFqVzVmd0ZIeVFRcnZYNEhmRjUyRktfUUxrQ2RPZDllR0FZdWxiYlBObVd0?oc=5",
-     "source": "DW.com"
+     "title": "Ukraine war briefing: Zelenskyy says Putin ‘lives in a different reality’ as Abu Dhabi talks get under way",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaDF0RG9vblhsZXZRZTNwWFRYU285N2dfTHhFbzdnR21Vc2dPTjVMOEV5djBRdzhqZlNIZ2hCZ0hwVGVPcWZQNGFJdERxTW9pbVdqd3hYMml4YVpEcXZsTk0zYUZkWVJldlBFZ2pmeVFEMWNabUU3TkNzQU45aER2OE91RDFqM19Pemp2dWp0cTFIeUVvMEcwWDVEZDBUV3pzcy1uc2pFUzFjUXQ1VWUtWXRRdG5RZVZkdC1wbzB3VC1zLVVNQzhTWTlKX0ZLbFpaU0VFR251MTJyZXozTVdrdXZ2RQ?oc=5",
+     "source": "The Guardian"
     },
     {
      "title": "US, Russia and Ukraine resume talks on ending war",
@@ -717,33 +696,38 @@
      "source": "Financial Times"
     },
     {
-     "title": "Trump sees opening for Ukraine peace deal, but key questions remain ahead of Abu Dhabi talks",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTR4b1RSQ2FtZEFXLUNXQ195VmlRWHYxQ1plQUJtVW8tdlpwSVpYVndpcS1sTGFSYy1UWWh3Z1BDYWJnLVBWODM4bmhQWHlqYzlDNEc1eFliT0hXUzE0ekNwcE9TcFh4NWltbVdpMTNwVXJtMnNxcVJSYzh1SjUtajZvMA?oc=5",
-     "source": "CNBC"
+     "title": "Ukraine's Zelensky welcomes 'changes' in US approach during talks with Russia",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTTRxRDFNY3NlVE5nbC1lTUFteWxFUzV6NW5qZHVudnIxNEp1cHJPOFJfN2U4c183ZHVnQ2VidmxSUFdZcTFjaUYtMjJ0UDBpU1M2MlYtb0xtaDU0ekxNSUpJMk1Ud2xrNS1iMEg2NnpKb0hpVzlSYUdiX2N3M1EwenkxMDEzQWt6N3ktWl9Bd0FPaUU?oc=5",
+     "source": "AFP.com"
+    },
+    {
+     "title": "First day of Russia-Ukraine talks in Abu Dhabi ‘constructive’: Zelenskyy",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGhONWNmUnBCZjBHMWNrSU5JYjRDbVZ2UVZkcjFaNWVfZEJJS2dSQVd4NTdITjhZaHdUbHFQbDQ1VmhHVXVVLTd4UENvTXNxZUhBZTVsUTExYmJTaktacjUwQ0lpcUY3UU0yMGVSanVodTJYLVJjeERfVUxfTjlhSy12YkRnQ2Qwclp5RnJrRU5BY25wV1NZYlpKaHdZWHF4VnJfajc2ZV9qOXBmMmFCMEtmQdIBuAFBVV95cUxOZWZVY2FpTk0xWS1GSEkwUThabWJYMmQyeVBqWWlLUzh2ZFJOTzhoWEFXRHh1WmxQbE5BaHQyeTEycnlUUFJselphQ2dWVFJMcUdxblYzZ1JOd1VZdmQ2NFRESzRJUVRUWmlLeFZBalVhcHMweXNncnFQcFRLUDhOd2pkLVVMMWdwUDQyZDRiSUtaUWxCQW93TkdJZUdZX1Q1RUlaZzRHRW82OGNNS0EzejVvcTMxeGpL?oc=5",
+     "source": "Al Jazeera"
     }
    ]
   },
   "Yemen": {
    "headlines": [
     {
-     "title": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaGxFOUdxQ2o5dlYtdVRVY242bW5XLW4wQlhsWk92c3QxM1RneTJqTENuYkFza01ORTRrMTNaT0tqZTFIcHVkc2ZkVGxnWXJXX01lSkpXWkNvbFExSFo4cjZwQ21CQXU2bGU1YWRzOF9uRjBkc1I3TFZxU2lGSk4zeThZZVdtRWpKNU5PRzJUTFdPXzFscExmSDBiYlRLLUFBZkh2RkxPMWJoWEljcnZNY1JYUUxMUGFF0gG-AUFVX3lxTE91Tml0Z0VtT3U5OXlDQzBWTGp2WHdKb0dZVzBoU05aOEh1eXhYQXZZYVVNNUQyUlhicy14dm1KR3JkUWh0aHZNa3hOdENYZTdOd2JmbHluRmM0M2NJSHllNzF0Um1qUElNc0h2Rm83Q2RHaXhpMW1WdWhRYWxCZDRWVlRhOUVvZ1pUNlFPend1Mk5DMUZQX0dNOVhmWnUxeEhEblVqOG0ySFNCV0hxeTcxblMyeWtaQTBHSTBSUHc?oc=5",
+     "title": "Yemeni forces, Houthis exchange attacks, claim to inflict heavy losses",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbnJlaDBPVHFnakdjcW9wclBST3dmUFdIX2lRY3F4eWwtX3pmNWtQbVZFOURieHdsUTdxLXJIY20zYVp2eFNXNk00NnhxZ21DMmRnWTJualhnWml6SUxKYWlza0NiZmVkdUF0Mjl3VGtRUHZ1WlVrMm1XMm90Wk11UDA4aDFNbDFpdUFNMll2Q3pVUWpYdEVBY1Jnc0FSR1BhcW13X1lZZEtCWmRYM1Fz0gG0AUFVX3lxTFBkLVo4clNIWUgxSlBVR1E0YjJEYU9KdWRCa1pTSENmNl96SEtRWFJKVmc3ZERyYkY2b084eWxibE5tcUhQdkNSOWk4Yk92WWJiZjRvZ2sxTU5wdTRmWDJCWkdFaEFmX0hqMURBZEVGTzFPaURCR3kxZ1h0T21fMkJodXF2RUZMektmdEVDaTJRNmMwbmg3MzE3UFZ1N1hHWkpDT3RPeDdySE1qZ19rVExRTk55VQ?oc=5",
      "source": "Al Jazeera"
+    },
+    {
+     "title": "Why Saudi-Houthi Escalation Will Repeat the Yemen Civil War’s Past Mistakes",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLURvRG5ILTFBS2hFM05YZzBLVUl3NlFNMDQ3NFpnZUcwcnVyX0x6RTZuZk5wUFVpWVAyZGlJMXNQM3lqQWhONVRiZ29UMUFlSXhjUS1pZ2NQUGRYMkFTa0J3ZDdLMTQwY2dUYktheFFNMDhUYXBSS19vVTZVWU0zNzN6M0lyQWhWVE9YZ01EZzRuR0dOZVZwS25xUVRRQ0g5ek5iUE1ZZmV4MFVqX0lieUJoTy11Q3lrVU5NR2Z0TlZzZVVt?oc=5",
+     "source": "The National Interest"
+    },
+    {
+     "title": "Overnight strikes in Yemen kill at least 1 person and injure 9, and other Mideast news",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZGdKVzZFVk1zeFB4czh1VnBKN3M5YzFaSlUxT1R0UW9tNU82REVwYTkzX2luOWdnQmNUZzJoUDM2X0o4QVU1UHk4Z3JGRF84MHlnYk5jNGpVbnZjcDh0WmQzQWwyUHd2WVlRVGNsS3dEaVpNX0JvWmN2bWFYSURMMkFVd3FuWGhPbDFTRUQzT3JTMEtjUXlmSldMRlVTeWpZR2JXbjBjTHU0Slhp?oc=5",
+     "source": "The Independent"
     },
     {
      "title": "Yemen: Ansarallah Announces Strikes on Aramco, Riyadh Airport after Saudi Raids",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONG5CdlV2Zm5wMFZESHpFTUw5ZmhCZFpjOW1HQnZEbGNlWGxxbEw4RklUNkMzVTFvc2JHWkVmbVR2NzRaSE1Tb2JQa2dnVjdKanNXdjlKTDNDc3pLd2hJaUpvUzBDdnVCaFpTWXRtZF9tYzNwR2RLS2d6WFBsTWZOdDRiTG9Rb1NPbEV6RjRIZUpvS1ZNc1lDdkJKU2t0ZU9qMWY2Q2RyYkxtdjNsaVd3bzZiSE1oZXM?oc=5",
      "source": "Palestine Chronicle"
-    },
-    {
-     "title": "Syria Weighs Sending Troops to Aid Saudi War With Houthis",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ2F6bl84ZER6M2kweEZJcnk3X3M3emwwdHBtd1o5Zlh2WnRJQXZUSmxObUxFS3hvVW1kaExhZHMweDFuYzdpNFgxTGtUYzRUem1xX1dKV2JKMTI1WE1RYzUwSVFULTJETEhOaV9memI4M2FOTXEzbXBPcW1QN09YaktOR1hXeWhlejlaY28yTnFHTnpmOUV0OVQ2ZXo2eGtzSHRXU3BGUU1ybEVkdUZIR2gwRXg?oc=5",
-     "source": "The New York Times"
-    },
-    {
-     "title": "Saudi-led coalition says it shot down Houthi missiles aimed at Riyadh",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeEFMZHZXSnB4Q1RWMGxYRGJrYUFLdXBsc2ZGcmowbDhlNGVjMWxtOWt6bno5WWZnd2F2NVNncnJKdFM1bm1QU2RGQmNNOFBXampZcHpYLU1mdGxIRFJ4Z0drcHcyNHYtTmhVWEVlY0FldWp1d3ZoWlpoZXljR2w1b1lvb2pSR3owY2tnbUF2MDFYQXZlNUxsUUM1TGdaQ1lJZ3ZSUzl6cVp2czBFeTA3akRSS19vMTR3LW1qcGZGUExhbEJQTlpzSFdfNGc2dw?oc=5",
-     "source": "Reuters"
     }
    ]
   }
