@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T06:30:33Z",
+ "generated": "2026-11-11T19:39:29Z",
  "window": "last 24 hours",
  "source": "Google News",
  "topic": "War and conflict",
@@ -7,24 +7,24 @@
  "regions": [
   {
    "name": "UK",
-   "count": 70,
-   "capped": false,
+   "count": 100,
+   "capped": true,
    "tone": null,
    "headlines": [
     {
-     "title": "Oil prices fall to lowest since August as Trump says Iran war is ‘effectively over’",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVmUxcnRYTG1rQzR0VFZuQW9uSXhBTExLd0stSVNWcFBIZE5aMi0wUnV1eWNFeFpvcFF1SFVvbjF6dDJfZXlQczlkUm92Z0xFYzUyLVlPWTE2d1pHeUhHYlNna0hEaEdBTmhkMU0xclNFRGhvWHZaY3V1WDgxcktaMVNyN3NsaUdTdlpjZ0c5X1pmSmtvd3dyNkdDUXF4ZEt0Slg4bDF3?oc=5",
+     "title": "US Treasury chief Scott Bessent is reportedly latest Trump official to move to military base",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORUluTzZESVFwbWJCTENoZFl3VTE4R1Q4bXkxaEJaa2RPQ3hheFoyU1NnMGg3THRIWmFJbjQ3Zzc2dXpNRTh1RnNhdHpMcnIwNXdxNjB4YlhELXUyNjRXOFRiTkc5N1NBcDFKWjVPNXNHQi11MFRjSlpBYllhMW81VEttU1Znd0t3YmNqbXQ0X0d5SWtrc2xuSU9HY0xIeDc4SmNMV20zWGNFcjFRMFdpLV9n?oc=5",
      "domain": "theguardian.com"
     },
     {
-     "title": "US aircraft moved from RAF Mildenhall over reported threat from Iran",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTG9GXzBSaVgyMDg0ck41ZEY5V2xqOFExR29IV1F4MElpdUJqb3VnWTFnRmFZTmVKVUkydmt0ZVBNN21aQ1BudkQySUdleVpsTi05LVcxYWNIZloxYndjdWVaSGYzTGlnZ2RGclFDSWY3WjJEYXhEY2IzMUNheEJFOWNXNnFGMUZBZFl4NDQzUG5CZk1LTnBvS2pRbUo2VjFPNDlZR3Qwdw?oc=5",
-     "domain": "news.sky.com"
-    },
-    {
-     "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+     "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zWXpNOXZwdi1GdmRUV3VrYUdYZmxvYzJLaEh5NGlXNmNLSjE0X0x3eHVSRkVDNjRuczR3SjU0aFVRQzIzQWhNdDhURUg0YVpBTzlSXzJWRVZ1SDNXWWc?oc=5",
      "domain": "bbc.co.uk"
+    },
+    {
+     "title": "Pete Hegseth: Attempt to impeach Trump's defence secretary blocked",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUGVJWjdObFE4cGVPMmFHWU0xZFBzV2VBM1ZQVHJxd29qd2ViaXlXR1l3RndNSW1QVnlvb0FjTWRESVh2em50TFB3cTBrdlJ1TERhV295SmxpSFVkTGtkaEJGN1ZnQk5sa042Q1h0b3FsMUQ3YTRqdzFwTHU3bjJCRmtWbEI5Q29qcnhsbUZCS0d5TnBjdndmbzBYTVdMMl9OOFE?oc=5",
+     "domain": "news.sky.com"
     }
    ],
    "error": false
@@ -36,18 +36,18 @@
    "tone": null,
    "headlines": [
     {
-     "title": "No Good Choices on Iran",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMFVWdTR1NV9jUHc1LTR5cUNwYjFTSTRXMlNxU1RGZk82WUE4a3d2OG1XODc4a1hkYWxZOWRYd2NGaWF1V2Q4cy01dmZYX2dTZDlNdzhqdXdQVjQyRWI5Y3ZINGRyenRDc05fMVE5ZHlMQjdjZmhwOVF2VjNZQnJmdzB3?oc=5",
+     "title": "For Families of Those Who Died in the Iran War, a Veterans Day of Profound Loss",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUFRadjFES3RzVThFMzZaM3czWmx3bkttQWtiRkc5SGJRbHJJSXU0aHh6WkRKdzh2cUZnZlBkd2xzbm5LdC16MU9KcmhwZmxHbnE1VGNVaTEtNUF1VWVFSllSSnR6R0hMYnNtRUZmQVF4SGkyZU1SWjRtZ05oZ2NHTzZMMVNVWmN4?oc=5",
      "domain": "nytimes.com"
     },
     {
-     "title": "Iran-backed terror suspects plotted attack on US troops using vans packed with fuel, DOJ says",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaXcweDU5YVNCWGtFSFV2WjlaR0ZZZEY0QzczcmNCUlRudjA2eWV6X1BjcjI2WXhfbDd3aVV4NDExbFRadW9MbVlMQ2w1MU4tUDdpTDJReVBkSGlIR2Y5MC1HSTBORjRkQ0M2RXZJV3BCdElVcXpDM3ZEQ3ZUaWJDenp6OHpqYWZTSGt2ajFpbnN3RUxFS2F6a20xVzE5WnJTMHBmM2dVQ1_SAa4BQVVfeXFMT1FKZXFmZlhhNEZSdDFrZ1F4RXJFaGdfRkg4aU9uMUtDV1RMT0JZM3dxUmxXUWJiQmFmNXRkNS1zUmVMR2I5MXVTQXVSTnplTG5GYmFjbXY5R0g3TEVKakpVLWgyYUplbW4zb3pvcW9LQ3psVUhkOF9QWVN0d2VZQVBNOFZyQldhdkRaZ2x3d0J2Sy1jem5ZWk5qYnVOOHY1N0hBQjhfeG5CbzQ5SGhB?oc=5",
+     "title": "Trump defends Iran war during Veterans Day address, says he is making the world 'safer'",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1VKaG0zSzM2SlppUmFSeUdEVS1LMUZPdFlIX3FfcG1VMC1keGJsMUFJdVVQRVNLdElkdFdna2VmRkd6UlBsc1VMVkwxcXg3SlBqV1V0ejFWVnY2VWVvUERUcEl2cFVTUVJzUkg4ZEVXM2hDZ0h5RU05YTBPTmtXb0FqNzhiamNpSzBhX0ZFZXFiVE9DZWo5RXN5WVBBUlI3MEtSelFnRmxrejjSAbABQVVfeXFMTldtRkNyWlhoTUc2NHFHRk9wTEphTHg0NDFoODluOHpGTW52RndjUmV5cXR0YXBBWVhZSXo0M05wZTNYSy1IbnlkbDN3c0ZzbnNuRTY0YWlka3hlaVBOODNZcEdLaHFNWkNjc2xVcVc1Vmdyb2d4ZHdMTERtd0M0OGpGd0lNZUxXNWw1d2hVMFptWmpCSnoyb01BeGtEaF9ROGRzNF8xcVFxRkNQanZzS2M?oc=5",
      "domain": "foxnews.com"
     },
     {
-     "title": "Russia and Ukraine hold nearly 4 hours of US-mediated talks in Abu Dhabi",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWFsNkFITi02Z1V3NGtpMndYU1JJZ1RKOUNYWW9tbWJvcHRpdDAwNGJzQlg1bURIS2pzMXA0UWRNRF9WY25QM1ppRTR0T1lqRzNRSTlzanQyeUY2WC1uOFJWQ3Mwd3pyMVFQcl8zTkZZeERfSTJQQ0g4WXFlWmpvdlI5RzNFeDNnVUUtdnZsVURBN2JPMmpYSEJUa2pXOWM?oc=5",
+     "title": "Bessent moves to a military base over safety concerns, an AP source says",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNVlzSmM1MmJFV1BqR2pPUFVQTF84dWt6SWNWbmowQmN2ZVdkTzR4MkRBb2lVS1hXaS1lQlNIVVNBMmRxemNIZUZrZ21IOTczcW5wNlhnVkJYQm1GanRfNXlDOURzZ0d2NFoweWsyanFxUWY0WXljM3BUc3lsTnlfNUVyR0tIUUotWVZIdUVCeC1Xb3Y4U3VpMEFxSDdyaWM3?oc=5",
      "domain": "apnews.com"
     }
    ],
@@ -60,18 +60,18 @@
    "tone": null,
    "headlines": [
     {
-     "title": "Trump says Iran war ‘effectively over’ as Tehran denies planned talks",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY3QtV19VWDdZRDFoV3RqUlhURWJMLVdacldKblllSXIyTlVHWERKZU1aMkNHcXJlV09kRllkZjEwVmxmTFdEeEhETmhhVGdSVGVXeUhlMUJzdzRIZEdqSEFtekdvWHNqTWs2MTdfMnRNcXJ5cldDOXRYdDVyNE1YM2NWTkFmRndxQjhMVmlEQkJzM21Tc3YxSEc3aURuemwtZkRlQVhR?oc=5",
+     "title": "US Republicans block move to impeach US Defence Secretary Pete Hegseth",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORDZNTEwxZEVYWnJGLUxHMFBVSmVTclhZamJxRU91MzNFVkI1RGJHZGxHMGNMYV80Mmt3b0VmaTljMXVWWDhjNVh1S1owbG9WeDJsNGh5TjFaRi1DbG5wX0hVdWZZek16R2k2RjR6N0daY295MjFINW1xZVZ6S3RqXzhnWXJYd3plaEt2M2F5Zko3dE44dkc5Q2JPOUV1VnlUbGJfYzlMTnV2Vm5Ea1VCMURwTXZfbmZqU1lnVVhUYVI?oc=5",
      "domain": "euronews.com"
     },
     {
-     "title": "Fossil fuel emissions set to fall for first time since Covid, research shows",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMUJrcEU0WGotTzAwQlRYdHRPUURNaWJsQlpRbWlUUF96NEFZVm9xc0lGWGdwSFhPZjhMWGN3SXA3MmlBLWx4RFRzMkRNTHJtTGRiaFpSYVZlcmNEZjhqWE5KMm5tMTJDbVBmVFlTbkdSTGdkcFJNSmtVVWsxWTBGQXJTTGVjQnNKNUl5RzYxT1hNWkl6dFEtU3JwZlVuUFNpR1NiYTI5TFdvRUNzMXpXekxMZ2hiU1VvZ1JpWjJ1ai1tdw?oc=5",
+     "title": "Tehran will strike US bases in Europe if used to attack Iran, security chief says",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMmdWd2ItM216RnVsdnptOUw5SDdzYnFrT3hhS2pGbzdiU2JKWk9sQnNmNjgwNUR2ZjhtWkJQWFgxV2x6OXU3LTcxcE95aVQzRzc1MWRndTVBSm9QMncxTC0tMWR0c2ZCbEdOOTVPOHg1SkN2M1VnbUVqNXJDTVJnNm45eXBtQTBPZWRncDR4U0NLR1BhMkpOWl85TWdBdU9uVmZtZk5ia1hDS2lxQTJ1Nk9tS2stTTJ0VjJZVjZZam9XUQ?oc=5",
      "domain": "france24.com"
     },
     {
-     "title": "US charges 3 alleged Iranian operatives over plots targeting Jewish communities and a UK airbase",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVVZ1RkJXU0dRLVRjZ1N1dDVBeXE1djFjOXBwT3RUS3llNzhMUjNQSjdaa0ZqdE1SWHgtM2VUTXpybVVpV2ZDOElzTU1OMUNhalNteEEyVGxESEpxcktZTnI4azRtRkpFTUE4a0dhRFdHbk1nMmJPaG1HUWNCTzZpNVZHbW5IT1k2UGJnejVfUkVPSGlITUU4MXRsbGJ4QW1yQ0x5WlM5YUgyRkhnNnE1NGRfeU43cGQtMmdaT0QySi0yUkxNNkxJTNIByAFBVV95cUxNQjBkMVRvTjYxV0JEbDgyeHU0d0hNb2VqclV5RTBaX0Y2NnB1akhfajBPM0NzM1VaakpoZ3ZmZHdVN0pnYXdNU0NjYXMwOURQa1g0blFEeXpMQUJKQkJVQ0J6WHJuejhiTDMyQk13Z1Y5RmxBaFpzRWcweFQ1cEVUZFpZYkZ6akI1bU4xYS1sTWhRX29HV25GS0tUTUVlaC1ieGdOSmpYZGZKOW0xbjFtVEFiM2RkQS1WTjgyNC1BMGI5S1BEeHRTUw?oc=5",
+     "title": "Iran classes Argentina navy, air force as 'terrorist organizations,' in what it called a reciprocal move",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNTZud3NYZk5pMzFjSzVqTk1lM3F4bnpwWExGRnRVblAyb3hWYmR1OUhXNEV2b19mbHMyRVhveHVBTnBVVmFxLWNqNHg1M1BSYkFpS1dBd09CTTFVcjdFNTllOXZtTnpXS21KMmFCMEl1TkpkR1pmeGhHLTNNbmpRMkFDWGZ6VVpSVnZpeVFrbDJZMVpTRktJZloxcURuZ9IBngFBVV95cUxPZVN4RXRjVU1tSGdpU1hZSnRkYlBWWlBJZ3hQdDJZWDlsNk5hYkZKbzRnZkJ6SVZ1ZzZERXdrM1p1cWZTWVZsNmJKZFNLeXJmakd1S3czVGdDOTVsUV9FX1JFN0JJRzJjSGwwSDhTcnhYOWstS3VGRGpacklWdWJTWm9xa0plQ3Y0Q2FPRjZoMnJEeE5wLTBoRnlCQlJpZw?oc=5",
      "domain": "dw.com"
     }
    ],
@@ -79,13 +79,13 @@
   },
   {
    "name": "Russia",
-   "count": 19,
+   "count": 13,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Qatar says US, Iran both still positive on diplomatic settlement",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE84VTRzTUstblBPancwZEp4TlREcE5kNzhSLTlpQVdiMGJ4OERzLVpWQVRwOFloNzFSLU1PajFNb0x4Q2pC0gFKQVVfeXFMTmgzYjE4MFZySmRwMnI3T1VlYXFnMkNBNzA3NUZ3ellRWThJdkUtR1ZrREJVNjlSYWFHakpvdm82ZGNHWnBHRXFnV3c?oc=5",
+     "title": "OPEC+ countries increase oil production by 1.94 mln bpd in October",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE93ZDZ4emE1ajNXRjdKcklzajdQNzlrczNzeWRCWFduZ0VvNUh1S1JnczR6VklGT01SQnJaNUQwR0RMVFBFaE9j0gFMQVVfeXFMTWo0TV9TcUVlaG94aHc2SlB5V0NCT1AxeVhsbFJkVmtWYWtoUHpUcVljS1BMd3dkU2xqdEJTckRVUUNnOWFTcUdqLW1VOQ?oc=5",
      "domain": "tass.com"
     },
     {
@@ -94,8 +94,8 @@
      "domain": "rt.com"
     },
     {
-     "title": "LNG transportation via Hormuz reached peak in October since February 2026 — Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBZUXVxRklWS2xldlgzeGE3ZTBzXzE5ZGJqUFNzamM1WDZfMEZGamNCUVhjVjFicFgwamdjREhlR3hHYlZHR1V30gFMQVVfeXFMT0lYNS1wZmU2cm1JUVZNdkZKUTlkTDBaWVBGWmFqYk44eGtVdjdVNUZHMEtCLWc1cEw3T2V3WG5ENmx4RTZENjRSeUtubw?oc=5",
+     "title": "European gas prices return to above $1,000 per 1,000 cubic meters",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA5NXdkYmJ2Q1ZUS0dvR1RwRlJCWlNiRnFyTU9iX2dzUnp3ckFIZXBlendBcDVGNDNHNEozZURJTVlHQ19MeGR30gFMQVVfeXFMUDFMSVFmWUlfZXAtWmgzNUxJbXU1dVBBNmljSWJ2MEpBcmEtMnBQZ0ZfeVZmcHlrT3VvZlhuOVlWRGJPcVk0QW1pbXhjag?oc=5",
      "domain": "tass.com"
     }
    ],
@@ -103,24 +103,24 @@
   },
   {
    "name": "China",
-   "count": 26,
+   "count": 23,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "China’s EV exports surge 145% as Iran war drives up overseas demand",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeURRbmc3V2Ywc2xXMkJaenFsX25HeW41TFYzRG40bi1HdlVIaWZwVUhuUXVFQlZmOVZhWFFxSUtRTWxfUjNpa0t0MzJwaVl0U2dESm9menlzUEUtUVV0bG5zT0RzLUhBeFZXclNlY29hSEFfS2RQWTlyeTA0V3RjR0pac2dBRDFTRGdFTTgwUy1MTW5Fa0RtazNubGplN3VxSXRXS296V1Q5OFYyYWNyVTEtMGsxYk8tZmV5OWZjZUNkS0N3aUhVd0xGOFBvbGY0ZEliblFRZ1hya1F2eUprUA?oc=5",
+     "title": "Can China help ‘neither war nor peace’ deadlock in Iran before Xi-Trump summit?",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTjRNVnNiUEt1WHVHTm1yVjF4SzdZU0ZDSW80d2gwbFVySlpHbjdneVcyQmZUeDNZb2dNUVQ2eFl0YlpNcm9tZHAzSnJlWlVZVlNHZ1IwYklrMDB6NlRuWEhyRVZYbFBQek1sVmh4QTBINmt2c2RJMTV3LXJXTXotSWpZNVlYeEoyS3NwUFdRekpsaUxyNVRVeHcwTHM1TTA2QkJscTlXS3FObXRjRzdhMVQ0N0dEU2VfR1daa2U3emFqWmE5M1l4a19vUklFYkM3eDk3Skx4YjB4WHlK?oc=5",
      "domain": "scmp.com"
     },
     {
-     "title": "Iran's IRGC unveils new missile base",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tYk1lbV9mVFdMWHdfT2E1bDA1VWJGMFQyNDJkUTJaRmdINU15LTR0Ty1NcjBqeXlyLXNlNjExSTNDc1pwQmg4NnAzY2JvMEt2VU10X2xXSW1LOVlBUnJJWEdjeHpFcUlKS3g2ODlub0QyZEZFUlhpY3BZSmU?oc=5",
-     "domain": "english.news.cn"
+     "title": "US Treasury chief Bessent moved to military base after Iran threats",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTDhxUG1NRTQyLW1WY1ZDb010elRCMzJfUjBDRnJGM3NKNjVzQTVGUlY5aVppcGdRNmpKaDVOWk50cWladlB5ZnFuc3B3Z1BzQjFwZjVIcXlQTkc4eUtybncxVVdvVkxFb2FrUmFjeXRHUVkzUDFwSjBHb2twWG9oYlFOY1ItNUtoeUZJT1dOb0JOWHkxaTI5RTl4cEgtOXMtTTlobVlNMnl6UE1yNzNLTjBVcGJadk9VMW1iUjh6TDFNTmxtSjlYdWl3cUFSZ9IBzgFBVV95cUxQTDhxUG1NRTQyLW1WY1ZDb010elRCMzJfUjBDRnJGM3NKNjVzQTVGUlY5aVppcGdRNmpKaDVOWk50cWladlB5ZnFuc3B3Z1BzQjFwZjVIcXlQTkc4eUtybncxVVdvVkxFb2FrUmFjeXRHUVkzUDFwSjBHb2twWG9oYlFOY1ItNUtoeUZJT1dOb0JOWHkxaTI5RTl4cEgtOXMtTTlobVlNMnl6UE1yNzNLTjBVcGJadk9VMW1iUjh6TDFNTmxtSjlYdWl3cUFSZw?oc=5",
+     "domain": "amp.scmp.com"
     },
     {
-     "title": "Russia, Ukraine hold US-backed talks, first time since February",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSHpUU3ZlWDM0cnZTQTdFZXVkT0UtQ0lPMFdNYlFSc0xvbFBpZGQ0aEx1aW04UWJackZDTVc4QURzV0ZZc1NGUWNNd25taFNoVE1Fb3phR2JhVE9JVU5iY1gtN2hVX1p3dnRrYzMyWXpfenNPX2M1cG5WRFNrdC1lTkgtTWRMOTlqcWpBQzhLRjd3WENYR0VCYXktTThNRkVHRGZyaGhtbnBHczR2VXgtVXBMYmQzODFWb19IalhjcFjSAcABQVVfeXFMT0h6VFN2ZVgzNHJ2U0E3RWV1ZE9FLUNJTzBXTWJRUnNMb2xQaWRkNGhMdWltOFFiWnJGQ01XOEFEc1dGWXNTRlFjTXdubWhTaFRNRW96YUdiYVRPSVVOYmNYLTdoVV9ad3Z0a2MzMll6X3pzT19jNXBuVkRTa3QtZU5ILU1kTDk5anFqQUM4S0Y3d1hDWEdFQmF5LU04TUZFR0RmcmhobW5wR3M0dlV4LVVwTGJkMzgxVm9fSGpYY3BY?oc=5",
-     "domain": "amp.scmp.com"
+     "title": "U.S. House blocks impeachment effort against defense chief",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeV85S3FzaXhWbUxqcTE5Y1Y5a0RqazZaLTlCWjVKV2R0bFhjczBrZUFrTG80MW9ZOEVzdDIwV0FacjdTSVRfdUVVNEQxN2V1Y2NrdktQbHZrOWdtUU5LWThoSUVZVEJyVTJ2ZEZSME1HLW1jWHpYVmNBWDExamY1QTRfSGtFa2gzYkZMaFBn?oc=5",
+     "domain": "english.news.cn"
     }
    ],
    "error": false
@@ -132,19 +132,19 @@
    "tone": null,
    "headlines": [
     {
-     "title": "‘Positive momentum’: Is the US war on Iran about to end?",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkxDMlpGamhRLTVyZGpBdE1zQkRrOHZvLXlrb1ZSWXNMdUhVNDNmaWNzX0lKQm5ncC1ZM01VZm1yb210NW15eG5DVWlaaDBPTFhldXBDRlFJdFFmMElHZWZpekFRb3ByMExFZHNuZ21HOXQ2Tjh4X3V6WVEwLUtlV3ZWS2JQVUFKbm5ISFc2Y2VCVUpKanppczZR0gGfAUFVX3lxTE1fYjdrZmtKMkhWNnF0UnNYZVpXMTNydmRLNVA1VkxpMlVSTkxnX0pfQUxLNzFoTDlHeWhWdzJpYmFRcFcyakJNRzVraUdpT0VpTURSR0VwZ256bTNxZVhMX2k1S2FUVTRObWFlTU04X2piLVNqc0FYSG11a3FPdkhBU2R0QlBEYkhLcEVHajhBRjQxbDBtSWxqblpISHZ2OA?oc=5",
+     "title": "Rubio backs blockade, Vance wants deal: Is Trump’s team split on Iran war?",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCYVRxVHdXS2I0WWlWam93NzhydHhvZnRPWUN6ZEZySlF1WGp6a1JDWVNPal9hVmFYbEdNWlVyclgwN0lOZC1hZVR6Z2R1M3pUQW5LRjRZSlVYZndYaDNzbDVtNEF5UmZwbFNoNzB4NnNzSnJQdkpDM9IBfkFVX3lxTE52RGRYcHhoaW9LZFhuZHc4N2ZocFVUcGZlYXZSM21ZYmR2a25odXBneUo5ZW5tNnZ1SEFOdzZNLS1pYXhtai1kd2cxTUI4SjIyd2trTF9BWk9nVVEzak9UYmRMWHZPMmpOZWhOUnplei1yUlNEbDVrUlhTd25tZw?oc=5",
      "domain": "aljazeera.com"
     },
     {
-     "title": "US said to move planes from 2nd British base due to Iran threat; PM said lobbying Trump daily for war",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVFBaS1Y0YnJaMDUydGQ5SnVPYVNnUUZCWkVhNmJsN19teXROMW1xZjY4M05TWXk1QVZRSFNGN2ptdUxmQjd1RURmbFdqTnNlMlNOTzBreS1Ba18zVHlsTGhrRHZzVlhLazVmLWxZdXJWUklmLVlaaXQ1WFFPeDNaNENYUkVvR1BVcy1wVmxiSV9NNXFFUVNlcXVMMUJNQmxXX1lYOXlpb3hNcjZQYlc00gG0AUFVX3lxTE85V3NRN2R2NU1CbGpVdDAyaXc3ZUoyamhjeTA5eXpfSFVNVEdyVmcwVUkzR2hBOWItaDlqQ09fNjJaNDBCaFVCakhwNm02T08zOE8tV3ljRGNaS2NySnhMTXBEb2xGaDFXMWd0NlZkNkRsWGlETVJ4Vkk0MFFOWWtXN0VCT0JUSHVpZzhkMlAtYUxTNnJaUnRMNHBBNkwtRVF4TEFVdXZwWUl1UFJoVjhEcEZ3Yw?oc=5",
-     "domain": "timesofisrael.com"
+     "title": "Iran producing 50 missiles per month despite crippled industry: Western intelligence",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZHZEbUNrTWFfQ0l5ckJlV0NEX042TUNHNU5lajA2QmFFbEF3aEFrZWhZQmlLYkhndkFKbVRaUlJtOHJKaV9HQVBITVZLNDZHX08xbzBxbVpTWG52U0liSkphSHJCTVZ1Q2ZFS2NmZjAzdDNoZnhVTmx6M3hmRkoxaTdnWlphWFVVRWxPcmtJSV9nVmlITlVHQmJLdUNHZzFxaXJ6czFWY3JnMUxMSTByckYyb3N6T2EzMkVybVRkQXdnZ1ZpLW5qX002OXFKdTlBWG9QU0VQTjLSAd4BQVVfeXFMTlA1WDM3NTdRaFdrSEJXd25xdnNUOHJmcHlUX1ctblN2SHJUSUFkZWNfT0VGdWszZG5uSUtsU05sb1M3S09OVEw2TGxqRlRZY21uT2dxbkpBQlpsbFl5dkQyM0lyVDhxZTdMMEpWYjVuQXNYeXdjLW5tRmxsWU5vR2NoTmlmM0I1bnBUUjBnNjZzMFdLREd6MExiUmtHZVA3aWxnWVJCWGZaYnlIVDNReTVkaVdWTjN4MjF5bFRuUFhMRFFQbFBJTnB1NEo3TFdzN2JQMERvVWpZOWtlOTlR?oc=5",
+     "domain": "english.alarabiya.net"
     },
     {
-     "title": "Qatari PM joins Saudi, European ministers for Iran talks after meeting Trump",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSG00aHI3dDNhS2VaUnhyNUhOLUdSWVl2RG9HVFVoSURZZGwzTXVMRjltS1JNcnVlS1h1djk1QTJwSXhieERJVUdTdnZyc2RrVEg0WjJIQ2phTFlNc0M3STNvUXB6a0p0M2tkc09GdTNYSzZLYmU3M1pqVWdFdUs2VzdYSUppOU9kSDJhckl0SkpIT1NaY2FrN181dFl2U2ZvYzE3RHVuTzRiZVdnOUlIdFZMUVdHUTRZZXRVeVZTQWQyME1lUUJsTkV1ZnRiUdIB0wFBVV95cUxPU2J4Q19tTUVmUEtEOEV0WnR6emtrVXREclEtOC1uU0tHSXN1bjVQb2c0SGpEc3hZU3FQaEN2QmtJQVk0Tk4xSUVlOHhjSnA2U2EzbnFldnhfYU41NnREc2E3Qmg5cUxtd3k1NUVYb3M4eTFWby1UYkNCRmRnNFFlbGs5NGtVUjlOdENuV0hydU5YZVdCVFNRamRKOXFvN3RHVVdHZFNxUHRvdG41R2dpSklmWHNrV1oxSGJpT1k0cEllMVVaZHc0QmY4OTJiTXF1eUFz?oc=5",
-     "domain": "english.alarabiya.net"
+     "title": "November 16: Three Carriers. Is Trump’s Final Ultimatum to Iran Approaching?",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNy12SGRYWDdBMU93a2lSMnMyUzJEM24wVDdRYVFSQlVqLTBCREVPM3NPbkcwaDljNWVfRVAwdW1qc1FaYXFwTE9oQ3JlcWJqT1VVb2tzS05rS193YTRueVd4NmlqLUl0TUNyR3hxSmJNM0xDcWNfMGstdk1uc2hoZ1NOYm0tVWtVUExwUnBwUlc2aDFhRDc5SjRKN0VkVjdXZ0o5Z0FfdzI?oc=5",
+     "domain": "blogs.timesofisrael.com"
     }
    ],
    "error": false
@@ -156,18 +156,18 @@
    "tone": null,
    "headlines": [
     {
-     "title": "\"We Didn't Start Iran War\": Pete Hegseth's Defence Amid Impeachment Threat",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSGNDdzJIX3NzLTllNzU0UUZUMHFOY1VLeWNsRGlzS0RtNFFnMENHb2hmaWJ2M2pmekJ1R1NxUW5WajlTTkltOTZ3dWNKU1ZBNHhEMW5FRlM4RDQ3UmdaUlJoOG1DLU4wbFU3UVZId2czV0w5ZEdWYXRIMkdMY3ZUeWNxZk9aaUJISklxR3lHcU54S29USFVCX2pGNDNGUHJ3WE9OTXNYd2hlLUHSAbMBQVVfeXFMTnkyMko1OHV6M1JGUWx1M3lJMUtodkVuTnRIXzVxUmZqQmRHa0JOTFJSTk9wbG8yMVA5dDhIQ201ZEFWX1E1cGU3S25lZ2dHUllBdFZTTEdKcGw3MXNEcjZyc3I1bDB5MUFwRzYxWGpwMVdha2M4cHBLUzhYdWdpNFFiVGprQ1FlRFpiRHIzWDhmNTI3cy1aZ3MxSUtXUkloRl92VFNucVU0UUxBTkRwd1hHSGs?oc=5",
-     "domain": "ndtv.com"
-    },
-    {
-     "title": "Netanyahu's daily calls to Trump over Iran war spark pushback within White House: Report",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZmQyTGZoZ2pwM3RtVmFfRWh4a0xXcmQxZWtia1ZJVWFKZHN6LWIzaV82NDlzNW5MVmtQN21MdTVMUnVQTFQyS3hpWnlKZzdHQ1dGSjVjNDM5SmpUdkdnbzFCU3lWUF8zeGZzblJpR3dKYVNKTlZCQndzUHhhb2xvT1ExaGtMaDRzWHR5Y2xWSlY4Uk9FXzgxZFFaNDhSOVVMdXIwZDJJY2h1V1hiMUJPWVlORkh2TElvMVRaVHNvSlZ3dU5kOUx1ZFU5T1FqUmtmdDRtNDc0SGNQRXJzR09SNEtMUUpfUTRwRUZ4dVBB0gHzAUFVX3lxTE5MVjlZeWEwWW1WTDVFQWNqRGx0RUxKVExoMmNFMjFOdnEzX2RLbk9lcXdvVzdnZmltQ1ZaaF9YM1ozMHE2QVhpZU92X1pZMGpwRjl5eU0yeEdQVmNWcUZ6X3lzN0lWMmRHZTlJc3RHdU0zc0dxOHFTTWJpODZNY2l2ZE01YTZvTGp4SmYxa0xGMFFsU2oxQ2J0Qm5YWUFWYzFWWXQwVVpBVkkyRXFnVk9tc200TDYxS184bGRoeEhNbGFJUmt2WnRHaFdRdzgzcHBHWEZhRGM0MmdZUlpIemJNMUVQYm5qbTR4ZlpvUHIwRzVFQQ?oc=5",
+     "title": "Sensex erases US-Iran war losses, rises nearly 12% in just 10 sessions: What should your investment strategy be?",
+     "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNaWR0RTBUdnQzNTI5b1AwbXdCbVdnd0xfcGxLM3VpZXg1OElSLVV0a2xYa2FwSjJOeTc5dTgwa3kzRTh4MWFoMGQ4ZnUxU1ZWUDJQcV9mUlpuOGNFdUVHNFZuNm11ekx4ZmZXS0VpVzY1UmpNeXNIejc2a2pkcGxtSkZtSDVEOURicDFVbFRuVHd3dDJ1SFJHMHRLdEVNblZSZjBlOHh1TVBlaTZ6WVhGVlpRV0Q1Tzh1OGNSQklNWjVqWkRXazUwUnRwUFIwa2Y5dW5nSmdESTlZUTNLM0dadVQzT3diX242ajh0cVBFLUxaVklxdDRfaUwwM0ZfcnkzY2JwRTdhMEpPd1p4eUpxZTY4eTdYTmxmcmFTLUVTMA?oc=5",
      "domain": "timesofindia.indiatimes.com"
     },
     {
-     "title": "Pranab Mukherjee hinted at desire to become PM, ‘shocked’ me, writes Sonia Gandhi",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRnR2VmxKUzcxU1M3SUVhYTF5Z1FfRTNFNnMwSnYzaEhVSzZDRk5KaGlOaDJweFF6S29SQnpMclFma3JqOUg4S0RuaGY3Zjd6VklDRGhZV25Td0hNaWw3aTZMc2x2VTlieG5rbVphU0pRNGg3OUNWMGpuRlZPN3RMYUtmbFdKMUZ1OGpJVHVHZDZtTzk3SjhSUTNXbVVPNW9BY2NmRHV4M3pvTk1pVG9mbVA3cWRWbUk0WUVJOXJnX2RYTjRKcU9kYTc4NTA3eURIRlHSAdgBQVVfeXFMUGFFZk5nRjBWVjRmRm5LZVVyRktjVk1xRmxNMDFVZGo5bWhIblM4bUpQVWVVYjJ5LXdRM2Fqc2lRUnM1MUJpVS1yREl5dW1Fb3U0d3VhMzlhMWtseFkzbFZIZVZ6bFJuRjhlZ2JWZ1I4X0FCR3J0eUVmWjRlcXk5UHdKdDdjWWFpMjBTTm01Y2tQdXduWldQS01adjRsM0ExVnNoM1M0N3BqSnczOTktczV2eUs5UEVyRFZxZ05iWEViWWFHY3U3YzBiWE1jXzhkOUpaUURPcHoy?oc=5",
+     "title": "US House Rejects Effort To Impeach Defence Chief Pete Hegseth",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYmoxM3ZmVmFNazFpdGVXaF9rLTF0eHZnWTF4WldoRFNXQ3VlZWJTVmI2c1lKNGpZZXVwbDVYT3NBYk1ESFRHTjUxU3U2MjNTZTZFOXJZRXpsM05FZ285SUY3SDNKWEJ5WUNiN3hKT2o0X2kxT053VkotV2wwV3BKdGhBNmdPLUpNTDVtYnpuUi0waXk3a1FldHlEYVZFSzR3a0d1RdIBrAFBVV95cUxQa0FfTFJOSzlJV1hURlFxWUlrNmY3UjIyMmxsTGZrelNwNXJuTUFiVDl5cDJ0OXB4TmpnNFJ6QnBBMzVvaFBOcXVmQXAtYVJKYTIwRk15NmpaWVMwbXNtNGRjMlFQX3V6QjJ3cHdiNEtwU3RoV194R3VHVDd5SGUwZi0zWk5KaXRPdXlLbW1vQWVUdHEtTVVaLVB3cE9zcHpUY1pGd19pMkZrMXNQ?oc=5",
+     "domain": "ndtv.com"
+    },
+    {
+     "title": "Pete Hegseth: Trump backed Republicans stall impeachment push over Iran war",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcXNNd0EzWXJFTF8wd2w4UjBlc2dfbmt2dWdhUjBiY1otZmlCajRDbnN1QThncml0UFNrQ3lRelpXWWd0Skc1bGY2Qlc2OGQzdklNeU9zb3lGQl8zYjJhOGJYREZUOFJrOUduVW5JRXVKYTRtVHUxc0ZFNDg3VnVHZU5fSURyRWFvMkJ5SklxY0dDSGg5ZlJ4N25vZm9jUzR5YVMyYzd1TkFPS2xYeXBCemNsRV9LMElHS3I3VHduQzYydXNCT1AyR1FIMGdtejVjZlJV0gHTAUFVX3lxTE5xc013QTNZckVMXzB3bDhSMGVzZ19ua3Z1Z2FSMGJjWi1maUJqNENuc3VBOGdyaXRQU2tDeVF6WldZZ3RKRzVsZjZCVzY4ZDN2SU15T3NveUZCXzNiMmE4YlhERlQ4Ums5R25VbklFdUphNG1UdTFzRkU0ODdWdUdlTl9JRHJFYW8yQnlKSXFjR0NIaDlmUng3bm9mb2NTNHlhUzJjN3VOQU9LbFh5cEJ6Y2xFX0swSUdLcjdUd25DNjJ1c0JPUDJHUUgwZ216NWNmUlU?oc=5",
      "domain": "thehindu.com"
     }
    ],
@@ -175,24 +175,24 @@
   },
   {
    "name": "Africa",
-   "count": 13,
+   "count": 10,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Trump says Iran war ‘effectively over’",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRlpKckRYQnFqTzlYVEdYcUZ2M2dzMTA0V2hLRzJhR29leHJkTmhSUl9tdDdRQm83OGo5RmJJQlEzbGlPaFVYNE5MUVVlQVVnQ3ptTl92R3JEVzBUNTRXZ203SkNYczNGY3ZNZGlTVFBPcFpLVmd5N05WWHl2empyM25BX1oxWDV0bWoxU0Q3ZzI?oc=5",
-     "domain": "premiumtimesng.com"
-    },
-    {
-     "title": "Trump says he will hold off on fresh Iran strikes for now",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY1RxNEFrbktHY1JZN0I0OWNoZC1qMWVoM1Q3b2NtTGZ0dzVZUWdobEdhY1FzcUY1djEwVkg4enZibWVQX0xLUEFVSGdURTlOUlFxdzVsblJoSV9lN2x4MkQzdEk2YUtpZ19QQ09lMG5TM19hRThWWTVjcWNLeXFqV0pxRzdONm1yTmRlbzJvN0t2X0JZSE00NEVqTEVMQVNhMlE?oc=5",
+     "title": "Paul Vecchiatto | Johann Rupert hires for empathy - unlike the tech world",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM0t4ajBCVkZpX2FWVEZkTzF1WGlBUFNRbXMwRFlGYWZMN2dWUzlBdWFhRWNreWZycTFSdERiZ3g4Z0ZzbmQ0MUxCRkNhbVdXV2R5RDRGODZXUVJvejEzRTVCNktGOG1raUQxT2R2QnNuZjAtNUlQYl9udVd6SXFrYWotOTVCRmpoX3dxc0h3clVhYXNiMHBqVGx4VWU1ZURYQVFXcHNxSkhjaF9fYXUxNVBfaHJ1RjJ5OXpKTGhVZXZYWjNBLXJMd2I4cDduSWQ0VHc?oc=5",
      "domain": "news24.com"
     },
     {
-     "title": "New twist in KTDA boardroom tussle as court reinstates CEO day after ouster",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQW53RW93SWNRQUlRRWxEOGRnNk1DWTRzcENaVzFZazJaZkxuX1dtT1Y5NUdyOU8tVVh0cW92YVVMZDl0Ul9ybkkybUVxWFExMG1faEZTam1pUjlWck5nNEhRSmF6OHl5dzhzcW9JLV9FajZVbnJjT05LWXNiVEtGUDIwTGpCWExJNW5LM3VhejFJV2prTUJPNG5LcVFWdUtOTE03Mlc0NVNOdlJSLThVTkRfN0V0M1VlRnc?oc=5",
-     "domain": "nation.africa"
+     "title": "US House blocks bid to impeach Defense Secretary Pete Hegseth",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa1lCbXhwUkMyelVUeHpkOHVBZTVFdElhR3ZHQjcwazlzc3M1TjRIenNJYzUzUlp0a2dwa05ZUVk2SjNZeC1uYlg5bDd6MlpDTHE3bFd2M0RwN2k1NHVZYVZtVmdtNk5mU1N5R1BTRkNMOVh4LWFWaUhvVFNZdU1FcWFQdldxNlB0V0NVSnVGSDluVjBpMGhMdEc4REhFYUI1bWV4VjZKOA?oc=5",
+     "domain": "news24.com"
+    },
+    {
+     "title": "Mike Dolan | Bond storm of 2026 may be passing, but Fed gusts linger",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU2ZCMk5nZ2lRTUFnaEVDY0FidWZ1aU85TERvMVo1STJRcHV0LTRkOWNXeHBScDJOQ1N5RHZnVnh6MF9Jd1VRRnhob0NDTDB5Z2oxOW1VZHBmNUFYZkltNlR5ZllFQW9OalJSQ1VVdjZzekk5TVpnbE1BUDhsczZMeDJ5UFBISFZYWWtfQWZOeW1QWFNaWEpjOFlOOVppYU5PZWV3U3pxLS1hN3UzS05tWFlNVUQtR0tZY1JZ?oc=5",
+     "domain": "news24.com"
     }
    ],
    "error": false
@@ -207,7 +207,7 @@
   }
  ],
  "framing": {
-  "text": "UK and US coverage emphasises Trump's statements that the Iran conflict is \"effectively over\" and security threats to American military installations, with US outlets additionally highlighting alleged Iranian plots against US targets. European media focuses on Trump's claims whilst noting Tehran's denial of planned negotiations. Russia and China report diplomatic settlement prospects and economic implications, including energy transportation and EV exports. Middle Eastern coverage stresses \"positive momentum\" toward ending the war and multilateral diplomatic efforts. India highlights domestic political reactions to the situation. Latin America and Africa show minimal engagement with this story.",
+  "text": "UK and US coverage emphasises Trump administration officials' safety concerns and domestic political manoeuvres, particularly impeachment attempts against Defence Secretary Hegseth. Middle East outlets focus on Iranian military capacity and potential escalation scenarios. Europe highlights Iran's threats to strike US bases on European soil. Russia and China downplay direct conflict angles, reporting instead on energy markets and diplomatic mediation opportunities. Africa and Latin America show minimal coverage, with Africa carrying only tangential stories.",
   "model": "claude-haiku-4-5"
  }
 }
