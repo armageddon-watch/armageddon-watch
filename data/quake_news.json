@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T07:20:11Z",
+ "generated": "2026-11-12T20:01:40Z",
  "source": "Google News",
  "quakes": {
   "us7000tx16": {
@@ -7,7 +7,7 @@
     {
      "title": "6.4 magnitude earthquake strikes Solomon Islands",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVTVVWlJicnhaOWZjZ1Z6XzJMeW1vY0c0TllJekYwM21wYlJTQ0dLWEZGOW1oUHN6M0NDekxzVzZWZnA2cVBReWpTQ2k3WGRoQmhhTUl3cTJjRm83c2pQZkNFc1FFcFdpX1EySkh4T2xVWmd4eTJvdzIwWW9iR1RHRTNoMThmeFBwQWJOdlFGdw?oc=5",
-     "source": "Yeni Şafak English"
+     "source": "Yeni Safak English"
     },
     {
      "title": "Magnitude 6.4 earthquake jolts Solomon Islands",
@@ -34,11 +34,6 @@
      "source": "FOX Weather"
     },
     {
-     "title": "M6.1 earthquake strikes off Japan’s east coast",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2ltWERvdUt2Z052MmJDa2lpOHY5RklhTktYck5SRnhxUnNkWWxZR1N1Nm94dDNFNlQwRXpKbHg4Y3RDLWN4VlZEQ2RUelRPYVJIYkRDbkRTN1BpaXpScHV5YzNvcFhuNklOOE0xbzBLcFpGSUl3N09lOUhkcUZGbTljVU7SAYQBQVVfeXFMTUhpUHVzTzZ3VGhMU1BiZXlEM1hHVWVPbXJiUW9Cb0p3TXVneHRUSXY0djBSRWF6SUJyTzYzdk8zNDRrV3NhTUZMV18ySVROeGpSb3EyX2tvQUxVYUJzZUlpX3RnV2x4aTZuY2p3QU5fd01td0piaGcwUWdSZHVTQlVqVDFM?oc=5",
-     "source": "Qazinform"
-    },
-    {
      "title": "Japan Earthquake: 6.1 Magnitude Quake Off Tokyo, No Tsunami",
      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZ0tSczh5UXF2eDFjbl9lbEo0TC1kOXNfYXhLTWdTUFlSRmNPR1d1U29raEdHRU9hMklNeTlsa3VYQlBYWURwaTN2VjF1dE5iSFIzQ1FiMXBLczdJRW8yZU9rLTBSU1JRR3hJaTFpVEtWZnFiOXpoY29HbjZBMkdZZ2lXWjdGQ3JwdGFaZ044Rm9PUWVHU2gySnh2b0x2T19nUGYxUWxpWWRYeE82cmtBQTA1c1JpcGM4ZVlSeWNZM3JpODNXbHVUQVBVWk90NEh4d3R1d2d4UU1GTVhjWHR1aFRuZ0h4Z1lJMmhtOWZCZ2FoZ0cwS0hicUFfamMxLTBDUmNKenNMd3dqblHSAZICQVVfeXFMTUhjSm1uREl3LTJCQThUblFZWlF6eHVGQjFucGF3THRNRnlld0NCelUwdGF1cEJoSG11dl9oUkRPcm9ESTl2ZWxpVFRLdnpaTVVxNU01UkxuT1NDVHF0RGhtTV9JU3FtRVVQRlg1MUlYeUdQS29RemhvQnhuLXFEbnNITWJXMzRvelBIZUJidVZlX3FrMTVMNmFraV8wY3hxNzE2RFRUSjhfams2SFdHRzh3X2RiUkVIMklKemRvUEljWm5tLVNvUjlqcHV3VW1fYS04VVMzNjBQLXE4RnZkN0xIUVFvbGw1M1ItenA1NUdya050MTk1WDdFa0I4WDFYX0ZXWTQ2RXVTa01FZGlJWjNxUQ?oc=5",
      "source": "The Daily Jagran"
@@ -47,30 +42,6 @@
      "title": "Japan Earthquake: Magnitude 6.1 Quake Near Tokyo",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcEFxdU9oQi05Y1hoX25OTEVJcXNVTG5feUt4ZW5FR3pVS0VfVVpfVU1VcXhzOTlITVltQTFQeFpaNzVETlJ1SHVIQlpJRktLRWdjNlpiSTE2WmhJVW9wUVVCODhqU3NkdmNsa3Ywa0cyY09NcDlrV3BUYURtOFZqVjNaYlBNUVV1a1E?oc=5",
      "source": "JournalArta"
-    }
-   ]
-  },
-  "us7000tw8r": {
-   "headlines": [
-    {
-     "title": "M6.1 earthquake hits waters near Fiji Islands",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTFZxTnVnYWNNdHNGM3prdHpzblRKYWo4Ukx1RjFtUTdpTm9EdUo0RjhlRTVDM0h3cVVxNlJITkwxcDM0VUZQeVNGcFpGaEhhMXZhLWxhZDdCZWZCcDdOR2Rhd085Vkxnbkl4V1BoT2hONmM5RFQtREJLeGFRTEgwUEVFWG_SAYQBQVVfeXFMT081bGpxSEZSWmp4SHN2SlhjQnVwOG1nOVV6cU8wMU1McnNqN0JfU1B5d3ZEdUlnbUFhUFQwYjExSTg0a3ZMUjN2ZjdpYkJmQTV5U1A2MDZ6RFViOWtwM0duOTNZaFRaM3BzVmhXRlN6bnZDMklZNnFQU0JYYUJTWUhiZjJG?oc=5",
-     "source": "Qazinform"
-    },
-    {
-     "title": "Fiji records 264 earthquakes last month",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mNkdaTVk3c3pFT2N4RzlkS0lIOC12X0xuYUh3TlVGRm11aXRlS2tYam5qQmVPekJIelVvVnNFSnIzVlM0a2ZWSTJVNVVkLVpjb0w5UFdEaFUwVW1JODZJWDMyM0ZmbGJEYUJxbTBNM3NTeThxNjMzVUM0Q1U?oc=5",
-     "source": "FBC News"
-    },
-    {
-     "title": "M6.1 earthquake strikes off Japan’s east coast",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2ltWERvdUt2Z052MmJDa2lpOHY5RklhTktYck5SRnhxUnNkWWxZR1N1Nm94dDNFNlQwRXpKbHg4Y3RDLWN4VlZEQ2RUelRPYVJIYkRDbkRTN1BpaXpScHV5YzNvcFhuNklOOE0xbzBLcFpGSUl3N09lOUhkcUZGbTljVU7SAYQBQVVfeXFMTUhpUHVzTzZ3VGhMU1BiZXlEM1hHVWVPbXJiUW9Cb0p3TXVneHRUSXY0djBSRWF6SUJyTzYzdk8zNDRrV3NhTUZMV18ySVROeGpSb3EyX2tvQUxVYUJzZUlpX3RnV2x4aTZuY2p3QU5fd01td0piaGcwUWdSZHVTQlVqVDFM?oc=5",
-     "source": "Qazinform"
-    },
-    {
-     "title": "Strong 6.3-Magnitude Earthquake Strikes Solomon Islands, No Tsunami Threat To Malaysia",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS3hKTFd3ZTlNNlI2RGxvdEZFSWdramFUcmV4SklQMmV3czJ0aEJEck9ObG9ZRDRmaHM2dXNoZnd6dEFxNTFFSDBBTlN3V0F2UzFFWkE4UlFFVTNXNzNid09weWlBRWx6ekVxVEZCejlWZ0pqMzBrcWRSOWktc2FtZ2dpeUpJZ0hfVjQyR1R3S2dDdlc2OXBfdXZ4UktrRmd4dW1jTlFLemhrMDItOEw3anpyX1VFSjA1ZmRXakk5Z0ptZzNyMW9MS1B3?oc=5",
-     "source": "BusinessToday Malaysia"
     }
    ]
   },
@@ -87,13 +58,13 @@
      "source": "Volcano Discovery"
     },
     {
-     "title": "World Earthquake Report for November 2017",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb0RHdGVGeDFIY3EtQ0Rpc053d0xRUldhalAyb3VoaHRQWWZvTDlvcS1rcmQ2OFk0WGhrRUVnTUV6bUhoUzhoUnU5U292NTlOa0F0M05wWjB2UkdQRU9fRWFpOGJZdkdMbVExQi11SmZNcVV3RldHVUt0TmdnYko3TWt1MFNMSlRZZFJxQlREUWN0eXhwTlpWT04tckU0WEluelh5dHpn?oc=5",
+     "title": "World Earthquake Report for Saturday, 7 November 2026",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVzdORVBSZVJJOGE2am1WTGdqblVra0I2andsbkYzMHVxaFhHN0ZVMDIxZ0YwaEl6STdEM1c0VHVENHJ3RHMzUW9VeUdZZTJDTWdUMmVKZ0QwdUFDVVdUc0xORWZkTkFPVDNDUy16a0hVTzExdTdUUmJfRmZaa09VNUl0c0w5eGQxTHd2SGY4SWpwSjZ1WlJkSG9weDdCUi1yaVE?oc=5",
      "source": "Volcano Discovery"
     },
     {
-     "title": "World Earthquake Report for November 2026",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMDRpaHJWV2ZFXzdIMU5Kbm1jdk9odGtfSmhVbEZteXJNWFFIZW5nMGNPQWtvUUFkdk05VFJJWDBaZTNUTDg1VW5ZblRXSmd2ZGVSTlBkNnRnSDFURlBneUhZMlc3dXdSQTNCWHJWT1RmZm51MkVNQl9rbng4YkxRMWlBTHNZeXpMUW14S3dONnlOaWtGYzB4V2VxZElCYTQ?oc=5",
+     "title": "World Earthquake Report for November 2017",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb0RHdGVGeDFIY3EtQ0Rpc053d0xRUldhalAyb3VoaHRQWWZvTDlvcS1rcmQ2OFk0WGhrRUVnTUV6bUhoUzhoUnU5U292NTlOa0F0M05wWjB2UkdQRU9fRWFpOGJZdkdMbVExQi11SmZNcVV3RldHVUt0TmdnYko3TWt1MFNMSlRZZFJxQlREUWN0eXhwTlpWT04tckU0WEluelh5dHpn?oc=5",
      "source": "Volcano Discovery"
     }
    ]
@@ -146,13 +117,13 @@
      "source": "Qatar news agency"
     },
     {
-     "title": "Strong mag. 5.5 earthquake - South Atlantic Ocean, 63 km east of Bristol Island, South Georgia and the South Sandwich Islands, on Thursday, Nov 12, 2026, at 01:45 am (GMT -2)",
+     "title": "Strong mag. 5.4 earthquake - South Atlantic Ocean, 31 km east of Bristol Island, South Georgia and the South Sandwich Islands, on Thursday, Nov 12, 2026, at 01:45 am (GMT -2)",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWGMzTFZtSWphM2poZlNpZHhTd2U3OWhMSmVtNDBFSjNjeDRIOUV5N0xobXFWUUVNTTgwQUxBV29NeWU2TWotbC1valdSWVFOTU50YW9LQVVpNlZkSm1JUUxJWWdRTHVZMExfMFdEWjFocXdEUmMwUjh0RmtfcmdIdnZRbmFGd1N1M1dCMzRPWEJMcjRnaEtjV2t1eFJHQVZhREtoUHUxYW1IQmYwUkhKQTB3cnRsUnBxdnN2dktn?oc=5",
      "source": "Volcano Discovery"
     },
     {
      "title": "World Earthquake Report for Thursday, 12 November 2026",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb28yVEdyVUpyeDAzM1BpMUswS0JiZUFmOURJeGt1ZDBqZ2l4cmptUU5ySU0wWXIybllMNmc3M09Ta1pBSXV3cmMwem1zR3ZQVnQ0UHNhVnJuRFI1QmRQeDEwNmstVUJ5UXFyY1JERENtTHk2dGwzNlJsRy1DRmZhUDFvUUw4RTQ5ZGdMTEdtRzhmQWd2TVJLZERWYmp1aHFuSTFz?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa1Y4c1F5Mm4xNzdkWmgyRTlBNkNoVU5jZXF6MDlHVUtKZnkwd0VhYmVPVEgzRDROWjVXd19pRnU2SGV5clpKVjU5amh3dVpzbWJGdHlZV0ZFVVZlMXNXMWZYUlEyeWRxRnZucXJHb0tEREF0RTNDbmNxVGZRb1k1aDZGZDdsa1dYSE9oUXY3UlhCWWlVUUk3NjNQcUYwbW94RGc?oc=5",
      "source": "Volcano Discovery"
     }
    ]
@@ -208,8 +179,8 @@
    "headlines": [
     {
      "title": "5.2-Magnitude Earthquake Strikes Western Papua New Guinea",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWUpJVmhWa05ERENqanp1M3ByaVZ5SGZxanQ5cl8takJwckM1bVdqMm1qTU5ualU5NG1hYjREbnBtcVZxRldPdE9Hb2p5bWMtT2Nhd0ktUV9TQ2VyVHFaa2xUaGk4TUhKV0hYZ0cwWEJ0UXhRc2x6dEZYYXJHc0UtLVZqZWJoek9xNk5temJYNHUycE9MbWdZTjJpcEdqbzlrTWFvc2VYRQ?oc=5",
-     "source": "Qatar news agency"
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9mc0ZhRlFyc1V1QUM0bzB2dEhKYXdXOThZV2c1LWs4ZTluQjZqcTFaaU1oNUJORUp2WnZBS0ZyaWo0S1hXZExXVkpB?oc=5",
+     "source": "وكالة الأنباء السعودية"
     },
     {
      "title": "Strong mag. 5.2 earthquake - 21 km west of Popondetta, Northern Province, Papua New Guinea, on Tuesday, Nov 10, 2026, at 05:36 pm (GMT +0)",
@@ -245,13 +216,22 @@
   "us7000tx8s": {
    "headlines": [
     {
-     "title": "Strong mag. 5.2 earthquake - Coral Sea, 20 km west of Lata, Temotu Province, Solomon Islands, on Tuesday, Nov 10, 2026, at 02:37 pm (GMT +11)",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbGJUT3h0eTlHbHlHNWd4LS1CaFVqdlFkZXpjaUR6eFFOYW9qcWNUMHNzclNXT1M5ZEkzak1IQm1jTU1ZWnE2MXRzUmpGV2djSjRrWXRYVU9kR1g0SkNZMkdXVE41R05LOVBqSnhnNjVDTklvS1drQjczRUhOLTJYRzNkN09sdHJMZ1ZLVkpaUHEzUDM5OWJaUEVwUnNJRmJiTmFDNG5zV3QycURaM1VGcC1SZm9VT19fOTJQUC0tQjQzZGx2?oc=5",
+     "title": "Moderate mag. 4.8 earthquake - Coral Sea, 20 km south of Lata, Temotu Province, Solomon Islands, on Wednesday, Nov 11, 2026, at 02:52 am (Guadalcanal time)",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd3BwYVJzbGxiZ0dROHNzTDRjRzZyNzlNZkRsUm0wT3V2eDFLbDM0dkpQOWd2RUZDNHBJQmVqbWVTTl9mWklXMjNqdkhBYUl2UUF6SDlCbHRLb1pGMjhZdVZ0RVMwUC1ibm10QWxzSVBoeFBvZ3ltZms1NDZfWUVNdE5CQ3BMcnV6T0VMNlVGYWpmbXdOYTVOdExMbGNvLUxYNUNrNG1DWEs0TGwwNk1JUk0zcVdWelpQSTlRazMwelpQbDBR?oc=5",
+     "source": "Volcano Discovery"
+    }
+   ]
+  },
+  "us7000txm8": {
+   "headlines": [
+    {
+     "title": "Strong mag. 5.1 earthquake - Solomon Sea, 90 km west of Arawa, Bougainville, Papua New Guinea, on Wednesday, Nov 11, 2026, at 05:38 pm (GMT +0)",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY2JEWkZhSDRxTWIzMEZwaE9KeGNqeWM3TDRubjFsVFlFY2FYTUV0T0JoaS1nZ1QzVkpodDhEZWJlNzAtZ1pWWVJ4Ulhod3ZheVBNaW5kTmxlU3NQX0ppZjc1UG1pX1JYeVQwNEVuT1dyRi1UUTBieUFTd2paYkVOWjdTUVhCbUJLenVDZW1USkFWOEFmeHVzNzZZLWlEX2pqMmhxaDRZcGVXd3FJY0w5SmdHRFBuYnVvekQ5NFZTZXFRQQ?oc=5",
      "source": "Volcano Discovery"
     },
     {
-     "title": "Moderate mag. 4.8 earthquake - Coral Sea, 20 km south of Lata, Temotu Province, Solomon Islands, on Wednesday, Nov 11, 2026, at 02:52 am (Guadalcanal time)",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd3BwYVJzbGxiZ0dROHNzTDRjRzZyNzlNZkRsUm0wT3V2eDFLbDM0dkpQOWd2RUZDNHBJQmVqbWVTTl9mWklXMjNqdkhBYUl2UUF6SDlCbHRLb1pGMjhZdVZ0RVMwUC1ibm10QWxzSVBoeFBvZ3ltZms1NDZfWUVNdE5CQ3BMcnV6T0VMNlVGYWpmbXdOYTVOdExMbGNvLUxYNUNrNG1DWEs0TGwwNk1JUk0zcVdWelpQSTlRazMwelpQbDBR?oc=5",
+     "title": "Magnitude 5.4 Earthquake Strikes Near Arawa, Bougainville, Papua New Guinea",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdHVEZ2hFM0RxRWFMTjRmZEhHZjJwVUJhWHJweXJRWllhR2pVZzAyVDNpVzFLWGIydjA2UkpzOGh0c0xqVWdOU1hkWkpBV3VaakpqbnFMakNIUkJnLTMtbVdJVmJXZGJrWXpMc3lmQno1RzF2M21ZWXFrbDI3dklINmZjcHRjdmNzQ3Y4ZGhGanBzc2cwUXJraDhLVmR6QjFsd2s1SmVMYVhpN2VvRE5Vc1NnalMwNnBMRWFlUVljVktVS0k0emZCbFR5SGRYZWM?oc=5",
      "source": "Volcano Discovery"
     }
    ]
