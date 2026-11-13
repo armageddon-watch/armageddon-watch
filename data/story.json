@@ -1,127 +1,84 @@
 {
- "generated": "2026-11-13T06:52:35Z",
+ "generated": "2026-11-13T19:49:04Z",
  "window": "last 24 hours",
  "source": "Google News",
- "topic": "Disease outbreaks",
- "focus": "Ebola",
+ "topic": "Earthquakes and eruptions",
+ "focus": "Blue",
  "regions": [
   {
    "name": "UK",
-   "count": 6,
+   "count": 72,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Ebola in DR Congo: Millions of dollars going missing as virus spreads, MSF warns",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xWk1Tcjg1eTYxRmJnZWxmOVJTNlA5WVpBakNQQ1VIaEVDaFl5M05ZLUhBcnVNbEVYeGZOWkM5SExFS0szRVVmZVhXLXd3QzZwZnM0b2ozcG53dGo4S0E?oc=5",
+     "title": "Farewell, Cybertruck: why the winding down of the ‘Maga hat on wheels’ is a sign of the times",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNemZYWkVKUjJsWjh6cktLUWxRVXFOc0g5NTh4N1YwVm9ITWJXajZlQ0tMOEl1b1BmT2Nrd1AzUnVUeG1XR3JkdlZ2WWc3VjZzRXJNUlB4eHJrSzYzVzdsVXEwWk1fbkMxMUtFY3gybFFuQVNpX1dMQXJLTTRVWEhvT3hNcklaWTFzNFp4dTNmamxKTS11THp4cWcxZ0hVSzFO?oc=5",
+     "domain": "theguardian.com"
+    },
+    {
+     "title": "BBC undercover reporter is offered fake art and awards for talent visa",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ERzB1N19kWVZTRF9CMG9fa3VyYV9mZ01rQ3ltdGtkN2hBVUxEVmhyWDdNMVBwbE1MZ1FRQl91NzRlZDFYSXZaTWtnUnJUdTFON0FnY1RMV0EwLU0?oc=5",
      "domain": "bbc.co.uk"
     },
     {
-     "title": "Inside the fight to control DR Congo's deadly Ebola outbreak",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlZ0NHUHF0SWlWcmdHemNoalBQbUx0MTdXd25PWF8zN0tPejlvQmJDOGFndWdVNEctM2IzUWdVeFVwVGprX3NlSWppWFJWZ1JLazA4?oc=5",
+     "title": "The blue tsunami: What next for Trump?",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9IekpCS1E3UUs3cU5DRlg1aGloRVJGVVM2Sk9jMllVVnV2Zk5neHlGTjE1dDFnelZmMUlUSlNGckwzTUFjaHM5UVRtM0JQTUdEZGZBUXR4RHpRNGNhQ2Q2Qm93YTdZX2puVGw4eXFZN0tmZnJtakxHSkdqU3c?oc=5",
      "domain": "news.sky.com"
-    },
-    {
-     "title": "UK news + Health",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wVFV0ZTEwNDJUd29ZUUlPVW02Ymh6WkhnNHl5OHdpN3lILTMtenljd3BJY0FRQUNWWHktODRsRmZPS3diNFEzQmFtcnhnelByTWd6WHdLMFlkVlByQi1fZG52SQ?oc=5",
-     "domain": "theguardian.com"
     }
    ],
    "error": false
   },
   {
    "name": "US",
-   "count": 2,
+   "count": 17,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Apoorva Mandavilli",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFeUs1WEd0Szc0M3RBbWR1bGhOeXdEbEc5ZHJUQnZwUXhQZks3bC1DS2RQZ2VtcFR6aGZ3bDJlSHhIeWJfa1dnU05fWjNHZl80b0RxY2dQbVE?oc=5",
-     "domain": "nytimes.com"
+     "title": "Dan Patrick concedes Texas ‘turned purple’ after Democrats’ historic blue wave",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYTZhcmE1bUFNVFBDMTh4RGZmUmNab2dRMDBXT3MyaFhMYkNuZjRNeTl2QnFHM0pEVU5qU0RFM0d5WUl2TlNDaHVQWnhQUmxpQXdTYnBLWUhqUUJ3V1YxMFdwU0dxdERQUlF0Vl9RT1FhdUdnVldoakxZOWs0V2ZKM0N5dDRIVDZxWTNzbTl1bVpBR1NSSVExMVlrd1p1UThrZmU3dg?oc=5",
+     "domain": "foxnews.com"
     },
     {
-     "title": "Women's Soccer | Latest News & Updates",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE95V3FzX3dGdndZMDJaWkMxQnZOZWF6Q0JmMnpoOVJ6SFN5T1FxN0Rodm9hek90d3ZZQlhvdVlzVTA2X0ZPQzlpbkN0bXA?oc=5",
+     "title": "At Sing Sing prison, incarcerated men get preview of new PBS documentary on nation's justice system",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTDlJbWhqOHFocDJLOXBWYV9IbGQ5dHZ3UzU1U0s1dEFHV0wzdTJLMElyMkMyX3VfcV9TLVJwYWNQSHFPeEY5eU9mZlZrejllSW5yZEVrcnh4c2J2UWYxSWJncjc2RlBYTHQ1Zk50bjRhZlFqNjJsZVc3RnNSQ2JQS2pFVTB5b096aUNFZ0Rsc1Y5RUswUlBhRjNJLWpCekFwNlRUb3lHbERPSTNqXy03bkZlZXlTVnFxcHpnSWdseW5OTGNDOEF1X01VOE5FdDJTaURBbEZRcWY5N09KZXp0ajBtcU1HZnZ0Yy1z?oc=5",
      "domain": "apnews.com"
+    },
+    {
+     "title": "Haruki Murakami",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5dkRWa1hkYnVVUWhXUllwN0p4Ul9GN1JaX09mb24zTWFFXzBwMEJXRmd1OG5tSk5weHpEQVpCUC1sWGNnSzJhSVJlX3JTMzFWWVZaLUVnUFh1Wklkd1B0STd3?oc=5",
+     "domain": "nytimes.com"
     }
    ],
    "error": false
   },
   {
    "name": "Europe",
-   "count": 65,
+   "count": 6,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Microsoft works to restore Outlook and Teams after global outage",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV3V6c3JXeTI1NnFudnFpdnhVeXBfRWN1RFQtUnBCSFE4LUVPenVaZHh3SDBEUHNhbVRVcm1tWEgyQkFIN0tZM1dLc1QwNHlwdnd5dkpNN3BMWkNVb2lURTFOUmlKcG5uQzl1WktOdUhiTjJoNVdhQ2NiUlFiSGlWdUlYVWMyenlNZHlJUjBxTWJTa3o3U2ZneDQ1dm9MQdIBngFBVV95cUxQejRrTTAzZV9PZTdKOXNRNTcxVGpteHZJZmVFWmItVnRiQUViUksyaDB3QzNheFBGQUlNckFZUVkxeWN1dlpRREFUX0ZXanBya1lZWnZzR3R6b1NqemowNnF3Y1pCcG1nWjQteHk2cjROMHlzNTZYVlFhMXJKcFJVZnJaTzVBWVVQLXE5alVVYUdSRmlLeVBYd21uVEJkdw?oc=5",
+     "title": "Scoop - What does the 'Blue Tsunami' mean for US media?",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc0tkU2JkMHNyZGVXc2l1XzIteEtaeWx3NWRaeUFrNjEza0RVS3JuNmZ1NW12VjcxUWU5UG1rdjBicmZHRzBhb193UVZBLTBuS2o2Z1FpNHBhUzU5TmtMLWhCbEJkdGo1dXhSdnJKbTI5emQ2VTVVekhua2ZxdkQ5Z1RCU2xJQjhHMHlFVWZtSkZ6ZjBOc0pHNkJSSEg?oc=5",
+     "domain": "france24.com"
+    },
+    {
+     "title": "Cape Town's highway barrier: Can it bring safety?",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPckY4cm5lRERzQzFLcjJYRTViMkNMaF9NSkVfTFBHNEJYalI5ZUJMY0FkYk1wdTZ2WUZtTVFOQ09rcjRRN2QxcDJHVVhmdXEwM0dGaHpyQ1ZIelNTQm42Y003ZkVmZ3c0M1hfT0lYS2E4a0N4OGFldDlodFhzVEk0RTUyTlM5WTJ3R0E2Yk5VajcwdHVpZWJOYzNtMUY?oc=5",
      "domain": "dw.com"
     },
     {
-     "title": "Find all latest and hot news about Africa | euronews",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CVzl2TUdPWXFDV1dqYV9sb0tEY3dpUUQtRjdSNjV1aUtIbV9pTG5MVW5fQURGRnVnTm5zSXVEQmRlZmRlTndLLVhteG1EX05hMUhybHRoTQ?oc=5",
+     "title": "Latest episodes and news | EuroVerify | Euronews",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xVURSaXJTa0l0cW1MZElHOElvR0NMLXE2cXhXLXpfaWEyOE1SMkY3Tm9SWWtnVEw5dzFYN3FoM0RSQndfUmRvaDhIWG8wNVRTbVFqeVRDNUc?oc=5",
      "domain": "euronews.com"
-    },
-    {
-     "title": "Women in Germany's military suffer widespread sexual abuse — study",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORjJ2ajJab0xsSUhvaV8tS3NGMFF4aEpXOUU0ZXZvZzZaM3AxTlIwMDZPS1ptVUN5YjlNZ3hQc2dRZWFtb0xobGF3dG5EUkxyYlJmbi1jU2hrRmEwX0FRNm1nZTdwTTU2d1VxOExpbnp0SjJSOEx2b0gtT1QxdnRRV1JZclYxNkhtdkNVc196Q3QyLWJOY0VWZ0NScFVRUnFvZUE?oc=5",
-     "domain": "dw.com"
     }
    ],
    "error": false
   },
   {
    "name": "Russia",
-   "count": 3,
-   "capped": false,
-   "tone": null,
-   "headlines": [
-    {
-     "title": "Darth Vader’s lightsaber goes under hammer for record $4.875 million",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuWXZXNU45WEh6Y3dWSk93NFRpdHptZmtXTWNPQTdxak1rSHJDdDNwb3BFN1RiLXZtTVBhcjR2UURyYWhJaDhN0gFMQVVfeXFMT2U0ckM5Mk9lcTFmMFlMYUhwMGhGM1NKM0tmdFVUTUgyRmVkNUw5emtYWEVQcVNQbXc3MnkxOXpyYlRqOWZfVlJMS3lqWQ?oc=5",
-     "domain": "tass.com"
-    },
-    {
-     "title": "Kenya refuses to serve as Ebola quarantine centre for foreign travelers",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdElkOXJEdXpwQkJvVXgtV05XcFI5Mk45THFCbXZ2NVBlZ1kyWldLV09Nc0lfTXNra2EtZjFOY04wZksxM3V5aWlHbVRNZlI5Um5YRk1pWGlkX3NIQjhybk1SRHJkWndiY3QwNWc4YTJKdTg0YjZqQ0pjQXlfeFJiY9IBiwFBVV95cUxPb1laU1g3TWN4NERUcVQ3NEtGdVlFbEFSREw4ZmVEcG1RRWxKNHJiM3Q4TWVKVXVKZWJNRXVMdnZUTFBvNkszMXBKWlpkdS1EaVhYdzAzNjBqa1FRa3dWMFJBYmNuTlF0YUNJaGl3NGI3dzlaRkdYSjRHUkh4LXZCUm9OaGFaT3B5bDVN?oc=5",
-     "domain": "rt.com"
-    },
-    {
-     "title": "DR Congo doctors say Ebola cases growing",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE04TXdBVzZ5R3I3RVd0aWxkaEp4SHBCanlfTkJkNWh1WU9JTWg3cG01N3ZQRE1zQmtqT2hDb3BOUjFod3ZfZlRuUGstenPSAUxBVV95cUxNOE13QVc2eUdyN0VXdGlsZGhKeEhwQmp5X05CZDVodVlPSU1oN3BtNTd2UERNc0Jrak9oQ29wTlIxaHd2X2ZUblBrLXpz?oc=5",
-     "domain": "tass.com"
-    }
-   ],
-   "error": false
-  },
-  {
-   "name": "China",
-   "count": 3,
-   "capped": false,
-   "tone": null,
-   "headlines": [
-    {
-     "title": "WHO warns DR Congo Ebola outbreak remains \"concerning\" as violence disrupts response",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNDJILUFNMXVlZ1dISTdBMTBfY2t4MEM0TlBNQUxfOW1nLTBkYjBpdGg2NTNQWC10YklzczNJMENtaGg5WnZfcmM0eTFvOE9HUDd6WGdzUEYxeVNtdFJpb1VKWG04QVpFbmZwNEtnRXpLVzQtdS1fLVVsdzk0Vi1KZTFnNFotUQ?oc=5",
-     "domain": "english.news.cn"
-    },
-    {
-     "title": "DR Congo Ebola outbreak still out of control after six months, MSF says",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNVl0dmlscENRYkdyaVJMYThqdjFHREFwdXNhdVdkLTlOMlRYYU9wRmFzQ2JqaHpmMHBuRmFKNDFfZzRsWFFEb2tWeDRQU3ZOd2FGUFZDTHlpaDFhR016eks0X2UtcWFkYjlCOU5fUGV0djZNNkNjNzdpMkxKa3Q3Q2FEWlRDblRhQkFwX1JoQV9HRWN3MkF5Z09zLUhiMEprcHpGdzdTSjMtVEJwa0ExUF96SUdFMDg?oc=5",
-     "domain": "newsaf.cgtn.com"
-    },
-    {
-     "title": "Roundup: WHO warns Ebola outbreak in DR Congo remains concerning amid rising infections, violence",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMXZueldEbHA0QlY2U3psWnJJWTRHa2ltd1JjaDZlaTgtV3lGVVo5cVd0OUFXUjFlRDZOb3VJclRtV0l2amFWLVlYRWxYR2ZyRm9EYUoyVEVJODNBbUE4MVoxbGhmbDdoV2pCZG5IVGFSdHpmREdtQ0tLNjhPU2pNeXVlS3VnQQ?oc=5",
-     "domain": "english.news.cn"
-    }
-   ],
-   "error": false
-  },
-  {
-   "name": "Middle East",
    "count": 0,
    "capped": false,
    "tone": null,
@@ -129,24 +86,46 @@
    "error": false
   },
   {
-   "name": "India",
-   "count": 36,
+   "name": "China",
+   "count": 0,
+   "capped": false,
+   "tone": null,
+   "headlines": [],
+   "error": false
+  },
+  {
+   "name": "Middle East",
+   "count": 1,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Relatives said they wanted a boy after his daughter was born; a day later, Punjab carpenter Yudhvir Singh",
-     "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNeUhTSWJYMUthRGVGUUZGTWFLMDQzM3pCVWw4dUJ1dDJVVDVGanBNdmZaWS1taGFvUWZJY3hsQU91d2RkaWZ5ZGlFNnJfeFRQRWVTZzNKZnU4U201b3NDY0hWT2NFaTdEcElNZVhXWUt3cVdSSUxTRlNiVG9YaWZVN3pDc3ZTS1VWQm0xVFNsMFNaTlV5TWlJeEVIVUVwaVI0dFpxR0FiUTRnSGNIMFJoTDlWbjk0RUVidzNNTzB4QjR0Rmd0T0hPRzFNenAzaDJadU03YkxIck5OMU5vWXRXdjNHbTgzLTBxZDFYdk02ZlhxZzVPd3gtSVdETm8xbTNXYy1DQ0ZNWlh3a0x5TmhTOUtjM2J5NTBLeEttVW9TV1oyT3IzMC15OW5tRENWTXNJdVpySVFYa2NWSHhBRzdBVzlxQVR0Uk1hYk1NS0ZkbjR3S2pFMDIyV29iVjZqYnJ3SkxtVHNscnptZ9IB7wJBVV95cUxPRGNNTmVEN3RLVWRRWjRLckw1dlUxLXpERlg5eGNEM25DM2YxS0VPRHphN21Ba2JVbTVNazltX1pJdXhxNU5EcG56ZUJrbE4tS18xbS0zdmVqblhsRVN0Y0FPSktTdUZfekRWWlVERzNCMTN2ZmE4Q0gzY0NVY1FPYXg4cXlucHZ3RTdKWW9URWR2UC1HWm9pQThhQkYwWno3UmFVbi05Y3hvYXkzUmFBWnFZWnF4UVhTVEF1ZzJPWU93Y0Z2bVVodENDdVFKMnNQQVVOeDBsX2hwa3N3V0NiQ3NqTnhONzUxMGZGQTVrejdGcU9ic0prdC02RVcwY3NtRm84SGpGbkhtbVZSSmx2Si1oSFBGdU5sVmlMUGJoNDBnZjYzMFpPTGtGS3ZoRGdQcDhLcGJYNnRDeDZYM1Zack9fR2xsb2pUNDk2bGR6cHQ3TmJjUE9aLXNrRVZIMmxwVHhHWDVkLVpiUktDeS1V?oc=5",
+     "title": "Dozens of nations, organizations demand Israel let more winter supplies into Gaza",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRlVaQmw5UkNyeUtMS094dmFCNHRaWlRaTl9oZk5GTFBvMFpjUWpVV2taMng3eTllV0IzZHdHWDh3N25MZXpOcUZja01EdXl0VUFBXzFBZGwybERPRDBLdG1yV0trakhTS1ZwSVBPVTZkSVNtRFpiS0lLc1BzYkUwRGMzQzlkSDNYczlUb25vcUdSaUZJU3RFUEVDT3liR21JSVlVZnpjQkFxeVZKd3FEctIBtgFBVV95cUxNSlg5dFpqbUlxdnhLZndxcjB2amVXSFJJZ0p3Y3dQMUxJc18ybG9EZWYzNVJLRmdKMWtrZ2ozbENzWXhxNDJPb1YzWDdGNTV2NlN0dk5jOEVtODdYdEZqNUVmLXgzNzVtRmxBV1UyX3VuN1hGY21yMkNvemJ2b3VVWndRWVdsLTFTR3B4V0tiMmYxQ1JGc3FJNzFzREE0Z3BJNUczcERpRlVEQnc2ZkhGSUNKblVkQQ?oc=5",
+     "domain": "timesofisrael.com"
+    }
+   ],
+   "error": false
+  },
+  {
+   "name": "India",
+   "count": 4,
+   "capped": false,
+   "tone": null,
+   "headlines": [
+    {
+     "title": "Maan-Mahalunge-Hinjewadi residents write to WRD minister to flag water shortage & pollution in Mula river",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbW5EVDNfV2U5WEU3XzB6bi1McDZNbXNXbC1iZlFLQW01MTRxUTdMNXU4RkUwUE5jS2pFSnVNSEZ0bGtjSVNscXB4dDVsTjVzdXdTbWNUODMxcXkxWTBpR3dvX1Zqd213Q0gzVjVBZk12bHRpbW1EM2tkb0sxNGp1anF0YUszVkUyQ2ZVWXhWdXI0Q1o4Nm5peVNmTDFVNVJBeHotNlE4NGVCdUZIeW9lMGdjRG5kMllPejlkVXVQeHdacExVTlN3OTA5aTJGcGZfQ2Y3eFBDMk9DNXNCZldjRUNlQU0xN2NjanBVQ1RzLWhMVXVLZ1lmZ2JrdVhkX1pHd1BmS09n0gGLAkFVX3lxTE9rZUlGbHFXYTd2SGIyaFktNnJYS1hiSmdQOEJIcDJ1eWpzNVJVZUZSNlpwb0daU0lGdmlwVkhxMlVLSWk5eFFIck0zc2tnZlFXbnRqbGY4Ym5JUmdOc1RxZDl4bEdIMHhwTmphOXlsdzJ6SjlDRHBrSzlSNndnd3p1T3pidW1hd0RQMXZxRm43N2hleWtkRWtMbmZWRDcwSGwybGY3RjkwQWktZmowS1p4ZzlKa3JFZVBLUFJzSnV6Y3luWDVBbjdnbTF6NG0zVER0MGVFcjhaeUlJWmtqWUk4dEhGYVJfd0c3WUZKQy1WUHE2Y3ZXYVRVdFhPVGh1b3FJZ0FvQkU5Sy05Zw?oc=5",
      "domain": "timesofindia.indiatimes.com"
     },
     {
-     "title": "India4All, An NDTV-Oxfam India Initiative To Help People Affected By Coronavirus Outbreak Lockdown",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjTzM2aFFQSjZDNlROQjh6Wnk5dHVvNnNyX0NFS21qemNSTlRVYldnbmw5NGV6UHBaTl9fSk04S1ZlSDFHVVRFNlpHV2JrZ1hOdVJjZnlWY1kzUFZLQjlNODNwVG1ONDZuZGUyVFQtSWJLZ0VsT0xJWDlaOA?oc=5",
-     "domain": "special.ndtv.com"
+     "title": "US Senator Chris Van Hollen announces bid to replace Chuck Schumer as Democratic leader",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNLWhsNmpGRHJnY01yN21uRy1hY3dWZTlZczRUdVRNZEFNZ3k4dy1ZWW1TZFB4WW5jdU81MlI2QXpDRVBWSnZ1Sy05eWZHUzRKZTJaaDVoSTVheGg4aGhyTG9aMTJ4anVKNklTWm13SmF2UTFCMHJQeFFmdEY2V0VBLW5OaWRLWXVnZXUtN3Rxa1RLbHphRlpwZTJueUhSR0hXWW9OdzlFMGJKYU9ScHZ6eFdzNm1ZMlBDQXlVdkpFNEVKRHRsaThwMk5aTjBKbUYwVFAxM09qWm5yVWM3aUV3RzNyVFAtTHBVMXp1WlQ0a9IB9AFBVV95cUxOYzI4bWx2STZFM2lrME04bDVXTk55Rlo4NHRaVWNqV2xZZDBWNTEwR1VsbjhMc0gwVUVTUlQ0YzFvNU1kUVdOZmZRRHpSWmVTMVN4ekNERWNoLW5GbXhRRzJIdEt0MTBPTTl5VGk5LXR1Yk1qSGkyYmNHejFqaUN6OF9iOTI3VWtfZWtwZURBcFMyeXFSNjZreHdhV0t5ZXd4Y3BqUkRYVktQN2l0aWtYdUFNVC1YOVd6dW5UWThXZW9DVWQ4VUotSy00elBGREg5SmlpQTFZSzdYY2NTU2NUOTFacExDQktGMzM5QWZCOWoxbUJ6?oc=5",
+     "domain": "timesofindia.indiatimes.com"
     },
     {
-     "title": "Mumbai cook's earnings leave internet surprised: Rs 1.5 lakh household income, first Thailand trip at 34",
-     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPbmZ2ZXlOeHpPN1ZYSHUtSGZZelMtbnR2OEZmbndscUgzNXlLQV83RnZscUQ1VUoycEROdUNWeTN2cDV3M2hleHMtR0JnWGtvUHNKU2wzLVJJamlLdG5Tdk85OW52UVRhTmNScGlmV2JWQ1pMbFZPYlQyRVhXUWFWb1Q2MVB6RXQ4bENsU056Zm9IUUNRV2RvZ0dic0ZRTVNnaDAwZThoNmpZVkx6ZkJiMUw2ZFlwWHdjQmNhTVFfdDZHMkxNUmJkejRhdEdnWkFJOGVQa0RaSTVOdk5Jc3VwVVpOdWlRVWJYUDl2YVZ6V0t0N3RxbmtrNjhReXFybXNOdHY4cXl3eE8xR0HSAZACQVVfeXFMTkFJbVJERUo0aWdzZTlYakhzM0U5cWxuOC1JemluNHdjUDZwMnE4QmJJTTBDQ2poQjByM05FbVY0a1JoWmhqTjdwSkdQMlM2eWd3eXdJYUs1Zl8wMnpsTVgwUnBGeW1pQmJFckpkb05rSE5oU0ZXb1M4eXFUOXRwekc5RVNwVlppbmkxX3gyOGlMb3NpU0pFc1VLMV9Wd2RZbVpwNktUMzg1TXJmMFdzcDlzeTNYNmpIeXhDZ0lsb1h1OWgzRnBtM1dyMENwdDFBM1h6U3RaOTJZQkFfUTZtVHc0Q3ZWdjViV012M0htWS1EdlFvOUM1cTVYb3U0aERJam5xWmhaaXRlSmdEU3p6ODU?oc=5",
+     "title": "Arnold Schwarzenegger says Donald Trump asked him to campaign in 2016, recalls telling him ‘I cannot do t",
+     "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQejRzcGdXRzhObFhBRzZNcmdkQWNaTnhNZ3Nsa0VIY2dqTHk2bDBnV0N6Y0R5Y1hFNHRWZ1BGUGhsdG1Ydjd2eVJHVmx4YmVQMDRzTGczd01vRHVMamxXekQxMFRYaTFIbnlKemZsb21ETUtSVW1ycERDdGhDYVlNdFFGaGJlTUxpVExXSURxREg2MWdJY3FkbkE2N0RiU1pmNl81clJGdlFsQ0FaR1AtYmJsNFpCWmpuY05VNWhyZWhZQ2RlQ0pWa2FTUTIzOGI5N2U0RHppQVYwanlSRGdrSlp3RVNEak5RM21BVk96TGdIMG5oR1h2TWJEMjhmQTdJS1VLWS1zdzVuQk1MWk5BdFZOdHJncGpGNnBYS3FjUHZjdElqczNrQzNvQmdkdHNIanY3bnBMZmx0Mi1HUmtaV25IcXhtZ0c0WE5sVDB3Snh5R2Z2QkJF0gHXAkFVX3lxTFB6NHNwZ1dHOE5sWEFHNk1yZ2RBY1pOeE1nc2xrRUhjZ2pMeTZsMGdXQ3pjRHljWEU0dFZnUEZQaGx0bVh2N3Z5UkdWbHhiZVAwNHNMZzN3TW9EdUxqbFd6RDEwVFhpMUhueUp6ZmxvbURNS1JVbXJwREN0aENhWU10UUZoYmVNTGlUTFdJRHFESDYxZ0ljcWRuQTY3RGJTWmY2XzVyUkZ2UWxDQVpHUC1iYmw0WkJaam5jTlU1aHJlaFlDZGVDSlZrYVNRMjM4Yjk3ZTREemlBVjBqeVJEZ2tKWndFU0RqTlEzbUFWT3pMZ0gwbmhHWHZNYkQyOGZBN0lLVUtZLXN3NW5CTUxaTkF0Vk50cmdwakY2cFhLcWNQdmN0SWpzM2tDM29CZ2R0c0hqdjducExmbHQyLUdSa1pXbkhxeG1nRzRYTmxUMHdKeHlHZnZCQkU?oc=5",
      "domain": "timesofindia.indiatimes.com"
     }
    ],
@@ -154,21 +133,10 @@
   },
   {
    "name": "Africa",
-   "count": 2,
+   "count": 0,
    "capped": false,
    "tone": null,
-   "headlines": [
-    {
-     "title": "Attacks on health workers hamper Congo Ebola fight, Africa CDC warns",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDUzdmVUM0pHaVdzQkM4dXZDcUJvc1JIWEhqSGNnZUpxYVFBTlRrMEU0NFZ1VmRWOE11d1NVRW1sQ01XdGJzT0NVUkhsd3h3TTJ4UlQ3WWlqQ3VoTjdsWjFseE0teDNZZTFrVjFKZGJHVHNGOTV1Z292SVBnV25hc285M0JMQ0pZMXllTFJDVWM5ZTlqMjBjLW45SzdhQ2YzcWZwbEhyaDJkeksxZFlxdFg1MjE1Zw?oc=5",
-     "domain": "nation.africa"
-    },
-    {
-     "title": "2027: Dickson alleges plot to rig election, intimidate voters with fake security officers",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTFQyUGZOY1Q1T0dOMkQwcmxES09WeXliY0tKcUJQVGQwYkpRY3NZajlqNlVZMzhHc2t0SXhvX29nc1A5V29ab1dKZVFEWTRqM0lOOXdrWk1oeGtxRlZpSnBmYU9EbWpJdVVlUmRWZV83UzZSeVZvYkNtRGFOMWVBeGo3NmgtRUlxUlhUS2xSVHZjV3hLNHlLMU1GdXJTRDNJVkZJZ2VfU21ocEtGcTJxa3JXUVY2SXo0MGs2MFpMX1MyYjZzNnptNU5xNjRxOUI3MmlVREQxN09WTGhhSFE?oc=5",
-     "domain": "premiumtimesng.com"
-    }
-   ],
+   "headlines": [],
    "error": false
   },
   {
@@ -181,7 +149,7 @@
   }
  ],
  "framing": {
-  "text": "UK and China coverage emphasises the Ebola outbreak's severity, funding problems, and violence hampering response efforts. Russia and Africa focus on security disruptions and attacks on health workers. The US provided minimal coverage, while Europe's articles are predominantly about unrelated topics. The Middle East and Latin America show no detected coverage of this story.",
+  "text": "The UK emphasises the \"blue tsunami\" as a cultural and political moment, with articles on Trump's transition and broader societal shifts. The US focuses on election results and their regional implications, alongside unrelated features. Europe treats the story primarily as a media question. Russia, China, Africa and Latin America have no coverage. India and the Middle East provide minimal coverage, featuring other US political news and Gaza, respectively.",
   "model": "claude-haiku-4-5"
  }
 }
