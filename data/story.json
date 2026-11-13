@@ -1,53 +1,48 @@
 {
- "generated": "2026-11-12T20:01:01Z",
+ "generated": "2026-11-13T06:52:35Z",
  "window": "last 24 hours",
  "source": "Google News",
- "topic": "War and conflict",
- "focus": "Iran",
+ "topic": "Disease outbreaks",
+ "focus": "Ebola",
  "regions": [
   {
    "name": "UK",
-   "count": 100,
-   "capped": true,
+   "count": 6,
+   "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Iran issues 'ominous' new threat to strike European countries home to US military bases",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOUM2ZnAyOE9NbnIzWjRJSjFaajJhVnozODZjNnZITHktcVEzbUJvdUpSQjZpRWRVOWZYY1diRUJ0MFBRNlF1eGV1NWhmc0h2ZGItNzNFd1NlYnBfTmdKUUVvOE1fUW9XODNpTFozcVctM3czTGh5NFZqenZtN2hLS1REV0dXcDJyOWdYOXpYVUVzNXVhRi1FeHNDYkhnck9QdHhfYk8wcHlNUjJSQ0VnZjVUNlozVklacThZNTR3?oc=5",
+     "title": "Ebola in DR Congo: Millions of dollars going missing as virus spreads, MSF warns",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xWk1Tcjg1eTYxRmJnZWxmOVJTNlA5WVpBakNQQ1VIaEVDaFl5M05ZLUhBcnVNbEVYeGZOWkM5SExFS0szRVVmZVhXLXd3QzZwZnM0b2ozcG53dGo4S0E?oc=5",
+     "domain": "bbc.co.uk"
+    },
+    {
+     "title": "Inside the fight to control DR Congo's deadly Ebola outbreak",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlZ0NHUHF0SWlWcmdHemNoalBQbUx0MTdXd25PWF8zN0tPejlvQmJDOGFndWdVNEctM2IzUWdVeFVwVGprX3NlSWppWFJWZ1JLazA4?oc=5",
      "domain": "news.sky.com"
     },
     {
-     "title": "Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRUZrbGx3VFdKNHM3cE1rX012RTJ5a0JXRFd5NTlpSm9kUV9JQm92QzJ0NFFQdm9RcG1kNUZXaVAzOTBGQXp5R0JFZnpnYXZPMFAyM3pndVVpd2NJZTRYQ0pYQlQ3LWVxUnFVOTNNRnlaMmwxSW9iUHZHSjZKNXBlWmpPQl9YTUpBT092dm4zRml2azV5bDI5dkM5cWtkeE5rcG9EeE0wYlplWkJVZ0tSSnEtRUgxdi1LVi1IMzhreWM2dTY3dDBUcjV5dG5BU05aUmFJVQ?oc=5",
+     "title": "UK news + Health",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wVFV0ZTEwNDJUd29ZUUlPVW02Ymh6WkhnNHl5OHdpN3lILTMtenljd3BJY0FRQUNWWHktODRsRmZPS3diNFEzQmFtcnhnelByTWd6WHdLMFlkVlByQi1fZG52SQ?oc=5",
      "domain": "theguardian.com"
-    },
-    {
-     "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oRU5PeVpoRXp3MjE4VTVPaGc4Mmo0dENaUHJ1dEtZdEZuUmJvT09xbVBKcDBQN05wYlpEREE4YU52UFNfa3ZkU1FtSHpkUUdWQnRjekIxSGpHdElOLXc?oc=5",
-     "domain": "bbc.co.uk"
     }
    ],
    "error": false
   },
   {
    "name": "US",
-   "count": 100,
-   "capped": true,
+   "count": 2,
+   "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GVkpKYjhub0lKY3JLamNqdW91aWl4YnAwbVZZV3J5YWR6b1k4SnBXcWRkOWJSOUdFcXlLUHl5WlNuYU1tNlF2TFF4bkxudVVtYUVIWG0wb2RRR0J4YkQ2eWRpMUxOdzFldHRfT0hPMGpSVEhHcFRTT1QwSENIckk?oc=5",
+     "title": "Apoorva Mandavilli",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFeUs1WEd0Szc0M3RBbWR1bGhOeXdEbEc5ZHJUQnZwUXhQZks3bC1DS2RQZ2VtcFR6aGZ3bDJlSHhIeWJfa1dnU05fWjNHZl80b0RxY2dQbVE?oc=5",
      "domain": "nytimes.com"
     },
     {
-     "title": "Iran escalates in Hormuz, claims strike on Omani island it says 'enemy' uses for US military ops",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ05QYWVnRGU4aV9FS1pCczA3dU9VY3U4VnVoeVNLLUg2aC1XQndBUlozb1FtaXZFRndfcjVYS2dRTG1LS3JxUFcyX2ZQNlJtZlVBRElmZkZyZFZUYUw1TkdQdEtRWURZd1B3a0VWV1FCTzVrYm5MWmdtbkxYNmNNTlF5d2hiNTJCQ2pGbVBfZktVczBXZHBfUU5YOVZQaXRuemh6SjFJX3jSAa4BQVVfeXFMT1hVZFdKM2dWV2kzRkVWazJIUmlZekZhM1RpVnhMc0ZBWTNYa0Q0THpRRVM5VmhPcGdrdTNLLVhfYVhtekFSbDhJUG4wRWQteEdNcGJjVlZaVURvdTlFRGdSWDY0NjB1dVlxQ2ZzV283NmFzdGJGNFJOSGpxLUJ6R2w0QXhXMWREMjlJYzFnUk4tSElzdDJBakFKLTFnOWVyTFBYRTJzZGlFN1ZwREFn?oc=5",
-     "domain": "foxnews.com"
-    },
-    {
-     "title": "London court finds 2 Iranian men guilty of spying for Iran",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeF9paC12S2t6cVRUSzRYa0dyMm9QNWtJT1dhZklmeDdFMVhSU3phOXJScTYtdHVLTGwxSU5YVVduUXRQR2laZ3pxcXR4T0ZjdjJ0SDJ1WHM1al8wVDVjRjdnWEwydnJIaFB0MW1hVk91Tlo1YVhxaW1hN0E2QkV2SGR5OHl1OEFpVkFRLWZxYkN0am92Qlp5Q2w5Mk4wWW9SeXgxZk9TbXRPU3h2c3FSZUtacHVCZw?oc=5",
+     "title": "Women's Soccer | Latest News & Updates",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE95V3FzX3dGdndZMDJaWkMxQnZOZWF6Q0JmMnpoOVJ6SFN5T1FxN0Rodm9hek90d3ZZQlhvdVlzVTA2X0ZPQzlpbkN0bXA?oc=5",
      "domain": "apnews.com"
     }
    ],
@@ -55,47 +50,47 @@
   },
   {
    "name": "Europe",
-   "count": 100,
-   "capped": true,
+   "count": 65,
+   "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Iran classes Argentina navy, air force as 'terrorist organizations,' in what it called a reciprocal move",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNTZud3NYZk5pMzFjSzVqTk1lM3F4bnpwWExGRnRVblAyb3hWYmR1OUhXNEV2b19mbHMyRVhveHVBTnBVVmFxLWNqNHg1M1BSYkFpS1dBd09CTTFVcjdFNTllOXZtTnpXS21KMmFCMEl1TkpkR1pmeGhHLTNNbmpRMkFDWGZ6VVpSVnZpeVFrbDJZMVpTRktJZloxcURuZ9IBngFBVV95cUxPZVN4RXRjVU1tSGdpU1hZSnRkYlBWWlBJZ3hQdDJZWDlsNk5hYkZKbzRnZkJ6SVZ1ZzZERXdrM1p1cWZTWVZsNmJKZFNLeXJmakd1S3czVGdDOTVsUV9FX1JFN0JJRzJjSGwwSDhTcnhYOWstS3VGRGpacklWdWJTWm9xa0plQ3Y0Q2FPRjZoMnJEeE5wLTBoRnlCQlJpZw?oc=5",
+     "title": "Microsoft works to restore Outlook and Teams after global outage",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV3V6c3JXeTI1NnFudnFpdnhVeXBfRWN1RFQtUnBCSFE4LUVPenVaZHh3SDBEUHNhbVRVcm1tWEgyQkFIN0tZM1dLc1QwNHlwdnd5dkpNN3BMWkNVb2lURTFOUmlKcG5uQzl1WktOdUhiTjJoNVdhQ2NiUlFiSGlWdUlYVWMyenlNZHlJUjBxTWJTa3o3U2ZneDQ1dm9MQdIBngFBVV95cUxQejRrTTAzZV9PZTdKOXNRNTcxVGpteHZJZmVFWmItVnRiQUViUksyaDB3QzNheFBGQUlNckFZUVkxeWN1dlpRREFUX0ZXanBya1lZWnZzR3R6b1NqemowNnF3Y1pCcG1nWjQteHk2cjROMHlzNTZYVlFhMXJKcFJVZnJaTzVBWVVQLXE5alVVYUdSRmlLeVBYd21uVEJkdw?oc=5",
      "domain": "dw.com"
     },
     {
-     "title": "Witkoff and Kushner arrive in Moscow seeking Putin's 'blessing' to bring Europe into Ukraine peace talks",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWTBvd3lTTEt1ZXE1VkZ5ZEJDcnVrLUVpYzVKSG4wc2JNSGJWWlZOSlVIYU4wYWhGNEJIR3NHTEQyRHA4V19ZbEhPZ0I0MF84eW5FbnFDUlVpbngtRng2OVhMZ05HenhtczROaFBrMXk0M3NRdU1palRWWnVpcXJGVkZlNzlOSk1YRzFIUlJsdkJsLXFxX3F3bXFsby1DcDlmUkRoQmZIdHJEWmdKNTI0dDlsVW83WXJndWtBNkxUd0RGb0xH?oc=5",
+     "title": "Find all latest and hot news about Africa | euronews",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CVzl2TUdPWXFDV1dqYV9sb0tEY3dpUUQtRjdSNjV1aUtIbV9pTG5MVW5fQURGRnVnTm5zSXVEQmRlZmRlTndLLVhteG1EX05hMUhybHRoTQ?oc=5",
      "domain": "euronews.com"
     },
     {
-     "title": "Russia and Ukraine agree to major prisoner swap as peace talks end",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVzJMZm11eWVnanpvRUY1amhSSkFaVlFjTUpJZk0wWjVxSnlqbjZUbEhXM1JybXJfTGFlYWM3eXFVY3l6LUtKdVd0MHgtcnRhdjEwWVpCM1FJa1lZOTJRcEg3dXVMX1pHS3pLTGRBbjlFZ0h0ZDRwc1VWUXRMaHBBckRhTWJrR0Zod1phaHlURG5DTm9CcGZGM2VGZjB0VThlcTdaN3dDTWxuWTVFbG9F?oc=5",
-     "domain": "france24.com"
+     "title": "Women in Germany's military suffer widespread sexual abuse — study",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORjJ2ajJab0xsSUhvaV8tS3NGMFF4aEpXOUU0ZXZvZzZaM3AxTlIwMDZPS1ptVUN5YjlNZ3hQc2dRZWFtb0xobGF3dG5EUkxyYlJmbi1jU2hrRmEwX0FRNm1nZTdwTTU2d1VxOExpbnp0SjJSOEx2b0gtT1QxdnRRV1JZclYxNkhtdkNVc196Q3QyLWJOY0VWZ0NScFVRUnFvZUE?oc=5",
+     "domain": "dw.com"
     }
    ],
    "error": false
   },
   {
    "name": "Russia",
-   "count": 7,
+   "count": 3,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Brazil intends to increase supplies of fertilizers from Iran — Lula da Silva",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE84TW1tT3pBYWoxMUh1Nko3YXlrNHlHcWhtNVBYUWpselZidnRmal9hQlhSTFJFYXNESnJYNE5JSDNuemx20gFKQVVfeXFMUF8yNTlfQVFKbkdtV2lzb3BjUU1yWWlrRW1maDlSRTktM3p3SlA4S3JFYWxzT29TN1VzSThzZWRsUW1fWFhGazZSUHc?oc=5",
+     "title": "Darth Vader’s lightsaber goes under hammer for record $4.875 million",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuWXZXNU45WEh6Y3dWSk93NFRpdHptZmtXTWNPQTdxak1rSHJDdDNwb3BFN1RiLXZtTVBhcjR2UURyYWhJaDhN0gFMQVVfeXFMT2U0ckM5Mk9lcTFmMFlMYUhwMGhGM1NKM0tmdFVUTUgyRmVkNUw5emtYWEVQcVNQbXc3MnkxOXpyYlRqOWZfVlJMS3lqWQ?oc=5",
      "domain": "tass.com"
     },
     {
-     "title": "Mass bomb threats disrupt thousands of European schools",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMQ283cE9YaU81NTQ4Yk5zLVVLb2MzRUhnVU5UQnh3emx2TklmR2tSQXpSRzROWmI5dlhfV0dXbW9jMXhHVzJSWm1ISHBjVXNSTkEzbkF0dEcyQjEzN3gwR3FNVzVld9IBcEFVX3lxTE85M0dVRlBEdUNlUThlR2x5YTd5YkJhQUZCSjRIaUZxSGxTck1qUnJGWlBjOXRDODJkRm9EQnF2U3FoQWxhaFYySmNaR25XVXpmTlJBdlUtLWVRLWxNT3pvYS1BYmVKWkwtZlV5Q1JodkM?oc=5",
+     "title": "Kenya refuses to serve as Ebola quarantine centre for foreign travelers",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdElkOXJEdXpwQkJvVXgtV05XcFI5Mk45THFCbXZ2NVBlZ1kyWldLV09Nc0lfTXNra2EtZjFOY04wZksxM3V5aWlHbVRNZlI5Um5YRk1pWGlkX3NIQjhybk1SRHJkWndiY3QwNWc4YTJKdTg0YjZqQ0pjQXlfeFJiY9IBiwFBVV95cUxPb1laU1g3TWN4NERUcVQ3NEtGdVlFbEFSREw4ZmVEcG1RRWxKNHJiM3Q4TWVKVXVKZWJNRXVMdnZUTFBvNkszMXBKWlpkdS1EaVhYdzAzNjBqa1FRa3dWMFJBYmNuTlF0YUNJaGl3NGI3dzlaRkdYSjRHUkh4LXZCUm9OaGFaT3B5bDVN?oc=5",
      "domain": "rt.com"
     },
     {
-     "title": "Iran should consider withdrawing from NPT, revising its doctrine — Assembly of Experts",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE01b0NTamZqN1RMYXltcExlNE1qeURCcjRFeTgtOFdnTjB3X0ZnYW1kZk14UDVsbHRMLV83aDVQQVc3dFZ20gFKQVVfeXFMUFpEMDRmOHJhSEJWR0dYZUhnSy1KaXB3Uy14Z3VRRjJOR0hqaEJiQnc5YWk4NzJlRzg1TXF4c0o0Ylc4YWQ5S0NnMGc?oc=5",
+     "title": "DR Congo doctors say Ebola cases growing",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE04TXdBVzZ5R3I3RVd0aWxkaEp4SHBCanlfTkJkNWh1WU9JTWg3cG01N3ZQRE1zQmtqT2hDb3BOUjFod3ZfZlRuUGstenPSAUxBVV95cUxNOE13QVc2eUdyN0VXdGlsZGhKeEhwQmp5X05CZDVodVlPSU1oN3BtNTd2UERNc0Jrak9oQ29wTlIxaHd2X2ZUblBrLXpz?oc=5",
      "domain": "tass.com"
     }
    ],
@@ -103,96 +98,75 @@
   },
   {
    "name": "China",
-   "count": 13,
+   "count": 3,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Nexperia’s Chinese unit declares supply chain independence in chips",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYjFxM1cyUWNUV3VfRkVVY0V2STVNdGVJMXBJS3k4VE5CQ3oxdUJpWE5XMDVyc1JGeXZLd3B6WFRWb0EwVWVxMzUzT0xxTXJkM1QyUEVlSk1BX2dIRGhCUHJTWVZHOThrY1RvMzYxYXhSZEE5MkhYNS1fcTVJbzh6d1l2TnVkUjFMdWtmUm9maWc3VE5MdTJPTEhaZkFfc082cHRETmJkaVYyWEVRQURFTUVjcDA3WEdUZlZrYWNMSFVuZVJtRWRhMElR0gHKAUFVX3lxTE1EYmQyY2lvNW1vWjFtUENfQlExQkRsR0tSYXpOUm1adENGaHpVUHdlZ3loMnpOcGEtdTREa3U0OHdNX3gzaWZLdHBvcjhMZ3RWYUZNWUF5TWEzOUxtcEdleHlSQmZlRWZuSENpX1plYnRJMUM1eEpTWHlNUWk3bDJZYUVtRlhRTmlSLXZQNUFDWEtlNVRKYWZvRnRBc3BXY3FMdUVzR3JNeG15TkN4MjhwMldzOWJYYmowMTAwQjltaDNyX2pnLVlYZkE?oc=5",
-     "domain": "scmp.com"
-    },
-    {
-     "title": "Iran warns against direct, indirect involvement in U.S. \"aggression,\" \"economic terrorism\"",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEeDFzR2xIcjVEM1JBcV9IR3lNeHNZMlM1LUp5MTh1TnNyU1d5R3Z2eEJtNlNQTGgyVHhxNmo5WEI4a3AzUVI0NEVDdXhfdkZJV3MyYUlUeXlDZ3E2Qk01d0lSbWdjRU96QnhpcS1Del9jbEo4MllKTmNyd0Y?oc=5",
+     "title": "WHO warns DR Congo Ebola outbreak remains \"concerning\" as violence disrupts response",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNDJILUFNMXVlZ1dISTdBMTBfY2t4MEM0TlBNQUxfOW1nLTBkYjBpdGg2NTNQWC10YklzczNJMENtaGg5WnZfcmM0eTFvOE9HUDd6WGdzUEYxeVNtdFJpb1VKWG04QVpFbmZwNEtnRXpLVzQtdS1fLVVsdzk0Vi1KZTFnNFotUQ?oc=5",
      "domain": "english.news.cn"
     },
     {
-     "title": "Iranian media citing Qalibaf: 'Even during the war, we maintained communication with countries in the region and kept in touch with them'",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwcDNwYk10SWlLLVpnNW5POENBNGdkUjMxdnRmd1JUQU45S0pVN190U0EwbW8yQkw4dGFtZ0w0NzRMSUFqdTJERkNRNGZfcUMwZVd3NUgxNHUxRjl2Unc4Q0lOb0NxQzRlWW1iaXBLY0ZWSVNzY0ZOYw?oc=5",
-     "domain": "news.cgtn.com"
+     "title": "DR Congo Ebola outbreak still out of control after six months, MSF says",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNVl0dmlscENRYkdyaVJMYThqdjFHREFwdXNhdVdkLTlOMlRYYU9wRmFzQ2JqaHpmMHBuRmFKNDFfZzRsWFFEb2tWeDRQU3ZOd2FGUFZDTHlpaDFhR016eks0X2UtcWFkYjlCOU5fUGV0djZNNkNjNzdpMkxKa3Q3Q2FEWlRDblRhQkFwX1JoQV9HRWN3MkF5Z09zLUhiMEprcHpGdzdTSjMtVEJwa0ExUF96SUdFMDg?oc=5",
+     "domain": "newsaf.cgtn.com"
+    },
+    {
+     "title": "Roundup: WHO warns Ebola outbreak in DR Congo remains concerning amid rising infections, violence",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMXZueldEbHA0QlY2U3psWnJJWTRHa2ltd1JjaDZlaTgtV3lGVVo5cVd0OUFXUjFlRDZOb3VJclRtV0l2amFWLVlYRWxYR2ZyRm9EYUoyVEVJODNBbUE4MVoxbGhmbDdoV2pCZG5IVGFSdHpmREdtQ0tLNjhPU2pNeXVlS3VnQQ?oc=5",
+     "domain": "english.news.cn"
     }
    ],
    "error": false
   },
   {
    "name": "Middle East",
-   "count": 100,
-   "capped": true,
+   "count": 0,
+   "capped": false,
    "tone": null,
-   "headlines": [
-    {
-     "title": "‘No war, no peace’: Can Iran break the deadlock with the US?",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYXQ5Y3BkZ2ViQ1NSQ3MtWXRteVg3ZFNBTFRWWXJ0eHhWUWY0OThCNHl4c2VJaTQ3X05UTjU5WTBRYTZJUkVld1VrZTQ3TDFSUHYyOV9YckpyN2dDOFJfSF93M0g0RHJqV1MweUkwOHdCaWlSVHJvdm9jYm95d1pxM1lCUG5Ibk5lbDduclpmUUhWZ1JjUGlrVmdxSHNBUdIBowFBVV95cUxPa0dyY3drVndxNWVSczdJdmd5T1hCY19iNVViRmZVdlllMEdXUDZxbGtzRjF5T3lySXRYTjdmR01xOUFoNks2RXZtTi12YVBlOExkSWRsLTNLSlMxVWlHUnhyRnpYbEFUUnJOMHpzak9YVm44UGQ4THduVnFqbnF4c292bEF5OHdaSVhTb1Y5NmZXREN3NjBtWlhKUmRDQnpTVHB3?oc=5",
-     "domain": "aljazeera.com"
-    },
-    {
-     "title": "Report: Vance weighing direct talks with Iran, Trump sees June MOU as blunder",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ0EyMHFVbWVjMDMzQjlpOTlfMG5Hb1pYNEVQQXBLWmd2dWlsaWdGZkFKU2d5RlRIRlBkTi04ci1BOUg5Vy0wQmNZdTJFcEZCeWxKa0hSV0dpQ0NYa19fWDVjaGR3Szdjd1pERVJ6a0VsaHI2Q2NqLXJBSHhBWVJIN2xmeVFENWZQSFhSSk9oV19JWXdMTWJkZExqVkI5Y2x0RkpLY09vYl9KUdIBrwFBVV95cUxOLXpMZHlmNERXbkY1bGRhTjlGckw3MS1DOTlBc3R5a1N5NWwzdzh2OEtULUlNRmhtZGpyWkNRdkdyTlVqRmZCZENIZ2w0am1TM2daTVZobmdYWjJzeVo1c0FiU2Nod2JaOHdxSnFoV01vT1dpMEhHeW5LTl9CRWdoMTItMzh0VUZVU3pWSnJFeXQ0MFFqN1FNVVV6X29oMzRzYjIteUJQdWI1TmxNZWVj?oc=5",
-     "domain": "timesofisrael.com"
-    },
-    {
-     "title": "Iran says two oil tankers carrying over four million barrels ablaze in Hormuz Strait",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNblFtNUgxa3pCNnBJTlE2aUgtU3F6VnVFLTlfTzc2YXZJQWpyaVF6VGg0ekM1NTNYQUlDLXVvZkIyckhTaENqenZaRkthRWc3eUJxWEZTWEp1bUlmOXA2RG85ZGwzWDZweGVLOGZ2eG1sVDhJZmxWdUROZjktQ1ZrN2h3NGlDNXZLa2hDcEZXUlhsZlU0aExlX1BqSUZSY25odWFzNnFVakptT3pRdkU1Mi1RYWdiUWJjUzFtY3RTemJRS2xSNTVHV1dDLTZOUENYWnhRUl9pdjdUQdIB3wFBVV95cUxPN2ZZc2pYYUhrWmI1UXIyeGNEbFZBZjI2MGg1V3FiN3J1Wmh4WnZsUW5IUmozRTZXUEluOENfcnBsbVV6dnhMZkFyWjR4WkdkbnVIcW1weVdkRlFoYzJnUmprSW53RmhwMTcyUFlwY0luMkhRNW9yVHZfMnJMSXpfdl9wSUswY0pzeGY1eGNvUnVIZ3ZHVHM1bXlYN2dWRUc1YU5KZVhqY2RWaHkwbS16bVZmTzVGM0JETzFzeGQtdzJ0eEM4dkFVblR4Y0llby1PMnFfWmstbkdtU01aZW53?oc=5",
-     "domain": "english.alarabiya.net"
-    }
-   ],
+   "headlines": [],
    "error": false
   },
   {
    "name": "India",
-   "count": 100,
-   "capped": true,
+   "count": 36,
+   "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Trump And Netanyahu Get Into \"Shouting Match From Hell\" Over Iran War: Report",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYVBwb2JFbGNkUjJ0Y2p1MlhHZlg1dHJMdWpCNlF2a1pnU29ZR1ZOU0VqZXVtc0xqU1FDUFY1c2RJaGl0NVctS1JyUnhJNGw3clNpajdOQ2dXUl96Q1BycHBBTUl0UDFNWGRFOTA0WU53bjlCNGk4bXQzam1GR1ZtRUZWSEQ1azR6Z0FuWU4ybFA0QXZtUkpYWU9JRjJ6OEtmazBteTRjMjlFVTlxUEFEZUsyN0FaT2U3SmFsbExydnRRWjdPaU5Bc2xtd9IB0wFBVV95cUxQZTFfcnFDTGRBajhLV25MbmdmdGNGdkNBS1JTYUdUTzF5YzEzX0FRMlNJQkVvWUo0RXpkeEw2X05YWms1T1lEYUxqdlRiQW04b3pycFdNQVZOeWZuRnd4OUNRYmp0SW9nZ3lIVURsQ1FaOHpvZmp1amdXUkp0RjRKT3haT3FqVnVZNzQ0b3Z6YVdGeHR5cmFfR3FhZER4Uk1BOWtNOU5yS1NULXN0R1kyVzRVeTYxcG5OTVhoOG9qUkpMSUducnVRQ0ZCRHdQQkxpb2FJ?oc=5",
-     "domain": "ndtv.com"
-    },
-    {
-     "title": "Netanyahu's Iran gamble: Can caretaker Israeli PM launch a war?",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOM0txamR1dWNxUDRVY0FheVh0S2QzUE1qSDBxV09hdW5vbzdURjRmU0ZjdTVkM1MyNFFZclRZbzRhWE1QT1hoZS1KMGJYa1M4dHJia0hsOW5OejNMcEVtWWNwM2VZS0h2Vnh6Uk4zOGhDUHVERDBZdmhsSmR1RzZEQ3h1MHZyMFdYT0Yxa1d5QzhCaWpzSjVWVml6bmxrVVE5NVhuSFhNWnlwMlo1Uk5rVVJUdVZMcHpwUnRuM2NESi16Vlp4SU5IZWhSbmR2eTJvUlIycDBLaGNEQm9fUVZ2cmJKOWMzQlNTQnZla01wVm5PTEdU0gH6AUFVX3lxTE1fYk00UkI2OTd5TTAwYWUwX1ZnQmZkcnpQOXlzSnpUaGdOc3pjbi0weHVKVnZpRHFGVXJOMnpSUmZzbU1yZkJYeGttaU80UDRfZy03M3NxWDNUQzZ2OHhOejRjY1A1YWtJOEJhU0tEY2RqM2dpWDZha2thbGg4SDRkN25VdlFfSWVFQldpMkJlcmNldGxrbmlEb0pVOTlkU3l1NkJOcGYxN1A0MlJ4dUp4dEdfVjNhbkVFalBocUt0QzBYaTlmRENNRlU4ZzZZaHZQaXFEbzVHd0tVWXhZOWFkNTkzU3pjM0pPNVZxZ2N1ZzRwZkl1SHVmSHc?oc=5",
+     "title": "Relatives said they wanted a boy after his daughter was born; a day later, Punjab carpenter Yudhvir Singh",
+     "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNeUhTSWJYMUthRGVGUUZGTWFLMDQzM3pCVWw4dUJ1dDJVVDVGanBNdmZaWS1taGFvUWZJY3hsQU91d2RkaWZ5ZGlFNnJfeFRQRWVTZzNKZnU4U201b3NDY0hWT2NFaTdEcElNZVhXWUt3cVdSSUxTRlNiVG9YaWZVN3pDc3ZTS1VWQm0xVFNsMFNaTlV5TWlJeEVIVUVwaVI0dFpxR0FiUTRnSGNIMFJoTDlWbjk0RUVidzNNTzB4QjR0Rmd0T0hPRzFNenAzaDJadU03YkxIck5OMU5vWXRXdjNHbTgzLTBxZDFYdk02ZlhxZzVPd3gtSVdETm8xbTNXYy1DQ0ZNWlh3a0x5TmhTOUtjM2J5NTBLeEttVW9TV1oyT3IzMC15OW5tRENWTXNJdVpySVFYa2NWSHhBRzdBVzlxQVR0Uk1hYk1NS0ZkbjR3S2pFMDIyV29iVjZqYnJ3SkxtVHNscnptZ9IB7wJBVV95cUxPRGNNTmVEN3RLVWRRWjRLckw1dlUxLXpERlg5eGNEM25DM2YxS0VPRHphN21Ba2JVbTVNazltX1pJdXhxNU5EcG56ZUJrbE4tS18xbS0zdmVqblhsRVN0Y0FPSktTdUZfekRWWlVERzNCMTN2ZmE4Q0gzY0NVY1FPYXg4cXlucHZ3RTdKWW9URWR2UC1HWm9pQThhQkYwWno3UmFVbi05Y3hvYXkzUmFBWnFZWnF4UVhTVEF1ZzJPWU93Y0Z2bVVodENDdVFKMnNQQVVOeDBsX2hwa3N3V0NiQ3NqTnhONzUxMGZGQTVrejdGcU9ic0prdC02RVcwY3NtRm84SGpGbkhtbVZSSmx2Si1oSFBGdU5sVmlMUGJoNDBnZjYzMFpPTGtGS3ZoRGdQcDhLcGJYNnRDeDZYM1Zack9fR2xsb2pUNDk2bGR6cHQ3TmJjUE9aLXNrRVZIMmxwVHhHWDVkLVpiUktDeS1V?oc=5",
      "domain": "timesofindia.indiatimes.com"
     },
     {
-     "title": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-     "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5faDBiWWpLa3cyS3BWYU1RQ3BrQmt2b0d4dnp0ZjRvTWZPdndZeGNzdzV0OTF3OXlCa3A3akhB?oc=5",
-     "domain": "thehindu.com"
+     "title": "India4All, An NDTV-Oxfam India Initiative To Help People Affected By Coronavirus Outbreak Lockdown",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjTzM2aFFQSjZDNlROQjh6Wnk5dHVvNnNyX0NFS21qemNSTlRVYldnbmw5NGV6UHBaTl9fSk04S1ZlSDFHVVRFNlpHV2JrZ1hOdVJjZnlWY1kzUFZLQjlNODNwVG1ONDZuZGUyVFQtSWJLZ0VsT0xJWDlaOA?oc=5",
+     "domain": "special.ndtv.com"
+    },
+    {
+     "title": "Mumbai cook's earnings leave internet surprised: Rs 1.5 lakh household income, first Thailand trip at 34",
+     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPbmZ2ZXlOeHpPN1ZYSHUtSGZZelMtbnR2OEZmbndscUgzNXlLQV83RnZscUQ1VUoycEROdUNWeTN2cDV3M2hleHMtR0JnWGtvUHNKU2wzLVJJamlLdG5Tdk85OW52UVRhTmNScGlmV2JWQ1pMbFZPYlQyRVhXUWFWb1Q2MVB6RXQ4bENsU056Zm9IUUNRV2RvZ0dic0ZRTVNnaDAwZThoNmpZVkx6ZkJiMUw2ZFlwWHdjQmNhTVFfdDZHMkxNUmJkejRhdEdnWkFJOGVQa0RaSTVOdk5Jc3VwVVpOdWlRVWJYUDl2YVZ6V0t0N3RxbmtrNjhReXFybXNOdHY4cXl3eE8xR0HSAZACQVVfeXFMTkFJbVJERUo0aWdzZTlYakhzM0U5cWxuOC1JemluNHdjUDZwMnE4QmJJTTBDQ2poQjByM05FbVY0a1JoWmhqTjdwSkdQMlM2eWd3eXdJYUs1Zl8wMnpsTVgwUnBGeW1pQmJFckpkb05rSE5oU0ZXb1M4eXFUOXRwekc5RVNwVlppbmkxX3gyOGlMb3NpU0pFc1VLMV9Wd2RZbVpwNktUMzg1TXJmMFdzcDlzeTNYNmpIeXhDZ0lsb1h1OWgzRnBtM1dyMENwdDFBM1h6U3RaOTJZQkFfUTZtVHc0Q3ZWdjViV012M0htWS1EdlFvOUM1cTVYb3U0aERJam5xWmhaaXRlSmdEU3p6ODU?oc=5",
+     "domain": "timesofindia.indiatimes.com"
     }
    ],
    "error": false
   },
   {
    "name": "Africa",
-   "count": 7,
+   "count": 2,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "‘Dictator’ Infantino needs psychiatric help, says former FIFA chief Blatter",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUDZJWGpubW9HVC16dDhkMlZPYVV5MkJyemdkUnV4MXg5TnFabEdSbUoza0h2ZDFBcVFkNXZDSkhralpfTS1lbXpua095Y24wQW9kaG9DWlRaaWV5VzNhLVVTMmF4ZTBVdkZUZjJoX0tTVHh3V3VFT3o1Y1pkYVZIQllkTFpCcVFKMTZ5Z01XcVd6LVFaYUJYU0lYZEwxcFl3UTBoMWc2WEFFTnlmRWF5UWJkWFd6QnpkcEFSWjF3VQ?oc=5",
-     "domain": "news24.com"
-    },
-    {
-     "title": "Explainers",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UM2tJLWFLSFZ3V1doUDdTYzl6TEcya3RfMkdYbjQyQWJidUlQME04TVQ0bnpOZWJXV0VPb09ZTjNPZTN5OHFxR21OVmdDendINlBvNkZ3?oc=5",
+     "title": "Attacks on health workers hamper Congo Ebola fight, Africa CDC warns",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDUzdmVUM0pHaVdzQkM4dXZDcUJvc1JIWEhqSGNnZUpxYVFBTlRrMEU0NFZ1VmRWOE11d1NVRW1sQ01XdGJzT0NVUkhsd3h3TTJ4UlQ3WWlqQ3VoTjdsWjFseE0teDNZZTFrVjFKZGJHVHNGOTV1Z292SVBnV25hc285M0JMQ0pZMXllTFJDVWM5ZTlqMjBjLW45SzdhQ2YzcWZwbEhyaDJkeksxZFlxdFg1MjE1Zw?oc=5",
      "domain": "nation.africa"
     },
     {
-     "title": "EasyEquities owner books record profit despite crypto, hedging hits",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ0Y0M1dVb3dtRWlwRzN1Z1F1TmhzWlNBaHI5eF9sM2dkT2FCNWV1aUZDbTBRWWdVNExUT0p3Zmp1UWZvblRqYUxRMDQ4R3BFaVMzVk1pZGpPcWlFNC1Zc2RYM3RvRWRZMklfUHBvVklNX2xVdVEyLURWOG9MeDlaQklwRndKZ21ZOENCSGFFeW5EMlNvenFVdGdnUjUtS09KZ0FmeXNMX01zejA5SWZqWDFhRWVWRjM2aVJqSndEbw?oc=5",
-     "domain": "news24.com"
+     "title": "2027: Dickson alleges plot to rig election, intimidate voters with fake security officers",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTFQyUGZOY1Q1T0dOMkQwcmxES09WeXliY0tKcUJQVGQwYkpRY3NZajlqNlVZMzhHc2t0SXhvX29nc1A5V29ab1dKZVFEWTRqM0lOOXdrWk1oeGtxRlZpSnBmYU9EbWpJdVVlUmRWZV83UzZSeVZvYkNtRGFOMWVBeGo3NmgtRUlxUlhUS2xSVHZjV3hLNHlLMU1GdXJTRDNJVkZJZ2VfU21ocEtGcTJxa3JXUVY2SXo0MGs2MFpMX1MyYjZzNnptNU5xNjRxOUI3MmlVREQxN09WTGhhSFE?oc=5",
+     "domain": "premiumtimesng.com"
     }
    ],
    "error": false
@@ -207,7 +181,7 @@
   }
  ],
  "framing": {
-  "text": "UK and US coverage emphasises Iran's military threats and escalation in the Gulf region, whilst US sources also highlight diplomatic efforts by Trump officials. Europe focuses on broader geopolitical consequences including Ukraine peace talks and school disruptions. Middle East outlets concentrate on potential US-Iran dialogue and whether conflict can be prevented. Russia, China, India and Africa show minimal coverage, with Russia and China mentioning Iran's broader foreign relations and doctrinal positions. Latin America has no detected coverage of this story.",
+  "text": "UK and China coverage emphasises the Ebola outbreak's severity, funding problems, and violence hampering response efforts. Russia and Africa focus on security disruptions and attacks on health workers. The US provided minimal coverage, while Europe's articles are predominantly about unrelated topics. The Middle East and Latin America show no detected coverage of this story.",
   "model": "claude-haiku-4-5"
  }
 }
