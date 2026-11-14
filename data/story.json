@@ -1,198 +1,120 @@
 {
- "generated": "2026-11-14T06:32:45Z",
+ "generated": "2026-11-14T18:12:47Z",
  "window": "last 24 hours",
- "source": "Google News",
- "topic": "War and conflict",
- "focus": "Iran",
+ "source": "GDELT and Google News",
+ "topic": "Food crisis",
+ "focus": null,
  "regions": [
   {
    "name": "UK",
-   "count": 100,
-   "capped": true,
+   "count": 0,
+   "capped": false,
    "tone": null,
-   "headlines": [
-    {
-     "title": "Global oil supply returns to surplus for first time since start of Iran war, says IEA",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNndNZUdKRnhDVGRkRE85YjZfUG1pUFd5NlVkbjBhbWZaTjZqZlRCU3RmMlBzR1ZjMmJpZi1jX2FvT01wbVc0ZDNaYm9YZUFTZm4wX29QQ3NLN0VpVS1CUjRBVm1GeWlHRk8yb1R4QkMySE5HUjdMUEM3OGVXdU5XM3lORndmX1RwRFdEbkZhalpnVmdONXhJYkR6bUpDZ2xfTXB1MlNuWDNFOGtPSFh0NzF0OWFYSjFBdU1hdVNqQnNSbUdMMi1JZW9vV1UwUQ?oc=5",
-     "domain": "theguardian.com"
-    },
-    {
-     "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ISUJpaGVUMDU4Q3VLd0xnbUZMWjhCdE9sek5ScTFwbjFOa2xabFhRVU5KQklkbFhCUmJFTU5VZ0tzUW0tYUdBZUNDazE0dU9WbFh1N2ZnY0lmcG5LZVE?oc=5",
-     "domain": "bbc.co.uk"
-    },
-    {
-     "title": "Iran war 'has turned into political nightmare' for Trump",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWGNzVzZBRUFXckswbmJoTlI5VVUydHZCaGZwXzAwa1NiVjdTY0FoMjhzS2gzYVo5cGZjYm9jdTVRMkM4S3RWaVNiZ0hodUo1cWRkTWFJLUJKcXN0YTV4YVc4SWw1WTJBLXcyeEJGXy1BRzVrVnRQQm94NEc3bXAtdDdqdFNZQmxlMjhXQkV1MFFtTHV1?oc=5",
-     "domain": "news.sky.com"
-    }
-   ],
+   "headlines": [],
    "error": false
   },
   {
    "name": "US",
-   "count": 100,
-   "capped": true,
+   "count": 0,
+   "capped": false,
    "tone": null,
-   "headlines": [
-    {
-     "title": "Trump Signals New Strategy on Iran: A Waiting Game",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51bnYyZ0xDaHVCc05TYXYxdDlPME5fNmNfbklWSm9GMk53TTJHdnhGMm1JQWZyR0VHZ0VZQlhFdzZyVmFnRm9QdmNocUJ2OXJLUGgwenNPb2dsbTFqRU5RYVJISVFlLWducVRCTzhRaXN5dXZMalU4MnJFWQ?oc=5",
-     "domain": "nytimes.com"
-    },
-    {
-     "title": "DEVELOPING: Iran launches Mid-East drone attack",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfY1Rva3VoRlBBVktLSjJyVHVENEs1S05VbjZkMVJvNkVKbkEwbFFva2NWVkxsVHJzYnM5cEk4WGRQdmlBWjVsLTF4cGRiTUpYZ3JNUnNn?oc=5",
-     "domain": "foxnews.com"
-    },
-    {
-     "title": "Rubio says further US military action is not needed against economically weakened Iran",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMXJTcEdfVGdOV1VrbGpYTy1hMlkybS1IbjZGS0piS01yNWY5RnVsMi16ZHBMTFVIajNzcFoydFZXWmhEQXJuVXBHNFBic2JSRlJLZ05TNGlmclRmMlppOExmc2ttem1zVnhQV0ppcnVaUkd2Q29fVVNXUzJpUFEwUE1WSHVkc0tZQXpmaHBSZ0YxVWpoOGNkMmZnbw?oc=5",
-     "domain": "apnews.com"
-    }
-   ],
+   "headlines": [],
    "error": false
   },
   {
    "name": "Europe",
-   "count": 100,
-   "capped": true,
+   "count": 3,
+   "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Bahrain: United States said it intercepted Iranian drone attacks",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzbDBjbGZHcHhaSXNOLUk4ZC1kS2ROSU45YkJfdEN6N1NBdHZTRENtRVJPZ295OFVLVUVUa1BUdDFMai13TVJjcTJmSXN1VkN2RDU0X1owdHM4MUZJd1RFMWJNN2J2aGlsdjVtU1JPZ9IBb0FVX3lxTFAzQmFOME1sV2pfVFc2c0Y3UnB1WExzaUt6d0xUR3NYclNRN1BxRDFrUFdpWU15aHVyVWUzSmI5LVYwSVZiTGtqNWlhODlfRFJjc29LMnJDQnFrdGo0QlAwYVptajl0RXhEMnFXaFlucw?oc=5",
+     "title": "Sudan: Humanitarian crisis worsens due to plummeting aid",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbHNPXzVuTl9RbkdVTmVtRG5oSG1JcVJzNkhaR2RQNzlyS3pyZEVjNmJXZUJNVTRDYlBlVGltU0o4Z3BSRXU5QnA0R2VLQk9wVWRXbG94SEdwZDZHZHBLWFI5Vkx3ZGQwV0dTYzNmNTVxWThobEFYRXJhR283bk1taTdCbEpsN2lpamtseDZBMkRTbDNLSGg3OGxR0gGaAUFVX3lxTE9BQVd0ejhKYjhvazFRbWFiTFZIWU40VXpkRHVjYnZsY0QtUjdWYXJ6bVplcVFYV1JuQ201Qzl6NjJMUWVNRHVTZUZnMFdEd0R1dmI1NUVHU1M5di1tTzZsTHAyc2J1amc1Uk5FTjRDbE16STJCcEY2ZzhaU3BkVjhacWpqOGpaTXR2N1ZOQmx1UlAwY0F6ajJUelE?oc=5",
      "domain": "dw.com"
     },
     {
-     "title": "Iran MPs debate possible shift in nuclear doctrine and exit from NPT",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSkZ4Q1RJQ1M1YjlrbXJzOE83My1iLTNpZ080akJTWURnVmQ2MS16ME5Mb0dVLTNzTzR3c2Q5MVF0VUlfYVRpMUYwRGllYkVMUVNuODBsaVR5N0VjZENMZlJvV2tsUncwcVVPQlpXbmlvN3RqQ3BYWXNmdHFPaHVyOEVnNG4tS2xoT3JHaUVud3B4VmFZRE1JMFI0eFM2V0RWbUVyRzB6TQ?oc=5",
+     "title": "Find all the latest news about Ethiopia | euronews",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VNWtVYy1GY2FSSUh2LUFEdXoyeEFBYmdmd1htWkhRelgtdVlSdmp5TmFsNlltMmFYSHg0TXhORzkyM2ozQ3U3NUdkeksxU01yT3JTMFZfT3gxNG12YklEV2oxRQ?oc=5",
      "domain": "euronews.com"
     },
     {
-     "title": "'No war, no peace' situation between US and Iran 'cannot continue', Iraqi FM says",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUmdRYXQ1S19DdDNfN2ZCVlpUNXlzVDRfSWkzZGRqb2Rqem5ZTTlMRmd6X2tNV0hMZzFIcF8tNG1lSG5MaEM0R1pmOWd3azJOanBsQkxNb0hDUElkVFVFVV90NndtQTJMVnpvbGpONnl5VS1LT2NqWjQ2bHQwU3pNMVIzVVQ3dUJSamNKMUQzWUxsUENGWnhuNDBURjNWYzh3LUhxZzlHa2RQMmxrWVhmaGtqMXczUWRaS2R1RERseVBuN1czNWNxazF3ekdKODFkbnhxc1lQRFpOQ1ZWOXQw?oc=5",
-     "domain": "france24.com"
+     "title": "Weather – All Content on this topic – Page 1 of 38",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5cnhGTkw0bXFqV3U3RjV3QWlxRnpjaFgtRmR2SWpnQ1kwaDktZG1iUWpBR2FSV29zVmJEM0lmUENrVktaOUptMzRXalNRYU1lT3A4OEpRTmhXSW8?oc=5",
+     "domain": "dw.com"
     }
    ],
    "error": false
   },
   {
    "name": "Russia",
-   "count": 12,
+   "count": 0,
    "capped": false,
    "tone": null,
-   "headlines": [
-    {
-     "title": "Rosatom to increase personnel at Bushehr nuclear plant",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9KRHItQzc0bVFmeEllelBzOHk5TnVxRDRwUzJ0RnI3NVJxSmh2QnBsbkhFdmlQX0RnbXRwY1VUa1ZKcmVNQk5r0gFMQVVfeXFMTkYyMjc3Yjg3VTdLbXEtTWM5WG9LLXV3SFZudXEyR05RUUpJWnpxYmJzV2psTWcxNnhKaUx1TmRnbW5tV1N0R2wxMTVMMA?oc=5",
-     "domain": "tass.com"
-    },
-    {
-     "title": "Tariffs",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BR1JMdnVpTzFWUW1FUzZaSEVTaEhkcnM2SFNhYVlUT1hKSWJFSFpsLU1MVUY2NFNWUV96Z1ZjNzZOQ01vY1ZYbmRFbS1KTnJjNGs2N0ZUYm5DbGJ6amVyLWlB?oc=5",
-     "domain": "rt.com"
-    },
-    {
-     "title": "Vance may put his presidential ambitions on hold — CNN",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBzR18zemFkeUdwdGV5NVpEbmlKa19ST2tLMlU5YWtvbmNfSTFGdU02bzhHNmotdU9ZdXRCbDQxeW56RTJO0gFKQVVfeXFMUGRFTFdTLXdRM0pBRHhnaW1LMDlyY1ZpWkttbG9ZVkU2cTRFVGlrMG8zVHl2MzNOOW5qR3R6OGZEVFN2RlFwNHYyUkE?oc=5",
-     "domain": "tass.com"
-    }
-   ],
+   "headlines": [],
    "error": false
   },
   {
    "name": "China",
-   "count": 16,
+   "count": 1,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Mossad chief visits U.S. as Netanyahu pushes Trump to resume Iran war: report",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KVUlVcFFNRi1zTVhWQzQ5T19YM0hGRzlqQTV2SWpZVW1wSUFQOHB4Ynk0Rnd2bUJQX1dISU5Na1Q1MEQ2QUtncG5ySk01NEljUm5DSEYyUkNiNzVaRlFHcFJtTXlUMG5lYnlyQzh5cHFOSHFBcW9KTlEwYy0?oc=5",
-     "domain": "english.news.cn"
-    },
-    {
-     "title": "Why midterms are set to push Middle East powers to relook US ties",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUWRldDBBVVRQaHBnQ18zRzkxRWk2RUdGRkJqNU5sQmhjOUtwZlExNm5HTXUzaUVqZjAzVThlSWotdWRMVGpaYjFFRXNoc2M0MFVIM0QxazROalJBZkRQVkprdy1vc1h5dVZIV2pKeG5CczJqLUtsTmdOS2hfNEdBUWpBM2NwWE5YX3REcnh0eVd1UVE1by1VZ0JxQ01CN1kwTkl1dk11cnJhUTRYVVhxUy1sd3g0N3J0NDU1OTgxc0cyUlA4Tmc?oc=5",
-     "domain": "scmp.com"
-    },
-    {
-     "title": "US Air Force responds to suspected drone activity over UK airbase",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc0Jma2xpdWJaeFh4dTBiZEM5Rnoyd21DVEgxaFQtNEdLREpqZjI2eGlXX2J5ZVN0aWpoeGNpSEdidFhPajR4TEttM3hMWTNNN3huVGFYaWFUVDBOZkpjVjdnNldkMmNtSmFLQUZ0WTFEXzNFU0dHal8yaWNkT0ZUVGdQc2hsQVp6eEQ5Y3dHQTItV0xBdlcwYzhPQnczaldNa0JCZjJVVzlKS3lnRzRuVGhSMFN3U01RdTRSc2RUVXNxazlBMnpDRktrRdIBywFBVV95cUxNc0Jma2xpdWJaeFh4dTBiZEM5Rnoyd21DVEgxaFQtNEdLREpqZjI2eGlXX2J5ZVN0aWpoeGNpSEdidFhPajR4TEttM3hMWTNNN3huVGFYaWFUVDBOZkpjVjdnNldkMmNtSmFLQUZ0WTFEXzNFU0dHal8yaWNkT0ZUVGdQc2hsQVp6eEQ5Y3dHQTItV0xBdlcwYzhPQnczaldNa0JCZjJVVzlKS3lnRzRuVGhSMFN3U01RdTRSc2RUVXNxazlBMnpDRktrRQ?oc=5",
-     "domain": "amp.scmp.com"
+     "title": "South Sudan's first national elections postponed until February 11: electoral commission",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JUUxjdkxnaEs5S0lKbGs4OWlyRlR2akdlSFVNMWJteVlWNmV4N2UxV1Y1NGFQUVVLd0lNZlpMMVg4Q2NUUXRfeEJaVlVpeHE1NHJJVVBQamZLVHhlcGx5VU5ZLTV0M0VwdlJvaVJ3?oc=5",
+     "domain": "news.cgtn.com"
     }
    ],
    "error": false
   },
   {
    "name": "Middle East",
-   "count": 100,
-   "capped": true,
+   "count": 1,
+   "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "US Treasury warns against rate hikes during US-Iran war energy ‘shock’",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0IzNVR6Xzl2Q1NFaVdPY2xCWU11YzN4SWVTc0ZOV2FjRmV4QVZXQVctY2t4S2JJN3hKbWhfbjU5dV9qR2lxTGxZNVpFNTNlNEk3bm1PRGxOVjlrOFdMZE90cHFnU0xCMlFzci1Yc2c1SU9zMUEteUEyUjZ2YnV4M2hici1ZMmRDdzFqNjBuM05kNW1takVSYlg3Tm9NV3l3QllqdHRGRDNMUEVtYzBzbFAxb9IBuAFBVV95cUxQcDBLU1RQR0Etb2lQbm5kOEhlYVpseTJSazRLRWlWb1FIUjFLQ3YzY1p5Y0Jfbk13bU14a0Y2YVYwaW5vdkxEeTdwZ3dHMUdZSGhrNVpuSXAwWjdVTHdOSFg3MVhNMmFyZ2F4YUl3blRWbTN5SjhhcXJodVE0TjF6NlliUXlQV25kMFczalZvYmhINU00aWNNRkZNeGUwOWpLdkNOcHYxenJ5elU2dFpuRG83dW1oaGsx?oc=5",
+     "title": "Netanyahu may fall, but his far-right legacy in Israel is going nowhere",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRlg5VkVtWnBvVVBmY2IxcGd1akVUa1gwOFRlVnRsRmFMSjY2NHM5ZWktSzZRSGtHejlSakhfOHN5eUswWjBWN0NuLXBCX2pZM1FkSWFaM3p5TjJKdkNONEx1bXpXODJMSThIaHpkRUxxNFgtTll6T3NPWFlqQjlQTERiQWVJTWxOcGpRMzdRVkVnMmdpSTlvYmdiWG9PTTE5S0VrYjAzRzVGZnE2dXY3aXVn0gG3AUFVX3lxTE1fYTM3bDcxd005emwzUkFnT0pTZGFOaHBJV0pocUVSRWJ2WFZRdUhEd2ZhcDBkTEFmamlueXJfLXJhQVFuLVFFQzd2T3NzSmM1blBRZUtWQmo1WXRWc2w0RW5jZE0zMmNXaTdCNWxIYW9XNFBBY0hCVkVLQ2g4eFVxSWN5aGtpUXZfWFFjUUlucWZVenRLdXNVbUJfc0taZmw2T19SWkFsSUh3OGdKN3JoWHh3aU5PSQ?oc=5",
      "domain": "aljazeera.com"
-    },
-    {
-     "title": "Negotiators from US, Iran and Qatar fear Netanyahu could torpedo talks to end the war",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWG5hUEtNekVUelhnUVFLRmVVZC10UC1fbmNIWjJ2a3R3UFY4V09EbWRVQ0ZNWkNBTGtTSXJxOWw0dEJrd09SRHp6LTB6REVLeDNpVGx4eWRtd1hlclREVV96VjNnbHYtX19kbXh3M3FDZm1sd3JmM25lY0g2THJNdXZya3RBZXJCVmJmUU56UUdhWDFRRGRBQXpnX1NRYkFYQTZwYjRQVkZSYTlaRkNIVGt1TWpJQdIBuwFBVV95cUxNNHNCUjZHRVhKRFJsZ3o0U0V1bWtlTkp3SHBzWU42N2xfcEd2LVRHWUxNUDhJYXluVklMTkdFQjJ6bndDS09kUHBOVmR2TGJaV3lIc2l6c29lVkFIekNCeGNJc2hhYTVOMDJTb2FqeDg0X2RrdHVMMjBOODhnU0RGVkx5eUxLdFlHVmVhaXlkYWRodDhOVnBoVzBteTNaQ2ZXU0FVZVNiUHBRSVU3RDc1WVdTOEN6VXY2NjV3?oc=5",
-     "domain": "timesofisrael.com"
-    },
-    {
-     "title": "Iran says tanker carrying LNG hit mine, suffered explosion in Hormuz",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUHVFdmRxc3JORW40NXBic3RaTjBRSUlFd0FCRkNRNWpPYzg1dUVtUlVmRXR6aF9CdXlrSTJ2TnhWZjZra29BcmR0V3hvWmRiRzhjelRKMnl2UzFDNExVdG55ZTFQZnRrU2pqNGhEdWFqY1JiZEVIV0tqN2w2bFo4ajg5X1VqY3d5TDNicDl5TkdGMHlJSWprTEtxYUE2Y2JhMnFrVHBZMXhOWGpodzhjQndVcElVa0d1dkd0WTVPeGlDd0k?oc=5",
-     "domain": "english.alarabiya.net"
     }
    ],
    "error": false
   },
   {
    "name": "India",
-   "count": 100,
-   "capped": true,
+   "count": 3,
+   "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "No regime change, no victory? Trump's Iran endgame & Netanyahu's mission",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYzNUU3RKdERKRlNWX0Nxb3RQcHBxamg2THVvOWhSV0VGUXVLcFpJYWJjQlZpOGZFMWh4Tno1YXlqS2tlZnVaUXVGcjQ2NDVzb25KSUZBRW1sY09wcHFWOFJrVllDQTFkVUxxc1NBNWo4cFNOWFVkdHNsUmhQN1BHcmN3S1BlckxhWm14MW13SDJ4bW1WREJwSUtPSUVyWWZZWGFZVWVwN01NUG9MX2pjUnp4bnlDZEVjaVd0ejFKc3ZQRkhtTjViUHpuMklHeDBvSFVtaWhFQnJhWlJtQU5r0gHkAUFVX3lxTE4tMkpGLUFqdlhKcG5JWmpJQWctQWZBUld6WE5ONlFpaXpodVhBRkRHaGltZlpSS1pPQmg0dm4yYmVCRUJETDh3VEZob2JBSnpGUEtibzJyd2xHbkVQYmVMRzE0OF9EV3lVY1I0VTB6QXJFR0JCYkItUndSMEt5RnFnNHFPWlBhQkJEeUM3eXNvbk5PYURXakNtMGMtRGVvS3hPVVhMcEVNNGMtOFNMbEpGbmYzUXNYQlhaZ08wM3pmQ2NReHg0OTlOeXlXaFh3SUFKRGZwOW1veUxTWWF5U29XRXl5Yg?oc=5",
+     "title": "Bigg Boss Tamil 10: Muthazhagi breaks down over food shortage, says, 'I am hungry, my body is aching’",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOOFVDNmhKLUVFOWlQM0ZCUFlNMjRWTUNNWjVqQ29YZ0N0dV9HVDZnTDVGLW9CaDRWMFBxRTIyT1FFTG83REcycEpROUwzOGRUNmVmNGFJSmxFZXJpTGxzY2l5eVh5VDN1WGZaWEx0LTV1U1ozdEtpbElIVnpiRjB2VTFmMEEzcnpuaTFLQTBnSzZUQmg0alFaSjhXNlFPcGZKNUZ5ZEFNT2F5WnhSck9Rb0s5QXNYQnplam82ZEJfeXdHd0pfdkVXNXFrQ2NYMHFtWDliRVY1ckxDZHkyd2w1S0xCX1VoZlNzcHlxOUVVc3ZFQ0tEbEdPOEw5dHVpQ3JY0gGGAkFVX3lxTFBHcEY5MzY2NlNWSWt1YjNIUndnX3VLM3ZKQ2N5cTBQTzZwLXJOQ3FFMDhrMzBPeF9CUTdPTEpTakxLXzROSjRXb3hUWmk1Z1g0ajFKVVhtVTgya1FQeEdyZHN0TzhGUU9OYm13VmZ0Z1NCdzUwQllocjlveHN3cUFjdS05cGFhZkJxWHJiVmRTSXdsd1hManRJcUNFalVjckxhU2tobXRpLWxUSkhSWW5qMm45WHRnYlRmTnV1RnBpeko4My1DVnFkbjZVTmk4c0stbU9wQUF1bWxoamNRZ0lDQUlPd3pHS2FDNGNZSm5RWGJTYUxKOVFxMFNUeEM2SDR5OUxlemc?oc=5",
      "domain": "timesofindia.indiatimes.com"
     },
     {
-     "title": "Tanker carrying LNG hit mine, suffered explosion in Hormuz: Iran",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN3diT3I2eklBUVlJd01DOXRpT1A3aUFfNUx2dVBXUTczd3Y5ZDVlQno0SVI5THpweTUxNG1jNlJpdEtmY01yb1cybFZfdUtNNjVMSU0yREZySXZuNHktaTZuZFBqM3BESHh5dG1PTFBheXFneURPdDFDRWlmTjAzRGxrQTA1bHpUTUljTVV5NGlTcWdfaldPcFJqQmllY1dPYS1jdG1PRVF2QkZwVXRhREdfZ1BSZ2tuNUdEZmUwVERicTJ30gHLAUFVX3lxTE5tTjYzbzZuS3pIRXpiRk51bGFfa0lhV0Y5VndaZ3JVWVpkMlgtX1ZkVWZkdHhUeGNSRmU5ZDM4ekZ0eFcwM19jRHo5RWYxbDJWU2pWUmNnLS1SVkphbW1BcFJjXzZUN1VpMnNEbFl6bEJoU2ItQk5KbzJ4b3hySmpBalF5VXZSUWo2ZWZJV0FEZ3EyMUZxUDJUMmpGMHNMaHNMbjRSRXB5VEtLMnNvR1h3YkFUODNlMXBIdHNnMFRpb2VKN1R3TDR6Yndj?oc=5",
-     "domain": "thehindu.com"
+     "title": "India4All, An NDTV-Oxfam India Initiative To Help People Affected By Coronavirus Outbreak Lockdown",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZWNmU3JQZHJJdE9yUDZCNFpTdTNkV1RpdzB6YzZ5aDVtaWh1Qk85SHB6SDJUd2hJWmpCRW80NWhfXzhUbmJXMEJ2U3pndXBKbkMydVZyQkt1dTE4OEFZMzhSUnFoMWh5VDBsNzdtY1lfY3MxSDdRUnB6OUxwUHg4ZEE2V1E?oc=5",
+     "domain": "special.ndtv.com"
     },
     {
-     "title": "US Denies Iran Targeted Bahrain's Radar System, Says Shot Down Their Drones",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN2p5NGFCTHgzS21ZczJDajAyd3lXdDVrMy00NFZsYm1RQVVsdkZlU0dsdTkzZzE4MUswRlJha2U5cElEQVNrdmw0X0R4dzg4eUJfemQ5VXUwNF80MEItOFVpZE9xcVN0LXppUVduXzRoVlpGdTVreWFjOTc4a1BJejdraDVnbHZaSzdKMENxd2pmWEZ2SGRXeFo3U0xIbGNUTV9NUlB4MjVvbmx0TzM4UGVjMEfSAbwBQVVfeXFMTU9telVxMC1tOEdZWVBnU3ZwNUxDV0RWdEFYbTZYWjZocmRUbVphNi13MFNHYVVQd0Fjb3VtUWNMd0w1QXRjU3UzNl9VZWNyQUpyU1NxVEk0Q3BveE9fZmxyb3BhSGtaTUpGbEFZT05KeWJJeGZ0dEhHYTA1MW81REZvd2NlLWhheTZUdmVBQmlFU0NTZmdWZlRyVG9LeVdHdXlJS0pfaS1QWG1vYXZCM0hNcE1ST0pYNVdlT0E?oc=5",
-     "domain": "ndtv.com"
+     "title": "'Aadarsha Kutumbam House No: 47 (AK 47)' box office collection Day 13 vs 'Ranabaali' Day 27: Venkatesh's",
+     "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPOEk5bV8zS0FTeTBDQ1R5SDBWNjN3bm03QnNMOXM1dXBGVFRMVGt5T19zR21JSm9NdFU3OHFDelMzOEFTTzZ6WUNIdldCVWJkWlU1bUFHczhZcmpPMk5sWHIwS3VqU04yaF9mR0FUWDU2QnZ0WmZBTDBxRGd3ZXdDWHIzYUlLdG5QYllNeWJ4SkowU1IyUjdZeXE1Y0stcDF6aHhXMTlROEpQM0hGQWRwNkdoTVIxSGJVTTdaTERMZWFSeVl4MVVBT3hpM2R2SHFWeEFkVWVGWVJKaWJiSWlCcTF1dFNRUXprUktjbTdwMURoQTEwQUNLakRPRjlZUGJNbVFOblJPaTlJTWNyczlpN01rUmtFa0hycURpZk1QMDVPR2tNTzdCVF9ta1NrVkdwa0xUS2xMajFzVlkyYi1tTkM4czhXZUVGOC1Ua0FpZzJyM1Q2c0I5Z1J6bWtDeTltUEd3ZkhtaEpRMkZ4ajBTVDhOSkJjeTlLbVk4SXZhUk1mSTF3c3g0WVFJYWRUNVVoWXfSAZcDQVVfeXFMTlNVSEpSNUhnNWNHdUVzMEdpS0pjODJzb1BNbFZLai1xU3ZqckF5UjRuTy1wV1UtRVdnRG5BZm93RUVXT1czLUk2QmZHTlNFN28xeGVaUTAyc0NHODNGOW5Zai1UZ3c4TTNXLUxsYkVkSFZNWXlzVGloNTNOME1NUTZxNVd3ay1SSVFFUmtzalJUNjV3RF91N21pX1V0OTRic0tITFBKT0RTOWRsemRGemZXVVQ3VmJUY3BBcFFVMm5uTlFhazdHOVRKMGdHa0lpU1AwT3RkaEptMjRsNHREMGJmTjJpd1k1R0x3VC1XOWdzM2x4d29rTEZaX3BkeTUxVU91SGVkeW5ZNlJDSGRLeWxwa1dYVjdaX3NkZGJISWhIWmtGZlNrQXFTY21jaEtGS2N5VDRxQmF6bUhxT0hMZG8tZkZoRFJHR1ZsYjBfeTVtdjV5Vk9CczV1blhOS0RLM3BfZkZNbzFBcFB4bzVRMUlaY3JRUjd4QlJKejdBTGdocUxlZjR1X01qOC11cHozQkZFaXFPekk?oc=5",
+     "domain": "timesofindia.indiatimes.com"
     }
    ],
    "error": false
   },
   {
    "name": "Africa",
-   "count": 7,
+   "count": 1,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Syria removes visa restrictions on US travellers after backlash",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZThHMk4xenZ0VzJqb2V4MHBCOEVyakdsSDhqVjJKclNTUUlyaEhkeHpMRnZocE5iR0hPSlY3aG9OeFcybFVWdnpuY3pydWxZWDc1RFBudTNXdXNsYUxHZHZnT1ZYSDVWWUpBWlBwcVVOM0lyS1FZdktrZGdyZS1WM1lwaU5TalJQNXpWdkhNSk80SVZnQS1JZVA3NjktWlpOY0MzVG9OanRmQQ?oc=5",
-     "domain": "news24.com"
-    },
-    {
-     "title": "A democratic landslide is not a blank cheque, By Osmund Agbo",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEFweFVoSHJaSHBGWWRId3c1dldYTmVpeFpDMWxwVDVNcXA5TFhpRXBPNDdYaW5kZ2taSWxMSXoyYUlMY1N0Q3YyMmtibUJOM0FtWldRMGM3bGptTTd4d3hSNnlZcWJ1eEIyMmtwcmpxWVBwSE5nNkVPLU9heDJpN2JIRHRtQ0F6b3MzcTZMVy1Xd0NjMlhTM2lCbU50UXNnRFBFbGo4Njl3UlZYVXlF?oc=5",
-     "domain": "premiumtimesng.com"
-    },
-    {
-     "title": "Microsoft 'deeply sorry' as outage triggers global chaos, says services are recovering",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb2FuYlNCM1BuX050cGMwNUxyMnVPNTF5WTdENWRpMWtKZjhDcUxYSV9JYWFJNXpvUmM4czhjaGxUaU9KdzZOaEFPdDdEWkM5R3BHV3BIaEVDX3BESkJKd2lwekRDWkl3UGt5WFA3Q2M0RHZPd0o1UUVnaXI0ZGhYT1ZVQjhwc1lZSlBlVnNIcGtCbUxQd3BCOG1RVnMtdE5pWldTUXRHQU9tT0pSN3JXZ0diNWY5WUxPZnRhWDhYQzNDOFFt?oc=5",
-     "domain": "news24.com"
+     "title": "Inside Eastleigh, Nairobi’s commercial powerhouse and the price of success",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQek9Nbk1pNVUxNnpzWUViWFN4eVNiMUgwM0NDeWNTVkpLYS1hU3ZMYmc4X0dHbGpMS01DM25PQU80U3NEUVpMMDgzN3Z0YU5RRjA1T1g1Y1ZmaExnWDhQMUdSLXpiR055NEJsS01jaXRKbG53X3A5THBHN2xHdTVMckhqRjdKa3hVd2VlRVltb2VDU1UxX181RFFteTJxMEpRMWZhal9XSTAwWTdfMU16ZzFRYXRXY0lLQWNSV2dMaldhSVlF?oc=5",
+     "domain": "nation.africa"
     }
    ],
    "error": false
@@ -207,7 +129,7 @@
   }
  ],
  "framing": {
-  "text": "UK and US coverage emphasises economic and strategic dimensions—oil markets, nuclear concerns, and Trump administration policy shifts—whilst depicting the conflict as a political challenge. Europe focuses on diplomatic stalemate and nuclear doctrine changes. The Middle East highlights negotiations and shipping disruptions in the Hormuz Strait. Russia and China have minimal coverage with tangential economic or geopolitical angles. Africa provides almost no Iran-related reporting. Latin America has no detected coverage of this conflict within the 24-hour period.",
+  "text": "Europe provides the most direct coverage of food crisis issues, emphasising humanitarian concerns in Sudan and Ethiopia alongside weather impacts. China and the Middle East show minimal engagement with the topic, reporting instead on South Sudan's elections and Israeli politics. India's coverage conflates entertainment industry content with humanitarian initiatives, blurring the food crisis narrative. The UK, US, Russia and Latin America have no detected coverage of this story in the period examined.",
   "model": "claude-haiku-4-5"
  }
 }
