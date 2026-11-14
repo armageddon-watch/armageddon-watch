@@ -1,120 +1,198 @@
 {
- "generated": "2026-11-14T18:12:47Z",
+ "generated": "2026-11-14T22:28:56Z",
  "window": "last 24 hours",
- "source": "GDELT and Google News",
- "topic": "Food crisis",
- "focus": null,
+ "source": "Google News",
+ "topic": "War and conflict",
+ "focus": "Ukraine",
  "regions": [
   {
    "name": "UK",
-   "count": 0,
-   "capped": false,
+   "count": 100,
+   "capped": true,
    "tone": null,
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "Ukraine war briefing: Zelenskyy says Starshield restrictions continue on ‘entire front line’",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcVdEX2ZlWUE5cElsRnRQOWw4LWJHV3lJR1VJVmNGZXZCMGlJY0poV1JjM0FBZUYwclRucS1CRjIydUpMQ1prSXJTSkVHZkZOVFE2bU14bmpvWUNmZVdXanJWcUVVd2VNdVVvY3lrRDc4eTdvc2RFemRDMXd5c1Y1cGl4OXBYeEJOZU1pWWw5VkRCVVhLaUVKVGcwZm50WjM5cVl2QnhaZVdxTDBHOGZ6eEpFQnB0NTZVSUtfSXczYkNxRndpX25nb0ZzeGh4ekhC?oc=5",
+     "domain": "theguardian.com"
+    },
+    {
+     "title": "US asked if Ukraine would give up parts of Donbas for NATO membership, Zelenskyy says",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUFR4U0ZNUWxvdTlBSEY2ckpkZGV5RTRBaTRDZWRPM0s0WmExV1lfM2NNTnVQM3hQWWVBcW1jajVuU1hNREU2M3Z4ZDA3R1dMTjljajBkVkw1ckxLT1VNdDU3aHBvc1JTUmk5UFlTNFBGeVlLbnVDTmNiS3hpaC1nMWJSZ29DckdzY3pVSUFaXzJLMGQxYVJGa0RRVjJlSFJmTl85azVaY1Zpa3pfZnQtRGRwQkZZYTRES0RB?oc=5",
+     "domain": "news.sky.com"
+    },
+    {
+     "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ncHB4Ym5vZzlHclkySUNxbFJzeHhobEFlcnZHNkxrOXptenBPT0hvVTI1dHBSYzZqbHY2Smt3enFMWC1mQXFTdVZMVS1uYmhXU3BlVzJjeld6cDc4OWc?oc=5",
+     "domain": "bbc.co.uk"
+    }
+   ],
    "error": false
   },
   {
    "name": "US",
-   "count": 0,
-   "capped": false,
+   "count": 100,
+   "capped": true,
    "tone": null,
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "Europe Agrees on a Team to Represent It in Talks With Russia",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbXZ5el9iR2VOdWd1dVNVX00zWkdWM01yQkk4WkxZZmtrNUNxUVZIQ3E0aHdrZ0NmMWlsclN0ejlhaHNvMWV3OWVBWXI4aF9aRzhPOW5pNTUwdHJNdWFSclFQckhJUDFYMXBpWDM4QjhsQ00wazRta0FVS2F3NDIwSWVBVjg5SjA?oc=5",
+     "domain": "nytimes.com"
+    },
+    {
+     "title": "Zelenskyy says a new European security framework floated by US could benefit Putin",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUW1pZDhVRDZHNFg1NmEtb2tWMVR0ZUVxS01NdUhkX1BlVTF1eG4yVVdFcGVLdWhTSWtmTUlSQ2NRNEpzZWJWWXVjazM2YmJyZjRndU1aM3BDcThWd2FqVElBT2s0bVZVeVpkVGFPeFZfTFZveGFCVWp2WE1QOUFyUVU4U2R0Z01jaWoyTkdvZWV1UElKSWllMnp3ZXA?oc=5",
+     "domain": "apnews.com"
+    },
+    {
+     "title": "The Guy Benson Show Live From The Hoover Institution",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORG5lR1NfVEs5QnRwZVRRNGo0TkJMNjd5VWI5M1I1dFZacGxfUzZQZ1F4eFE0MUx5NUdjTUVEVC03VEFFSXliV3hMZFdsME5FbXBFdXg1OUdySmdNNWQyMkFOXzhtQkVOWFpMVzRrRnU1NHd4c1Jqd25QQWIyZzBwQ0F1Y1R0VGRhOGNacnIzdDBWYjBH?oc=5",
+     "domain": "radio.foxnews.com"
+    }
+   ],
    "error": false
   },
   {
    "name": "Europe",
-   "count": 3,
-   "capped": false,
+   "count": 100,
+   "capped": true,
    "tone": null,
    "headlines": [
     {
-     "title": "Sudan: Humanitarian crisis worsens due to plummeting aid",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbHNPXzVuTl9RbkdVTmVtRG5oSG1JcVJzNkhaR2RQNzlyS3pyZEVjNmJXZUJNVTRDYlBlVGltU0o4Z3BSRXU5QnA0R2VLQk9wVWRXbG94SEdwZDZHZHBLWFI5Vkx3ZGQwV0dTYzNmNTVxWThobEFYRXJhR283bk1taTdCbEpsN2lpamtseDZBMkRTbDNLSGg3OGxR0gGaAUFVX3lxTE9BQVd0ejhKYjhvazFRbWFiTFZIWU40VXpkRHVjYnZsY0QtUjdWYXJ6bVplcVFYV1JuQ201Qzl6NjJMUWVNRHVTZUZnMFdEd0R1dmI1NUVHU1M5di1tTzZsTHAyc2J1amc1Uk5FTjRDbE16STJCcEY2ZzhaU3BkVjhacWpqOGpaTXR2N1ZOQmx1UlAwY0F6ajJUelE?oc=5",
+     "title": "Macron says limiting Ukraine aid would pave way to 'another war'",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb2NiaDRBTFJIbF8yREtGN2ZOcXpkeGxpSElTd2RVUnkyLUVsbGd2b0dkcHkwX1JoQk13UmkzUjFkNDczQlNORXQ4RjB3TU9qMlZ0c0xvM2ppa2NYVVZfVHZSdExhSjFvdmJWMThQd1RILURPZkYxQzhxUGtaUGxkdXBZVi13ZjRPNldqOXRlNzZwRXA4TkRFS3NEMzZSVUloY2hCVEVtOG93Zw?oc=5",
+     "domain": "france24.com"
+    },
+    {
+     "title": "Ukraine updates: Europe to send united front to potential peace talks",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS1oteUxOelRYWG4zNzBaMHdiRjJTQ3hWaHd4UXZmam4wN2pQbEg1dzR3dUVWVkEzN1VnbE1tTUVlSmtkNWpVaFVaa08tdzNCTDNfNlZIWTEweDFTM01ud2g5Vml2TEJfOG1rZF9vOVdOZzE4THVFWTY4R3lzSS1WNFhzYkQ0Z3loZk0zcTlmNHBDS3J5eGRUWWZsNTd5N0ZmenliVXRoTQ?oc=5",
      "domain": "dw.com"
     },
     {
-     "title": "Find all the latest news about Ethiopia | euronews",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VNWtVYy1GY2FSSUh2LUFEdXoyeEFBYmdmd1htWkhRelgtdVlSdmp5TmFsNlltMmFYSHg0TXhORzkyM2ozQ3U3NUdkeksxU01yT3JTMFZfT3gxNG12YklEV2oxRQ?oc=5",
+     "title": "US floats Ukraine ceding land in exchange for NATO membership: Kyiv",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdG5xMEhNZHJWdGVwOFEyZlJJYjUxcXNydXJSVl9SSzNqTFJfdmZDRXFSNTZ6SE1pUzNZeVVYOUlxQ1lpSmh5N1lDSGZDdHpEZDl0TEV6LVpOdWo4emV1ZTZoUlhEaU1laGlrQmoxNjJrVzE1Wno4bjdmeWVsUmtVX2lZblZwS05iWjBNbUdmNWxacDRCbmZRVFNtTFlaMFNrUk1JWlZVai1yR3dNSzJwejQyTGFJT2df?oc=5",
      "domain": "euronews.com"
-    },
-    {
-     "title": "Weather – All Content on this topic – Page 1 of 38",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5cnhGTkw0bXFqV3U3RjV3QWlxRnpjaFgtRmR2SWpnQ1kwaDktZG1iUWpBR2FSV29zVmJEM0lmUENrVktaOUptMzRXalNRYU1lT3A4OEpRTmhXSW8?oc=5",
-     "domain": "dw.com"
     }
    ],
    "error": false
   },
   {
    "name": "Russia",
-   "count": 0,
-   "capped": false,
-   "tone": null,
-   "headlines": [],
-   "error": false
-  },
-  {
-   "name": "China",
-   "count": 1,
+   "count": 20,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "South Sudan's first national elections postponed until February 11: electoral commission",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JUUxjdkxnaEs5S0lKbGs4OWlyRlR2akdlSFVNMWJteVlWNmV4N2UxV1Y1NGFQUVVLd0lNZlpMMVg4Q2NUUXRfeEJaVlVpeHE1NHJJVVBQamZLVHhlcGx5VU5ZLTV0M0VwdlJvaVJ3?oc=5",
+     "title": "Russian forces liberate Tersyanka in Zaporozhye Region — top brass",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5tSFRZYzllVEJTcFdGNS10Q0JjNTZ0UHppNXZ3ZkluajV6SGNSa2ZMc0ZQai1UY0xweDEtSDVoenJhN0lyUDlJ0gFMQVVfeXFMUFV1RC1SQlpJTl94ZXh4VkpfTmh1MldzMkw0QlJQQ2JxWW15c0tkVHZJS3UwM2hSOHozTkFlc2RTY2VKSl9nSDJuaGIweQ?oc=5",
+     "domain": "tass.com"
+    },
+    {
+     "title": "Divided Europe picks team for Ukraine peace talks after being sidelined",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FOVgxRTZZQzRPY0lUcThOTEZ0UENqaFhUb0dJWmR2ejVZQktnX0c4ZW83UE1la2pZQUZZeV9weko3SHRUUC05UXJjbGxjR2hpNEpIV2xKaThDaVZLeDV6Q3lLT1ZmNGVOMzdNRkFBSUZNaTDSAX5BVV95cUxOcFI0a1Fsdnltd1JUU1htWW5lOUVJT2prbkNiNEIxaW53X1pRRnVJeEFrSnlUR0p4Yk5JUThqc3RMc21udFZxQ1cwQ3Qxb0F5aDlLLUhwbmI1RDV5NU42WG1waWN5di0wOVBvTXVDRTRDZ0Jic0l5UE1ia2g1UWc?oc=5",
+     "domain": "rt.com"
+    },
+    {
+     "title": "Russian, UAE foreign ministers meet in Abu Dhabi — Russian MFA",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBwYkpjU2diRDV0OFBJamdMby00Q3JHSlVXTEttV3czNVU2b01zNUxiWnFSLV9DS2diaFlzc21nSks4ZjVoLTZ0aNIBTkFVX3lxTFBEQWtSeEFrWFFWYWpBRXFjVUhsaTBONmRxSXAtWUJDUXllSXYwLVVCdHJlMUV4VkhVVlh6aDRZcjdVeWlOTlFpY2FxLXJlUQ?oc=5",
+     "domain": "tass.com"
+    }
+   ],
+   "error": false
+  },
+  {
+   "name": "China",
+   "count": 12,
+   "capped": false,
+   "tone": null,
+   "headlines": [
+    {
+     "title": "Starlink row, Donbas withdrawal floated: Ukraine-Russia latest",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSV9IOEFMbHdaaGxScUtXaWhoZHk4Nk5xa0EyMUEydzdiOHZhVk1vcXo0Vml6cWFWejJBWDhfN2RaSFk2ZVhYLUt3RS1MOTZZdk5YeWpXU3VHZk1VQ04tbUI3MzVXdndnMTJYdDNWRXM2LU1tdjJhQXRBRmplb05xcEdia2d3TlkzZFR2dXJkVG9KSEZuME9mSjkzNjByWjAtbTVleklua0ZDMU5BOTFEVWY1ZHAtckh5NHRv?oc=5",
+     "domain": "newseu.cgtn.com"
+    },
+    {
+     "title": "Ukraine's Zelensky says Russia 'betting everything' on this winter's war campaign",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4eFNxZF9VOG1RUTI1SVh6ZTh3WEJpbHk4bXlGTGlsaFYtd09aRmlOMV9kNDE4VUl3NnRoWnJER2h6bjdYLWxuVmhzZWRaUEhlN1FzWnhPa0JkUHpNZmFEbzhuenM3RHpZZkt6LWVB?oc=5",
      "domain": "news.cgtn.com"
+    },
+    {
+     "title": "Russian troops seize settlement of Tersyanka in southeast Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pQXlpSlo1RGdaVlNiWDFIWjItMnl5SFFQMzZHcG9nZDJ0QmhRWXN3RjdBZ2x4SFMtTkJiQnNEcnVBTmhQQ0Q3dDQ5UGYzTk9yRGl5Z1RPYUhSVE1iX21CVS1ra1I5cjNEWFBfTGlYVzNZNmlqOW5IRUdoOA?oc=5",
+     "domain": "english.news.cn"
     }
    ],
    "error": false
   },
   {
    "name": "Middle East",
-   "count": 1,
+   "count": 31,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Netanyahu may fall, but his far-right legacy in Israel is going nowhere",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRlg5VkVtWnBvVVBmY2IxcGd1akVUa1gwOFRlVnRsRmFMSjY2NHM5ZWktSzZRSGtHejlSakhfOHN5eUswWjBWN0NuLXBCX2pZM1FkSWFaM3p5TjJKdkNONEx1bXpXODJMSThIaHpkRUxxNFgtTll6T3NPWFlqQjlQTERiQWVJTWxOcGpRMzdRVkVnMmdpSTlvYmdiWG9PTTE5S0VrYjAzRzVGZnE2dXY3aXVn0gG3AUFVX3lxTE1fYTM3bDcxd005emwzUkFnT0pTZGFOaHBJV0pocUVSRWJ2WFZRdUhEd2ZhcDBkTEFmamlueXJfLXJhQVFuLVFFQzd2T3NzSmM1blBRZUtWQmo1WXRWc2w0RW5jZE0zMmNXaTdCNWxIYW9XNFBBY0hCVkVLQ2g4eFVxSWN5aGtpUXZfWFFjUUlucWZVenRLdXNVbUJfc0taZmw2T19SWkFsSUh3OGdKN3JoWHh3aU5PSQ?oc=5",
+     "title": "Russian casualties ‘reach 450,000’: What that means for the Ukraine war",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM1ZOQkZOUFlTWklpVXVpbjFKd2RZdTNBbGNZUHN2ZGhILUdDSDlnVmVRQkxaVzBoajJKWEkyTjEyTEFUdENFejMwNnNucEdDRkRSdTZ4eXh2WXo3ckswZWE0ZGVrSnMtYXpOZkhQNDhPQ3NEWmdKc05MeWhaQUpGV25YUTZLR1FQX2xfNWVCdTRvaFpIR0ppTUtGcTBCZXNVZGlVc0VXaG9KTkNxOGfSAbMBQVVfeXFMTnhoendibndFZDA5c1RndEd1dDIzNjVBWngxZnB0T0NDMFNKMldxcHRmb2NMOC1veFB6TnZZTXdXUUg1M2JzWVRGYTlqTGVkcU5uelItYXA2b0VQTGlJR3hkb2FyS19BT0Z5NW92U3pJYmFyWUxaRWV2cEFhUFJZc1ZTSWdnQjFwdlZNNXVWalA4TXhyWkh5eWZ2bU1iWm1yaGlYYWU4REZBck9wcTNIRUIyRHc?oc=5",
      "domain": "aljazeera.com"
+    },
+    {
+     "title": "Democratic senators order Musk to preserve records over Ukraine Starlink access: Report",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcG15LTVTalplTFM3V01hNFpabUlSRWJybUM5TzVNSXAyRzNjZ0ctTkp4Z205eDFPNXZGYWV0NHluTDlBQVc0WEFWcmh6SG1uLWRvdjVZY3AtRFFDenFQNzk3eHVsQWtUMGE0MFlETk1jX2gzVmNqMUVVSXBjOVA0VUsxQUpQRjVyODRqUXNpSERjQzJPbE15SmZNNllUcjI0TGZFVE9IQ2xORzdQTGhGajZmeE5Rcy1hUGpqZGlyYnVBaTl5dEJhWG1WQjFOX2hxSHp2TNIB2gFBVV95cUxNR3I0eEo3QUMwQmRwQVN2Wi1fWVFmM3d1Y2lvZXJNYV83cDNkQ0pZM19UWDRlQ2FEc1pEX2pMRE9ZdWhiYUFOUFlVclN3aUt1aE1vVkROSDBScGcyOVdfcTBFc2lQM2pwbjhwN0pjaEVRMFlvUlk0OE9YMnlCMW9GMlg2TU0xNVUtZDh2VVpLZlRMREFWY01aMFhFdzlnUEhjenJtYnZ4ZTEwUjgyLUtCWm5QSU5iUXZGUElXTkRrYnB5eDNOVEsyeHFkUFhCNVN3S0ViYUxuWWxQdw?oc=5",
+     "domain": "english.alarabiya.net"
+    },
+    {
+     "title": "Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObGhvM3dhZ2tQVXpvczdlS3cwVmNmWGVuN1lNYXlJRG1BVTJaODVFNWU0MU5NdFdBaTJGWng5Mi1vMEk5dXB1cUl5a1lscXYwQURxZkxvd1pyUGp0TkFIdi02a3ozTEtoZUNOQnJKb1BIWWNad1dxN3BPUkVocWpXcE5KVURJNm9CWGpQX3AxSEtKNTBsLXo5T05UV2ZaalNoSDU2RU9NSUNBWi01MC1V0gG0AUFVX3lxTFBoM3Q5Y083YW9XTVdvMDBoV3ZhTi1mcDBGSHFKd01fM0RfSVh5RC1CLXpaWHplMi1oazY1ZDl4N3pxWkV1ZVZCN1IzNTA4Y1YyMXItTUFfTkVuRGkydXc1WXZzdmJ2Y2NwTTcteVJya3R6Ry1wSFFWQ1M0TkZ6OVVPVDhtME9SMy0wOXZ6QmZTWThWWGxUbXhnUFBZZER5RFA5dnpRLXZ0bWM4QnlWc0VFUm1tZg?oc=5",
+     "domain": "timesofisrael.com"
     }
    ],
    "error": false
   },
   {
    "name": "India",
-   "count": 3,
-   "capped": false,
+   "count": 100,
+   "capped": true,
    "tone": null,
    "headlines": [
     {
-     "title": "Bigg Boss Tamil 10: Muthazhagi breaks down over food shortage, says, 'I am hungry, my body is aching’",
-     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOOFVDNmhKLUVFOWlQM0ZCUFlNMjRWTUNNWjVqQ29YZ0N0dV9HVDZnTDVGLW9CaDRWMFBxRTIyT1FFTG83REcycEpROUwzOGRUNmVmNGFJSmxFZXJpTGxzY2l5eVh5VDN1WGZaWEx0LTV1U1ozdEtpbElIVnpiRjB2VTFmMEEzcnpuaTFLQTBnSzZUQmg0alFaSjhXNlFPcGZKNUZ5ZEFNT2F5WnhSck9Rb0s5QXNYQnplam82ZEJfeXdHd0pfdkVXNXFrQ2NYMHFtWDliRVY1ckxDZHkyd2w1S0xCX1VoZlNzcHlxOUVVc3ZFQ0tEbEdPOEw5dHVpQ3JY0gGGAkFVX3lxTFBHcEY5MzY2NlNWSWt1YjNIUndnX3VLM3ZKQ2N5cTBQTzZwLXJOQ3FFMDhrMzBPeF9CUTdPTEpTakxLXzROSjRXb3hUWmk1Z1g0ajFKVVhtVTgya1FQeEdyZHN0TzhGUU9OYm13VmZ0Z1NCdzUwQllocjlveHN3cUFjdS05cGFhZkJxWHJiVmRTSXdsd1hManRJcUNFalVjckxhU2tobXRpLWxUSkhSWW5qMm45WHRnYlRmTnV1RnBpeko4My1DVnFkbjZVTmk4c0stbU9wQUF1bWxoamNRZ0lDQUlPd3pHS2FDNGNZSm5RWGJTYUxKOVFxMFNUeEM2SDR5OUxlemc?oc=5",
+     "title": "Putin's grandson registered with mother's surname as father's name resembles Ukraine President Zelenskyy’",
+     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPeXNmckh3SVNfV09rMERTTXZ4azNQVVVydW82ZmllY21ON2xyVm93WUJoX3J1UU9NUUJOQXhQRDMzNGx6OWdqWjYwa0xQOGZIVFAyUThidEFURW1INXE4TUc2UnJSUm9ZQjlBYW56dGQ5djQtLUVlREtGMlpUOC1TQWhDa3NtVDRkOXFGbUNGQzdhc0luMlRCVGduVnFqbGVmdER4ZkJpUy1uU2dnVHo2X0txQXNFREtqUXdCR25TWlFqYkF2U25TUkxaYm4tZHJvckFVYTFIVDRxeVpZOF9qVG9XeHEza3FBdXRPMlRaRVNxejhFM0Y1NE53bndPTy1CTVA0M3VGZnpsU2xtNWtwRDln0gGXAkFVX3lxTE9lYmVrd1l4cWIyZ0R1VVlQeWZFMThZQXRrOVBnYlFId0NTTjRGMUtaTVJPbkVyY1VkRXZ4Rk9EUnZzS0tOT1RiTnp4Wm5ZVDVrN1pVaGRQT3pJUlUyc2JMSHEwTmpiVHhHdTVLU3g0eEhIZ3JxMk9kb3B4YXNZY3V4ZHJrMjNfYjctVHBrS0pIZmFHcE1oYnNuV3JlSUFXVEV2R1JwVExzdXdiRy1ReV8ycDFkbFhNN25xWUlaZjdETjhSTnRnWFlOV3pRMzJ3TGlvMWNYcWhOaEItWjZob1lsWURRWlR6X3loQWlVWDgtbmJndlhsVlVUaGNoUGFEcGxiTzUzSlc5QllhVFcybUx3Z1JBWW5maw?oc=5",
      "domain": "timesofindia.indiatimes.com"
     },
     {
-     "title": "India4All, An NDTV-Oxfam India Initiative To Help People Affected By Coronavirus Outbreak Lockdown",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZWNmU3JQZHJJdE9yUDZCNFpTdTNkV1RpdzB6YzZ5aDVtaWh1Qk85SHB6SDJUd2hJWmpCRW80NWhfXzhUbmJXMEJ2U3pndXBKbkMydVZyQkt1dTE4OEFZMzhSUnFoMWh5VDBsNzdtY1lfY3MxSDdRUnB6OUxwUHg4ZEE2V1E?oc=5",
-     "domain": "special.ndtv.com"
+     "title": "US Floats Donbas-For-NATO Deal, Zelensky Says Ukraine Must Decide",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX0xyS2dhSmRSaE5XQ21DZ2RIV2pFbUQ5YmFfdE52ZWg4UTlpMlRwLXJFR3gzSHg3OTlSV0lOaDNUcWVqUjhEcG5ucHE3cl9DTDZsSEdpbzhMMURWbGtVS2JsY0dFS3hXazVMWUMzSE41TWR2clJ2cEplMnVmVWxyNlgzMV90eUJnVWtoakZDRVdxbXFDdWhrQVAyNHdNM0xQb0laQzBMUTFtSnBYUi02MXEtcWZvMEVCb1F1RC00aFFsaFl4YlpFWldXdWZNSHlCVWpOaEV30gHeAUFVX3lxTE84ZUZFUzJURzRhRDR2TkxzVUdZc1J6T1pnNzlOa0IyOEJ6RXJnUGZxdjBXRkszMDNTTTljMFkwWWRETkdpRmVtT01weXNlWGFrZXRveElqNmRtR2M2R3FDN1RndG9xNUZxNVlEaFdNQUkyRE1Xc18xZk1ZUVRaZ0kzN3lpRTJYb0szdTNyYWJfLXVzZWFOWVFnNnozQXUyclR5cFRlN2ZQeHpGUmxVZEVRYUJ1MzNiZzYwd0pSVElheVdoSzhGUGJXbzlvWld5UmVqcmRxUWRHUHJUendiQQ?oc=5",
+     "domain": "ndtv.com"
     },
     {
-     "title": "'Aadarsha Kutumbam House No: 47 (AK 47)' box office collection Day 13 vs 'Ranabaali' Day 27: Venkatesh's",
-     "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPOEk5bV8zS0FTeTBDQ1R5SDBWNjN3bm03QnNMOXM1dXBGVFRMVGt5T19zR21JSm9NdFU3OHFDelMzOEFTTzZ6WUNIdldCVWJkWlU1bUFHczhZcmpPMk5sWHIwS3VqU04yaF9mR0FUWDU2QnZ0WmZBTDBxRGd3ZXdDWHIzYUlLdG5QYllNeWJ4SkowU1IyUjdZeXE1Y0stcDF6aHhXMTlROEpQM0hGQWRwNkdoTVIxSGJVTTdaTERMZWFSeVl4MVVBT3hpM2R2SHFWeEFkVWVGWVJKaWJiSWlCcTF1dFNRUXprUktjbTdwMURoQTEwQUNLakRPRjlZUGJNbVFOblJPaTlJTWNyczlpN01rUmtFa0hycURpZk1QMDVPR2tNTzdCVF9ta1NrVkdwa0xUS2xMajFzVlkyYi1tTkM4czhXZUVGOC1Ua0FpZzJyM1Q2c0I5Z1J6bWtDeTltUEd3ZkhtaEpRMkZ4ajBTVDhOSkJjeTlLbVk4SXZhUk1mSTF3c3g0WVFJYWRUNVVoWXfSAZcDQVVfeXFMTlNVSEpSNUhnNWNHdUVzMEdpS0pjODJzb1BNbFZLai1xU3ZqckF5UjRuTy1wV1UtRVdnRG5BZm93RUVXT1czLUk2QmZHTlNFN28xeGVaUTAyc0NHODNGOW5Zai1UZ3c4TTNXLUxsYkVkSFZNWXlzVGloNTNOME1NUTZxNVd3ay1SSVFFUmtzalJUNjV3RF91N21pX1V0OTRic0tITFBKT0RTOWRsemRGemZXVVQ3VmJUY3BBcFFVMm5uTlFhazdHOVRKMGdHa0lpU1AwT3RkaEptMjRsNHREMGJmTjJpd1k1R0x3VC1XOWdzM2x4d29rTEZaX3BkeTUxVU91SGVkeW5ZNlJDSGRLeWxwa1dYVjdaX3NkZGJISWhIWmtGZlNrQXFTY21jaEtGS2N5VDRxQmF6bUhxT0hMZG8tZkZoRFJHR1ZsYjBfeTVtdjV5Vk9CczV1blhOS0RLM3BfZkZNbzFBcFB4bzVRMUlaY3JRUjd4QlJKejdBTGdocUxlZjR1X01qOC11cHozQkZFaXFPekk?oc=5",
-     "domain": "timesofindia.indiatimes.com"
+     "title": "U.S. proposes Ukraine cede territory in exchange for joining NATO: Zelensky",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcDBOVGszblVMdFFOaHpRc2wtN0VFVHdEVVFEdVVkcDZHSVFnQTNpT0FFVjB4X2RGdjdLNjFMOVVMVjRmRGtnZF9GWmZlNlNCUHhtRUFrVmhkTmhPWWFfYjdkVm9VT3Q2dlhXSGJYVTBQczVlay1fZjdSNy0zOW5XSUZVZkdQeTlZTFhteHdkeGxtRUdlZTBNNDlWNS04V1NDaERvUkhZUXR0eUhxT3lETWN4TFJFVy0yVVd1VDRZZUlCLVpwUFFSYnRZbkh2TXhTOXfSAdgBQVVfeXFMT1RTdDYwR3hnUFFYdnZqREkySnVieFN4cUlDVWpmelB3eE04OUh0QnRmZmJXTGs5NWJoVEpHeUdSTnN1d1RTZXFhemhqX0FORGF5Z0ZkaDhtUUtDcXRUUjA1ZGF1VXczNGVCMU52bUw3R0l1TC1WbDdTU05udGVpWXF5WDVrV2hscDRrVnNndmV4dUh5QUc3akFBUnh6UnNaYVEzM210M2drYzNNS3o4NDFlUmxHblNVRjFwbFljc2VIZ0hmNi1QTFBrdXBoT2hJRkI3R19uQ0JF?oc=5",
+     "domain": "thehindu.com"
     }
    ],
    "error": false
   },
   {
    "name": "Africa",
-   "count": 1,
+   "count": 4,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Inside Eastleigh, Nairobi’s commercial powerhouse and the price of success",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQek9Nbk1pNVUxNnpzWUViWFN4eVNiMUgwM0NDeWNTVkpLYS1hU3ZMYmc4X0dHbGpMS01DM25PQU80U3NEUVpMMDgzN3Z0YU5RRjA1T1g1Y1ZmaExnWDhQMUdSLXpiR055NEJsS01jaXRKbG53X3A5THBHN2xHdTVMckhqRjdKa3hVd2VlRVltb2VDU1UxX181RFFteTJxMEpRMWZhal9XSTAwWTdfMU16ZzFRYXRXY0lLQWNSV2dMaldhSVlF?oc=5",
+     "title": "Economy | Business",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYaWZwTlloeXkwenRlNW92X2ZMc2FyZXQ0dUNZNG9JUEcyUkk3ckF6a2hXaFZNbjVkRUF3U0h6YTZMZ1lhYUpBajk2NzluQU52?oc=5",
+     "domain": "news24.com"
+    },
+    {
+     "title": "From innovation to market leader: The Mansa-X story",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb3BMZHZMckRUdHJhcndJY1NybFFzazNZQTdrV1lHcHI1bFdnd3N2QUowMGNqb19xb05HMEE2MGplRlFTY214eW85SW1DSmtQb2tZUXUtcmVDaUQ0cEJEU2ppMXU2cERjbmduaUUxYlVtSlRGUU4xREt4bFZ6VUQxQ3d5UzFHR1ZYVU9XZC01T24zc3JjdkZmc2gtZC1ZUQ?oc=5",
      "domain": "nation.africa"
+    },
+    {
+     "title": "Grey area: Why do some Black Friday sales start in October?",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeGJDWUUyTDBWWGg1eDd4dlpwZnYtUnZLU1d5R2FUdVJxUHJ5SWdYaUlxMWwySHVxaWZHbFhBZXcyZmhRUmpFcmFERHh0WDJob1lSZ2ZlRERsalZIUDdpbXRPVUpBZjJnamZPQnZvMU40ZkxJZmNXZU55Z3czdkpUY190d2plYUZ4RzMtTFRiRU8ya3B5SG84a3FZanlHVWlnNm45N0ZiV1BhbHlRYi04Yw?oc=5",
+     "domain": "news24.com"
     }
    ],
    "error": false
@@ -129,7 +207,7 @@
   }
  ],
  "framing": {
-  "text": "Europe provides the most direct coverage of food crisis issues, emphasising humanitarian concerns in Sudan and Ethiopia alongside weather impacts. China and the Middle East show minimal engagement with the topic, reporting instead on South Sudan's elections and Israeli politics. India's coverage conflates entertainment industry content with humanitarian initiatives, blurring the food crisis narrative. The UK, US, Russia and Latin America have no detected coverage of this story in the period examined.",
-  "model": "claude-haiku-4-5"
+  "text": "Across regions, the US proposal to trade Donbas territory for NATO membership leads in the UK, Europe and India, while Europe adds a focus on Macron and a united negot",
+  "model": "claude-haiku-5-5"
  }
 }
