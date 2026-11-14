@@ -1,29 +1,29 @@
 {
- "generated": "2026-11-13T19:49:04Z",
+ "generated": "2026-11-14T06:32:45Z",
  "window": "last 24 hours",
  "source": "Google News",
- "topic": "Earthquakes and eruptions",
- "focus": "Blue",
+ "topic": "War and conflict",
+ "focus": "Iran",
  "regions": [
   {
    "name": "UK",
-   "count": 72,
-   "capped": false,
+   "count": 100,
+   "capped": true,
    "tone": null,
    "headlines": [
     {
-     "title": "Farewell, Cybertruck: why the winding down of the ‘Maga hat on wheels’ is a sign of the times",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNemZYWkVKUjJsWjh6cktLUWxRVXFOc0g5NTh4N1YwVm9ITWJXajZlQ0tMOEl1b1BmT2Nrd1AzUnVUeG1XR3JkdlZ2WWc3VjZzRXJNUlB4eHJrSzYzVzdsVXEwWk1fbkMxMUtFY3gybFFuQVNpX1dMQXJLTTRVWEhvT3hNcklaWTFzNFp4dTNmamxKTS11THp4cWcxZ0hVSzFO?oc=5",
+     "title": "Global oil supply returns to surplus for first time since start of Iran war, says IEA",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNndNZUdKRnhDVGRkRE85YjZfUG1pUFd5NlVkbjBhbWZaTjZqZlRCU3RmMlBzR1ZjMmJpZi1jX2FvT01wbVc0ZDNaYm9YZUFTZm4wX29QQ3NLN0VpVS1CUjRBVm1GeWlHRk8yb1R4QkMySE5HUjdMUEM3OGVXdU5XM3lORndmX1RwRFdEbkZhalpnVmdONXhJYkR6bUpDZ2xfTXB1MlNuWDNFOGtPSFh0NzF0OWFYSjFBdU1hdVNqQnNSbUdMMi1JZW9vV1UwUQ?oc=5",
      "domain": "theguardian.com"
     },
     {
-     "title": "BBC undercover reporter is offered fake art and awards for talent visa",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ERzB1N19kWVZTRF9CMG9fa3VyYV9mZ01rQ3ltdGtkN2hBVUxEVmhyWDdNMVBwbE1MZ1FRQl91NzRlZDFYSXZaTWtnUnJUdTFON0FnY1RMV0EwLU0?oc=5",
+     "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ISUJpaGVUMDU4Q3VLd0xnbUZMWjhCdE9sek5ScTFwbjFOa2xabFhRVU5KQklkbFhCUmJFTU5VZ0tzUW0tYUdBZUNDazE0dU9WbFh1N2ZnY0lmcG5LZVE?oc=5",
      "domain": "bbc.co.uk"
     },
     {
-     "title": "The blue tsunami: What next for Trump?",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9IekpCS1E3UUs3cU5DRlg1aGloRVJGVVM2Sk9jMllVVnV2Zk5neHlGTjE1dDFnelZmMUlUSlNGckwzTUFjaHM5UVRtM0JQTUdEZGZBUXR4RHpRNGNhQ2Q2Qm93YTdZX2puVGw4eXFZN0tmZnJtakxHSkdqU3c?oc=5",
+     "title": "Iran war 'has turned into political nightmare' for Trump",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWGNzVzZBRUFXckswbmJoTlI5VVUydHZCaGZwXzAwa1NiVjdTY0FoMjhzS2gzYVo5cGZjYm9jdTVRMkM4S3RWaVNiZ0hodUo1cWRkTWFJLUJKcXN0YTV4YVc4SWw1WTJBLXcyeEJGXy1BRzVrVnRQQm94NEc3bXAtdDdqdFNZQmxlMjhXQkV1MFFtTHV1?oc=5",
      "domain": "news.sky.com"
     }
    ],
@@ -31,112 +31,170 @@
   },
   {
    "name": "US",
-   "count": 17,
-   "capped": false,
+   "count": 100,
+   "capped": true,
    "tone": null,
    "headlines": [
     {
-     "title": "Dan Patrick concedes Texas ‘turned purple’ after Democrats’ historic blue wave",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYTZhcmE1bUFNVFBDMTh4RGZmUmNab2dRMDBXT3MyaFhMYkNuZjRNeTl2QnFHM0pEVU5qU0RFM0d5WUl2TlNDaHVQWnhQUmxpQXdTYnBLWUhqUUJ3V1YxMFdwU0dxdERQUlF0Vl9RT1FhdUdnVldoakxZOWs0V2ZKM0N5dDRIVDZxWTNzbTl1bVpBR1NSSVExMVlrd1p1UThrZmU3dg?oc=5",
+     "title": "Trump Signals New Strategy on Iran: A Waiting Game",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51bnYyZ0xDaHVCc05TYXYxdDlPME5fNmNfbklWSm9GMk53TTJHdnhGMm1JQWZyR0VHZ0VZQlhFdzZyVmFnRm9QdmNocUJ2OXJLUGgwenNPb2dsbTFqRU5RYVJISVFlLWducVRCTzhRaXN5dXZMalU4MnJFWQ?oc=5",
+     "domain": "nytimes.com"
+    },
+    {
+     "title": "DEVELOPING: Iran launches Mid-East drone attack",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfY1Rva3VoRlBBVktLSjJyVHVENEs1S05VbjZkMVJvNkVKbkEwbFFva2NWVkxsVHJzYnM5cEk4WGRQdmlBWjVsLTF4cGRiTUpYZ3JNUnNn?oc=5",
      "domain": "foxnews.com"
     },
     {
-     "title": "At Sing Sing prison, incarcerated men get preview of new PBS documentary on nation's justice system",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTDlJbWhqOHFocDJLOXBWYV9IbGQ5dHZ3UzU1U0s1dEFHV0wzdTJLMElyMkMyX3VfcV9TLVJwYWNQSHFPeEY5eU9mZlZrejllSW5yZEVrcnh4c2J2UWYxSWJncjc2RlBYTHQ1Zk50bjRhZlFqNjJsZVc3RnNSQ2JQS2pFVTB5b096aUNFZ0Rsc1Y5RUswUlBhRjNJLWpCekFwNlRUb3lHbERPSTNqXy03bkZlZXlTVnFxcHpnSWdseW5OTGNDOEF1X01VOE5FdDJTaURBbEZRcWY5N09KZXp0ajBtcU1HZnZ0Yy1z?oc=5",
+     "title": "Rubio says further US military action is not needed against economically weakened Iran",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMXJTcEdfVGdOV1VrbGpYTy1hMlkybS1IbjZGS0piS01yNWY5RnVsMi16ZHBMTFVIajNzcFoydFZXWmhEQXJuVXBHNFBic2JSRlJLZ05TNGlmclRmMlppOExmc2ttem1zVnhQV0ppcnVaUkd2Q29fVVNXUzJpUFEwUE1WSHVkc0tZQXpmaHBSZ0YxVWpoOGNkMmZnbw?oc=5",
      "domain": "apnews.com"
-    },
-    {
-     "title": "Haruki Murakami",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5dkRWa1hkYnVVUWhXUllwN0p4Ul9GN1JaX09mb24zTWFFXzBwMEJXRmd1OG5tSk5weHpEQVpCUC1sWGNnSzJhSVJlX3JTMzFWWVZaLUVnUFh1Wklkd1B0STd3?oc=5",
-     "domain": "nytimes.com"
     }
    ],
    "error": false
   },
   {
    "name": "Europe",
-   "count": 6,
-   "capped": false,
+   "count": 100,
+   "capped": true,
    "tone": null,
    "headlines": [
     {
-     "title": "Scoop - What does the 'Blue Tsunami' mean for US media?",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc0tkU2JkMHNyZGVXc2l1XzIteEtaeWx3NWRaeUFrNjEza0RVS3JuNmZ1NW12VjcxUWU5UG1rdjBicmZHRzBhb193UVZBLTBuS2o2Z1FpNHBhUzU5TmtMLWhCbEJkdGo1dXhSdnJKbTI5emQ2VTVVekhua2ZxdkQ5Z1RCU2xJQjhHMHlFVWZtSkZ6ZjBOc0pHNkJSSEg?oc=5",
-     "domain": "france24.com"
-    },
-    {
-     "title": "Cape Town's highway barrier: Can it bring safety?",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPckY4cm5lRERzQzFLcjJYRTViMkNMaF9NSkVfTFBHNEJYalI5ZUJMY0FkYk1wdTZ2WUZtTVFOQ09rcjRRN2QxcDJHVVhmdXEwM0dGaHpyQ1ZIelNTQm42Y003ZkVmZ3c0M1hfT0lYS2E4a0N4OGFldDlodFhzVEk0RTUyTlM5WTJ3R0E2Yk5VajcwdHVpZWJOYzNtMUY?oc=5",
+     "title": "Bahrain: United States said it intercepted Iranian drone attacks",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzbDBjbGZHcHhaSXNOLUk4ZC1kS2ROSU45YkJfdEN6N1NBdHZTRENtRVJPZ295OFVLVUVUa1BUdDFMai13TVJjcTJmSXN1VkN2RDU0X1owdHM4MUZJd1RFMWJNN2J2aGlsdjVtU1JPZ9IBb0FVX3lxTFAzQmFOME1sV2pfVFc2c0Y3UnB1WExzaUt6d0xUR3NYclNRN1BxRDFrUFdpWU15aHVyVWUzSmI5LVYwSVZiTGtqNWlhODlfRFJjc29LMnJDQnFrdGo0QlAwYVptajl0RXhEMnFXaFlucw?oc=5",
      "domain": "dw.com"
     },
     {
-     "title": "Latest episodes and news | EuroVerify | Euronews",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xVURSaXJTa0l0cW1MZElHOElvR0NMLXE2cXhXLXpfaWEyOE1SMkY3Tm9SWWtnVEw5dzFYN3FoM0RSQndfUmRvaDhIWG8wNVRTbVFqeVRDNUc?oc=5",
+     "title": "Iran MPs debate possible shift in nuclear doctrine and exit from NPT",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSkZ4Q1RJQ1M1YjlrbXJzOE83My1iLTNpZ080akJTWURnVmQ2MS16ME5Mb0dVLTNzTzR3c2Q5MVF0VUlfYVRpMUYwRGllYkVMUVNuODBsaVR5N0VjZENMZlJvV2tsUncwcVVPQlpXbmlvN3RqQ3BYWXNmdHFPaHVyOEVnNG4tS2xoT3JHaUVud3B4VmFZRE1JMFI0eFM2V0RWbUVyRzB6TQ?oc=5",
      "domain": "euronews.com"
+    },
+    {
+     "title": "'No war, no peace' situation between US and Iran 'cannot continue', Iraqi FM says",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUmdRYXQ1S19DdDNfN2ZCVlpUNXlzVDRfSWkzZGRqb2Rqem5ZTTlMRmd6X2tNV0hMZzFIcF8tNG1lSG5MaEM0R1pmOWd3azJOanBsQkxNb0hDUElkVFVFVV90NndtQTJMVnpvbGpONnl5VS1LT2NqWjQ2bHQwU3pNMVIzVVQ3dUJSamNKMUQzWUxsUENGWnhuNDBURjNWYzh3LUhxZzlHa2RQMmxrWVhmaGtqMXczUWRaS2R1RERseVBuN1czNWNxazF3ekdKODFkbnhxc1lQRFpOQ1ZWOXQw?oc=5",
+     "domain": "france24.com"
     }
    ],
    "error": false
   },
   {
    "name": "Russia",
-   "count": 0,
-   "capped": false,
-   "tone": null,
-   "headlines": [],
-   "error": false
-  },
-  {
-   "name": "China",
-   "count": 0,
-   "capped": false,
-   "tone": null,
-   "headlines": [],
-   "error": false
-  },
-  {
-   "name": "Middle East",
-   "count": 1,
+   "count": 12,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Dozens of nations, organizations demand Israel let more winter supplies into Gaza",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRlVaQmw5UkNyeUtMS094dmFCNHRaWlRaTl9oZk5GTFBvMFpjUWpVV2taMng3eTllV0IzZHdHWDh3N25MZXpOcUZja01EdXl0VUFBXzFBZGwybERPRDBLdG1yV0trakhTS1ZwSVBPVTZkSVNtRFpiS0lLc1BzYkUwRGMzQzlkSDNYczlUb25vcUdSaUZJU3RFUEVDT3liR21JSVlVZnpjQkFxeVZKd3FEctIBtgFBVV95cUxNSlg5dFpqbUlxdnhLZndxcjB2amVXSFJJZ0p3Y3dQMUxJc18ybG9EZWYzNVJLRmdKMWtrZ2ozbENzWXhxNDJPb1YzWDdGNTV2NlN0dk5jOEVtODdYdEZqNUVmLXgzNzVtRmxBV1UyX3VuN1hGY21yMkNvemJ2b3VVWndRWVdsLTFTR3B4V0tiMmYxQ1JGc3FJNzFzREE0Z3BJNUczcERpRlVEQnc2ZkhGSUNKblVkQQ?oc=5",
+     "title": "Rosatom to increase personnel at Bushehr nuclear plant",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9KRHItQzc0bVFmeEllelBzOHk5TnVxRDRwUzJ0RnI3NVJxSmh2QnBsbkhFdmlQX0RnbXRwY1VUa1ZKcmVNQk5r0gFMQVVfeXFMTkYyMjc3Yjg3VTdLbXEtTWM5WG9LLXV3SFZudXEyR05RUUpJWnpxYmJzV2psTWcxNnhKaUx1TmRnbW5tV1N0R2wxMTVMMA?oc=5",
+     "domain": "tass.com"
+    },
+    {
+     "title": "Tariffs",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BR1JMdnVpTzFWUW1FUzZaSEVTaEhkcnM2SFNhYVlUT1hKSWJFSFpsLU1MVUY2NFNWUV96Z1ZjNzZOQ01vY1ZYbmRFbS1KTnJjNGs2N0ZUYm5DbGJ6amVyLWlB?oc=5",
+     "domain": "rt.com"
+    },
+    {
+     "title": "Vance may put his presidential ambitions on hold — CNN",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBzR18zemFkeUdwdGV5NVpEbmlKa19ST2tLMlU5YWtvbmNfSTFGdU02bzhHNmotdU9ZdXRCbDQxeW56RTJO0gFKQVVfeXFMUGRFTFdTLXdRM0pBRHhnaW1LMDlyY1ZpWkttbG9ZVkU2cTRFVGlrMG8zVHl2MzNOOW5qR3R6OGZEVFN2RlFwNHYyUkE?oc=5",
+     "domain": "tass.com"
+    }
+   ],
+   "error": false
+  },
+  {
+   "name": "China",
+   "count": 16,
+   "capped": false,
+   "tone": null,
+   "headlines": [
+    {
+     "title": "Mossad chief visits U.S. as Netanyahu pushes Trump to resume Iran war: report",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KVUlVcFFNRi1zTVhWQzQ5T19YM0hGRzlqQTV2SWpZVW1wSUFQOHB4Ynk0Rnd2bUJQX1dISU5Na1Q1MEQ2QUtncG5ySk01NEljUm5DSEYyUkNiNzVaRlFHcFJtTXlUMG5lYnlyQzh5cHFOSHFBcW9KTlEwYy0?oc=5",
+     "domain": "english.news.cn"
+    },
+    {
+     "title": "Why midterms are set to push Middle East powers to relook US ties",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUWRldDBBVVRQaHBnQ18zRzkxRWk2RUdGRkJqNU5sQmhjOUtwZlExNm5HTXUzaUVqZjAzVThlSWotdWRMVGpaYjFFRXNoc2M0MFVIM0QxazROalJBZkRQVkprdy1vc1h5dVZIV2pKeG5CczJqLUtsTmdOS2hfNEdBUWpBM2NwWE5YX3REcnh0eVd1UVE1by1VZ0JxQ01CN1kwTkl1dk11cnJhUTRYVVhxUy1sd3g0N3J0NDU1OTgxc0cyUlA4Tmc?oc=5",
+     "domain": "scmp.com"
+    },
+    {
+     "title": "US Air Force responds to suspected drone activity over UK airbase",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc0Jma2xpdWJaeFh4dTBiZEM5Rnoyd21DVEgxaFQtNEdLREpqZjI2eGlXX2J5ZVN0aWpoeGNpSEdidFhPajR4TEttM3hMWTNNN3huVGFYaWFUVDBOZkpjVjdnNldkMmNtSmFLQUZ0WTFEXzNFU0dHal8yaWNkT0ZUVGdQc2hsQVp6eEQ5Y3dHQTItV0xBdlcwYzhPQnczaldNa0JCZjJVVzlKS3lnRzRuVGhSMFN3U01RdTRSc2RUVXNxazlBMnpDRktrRdIBywFBVV95cUxNc0Jma2xpdWJaeFh4dTBiZEM5Rnoyd21DVEgxaFQtNEdLREpqZjI2eGlXX2J5ZVN0aWpoeGNpSEdidFhPajR4TEttM3hMWTNNN3huVGFYaWFUVDBOZkpjVjdnNldkMmNtSmFLQUZ0WTFEXzNFU0dHal8yaWNkT0ZUVGdQc2hsQVp6eEQ5Y3dHQTItV0xBdlcwYzhPQnczaldNa0JCZjJVVzlKS3lnRzRuVGhSMFN3U01RdTRSc2RUVXNxazlBMnpDRktrRQ?oc=5",
+     "domain": "amp.scmp.com"
+    }
+   ],
+   "error": false
+  },
+  {
+   "name": "Middle East",
+   "count": 100,
+   "capped": true,
+   "tone": null,
+   "headlines": [
+    {
+     "title": "US Treasury warns against rate hikes during US-Iran war energy ‘shock’",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0IzNVR6Xzl2Q1NFaVdPY2xCWU11YzN4SWVTc0ZOV2FjRmV4QVZXQVctY2t4S2JJN3hKbWhfbjU5dV9qR2lxTGxZNVpFNTNlNEk3bm1PRGxOVjlrOFdMZE90cHFnU0xCMlFzci1Yc2c1SU9zMUEteUEyUjZ2YnV4M2hici1ZMmRDdzFqNjBuM05kNW1takVSYlg3Tm9NV3l3QllqdHRGRDNMUEVtYzBzbFAxb9IBuAFBVV95cUxQcDBLU1RQR0Etb2lQbm5kOEhlYVpseTJSazRLRWlWb1FIUjFLQ3YzY1p5Y0Jfbk13bU14a0Y2YVYwaW5vdkxEeTdwZ3dHMUdZSGhrNVpuSXAwWjdVTHdOSFg3MVhNMmFyZ2F4YUl3blRWbTN5SjhhcXJodVE0TjF6NlliUXlQV25kMFczalZvYmhINU00aWNNRkZNeGUwOWpLdkNOcHYxenJ5elU2dFpuRG83dW1oaGsx?oc=5",
+     "domain": "aljazeera.com"
+    },
+    {
+     "title": "Negotiators from US, Iran and Qatar fear Netanyahu could torpedo talks to end the war",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWG5hUEtNekVUelhnUVFLRmVVZC10UC1fbmNIWjJ2a3R3UFY4V09EbWRVQ0ZNWkNBTGtTSXJxOWw0dEJrd09SRHp6LTB6REVLeDNpVGx4eWRtd1hlclREVV96VjNnbHYtX19kbXh3M3FDZm1sd3JmM25lY0g2THJNdXZya3RBZXJCVmJmUU56UUdhWDFRRGRBQXpnX1NRYkFYQTZwYjRQVkZSYTlaRkNIVGt1TWpJQdIBuwFBVV95cUxNNHNCUjZHRVhKRFJsZ3o0U0V1bWtlTkp3SHBzWU42N2xfcEd2LVRHWUxNUDhJYXluVklMTkdFQjJ6bndDS09kUHBOVmR2TGJaV3lIc2l6c29lVkFIekNCeGNJc2hhYTVOMDJTb2FqeDg0X2RrdHVMMjBOODhnU0RGVkx5eUxLdFlHVmVhaXlkYWRodDhOVnBoVzBteTNaQ2ZXU0FVZVNiUHBRSVU3RDc1WVdTOEN6VXY2NjV3?oc=5",
      "domain": "timesofisrael.com"
+    },
+    {
+     "title": "Iran says tanker carrying LNG hit mine, suffered explosion in Hormuz",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUHVFdmRxc3JORW40NXBic3RaTjBRSUlFd0FCRkNRNWpPYzg1dUVtUlVmRXR6aF9CdXlrSTJ2TnhWZjZra29BcmR0V3hvWmRiRzhjelRKMnl2UzFDNExVdG55ZTFQZnRrU2pqNGhEdWFqY1JiZEVIV0tqN2w2bFo4ajg5X1VqY3d5TDNicDl5TkdGMHlJSWprTEtxYUE2Y2JhMnFrVHBZMXhOWGpodzhjQndVcElVa0d1dkd0WTVPeGlDd0k?oc=5",
+     "domain": "english.alarabiya.net"
     }
    ],
    "error": false
   },
   {
    "name": "India",
-   "count": 4,
-   "capped": false,
+   "count": 100,
+   "capped": true,
    "tone": null,
    "headlines": [
     {
-     "title": "Maan-Mahalunge-Hinjewadi residents write to WRD minister to flag water shortage & pollution in Mula river",
-     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbW5EVDNfV2U5WEU3XzB6bi1McDZNbXNXbC1iZlFLQW01MTRxUTdMNXU4RkUwUE5jS2pFSnVNSEZ0bGtjSVNscXB4dDVsTjVzdXdTbWNUODMxcXkxWTBpR3dvX1Zqd213Q0gzVjVBZk12bHRpbW1EM2tkb0sxNGp1anF0YUszVkUyQ2ZVWXhWdXI0Q1o4Nm5peVNmTDFVNVJBeHotNlE4NGVCdUZIeW9lMGdjRG5kMllPejlkVXVQeHdacExVTlN3OTA5aTJGcGZfQ2Y3eFBDMk9DNXNCZldjRUNlQU0xN2NjanBVQ1RzLWhMVXVLZ1lmZ2JrdVhkX1pHd1BmS09n0gGLAkFVX3lxTE9rZUlGbHFXYTd2SGIyaFktNnJYS1hiSmdQOEJIcDJ1eWpzNVJVZUZSNlpwb0daU0lGdmlwVkhxMlVLSWk5eFFIck0zc2tnZlFXbnRqbGY4Ym5JUmdOc1RxZDl4bEdIMHhwTmphOXlsdzJ6SjlDRHBrSzlSNndnd3p1T3pidW1hd0RQMXZxRm43N2hleWtkRWtMbmZWRDcwSGwybGY3RjkwQWktZmowS1p4ZzlKa3JFZVBLUFJzSnV6Y3luWDVBbjdnbTF6NG0zVER0MGVFcjhaeUlJWmtqWUk4dEhGYVJfd0c3WUZKQy1WUHE2Y3ZXYVRVdFhPVGh1b3FJZ0FvQkU5Sy05Zw?oc=5",
+     "title": "No regime change, no victory? Trump's Iran endgame & Netanyahu's mission",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYzNUU3RKdERKRlNWX0Nxb3RQcHBxamg2THVvOWhSV0VGUXVLcFpJYWJjQlZpOGZFMWh4Tno1YXlqS2tlZnVaUXVGcjQ2NDVzb25KSUZBRW1sY09wcHFWOFJrVllDQTFkVUxxc1NBNWo4cFNOWFVkdHNsUmhQN1BHcmN3S1BlckxhWm14MW13SDJ4bW1WREJwSUtPSUVyWWZZWGFZVWVwN01NUG9MX2pjUnp4bnlDZEVjaVd0ejFKc3ZQRkhtTjViUHpuMklHeDBvSFVtaWhFQnJhWlJtQU5r0gHkAUFVX3lxTE4tMkpGLUFqdlhKcG5JWmpJQWctQWZBUld6WE5ONlFpaXpodVhBRkRHaGltZlpSS1pPQmg0dm4yYmVCRUJETDh3VEZob2JBSnpGUEtibzJyd2xHbkVQYmVMRzE0OF9EV3lVY1I0VTB6QXJFR0JCYkItUndSMEt5RnFnNHFPWlBhQkJEeUM3eXNvbk5PYURXakNtMGMtRGVvS3hPVVhMcEVNNGMtOFNMbEpGbmYzUXNYQlhaZ08wM3pmQ2NReHg0OTlOeXlXaFh3SUFKRGZwOW1veUxTWWF5U29XRXl5Yg?oc=5",
      "domain": "timesofindia.indiatimes.com"
     },
     {
-     "title": "US Senator Chris Van Hollen announces bid to replace Chuck Schumer as Democratic leader",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNLWhsNmpGRHJnY01yN21uRy1hY3dWZTlZczRUdVRNZEFNZ3k4dy1ZWW1TZFB4WW5jdU81MlI2QXpDRVBWSnZ1Sy05eWZHUzRKZTJaaDVoSTVheGg4aGhyTG9aMTJ4anVKNklTWm13SmF2UTFCMHJQeFFmdEY2V0VBLW5OaWRLWXVnZXUtN3Rxa1RLbHphRlpwZTJueUhSR0hXWW9OdzlFMGJKYU9ScHZ6eFdzNm1ZMlBDQXlVdkpFNEVKRHRsaThwMk5aTjBKbUYwVFAxM09qWm5yVWM3aUV3RzNyVFAtTHBVMXp1WlQ0a9IB9AFBVV95cUxOYzI4bWx2STZFM2lrME04bDVXTk55Rlo4NHRaVWNqV2xZZDBWNTEwR1VsbjhMc0gwVUVTUlQ0YzFvNU1kUVdOZmZRRHpSWmVTMVN4ekNERWNoLW5GbXhRRzJIdEt0MTBPTTl5VGk5LXR1Yk1qSGkyYmNHejFqaUN6OF9iOTI3VWtfZWtwZURBcFMyeXFSNjZreHdhV0t5ZXd4Y3BqUkRYVktQN2l0aWtYdUFNVC1YOVd6dW5UWThXZW9DVWQ4VUotSy00elBGREg5SmlpQTFZSzdYY2NTU2NUOTFacExDQktGMzM5QWZCOWoxbUJ6?oc=5",
-     "domain": "timesofindia.indiatimes.com"
+     "title": "Tanker carrying LNG hit mine, suffered explosion in Hormuz: Iran",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN3diT3I2eklBUVlJd01DOXRpT1A3aUFfNUx2dVBXUTczd3Y5ZDVlQno0SVI5THpweTUxNG1jNlJpdEtmY01yb1cybFZfdUtNNjVMSU0yREZySXZuNHktaTZuZFBqM3BESHh5dG1PTFBheXFneURPdDFDRWlmTjAzRGxrQTA1bHpUTUljTVV5NGlTcWdfaldPcFJqQmllY1dPYS1jdG1PRVF2QkZwVXRhREdfZ1BSZ2tuNUdEZmUwVERicTJ30gHLAUFVX3lxTE5tTjYzbzZuS3pIRXpiRk51bGFfa0lhV0Y5VndaZ3JVWVpkMlgtX1ZkVWZkdHhUeGNSRmU5ZDM4ekZ0eFcwM19jRHo5RWYxbDJWU2pWUmNnLS1SVkphbW1BcFJjXzZUN1VpMnNEbFl6bEJoU2ItQk5KbzJ4b3hySmpBalF5VXZSUWo2ZWZJV0FEZ3EyMUZxUDJUMmpGMHNMaHNMbjRSRXB5VEtLMnNvR1h3YkFUODNlMXBIdHNnMFRpb2VKN1R3TDR6Yndj?oc=5",
+     "domain": "thehindu.com"
     },
     {
-     "title": "Arnold Schwarzenegger says Donald Trump asked him to campaign in 2016, recalls telling him ‘I cannot do t",
-     "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQejRzcGdXRzhObFhBRzZNcmdkQWNaTnhNZ3Nsa0VIY2dqTHk2bDBnV0N6Y0R5Y1hFNHRWZ1BGUGhsdG1Ydjd2eVJHVmx4YmVQMDRzTGczd01vRHVMamxXekQxMFRYaTFIbnlKemZsb21ETUtSVW1ycERDdGhDYVlNdFFGaGJlTUxpVExXSURxREg2MWdJY3FkbkE2N0RiU1pmNl81clJGdlFsQ0FaR1AtYmJsNFpCWmpuY05VNWhyZWhZQ2RlQ0pWa2FTUTIzOGI5N2U0RHppQVYwanlSRGdrSlp3RVNEak5RM21BVk96TGdIMG5oR1h2TWJEMjhmQTdJS1VLWS1zdzVuQk1MWk5BdFZOdHJncGpGNnBYS3FjUHZjdElqczNrQzNvQmdkdHNIanY3bnBMZmx0Mi1HUmtaV25IcXhtZ0c0WE5sVDB3Snh5R2Z2QkJF0gHXAkFVX3lxTFB6NHNwZ1dHOE5sWEFHNk1yZ2RBY1pOeE1nc2xrRUhjZ2pMeTZsMGdXQ3pjRHljWEU0dFZnUEZQaGx0bVh2N3Z5UkdWbHhiZVAwNHNMZzN3TW9EdUxqbFd6RDEwVFhpMUhueUp6ZmxvbURNS1JVbXJwREN0aENhWU10UUZoYmVNTGlUTFdJRHFESDYxZ0ljcWRuQTY3RGJTWmY2XzVyUkZ2UWxDQVpHUC1iYmw0WkJaam5jTlU1aHJlaFlDZGVDSlZrYVNRMjM4Yjk3ZTREemlBVjBqeVJEZ2tKWndFU0RqTlEzbUFWT3pMZ0gwbmhHWHZNYkQyOGZBN0lLVUtZLXN3NW5CTUxaTkF0Vk50cmdwakY2cFhLcWNQdmN0SWpzM2tDM29CZ2R0c0hqdjducExmbHQyLUdSa1pXbkhxeG1nRzRYTmxUMHdKeHlHZnZCQkU?oc=5",
-     "domain": "timesofindia.indiatimes.com"
+     "title": "US Denies Iran Targeted Bahrain's Radar System, Says Shot Down Their Drones",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN2p5NGFCTHgzS21ZczJDajAyd3lXdDVrMy00NFZsYm1RQVVsdkZlU0dsdTkzZzE4MUswRlJha2U5cElEQVNrdmw0X0R4dzg4eUJfemQ5VXUwNF80MEItOFVpZE9xcVN0LXppUVduXzRoVlpGdTVreWFjOTc4a1BJejdraDVnbHZaSzdKMENxd2pmWEZ2SGRXeFo3U0xIbGNUTV9NUlB4MjVvbmx0TzM4UGVjMEfSAbwBQVVfeXFMTU9telVxMC1tOEdZWVBnU3ZwNUxDV0RWdEFYbTZYWjZocmRUbVphNi13MFNHYVVQd0Fjb3VtUWNMd0w1QXRjU3UzNl9VZWNyQUpyU1NxVEk0Q3BveE9fZmxyb3BhSGtaTUpGbEFZT05KeWJJeGZ0dEhHYTA1MW81REZvd2NlLWhheTZUdmVBQmlFU0NTZmdWZlRyVG9LeVdHdXlJS0pfaS1QWG1vYXZCM0hNcE1ST0pYNVdlT0E?oc=5",
+     "domain": "ndtv.com"
     }
    ],
    "error": false
   },
   {
    "name": "Africa",
-   "count": 0,
+   "count": 7,
    "capped": false,
    "tone": null,
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "Syria removes visa restrictions on US travellers after backlash",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZThHMk4xenZ0VzJqb2V4MHBCOEVyakdsSDhqVjJKclNTUUlyaEhkeHpMRnZocE5iR0hPSlY3aG9OeFcybFVWdnpuY3pydWxZWDc1RFBudTNXdXNsYUxHZHZnT1ZYSDVWWUpBWlBwcVVOM0lyS1FZdktrZGdyZS1WM1lwaU5TalJQNXpWdkhNSk80SVZnQS1JZVA3NjktWlpOY0MzVG9OanRmQQ?oc=5",
+     "domain": "news24.com"
+    },
+    {
+     "title": "A democratic landslide is not a blank cheque, By Osmund Agbo",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEFweFVoSHJaSHBGWWRId3c1dldYTmVpeFpDMWxwVDVNcXA5TFhpRXBPNDdYaW5kZ2taSWxMSXoyYUlMY1N0Q3YyMmtibUJOM0FtWldRMGM3bGptTTd4d3hSNnlZcWJ1eEIyMmtwcmpxWVBwSE5nNkVPLU9heDJpN2JIRHRtQ0F6b3MzcTZMVy1Xd0NjMlhTM2lCbU50UXNnRFBFbGo4Njl3UlZYVXlF?oc=5",
+     "domain": "premiumtimesng.com"
+    },
+    {
+     "title": "Microsoft 'deeply sorry' as outage triggers global chaos, says services are recovering",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb2FuYlNCM1BuX050cGMwNUxyMnVPNTF5WTdENWRpMWtKZjhDcUxYSV9JYWFJNXpvUmM4czhjaGxUaU9KdzZOaEFPdDdEWkM5R3BHV3BIaEVDX3BESkJKd2lwekRDWkl3UGt5WFA3Q2M0RHZPd0o1UUVnaXI0ZGhYT1ZVQjhwc1lZSlBlVnNIcGtCbUxQd3BCOG1RVnMtdE5pWldTUXRHQU9tT0pSN3JXZ0diNWY5WUxPZnRhWDhYQzNDOFFt?oc=5",
+     "domain": "news24.com"
+    }
+   ],
    "error": false
   },
   {
@@ -149,7 +207,7 @@
   }
  ],
  "framing": {
-  "text": "The UK emphasises the \"blue tsunami\" as a cultural and political moment, with articles on Trump's transition and broader societal shifts. The US focuses on election results and their regional implications, alongside unrelated features. Europe treats the story primarily as a media question. Russia, China, Africa and Latin America have no coverage. India and the Middle East provide minimal coverage, featuring other US political news and Gaza, respectively.",
+  "text": "UK and US coverage emphasises economic and strategic dimensions—oil markets, nuclear concerns, and Trump administration policy shifts—whilst depicting the conflict as a political challenge. Europe focuses on diplomatic stalemate and nuclear doctrine changes. The Middle East highlights negotiations and shipping disruptions in the Hormuz Strait. Russia and China have minimal coverage with tangential economic or geopolitical angles. Africa provides almost no Iran-related reporting. Latin America has no detected coverage of this conflict within the 24-hour period.",
   "model": "claude-haiku-4-5"
  }
 }
