@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T06:42:15Z",
+ "generated": "2026-11-15T18:55:08Z",
  "source": "Google News",
  "quakes": {
   "us7000tx16": {
@@ -38,11 +38,6 @@
   "us7000txwp": {
    "headlines": [
     {
-     "title": "Strong mag. 5.8 earthquake - South Pacific Ocean, 35 km southeast of Mussau Island, Papua New Guinea, on Friday, Nov 13, 2026, at 08:04 am (GMT +10)",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVzJUVERGdDJwVXJxMjYxTFR3bFgwRGk4NXNMd2tqRUtkXzR6VWxFVWVESDZycEdfQW14SHJlb1ZmbE1wYVdSSGtvVnJvWkxOdUl0ZHJFZUZ6RGJIendmYnhnczVkQ2M4Y2ZJNFVEZTZOUGFpLUpnVmtFRkRfQ002cDAxQm41aTZmT0JRamdMTkt1X0RwRzNJVXVIY25xM3hNNi1UWEI2U2t2WHRpaFk1STQ4MldNS2tsYXVEMDlMYktrM1lRTmc?oc=5",
-     "source": "Volcano Discovery"
-    },
-    {
      "title": "M5.8 earthquake strikes near Kavieng, Papua New Guinea",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObmNQSkt0cVdlel9uU09ZREZnUE4yQ1dwVFlGdU1ZbkxnTTdlQzlIclluV0dEVnhaeWlyNGJDNmJ3Vk91UHNOaWlEMVNnbUN4MjdRZkJuNElrNmY5LXE4bDc1OXhocG5PQ1FRelZnNXZ0Rkl2MC0xQUptN0Q1Sm9uZk13WWdrQ1lWVFZ2Y1gwazFrNEpCendBZzlrR1pDc29LTFpRdA?oc=5",
      "source": "cedarnews.net"
@@ -51,16 +46,41 @@
      "title": "Magnitude 5.8 Earthquake Strikes 148 km NW of Kavieng, Papua New Guinea",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORklzcUxXeDFOd09IYlVjekVoUmlHd1ZSZThSLWJzVUtaUmdpcFdNU2dJTUtoZjdGTllmRUY4cTNZem43Z3NEMUdoQ19wMmNsekxiQVNFazd2ckxlTEVNWmRZdnk4TUp6ZUNEMDE2TE0wZUdCbWNYUVhkQ0dHQ1hxU3o4VDRJX0NERUVR?oc=5",
      "source": "cedarnews.net"
-    },
-    {
-     "title": "World Earthquake Report for Thursday, 12 November 2026",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb28yVEdyVUpyeDAzM1BpMUswS0JiZUFmOURJeGt1ZDBqZ2l4cmptUU5ySU0wWXIybllMNmc3M09Ta1pBSXV3cmMwem1zR3ZQVnQ0UHNhVnJuRFI1QmRQeDEwNmstVUJ5UXFyY1JERENtTHk2dGwzNlJsRy1DRmZhUDFvUUw4RTQ5ZGdMTEdtRzhmQWd2TVJLZERWYmp1aHFuSTFz?oc=5",
-     "source": "Volcano Discovery"
     }
    ]
   },
   "us7000tx1f": {
-   "headlines": []
+   "headlines": [
+    {
+     "title": "World Earthquake Report for Saturday, 7 November 2026",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVzdORVBSZVJJOGE2am1WTGdqblVra0I2andsbkYzMHVxaFhHN0ZVMDIxZ0YwaEl6STdEM1c0VHVENHJ3RHMzUW9VeUdZZTJDTWdUMmVKZ0QwdUFDVVdUc0xORWZkTkFPVDNDUy16a0hVTzExdTdUUmJfRmZaa09VNUl0c0w5eGQxTHd2SGY4SWpwSjZ1WlJkSG9weDdCUi1yaVE?oc=5",
+     "source": "Volcano Discovery"
+    }
+   ]
+  },
+  "us7000tyek": {
+   "headlines": [
+    {
+     "title": "Strong mag. 5.5 earthquake - Philippine Sea, 21 km southeast of Siargao Island, Philippines, on Sunday, Nov 15, 2026, at 01:41 pm (GMT +0)",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMHhBRDJtcnhsazh4NEZoSklsVlh3MXg3a1MyTzhMemRORnBLMXdoVURZQkxQMndtOGM2dGJzTDNCaHp5R0N3NjNSSjc5N0VMSWdQdlg5U1RMVnNWc2RiZlpPWFM0clJmRlV0ZWxuTmNBSHpaaGpYNTlYX29wUy1haFpZX0Z0VVB2eGFSV2hUcXpQeUZUaVFTcF80MnpVNk4zRmNDS1lwM3JycHZqWDVNX0Zab3liVXhRb3lyXzM0d3RKQQ?oc=5",
+     "source": "Volcano Discovery"
+    },
+    {
+     "title": "Minor mag. 1.9 earthquake - Philippine Sea, 23 km east of Dapa, Philippines, on Sunday, Nov 15, 2026, at 11:23 pm (Manila time)",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZVNMVVYtYThmeVl1RG9VaVdhRnBINlcydHR5ZHRfRV9wM2c2ZXNVYkpOT0tPSnBYWENmRWJERGxGcTBUZlU3UnZLalFFX0FPejlTcWVEN3p0ZUp2U3FpSjVJa1Z5YzJ1TW9NYVZ0TFRoRUhKbHBBWjJRZmE3NkI3NDlTX19HYktyZmw5SUNpZm9TZVlzWGp1TTU0eW9BZnRBcURKQ0NXR0lpSzB5dmp5ZnBjSkZBZGowcFJhNUpIRzNKUGRXZDJLSFNVWjJQWENwRGVtdmpSdjNEWURfWGxPdFVTa1ZpUQ?oc=5",
+     "source": "Volcano Discovery"
+    },
+    {
+     "title": "Minor mag. 1.6 earthquake - Philippines: 006 km S 02° E of General Luna (Surigao Del Norte) on Sunday, Nov 15, 2026, at 11:41 pm (Manila time)",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSWYyNGhONlpSZ2VPTXQzb3I3UnA1eHpvWjFqRkRQT3NlWVBOWTFWdnY2dVM0ZWFicmJMRmRpMU1nYUxqTHBFRWQzb2FmY1F6TnNDSFVsRDZHQmFHN3R6NFB2T0QxVXN4RmpsdVcySHdaUHQwSkpBZnp6WERZUWNkTkVHWmdqQkJVOHpUZzYzWmw0YTIxRldSOF9xSURULVR2Vkw4MEtpN1VXQUQ0SlRBazVDd3k3MmdTclVKSlNpaENWNDdEZ01reW1uc08wMTloUUhBdk9hTmdJMnpJZk5UZVRCaEtZZw?oc=5",
+     "source": "Volcano Discovery"
+    },
+    {
+     "title": "Significant Magnitude 5.4 Earthquake 61 km Northeast of Tandag, Philippines",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMW5WZ3J2UGhma0haS3FlTW9kZTlybkxSQjMxVG5UWm1MOHR0VjBHTWxkWmZNU1d5d3dnWDFIc2hmTmpXNkF2blNJUl82LWloR0ozZWxIQ3JYdy1CN1dUc2dNdTZEdkFxaGdNZ0hXV2pkSFNHTWFJUXd0aDc1Q3hYdXVmUmdJQlZIRVlxcjMybjZUX0wyOEVKbTZWdFlEbW80LW1UUll0Y3FrdC1rTkgtUTZGSVBJREpJYXFVTzBLZkptRWZkWFdMU1VsVk41dC1H?oc=5",
+     "source": "Volcano Discovery"
+    }
+   ]
   },
   "us7000tyca": {
    "headlines": [
@@ -70,7 +90,7 @@
      "source": "CGTN"
     },
     {
-     "title": "Strong mag. 5.3 earthquake - South Pacific Ocean, 92 km southeast of Namuka Island, Eastern, Fiji, on Saturday, Nov 14, 2026, at 05:15 pm (GMT -12)",
+     "title": "Strong mag. 5.5 earthquake - South Pacific Ocean, 116 km southeast of Namuka Island, Eastern, Fiji, on Saturday, Nov 14, 2026, at 05:15 pm (GMT -12)",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMHYtbUJudy0wR1BZM3RUTUJITW5lTFRMVjVHS1dRZldSZEJWSFN4Y2JsWFhMT1dhOGpvVkxpYUo5OFRFWnRqSHpSM0hJc21kZm9TWExLd1dJYjZ4NUI5cG1hcXdzYjJJSjF2S0ZQWjF0WlN2TEJoY3E0alRiLVpfUjRLTHdVeF92eUdMUkx4cENfQ2lkQ0xaQVJzSjRBSXgxRENYdG5RTE5INFVucEZsRA?oc=5",
      "source": "Volcano Discovery"
     },
@@ -96,11 +116,6 @@
     {
      "title": "World Earthquake Report for Saturday, 14 November 2026",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYzY3bmdEdlZPc1ZJT1dXY25va0Y3Q190X2I5RE43SUEtVlBURXFtWWR3UVBaNkxRUnNmRWJta2tKNmVqM1FWSl9QaF9PZFRLZHVoWGluT1Z0dEJWRnZDS1E4LTB6OE5JSWNsNUpvbmNMYnk5WVozcV9uX1NhUkVHSUY4TTZ5WnRxN0JRM3dRWktGVWtrOEZMeTE5UGczNTJ3U0pJ?oc=5",
-     "source": "Volcano Discovery"
-    },
-    {
-     "title": "World Earthquake Report for Sunday, 15 November 2026",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeG5FRzBrclBiVGk2akpmdTl6eXpyNXExX2VDMUZZdHZJT3RNTTU2d0lWRzk0SnY3RHpadGVaM0hvOEhtYjVlUGNocVR0WklEdFlxYkFKSUtwdmFiMVctXzdMVXZHZzg2M3Fad0JFQmhUdXpfNFJ5NXNNSXR4b2M0cXdCTmNVVHI5T1Vfa3hOb2VpT3dDNVZ0RDhicGJlblpUdjFB?oc=5",
      "source": "Volcano Discovery"
     }
    ]
@@ -132,13 +147,8 @@
      "source": "Apa.az"
     },
     {
-     "title": "Strong mag. 5.1 earthquake - South Atlantic Ocean, 49 km east of Bristol Island, South Georgia and the South Sandwich Islands, on Friday, Nov 13, 2026, at 05:04 pm (GMT -2)",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTFBVdDJBYm5YaThhSmtSYXdORGpKYjBCQjZFbFRnTXk2Q2tockMzdlI1X2llZDBwSHM5Nm0yNHdiMmdqRDBnOEFmM1dTQ01WZXViRzR5eUtjTGVUYWFxUV82bllobm1aLUNaOGk5RW5sRlNBMUtTY2JLMmZPekI5cEFUZ0lNUDkydHJvNG45Z2ZzQW8zZ3dwMTlIQ0Ywcm5jWGhfanRiWEJMd2tuaTRuYmJwNk5YRS1YeGNqWFR3?oc=5",
-     "source": "Volcano Discovery"
-    },
-    {
-     "title": "World Earthquake Report for Thursday, 12 November 2026",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb28yVEdyVUpyeDAzM1BpMUswS0JiZUFmOURJeGt1ZDBqZ2l4cmptUU5ySU0wWXIybllMNmc3M09Ta1pBSXV3cmMwem1zR3ZQVnQ0UHNhVnJuRFI1QmRQeDEwNmstVUJ5UXFyY1JERENtTHk2dGwzNlJsRy1DRmZhUDFvUUw4RTQ5ZGdMTEdtRzhmQWd2TVJLZERWYmp1aHFuSTFz?oc=5",
+     "title": "World Earthquake Report for Saturday, 14 November 2026",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYzY3bmdEdlZPc1ZJT1dXY25va0Y3Q190X2I5RE43SUEtVlBURXFtWWR3UVBaNkxRUnNmRWJta2tKNmVqM1FWSl9QaF9PZFRLZHVoWGluT1Z0dEJWRnZDS1E4LTB6OE5JSWNsNUpvbmNMYnk5WVozcV9uX1NhUkVHSUY4TTZ5WnRxN0JRM3dRWktGVWtrOEZMeTE5UGczNTJ3U0pJ?oc=5",
      "source": "Volcano Discovery"
     }
    ]
@@ -153,11 +163,6 @@
     {
      "title": "Strong mag. 5.1 earthquake - Banda Sea, 85 km west of Pulau Selaru Island, Maluku, Indonesia, on Wednesday, Nov 11, 2026, at 11:32 am (GMT +0)",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONDU1UnVvNHpBZ3ppcUpJaWh4QWFrY1JLaHNiUDhTaGpZdkhPRkNka0lGWmxaMzZNaDBHZWdhR2JCc3VDRDUzazhSaGNoLXp0NEwtZ2JWOW5FWmJxTWFHX3d6cm8tWkF1Ui1vT0lCWkgyZTBsdDBFR1lDNlBHcUJ0bjFmOW5IRUo1V3ZUVlk2ODJRYzBtVzIzQ3NxUzlsMTJaTzl6NEN3dktxSlBKNE9tYU1fOFpoSWJrT1FBaFRDZHBMNE0?oc=5",
-     "source": "Volcano Discovery"
-    },
-    {
-     "title": "World Earthquake Report for Wednesday, 11 November 2026",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeWRnaEJBUEQwdlUxa09tR2ZwR0JfbHJwVmFsNFppMzRPN1ZHYVJRTkRhMy1ZSTVRZDl5eGVWQmR3NFE3U29fMnhENVhySjFrTnZ2RG5aX2NtelktX0FGdEVoWDRLbEU3Tm9CMldkb3pJX3FvXzlnNzlRcWVsbzZ0U2w0QWNKUkZqUlRyQ3l0LVNRb2t0STBRT2pndUJNcmNhR01R?oc=5",
      "source": "Volcano Discovery"
     },
     {
@@ -216,11 +221,6 @@
      "title": "World Earthquake Report for Saturday, 14 November 2026",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYzY3bmdEdlZPc1ZJT1dXY25va0Y3Q190X2I5RE43SUEtVlBURXFtWWR3UVBaNkxRUnNmRWJta2tKNmVqM1FWSl9QaF9PZFRLZHVoWGluT1Z0dEJWRnZDS1E4LTB6OE5JSWNsNUpvbmNMYnk5WVozcV9uX1NhUkVHSUY4TTZ5WnRxN0JRM3dRWktGVWtrOEZMeTE5UGczNTJ3U0pJ?oc=5",
      "source": "Volcano Discovery"
-    },
-    {
-     "title": "World Earthquake Report for Sunday, 15 November 2026",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeG5FRzBrclBiVGk2akpmdTl6eXpyNXExX2VDMUZZdHZJT3RNTTU2d0lWRzk0SnY3RHpadGVaM0hvOEhtYjVlUGNocVR0WklEdFlxYkFKSUtwdmFiMVctXzdMVXZHZzg2M3Fad0JFQmhUdXpfNFJ5NXNNSXR4b2M0cXdCTmNVVHI5T1Vfa3hOb2VpT3dDNVZ0RDhicGJlblpUdjFB?oc=5",
-     "source": "Volcano Discovery"
     }
    ]
   },
@@ -232,8 +232,8 @@
      "source": "The Malaysian Reserve"
     },
     {
-     "title": "Mild Earthquake Hits Coast Of West Sumatra, No Tsunami Warning Issued",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYV95dWJNRldhSGFzOTFzUGdVVnZReXVvUTZVZnQwOV9RU0Q0bXRnQWhlVmZpTUJNNDB3Rnhzdlc3OXZ4RklRMk5BUXJfR1pmT2tWSjRWRlg2Y3k5ZFhoWTJzei12X182NG82RzdMR3ZVX3lfSnBKWS1tSzJBREpQQ0ZtdVkwbzZnR0NKM1hoX0pMZ2RHOHZ6MnRiRlJfY0tvUkI5ZFBmMGZmb0p4TEYtZjVNTQ?oc=5",
+     "title": "Mild Earthquake Quake Hits Coast Of West Sumatra, No Tsunami Warning Issued",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZHlzcmlKZHcycXcxdGRjaVJ4Z1JIdkVIU3ItcXVyV2FFelBYMGptVlhMZzBYS0d0U1hXTENxZkRrcWVjOW1wRVBHUmgtaEhMSWNVcGNUeVVybUNWeDhnMlUtVWxRUGtKZmdialZlSlo2SjZiQV96M0F3YU9PR1RIS3Zld25wRnk0UzAwSkFWY09jbDhaWDFrcUtuS1pMVXpfWkJYTzBxdGV2WXhCeXhldDFPS3loMElrd2tz?oc=5",
      "source": "BusinessToday Malaysia"
     },
     {
@@ -269,30 +269,6 @@
      "title": "5.2 magnitude earthquake strikes China’s Xinjiang region: No immediate reports of damage or injuries",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS0pISGU2N0cwNHJyaTVVZ0tBeFYxZzdEYjZVYThQZ3dyZkxsejVHQmR2cUpieXJ1WlhhaktWSDlvaWpvNzJTbXhzcExodTYwMWNmcWdnX1VPYjlaS2RRN3d0T2dMVFhONTVLbHh2S0NhMVhjcXFDcVBqSk9vdl9Nd3c1U2NYYmMzbktFN2IyT01JaXlmODl3a2JfMlVOalYySEdNVWV1bjJnQWfSAbABQVVfeXFMT3FwRlhFX2xYTWRqajQtV1EtSUQzMDc1MTdtNk5neVZ1aVlFTFJBeDlwTUlibVJXX0YtTWZkT3JBRVRpWUg5TGF5SDVFaGx0RExIWUx5RFItWGg3UkZOOVdxY2VFcDZ0dmNpd0psNUdDS3dLNlZaeTRGWGIzYXRZaFF5YWpxMkJMTUVDX3BETDFyQmNrT0hiQmdSMUFFSG56V2Rac3JfdF8tZ3VYQUlrSEo?oc=5",
      "source": "Bhaskar English"
-    }
-   ]
-  },
-  "us7000ty0s": {
-   "headlines": [
-    {
-     "title": "Moderate mag. 4.8 earthquake - West Chile Rise on Friday, Nov 13, 2026, at 11:33 pm (GMT -7)",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUjVvMUpuZkhJTUhCdko5RXQ5SjVrd1N4b2h3TFJzM2NQeTJNTGNobW10WHp5dmVicG5UQm9PNzBQZGpYQ3RVTk9lY3B0ckhfa1otOWVGN2ZGVlJDa1VTT1kxVGtFUjdUNVlMM2R6NnQ0MlpLMXdyQ1g5cmJlcl9TWnFnWFg3c1Zpc003Yy13U1ZrcE12UnNublZJYWdIOUM0enRVMzJhR3NJdnM?oc=5",
-     "source": "Volcano Discovery"
-    },
-    {
-     "title": "Strong mag. 5.2 earthquake - West Chile Rise on Friday, Nov 13, 2026, at 07:12 am (GMT -7)",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX2J5czdCZDFJQnE3X2oydzk0QjhINHFQSGM0ZUdLOWxTR1RFbktHX3BISjUxem5kS1owNFhVbTUyWnIwemJBaDgxVDA2WUxIZU5WM2NkNE9jQ0xfMG9rZEc4QTFOSl9Ra0ZoblNqMFJYenFNWmhKOUVUdDZEX3l0MHI4My1XejZmb2xmWnNpbjRTanhsVnpmdGZHWEM1WnpTREFUb2dzdy01bDhlLTcxN01zN3VmZHdDTGc?oc=5",
-     "source": "Volcano Discovery"
-    },
-    {
-     "title": "World Earthquake Report for Friday, 13 November 2026",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUVU5bS1CWC02eUphN205ZWlHX05CTU4wTkJobGx0cVJDb0ZBWUg4V1ZYem1FTzF3bVRmak9USWJTRk1xbGI1V2NxU01KSl9yUjF1T1AzdTFXTTdjUWVXRVlGZlJEeUNOSG92NkxTVzVoZnd4ZWpESW5Vb1VBc2FjSWpQWGJ4bmFJNlVNd0tWamhlOWZZOVhkZFYySDBHNmo2UEJN?oc=5",
-     "source": "Volcano Discovery"
-    },
-    {
-     "title": "World Earthquake Report for Sunday, 15 November 2026",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeG5FRzBrclBiVGk2akpmdTl6eXpyNXExX2VDMUZZdHZJT3RNTTU2d0lWRzk0SnY3RHpadGVaM0hvOEhtYjVlUGNocVR0WklEdFlxYkFKSUtwdmFiMVctXzdMVXZHZzg2M3Fad0JFQmhUdXpfNFJ5NXNNSXR4b2M0cXdCTmNVVHI5T1Vfa3hOb2VpT3dDNVZ0RDhicGJlblpUdjFB?oc=5",
-     "source": "Volcano Discovery"
     }
    ]
   }
