@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T18:54:30Z",
+ "generated": "2026-11-16T22:09:09Z",
  "window": "last 24 hours",
  "source": "Google News",
  "topic": "War and conflict",
@@ -7,27 +7,11 @@
  "regions": [
   {
    "name": "UK",
-   "count": 86,
+   "count": 0,
    "capped": false,
    "tone": null,
-   "headlines": [
-    {
-     "title": "Iran targets US military base in Bahrain with drone attack",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92bDdhYU9aelJvTWNmTk9pcy1ZeU9rSFlRLXBjUjFWOWsyWms5SU9xeldBTjFiUFFNcTB0NDJwN0MwYXl2YVdYYWtsbklBakw3bHdrYXFrdEtJOUYyVGc?oc=5",
-     "domain": "bbc.co.uk"
-    },
-    {
-     "title": "Iran launches drone attacks against US military base in Bahrain",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS0RnUlBTa1J0QTBzR0RHcldQd0twTEtaUWwzV2xlSzJOSURDRW9hcHVqaUNtUVp3YU9uMGZ1N2djRU1xeGdsTzlBLU9Jdm1iSTQ5RDlzc1VPb293V2xkNk1Ddms0VHZvMVJ3VklsXy1KUGtkTW03RnY1VUZ5VU1jaTFTNDlUYU9UVEw4MVlEVkdPNnNWX3hQejRueUotWmxEal9lTnJhaloyNTBCTFE?oc=5",
-     "domain": "theguardian.com"
-    },
-    {
-     "title": "Iran war 'has turned into political nightmare' for Trump",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWGNzVzZBRUFXckswbmJoTlI5VVUydHZCaGZwXzAwa1NiVjdTY0FoMjhzS2gzYVo5cGZjYm9jdTVRMkM4S3RWaVNiZ0hodUo1cWRkTWFJLUJKcXN0YTV4YVc4SWw1WTJBLXcyeEJGXy1BRzVrVnRQQm94NEc3bXAtdDdqdFNZQmxlMjhXQkV1MFFtTHV1?oc=5",
-     "domain": "news.sky.com"
-    }
-   ],
-   "error": false
+   "headlines": [],
+   "error": true
   },
   {
    "name": "US",
@@ -36,18 +20,18 @@
    "tone": null,
    "headlines": [
     {
-     "title": "Iran Attacks Bahrain for the Second Time in Days",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObmV0c0pwNVZmTU04SXFiQktmeFVOX2FhVkxlTkRrb3dRY0xYZEhaM3BKZmZ6V1FOUUJWOTJva3psREkzR2Q5ems3VVZYWFkyNEJ2V185V196bnZqVndfYXZCT2hZTVhzTjZEb2RyVnpCQ21QT0NpNTR5SThLbG0wWUFB?oc=5",
+     "title": "War May Answer Longtime Riddle of Iranian Dams Built for No Clear Reason",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM3RSb255WmtXVzRseHpHdk5tT1ZLTlYzRzJudFZKZHVaR2taQzdOcmQzWGF1b3hwTmZodTV6TWRvM1pyX2JtVVNlMVI3NUtyQlRVQXhQS3FJR2lhN1ZZcFZ4WU5fRHlsLXZEXzN2aDItSUppYmt0YzdVMXg4dHRHYUZrVzhRejZYcGZxRVlSMVJxN1paNGV6MzhfaS1sNTg?oc=5",
      "domain": "nytimes.com"
     },
     {
-     "title": "Trump's top officials retreat behind military gates as ex-FBI deputy points to what's fueling threats",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzNGbjk3ZEFwRzVLb212NklvblprNXIxMWRXUEdEdjdDRUl4aFV5S0h1cGZzc1VYdS1NLUtDSTZVR3lTMGU1c0xDeFJjbGoybmNRbWlkbng4Y1RIZGM4aGR6MXBUV1l5ODBHdXl5TmptbzRUMEZTMmI0dHpEaG1qeUJPeUFna3BfMVQ5VXE1bHZMLWlLVnFOTkQ5NVByTHl5bjBTNzI4LTVPdndfaG5zNXlqYVJhcHBlVkc3VWFKMklvMFJ60gHKAUFVX3lxTE5GRU91SG1aMzBHMG5PaXVJNEpCcDRwLVZTVVFNSzh2cmVGUUhhQ2Y1NTljWTlQY19nUU1NY09wbFJISDBkbmRVNGxOSkdUUUVEM2VvX1VBbmlMLWhDYVRfX3V0Z3FpWkFkUmo5dWt6NE40Z3VmaWtyU1ZzUmpTYzBMcWZRTEhTWDFseHpBQWNFRno3UktkYU5HUXBGVk5IYlZMSE8zeXhHb08wMmVCWWN3OFZteHlUREhncWR0MTBGbVE2NXJzYlgyYUE?oc=5",
+     "title": "Third US aircraft carrier arrives in Middle East as Iran rules out UN nuclear inspections",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYlVzTFNFaXJVa1YyZ3UzclpiejlwNE0zdWVoam9tdWpSTDVYRENtN29ZUkwwUWtKYXowSlpjQ3UwWnhWMUw1dUdrX1doR29LYVJ3dXRfNmFZcmctLWpoMnNKMmkyb3dZS2g0MmJPU1FvaVVkMmxaWmVaQ0k5SjZxNVlEd3hyckRBdGxJNUpOenhrcTk5N3JndEwxOHdvRUZ4NERkNUU4UVhZcFJDMDhucXhKZi1WWEU?oc=5",
      "domain": "foxnews.com"
     },
     {
-     "title": "Israel kills a top Hamas commander as Jordan sentences 3 in church attack, and other Mideast news",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN0lIYjU0OG55Z253dDhlYmdmSURkRWZWU3NnWUdwVk5iekp3aXJDbGVQM0RfMUpGRnVQbkowUHBNdEtFaWFYMjRwN2Z5VU04WURFcEhzUTEtcWRMclhYcHlQc0hLV0QxZmNZR0ZMS3RpdkpnNnNMdjhRN0hodGgzaGVHS0N3cjhrcjNPUDNpbTVGNnZzQlhSMnEyelczQVdZLVI5SlFtVzhFUQ?oc=5",
+     "title": "A technical issue at JPMorgan Chase triggers online banking delays for major US banks",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2I5X1NCMDRQZURDMlVFTTY4TmJ1TFVCeUIyWFRuenhhUmV4QTd5ZW9ydEdUaUFXb0dGTVFjR3VubUxvaExsZ3pfWUd2dUw1dEdFbDg5TWhkbEFxNEJydHNtaTgxRnJ1VXRNdjJQY25GSU1NdEZRcG9wUlN0NTJlRHk4QW5WbHk1eV9XOTROU2M3M3N4ZU0wbkxBSTY?oc=5",
      "domain": "apnews.com"
     }
    ],
@@ -55,123 +39,75 @@
   },
   {
    "name": "Europe",
-   "count": 74,
-   "capped": false,
+   "count": 100,
+   "capped": true,
    "tone": null,
    "headlines": [
     {
-     "title": "Iran claims attack on US military airbase in Bahrain",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc1c4aEZGVWxpWDlYajhJZXFCbTBRa0NTTlZDWEpBMWNacEw5aEFOUnZGLTVGMXVlZkFVOEwzSEFFZXo4SW1nc0E5dUQzYzVqZmx5WXpBNlRERy10Uk1WdFd3S1VkOXFvUXg3VlF0ZFBlM1ZXMU53WXdVT2VKZG14ckNoVF9mWXdRckdxc1N2SWNETmo0Nzd3alA2YzNsRnNwVFdv?oc=5",
+     "title": "US and Iran move closer to renewed war as exchange of fire increases",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR05ZTHJDeXhhSTcybVlvaTFZQTM5VmdDYVpBN0hEZnhYakdfaGtqdHpCclZxM29DNXJxMHdxdExOUHhWVTlZUldKNXo2ZjA3UlpEUzE2QmZiTHBJVWR5NjF3ZEpqSVplaG1rUFpzMFVyazZYSjh0dDIwQnIzelVTempKWEJIblRtb0xCbFRybkZuYjZkd2RJYkh0aXY4MlNRaFVoMjFxRGdCMktYY3dDNExrdTVtQQ?oc=5",
+     "domain": "euronews.com"
+    },
+    {
+     "title": "Iran blocks UN nuclear site visits until war ends",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV3JPU05PMGRCZ2JuRUVlNHhSczFMVFItd1hRLWRMMFpsQURjZFNRT3A2Wk5FSUU2d08tSFQzdmlXOWZ4RVNfNEZ2SHJVWmNvWUtvNlBpMXo0SUlLSUY5SE9ubWpJX0RuUWlubGZCcTI1eHpRMkFJQmVTN3J5dGdkWlV4NkxUU1ExdllPR0Y4djBmeGVZRjJCb0JQM2gwYWg2?oc=5",
      "domain": "france24.com"
     },
     {
-     "title": "Fact check: 'Iranian' content farms reach millions",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcGxseEk4clBDTUxfa3hVaTlGMGF4WEtUUlhZdS1nVXllVHNPZ2t1akhKdkN1a000cmNPWjkzQ3JwY3lIOWR5R0p1NGU0emFfdVlNb09NWlIwQTgzTkQyMjh2eThZd1NBTnVKNHpoZU1vcW9jcF9yenBXckVGTzhpUV9qM1JXR2fSAYcBQVVfeXFMTU9hUm1NYkI2anpTVms5X0U5X1V6U3kyd2htR2N0RjBiQ2tDclMxWWdSQk9LdndvbjRzTnVnaWpvUFp2Q21pR1hLNXQyMWhfVzZBN2pQUUpyVzhrYTk4SnBWbTlRajBIZzBMaUZ3b015enhZcFU5RXdsVVg2VElYU1NONExWYkdn?oc=5",
+     "title": "Yemen: Anti-Houthi forces pull back from Bab el-Mandeb Strait as rebels advance towards Aden",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTS1tSGlzRkpkUW5oZzB4LTdKQllabHFIOUczNV9WeXMwLWJJOEhTN2RaQVVKbGowMjdMbXFydkluV0VUcDZ4OS1SNXd0azJXVmhZMjVtZDBGZjFZakR6Z05xajNRQ0JKandKYklnbVJ5YnFrbXFtbzhWZnlIZTZoLVY4UVVnSUVOMk5KOWV30gGOAUFVX3lxTE4xUFgzZURkM3gtYjlndThTLXk0WUVpT1VsTVJqeUVZbE5RUHRYdWtJUFVFM0hUcWlMcGVkcGJxSVlYTWNwVTd3NVo2ZXBKQW1YU3VEV3pXelY3VThVSzZGYk9SQm4xZWt4aGRMLWtuYUN1dkl6SUhIZnQwd1JhT0s1UDhDbERCb3oyMUtmYnc?oc=5",
      "domain": "dw.com"
-    },
-    {
-     "title": "Moscow says it will not dictate EU delegation's participation in Ukraine talks",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd0ttdmpXNEQ4bzVTM2JkTXRjdnZIcDRJdU5SWGJfcHR0YTVzZThjMHU4VHgxWTNGSlljVmI3M29LdVowVTMzaFV1VzR5bHBZSkR1NjV6WmVxSFd0MWZfZ3hSeDkwS3B2ZkpsT2dzYk55Zy03M2EtQ0prekdrUEJJd3psYUpFLWVhSXIyak9zOFNRUnlIZHIxbm9sRTdKRXRoX05mNFduSzhpSUduMTFHUTZjQQ?oc=5",
-     "domain": "euronews.com"
     }
    ],
    "error": false
   },
   {
    "name": "Russia",
-   "count": 11,
+   "count": 0,
    "capped": false,
    "tone": null,
-   "headlines": [
-    {
-     "title": "Iran strikes by UAVs radar infrastructure at US military base in Bahrain — IRGC",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE4zcUNkOVZhb0h2R2hPSUptZDlxTWhwRDBJYWdWMUtxMWFnRGlnVkw1X2tVbEsxVjlHVTBOVzVSWW5SQzJq0gFKQVVfeXFMUE5TeDlXblVmaXpTazdiN0RJUk1HZERRYno1TzNLOHFLOEhKblYwdTNNeGlDLXFQb3VJRWx2MDVEbEU0Z0NIbG5pRWc?oc=5",
-     "domain": "tass.com"
-    },
-    {
-     "title": "Iran claims six drones struck US military radar site in Bahrain",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yZW9MSkIxSk4yMVMxb09MSE1tM0dTYmRKU3hCNi1SSm5zYkFHWDlfOHAxRzhRY1Q5S3pjZ1NMdVRSNzliQkZKdzlSTk9RNE5SZnZ4c29fU2hsTlMtMFo3Tmln0gFsQVVfeXFMTUhjS2kxbDA0N0NTTGN6bHFkWWdlMExKSnlIM0Q0V0lwbUtFaExFTXBmZ0gxNGxPLU01dkpleEZCZ05oNHNVQ2UwYWhHbmt3YXZNUFRaTjBUSjQyZV9tdno5ZG8xT3ZlSHIwbFky?oc=5",
-     "domain": "rt.com"
-    },
-    {
-     "title": "Iran, US not discussing suspension of uranium enrichment, Iranian Foreign Ministry says",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE15OFBHbWxDZGRvMmJzeDFpNklkTDctT3VKcHlEWkFNY0JDVTBaVWRyZ0ZMUEkwTVpheFJtWDdiU1pxZkxY0gFKQVVfeXFMTkUyX01LUnREVXZzRzd0YmJMZURONEdjaFhwaUE1bmlEY1JWWEVLYzFFRHY0SVJWYWhnRXc2QlJGMkJLaHkyOHltZ0E?oc=5",
-     "domain": "tass.com"
-    }
-   ],
-   "error": false
+   "headlines": [],
+   "error": true
   },
   {
    "name": "China",
-   "count": 11,
+   "count": 16,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "How American troops’ data guided Iranian strikes and left a US$9 billion hole",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSDV6ZEZtdEVnV1h0X1piZDBLYnlqZmRuYkFtd3N0bVA5aHZ2R3oyeXRyUlNvNF9pSHVPMzdNVVdrY0FhV0dQMDJ2Nlo2VjBZcXJMd2tfa0I1ckpxVjlNS01iTWtxMTU2dFM1eDVSRzZiWU90cmI1UXdtUDBzanc2RDJ6WlZxR0R5VE9nVW9EcGEzdGNFQlpIblBNZjEwVFZYeEthMU9qczk5UEVPSDRhcmlBMWdxcDRKMnVvU0lsLXVzUjBQSFVxQUZMUVh5RWNoWFHSAdIBQVVfeXFMTS1PN1hvR1o3Z0xQYW1Hc01WdGhkQUVkNE9JQzJ0bmxwaHBEMHNKZFVLWU1wRDRMMzhFeU90M24wSVpKRC1NeXhKZF9PSU13RGRwRmZfVG5SZUJna0N2WDNUZHhBWndycjA0SU9kNjRDN1dvQ1l3enZ6akVfR1Nob2xQTVM1UUpoQ2JfWG5pSG81dHpRM0xKRnJfSmw1Q3lSQmJpU2VrZElvMW9lNWRlODMxYXV2ZXFFLUFCSHNQa282al9oV0s1c3FSaHZwaW1pRmdn?oc=5",
+     "title": "Can Hong Kong become the deal-making bridge between Asia and the Middle East?",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdW0zaVg4REhNRXNCc3RoYXB1b1ByTHVsTTdWUFlsWS1FWk1xcFY2QWJ3UWVqTkhTQWZTaXFpQ0NZY21Ka1loQWljLUVBMXlleHNOOFF2OTloU1FWMFV3TTNsSEhGUWNybUVfMXl3QVB2eEVCLWZDTkNTX3NBanB4VDdsc0RmR3JNM2lOUmp0UE5leVVvNzZJYzhYa2wwTmRtcHVCcHdMWmNGVUFQb1BrU2x6N0hIcHZtUkRRYnJoM2ZiSF90b2p4M19RSQ?oc=5",
      "domain": "scmp.com"
     },
     {
-     "title": "Iran rejects Gulf states' compensation demands",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9lLS1XVGsyQ1JORi1JWUg0RmhMTUpKMnlaZXlqalA1MUp5cW50bHphMFczajNPUUZ3NEZEVGUzMVkySWF3aXM3UWVDU1ZfNDF4UGRDVU55WVVmUVdyYWw0bDY0MEJncl9kMkpLN25EZE9STlRidG9lUnY2NlU?oc=5",
-     "domain": "english.news.cn"
+     "title": "Iranian FM to visit Pakistan, Oman as tensions mount in Middle East",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPanlrcWJUUGdWNktvR3ViakZERElfemhialF0LWo3SVg3bTZ6WE9uMlhFb29BTmZ4cTYycW94OHFrNk4ycTc5b3NoOVRFRHhuUTA0b253emFGWUVSSm5SUFlhdHp1SUZYRGN5eDlKTDFSYi1MWHJkNkNoRW00UWIxbTdCanlMVGxDM1AxQjZ4VHVfNzdoQXNQV2xINmw2aFRqMnBIWnc2YWdFYllHTTNDYW90M2JhUlFtSWt2d09kZXg?oc=5",
+     "domain": "news.cgtn.com"
     },
     {
-     "title": "Ghalibaf: We will not remain in a situation of neither war nor peace, we do not care at all whether the United States wants to negotiate or war, if they accept our seven logical conditions, the path t",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43c2JsMUwta04wOWNLRkV4SWNMRG1rUnc1TGJKRXFkOURVbnBoRmIxME1qbWR2M1lQd3hiWHIzbVRmc1BVZWdSZE5YY3ZvMlZIaG94NGRHVDc3YmV5WEw3eUZ2Z1NDV2F5ZU0tT2NkZDc3VlJJamxVMw?oc=5",
-     "domain": "news.cgtn.com"
+     "title": "Iran says peace not to return to West Asia without ending war in Lebanon",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1ZXlvakZqMjJkaHRrSFg5bjZLbGw3RzJSZFFYNzJ4VzAxUDNZT0k5WUlVQ1V5NXFURjVpVmdDQjNRN2NxLUZjYW9oSTg0SnhkWWhyNlltVTRyd0c5cTRnbk9uMmhkZnlDYnV0elpqUFEtWlRUb3lUMTlhbWs?oc=5",
+     "domain": "english.news.cn"
     }
    ],
    "error": false
   },
   {
    "name": "Middle East",
-   "count": 100,
-   "capped": true,
+   "count": 0,
+   "capped": false,
    "tone": null,
-   "headlines": [
-    {
-     "title": "Bahrain accuses Iran of attacking its territory to ‘settle’ score with US",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQnZfRlIyYV81ak90RjNRX0c0eHFfVElETDhZTmZfb2F5WDhxOFk4TVRQNFhvV0x4cHJvRVlLQVAtWmpUczhfM0NraTJoblE2bHd3cENGTzhGbWlaczNBZmdZUTd5Nko2S003RmJoOVhCRlFlX2JOSXI3NldfMUszLWg4UDlKeXk1Z090Q3Zma2h3WllQTEpreDFlSGtNOXp6WU5UVXI0Tkdnb1EwYjY5SWg0NNIBuAFBVV95cUxPUE1GeWU3b1pQZkRVS3g0YjVkejJUdEhwNU90QVgxVXA5dEVBOVpzQXd6eHIwNVJkSHUySldvVWk3MGF5T25WSFlGemx0QW1xZS11bVpXdnFkYjlGdFRLRVQyczIyVnVTc1JjOFFFUkxYUW5xQWllbUFsYmlDRUljdDhhVk1udXZseDlwU3IzQjZOVVhFZElsem1HNG9OOTE4UVpYeTZYX09zZW5Za0xVUU5BZlZXeW4x?oc=5",
-     "domain": "aljazeera.com"
-    },
-    {
-     "title": "US intelligence believes Iran could still have up to 2,500 missiles – report",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUm9YZEZBLTUxTUZOODItV1Q1Z2RweWVTYVBBMTgySWIyOVN5eWJrT0g4SUVHMmJkbTJLWGQ5dkNYMmlPb3BQaHB2TEJyYm1HaEM4bVVMOHR4a1FBRmN2SWFrRUk1Qi1DWmRya1Q4MDhwWlMzMnNCc1ljVXhSSGJEUXdkUHlwbDhPNW5uUEM5VmZhREFtdks5OHBOemUzMnN5dXF2QzNTSdIBrAFBVV95cUxPZm40NWNrbnlXc1NsbXlOU3V4R00wNXdIQ0FuMnl3dGdzbkpqaGxmTmRQbFJNM2NNM0pOYm1lWC0zNEs3SXhjZnRtcVYtdFZqNHZ4eDRwdHZTSjZTczFSR2FZNGxoOGc2ay1KRDBfbnNOQjhQWEcybW9jV0syaVBDaFVGX2Jyd0l0OWlQWlFZRmg0dFF5N3pVNUxqa2xvN0lBWUc4WXR0U3pLbnZ4?oc=5",
-     "domain": "timesofisrael.com"
-    },
-    {
-     "title": "Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWmJpRzd4b1dzR0xuNEpuS0tRS0xXYkI0UldTdG9SU3pwVEFRVThGQUwweFo1TUxlXzlOMVd0cFBMNmEyTlhGRXlHUjZTZE1aeGZZN29Nb1BiMVMzYS1tZGJSWEYweXRDcV9xdEJ2dy02WVd3cXBlZzhHYUR1VXFTRDdCZlRoOG9HTzEtU3J3VXI0eVZHdFFnVWRlVHJHd0ROcDlhYU9YTTAtcnVncm1tVTMyWTgxbjQ4TU5IR0lCa9IBxAFBVV95cUxNZGxFLUFwd2ZGRlF4cFpIQnl2VXhHVHYtVUJmMU1xLV9mNjM4aDliWFFidmdJX1lKZS02anJpOWlSNTBkdGhKMi16djFpQWtwMU9NVHNEY3I5UHBfR1MtcHBSREZ0dWVnQ3AzN0VIRy1NY3VfR215Q1NlVFc5OVdNVzlnYWZIZTdKU3BvdHRIVGVQSVVBeVpHZ3laeXlCb2lNLTVLWXd4X0JIdTJ3MGhJRXNKT2RHck40c1JJdlNVNUVqVnFk?oc=5",
-     "domain": "aljazeera.com"
-    }
-   ],
-   "error": false
+   "headlines": [],
+   "error": true
   },
   {
    "name": "India",
-   "count": 100,
-   "capped": true,
+   "count": 0,
+   "capped": false,
    "tone": null,
-   "headlines": [
-    {
-     "title": "\"If US Makes Another Mistake...\": Top Iran Negotiator Warns Trump",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOM3RWcmcyWDB1ZlB1dHdEYUFaNHl5Ukl6WC1TR2ViVG5paFpldHZjaDQtTmpqSkQ3ZG9JRjlOZHdNNUE0UHRVTWF2b1Q4VldYQUNfWXlHdDFqbWFNZnFzOVFQZHVUWGR6UjhEa1RyWVB2b1U3aW1zUUtsZENma3pyWnZJc0NRbkxuTUJWelpJUWstdzdSemtkX1dHc3o4MlFadEh6bDhDRmZVY1I4UG5aQk0teEF3V0pkU1JfVGx0aDkyY0hHTE80dlNLYnQwX3d3ZFJR0gHbAUFVX3lxTE5MOUpjRVlXV0lZVzBqaHlEU05iLWltcE9YUV95Q3FleWJrTE1wWk02MlRmdnp0UmdQS1NJeG9STVBLT1NqRDF4RndJQUJRcVVaQkNxbThBREpyQ0ktdnVYMHF0Z3RXOXZlVTRNNTkzbzQxTlJ5dTg3bTZoY0NYN3M2SS0xd0ctRWhUSWdkVnRSYlZubGs4NDVNUXNfaWJQZkpsRHNRWlpkelU2OHNtaXhBR0Q5eDhXWThtYmY4R2otanNhNDNIOFdwNjlRUFR4QnJMcWN3SjVJcVlFbw?oc=5",
-     "domain": "ndtv.com"
-    },
-    {
-     "title": "From kidneys to body tissues: Desperate Iranians put organs up for sale as war drags on, claims report",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONkpWTEY2cUo1dXNzV3MyRHZqQjdWOW5QeC1sT0NVbk53MDJBc3A2YUc3VV9ZMXR5UGFmY2NLQklvTkN0RlZmcmhJSm1YRkxSUXgycDZndUtfQ3h1R0VZUTZuV2JmWHJxb0JMUjFaQ2NjTTZqVi0xYTB6WEl4eE8zczg5WTgwQ2doYXB2OEJENFJTRWk5djRLbnR6WmhuV2FuTjh6QlBfaFQ3UVhIb2NYbjhBOXdmVHZScmJrX1Y2OUhxbVVQS0ctVTFTa3kzN25PR1JaV3BTRWVjSnhrVGhoXzBLV0RxNWNDY010eWNKY01TbEF4aGRqcXp30gH_AUFVX3lxTFA5TDdsNmhRM2liaWFEWFlTZ2M0SFZhVUE5UGxWMDZmVUU1WE9tMDlsSmp3dWhQa0tFdTZUcFA2QlFyZlVDTUFyWUZXdlhuR1lFQlR3N0pieF9nMjNFUXdMaW9UZUl4WU5GYldIS3haRnJ2M2tPc282QU90V0VQTlpjaEp5SVpyTm9BdnprWkkzQzRLM1NCNzcyQmJGRVFJS0o1Sm15dXk1clhMYlIzdnhRZmktRHg1QlUzc3Z3SEhwR09MM0JRTWhOdjVleXF6THJhTXFzQ2syZmtPeldZelZ1cXZvVE5nejVwbUtFSmlLTHJHbG1KZk1HTkZFSFZzYw?oc=5",
-     "domain": "timesofindia.indiatimes.com"
-    },
-    {
-     "title": "Sirens sound in Bahrain as Iran’s Guards claim drone attack",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWWcySDRtdElZMkxRR29hQW5RWE9vYjNaVEdOeUlmVFdaR3Q1czJ0QkdFdVV4aEtkZGxtLTF0OVBVMFpEUzZrSUpocFExS3luM0J0Z3RLMGZCVnpZSjJRYXRCZ3ZydHV6QXMwTW5iOTF2TmdjNGt1Qml1Y25ONmlqQklnUkFLSmY0d2RlbGdkczVIeVU0cmZROUY4a0NLYURyRmI0cGgxaGtpQXI3d0ZzQkVRYUY5cmxSY0JHZmlaZ29weC03ak9BbHEyWkdKMVlPaDRQOUNiejdhRkxCSDY1WGZlbm7SAesBQVVfeXFMTUc0OWg1dmRQN0tSXzBfQU9OT0E3VlZsRGVad0JTMGhIVy1FeTkzQnlIWmt1aTVNaDlkTzJHN3BJaUdCcklNcFpkR3JydjN0a0NfemFndDd3T2o3SFJCNmZ6VjdLbFc2MTBDcXNNVldDbUNycHZVazRxWFdNVThENFM2cUVaeF8xMjQ3elBPampZaTB2VE1qMzVzSW13bzBsZzNCZV9lQnItNjhreW1QcDY2WVFCcGZfc2RqYVRmdlhqejhLbEZTV2s3YlBtTGx0Q0NQbjNYMDZxNXBLdl9NVV84OUNvUEw0dThnNA?oc=5",
-     "domain": "thehindu.com"
-    }
-   ],
-   "error": false
+   "headlines": [],
+   "error": true
   },
   {
    "name": "Africa",
@@ -180,18 +116,18 @@
    "tone": null,
    "headlines": [
     {
-     "title": "Finance and Markets",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50ZVBaWUNJbFRQLVVUUE5fTERFNFUwUU11RWVSRWcxNDRMX1UxbXJINmxCOVZfblVlcU4xSDdUZEVoekMzOUdWTk5acHBDRVNxaF96VFZ5SlBJT19NYnBZdG1ZcVVVaU0?oc=5",
+     "title": "Xi, Trump, Putin meet in Shenzhen this week for talks on ‘world peace’",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNDVLNDAzQk80V1R6bDNoenVLUUxocWlpOEpJVnZXcWMxUTFaU20zM1FtY2t6N0dUTGZ6aVVoRWQ3VVhiNWpfbUVyWDNaeHVNdHVrN1NpS1djc2JBcXprRXhKdE1XTGhmNHczT0hvQV9aYWRUSkpGaTFWdmNhRUpTRG04ZUh2T25LMVNac0lkNUFtY0R3VDVsRW83ZVNfYkdYQmYxbDlnTHVrdlhMMlE?oc=5",
+     "domain": "news24.com"
+    },
+    {
+     "title": "From innovation to market leader: The Mansa-X story",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb3BMZHZMckRUdHJhcndJY1NybFFzazNZQTdrV1lHcHI1bFdnd3N2QUowMGNqb19xb05HMEE2MGplRlFTY214eW85SW1DSmtQb2tZUXUtcmVDaUQ0cEJEU2ppMXU2cERjbmduaUUxYlVtSlRGUU4xREt4bFZ6VUQxQ3d5UzFHR1ZYVU9XZC01T24zc3JjdkZmc2gtZC1ZUQ?oc=5",
      "domain": "nation.africa"
     },
     {
-     "title": "News Somalia",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84SmpPRFV0Vmxvc1lWQThhYjZYNUx3RWJNc2llUi1xcmR1VW82MXlSeUJHaFY2STVCV3JYRFJXWVRFdFRfZE04MVNmcl9WQnM3QXc?oc=5",
-     "domain": "nation.africa"
-    },
-    {
-     "title": "What US, Brazil, Israel votes say",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNlh5eXB5Z2xmdzczOExYRGFEdzFXSVliblJCazJid0JfU0lNWTVUU0M5al9qX0U1d3Y3TFdFNXliU3hRblRlQmwzMUpZSUczeENyaE1McXNCVXdmSUtEYmFrakxJWkZJOHR6NUtFSUFOTTJqel9kdGN5b25yS0VCcVpzdTFWX2tQVFpmYkxZTF9OekU?oc=5",
+     "title": "Do mass protests still bring democracy? A 120-year study reveals shift",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWW1iRjNKZkMyVnB3Q29tVzFnTFJCdDZabXVlQ19uWGFfRXAwM3Vvc1pwV2hCc0swYzFvRXVZTEhiOFpST2hQRTU4b1M0TTdZb1ZjbXFpT2FkVjc1VUtiVm16NmlPbGhLTERWMEhPNDlIMHhsVlF0eURKMnF3cVA2UGp0SjdfWDJZWFJiSEtpWW90UkNoLUp1ei1hR0JlWTVUQUdldDZKUVRlZ2w3YUxR?oc=5",
      "domain": "nation.africa"
     }
    ],
@@ -207,7 +143,7 @@
   }
  ],
  "framing": {
-  "text": "UK and US coverage emphasises the drone attacks on the Bahrain base itself, though the UK additionally frames the situation as damaging to Trump politically. European outlets focus on verifying claims and broader geopolitical context, including Ukraine talks. Russia and China highlight technical military details and Iran's stated positions on negotiation. Middle Eastern outlets stress Iran's retaliatory framing and US military capacity assessments. India emphasises Iranian warnings and humanitarian consequences. Africa and Latin America have minimal or no coverage of this story.",
+  "text": "UK, Russia, Middle East, India, and Latin America have no coverage of this Iran conflict story. US outlets emphasise military escalation, with three carrier deployments and direct exchanges of fire. European coverage similarly focuses on renewed war risk and Iran blocking nuclear inspections. China's articles take a broader diplomatic angle, highlighting Iran's regional peace efforts and potential mediation through neighbouring countries.",
   "model": "claude-haiku-4-5"
  }
 }
