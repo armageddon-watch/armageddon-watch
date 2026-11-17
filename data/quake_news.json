@@ -1,7 +1,31 @@
 {
- "generated": "2026-11-16T22:09:48Z",
+ "generated": "2026-11-17T07:59:53Z",
  "source": "Google News",
  "quakes": {
+  "us7000tymu": {
+   "headlines": [
+    {
+     "title": "Earthquake of magnitude 6.6 strikes off Indonesia’s Tual",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQckcxUGtIOFJ0aFdhVUlhM3d5RWtWTS1oOE9xOERnRTduWEFVYzVMWkV3MFlvd2luRmN2a0hkT2NkeFVVVk1kUkVoWUhXbmx2MGE0NkI0T3QzbkdDMnpUWDRQaUpsUzgwWXUwcjhPbUhHSEFvRVRCQ1RXTjRZbGhxaExaMVA0eGg1YmZKSUp1Z2pDcGhSdUJVS0FjOA?oc=5",
+     "source": "Daily Sun"
+    },
+    {
+     "title": "Magnitude 6.6 earthquake strikes off Indonesia's Tual",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUEp0OGtheXB0bm0tZFNuQVdlZVIwN185QURVaE1RWlI0UnloY3YwUE9nZFB3NThoMURYbW1oTUFYblFSMUhFTzBVaWs4N1NlR1p6b24tdFJoY3NNQlRCeWEyQm13NHJ1ekpHZktYcVcyaWxKcVlBaEwyNGloQjJocm0wX0MtYVpSZjFKNmM3QnotLUx2YWtPSnhqRy1vdw?oc=5",
+     "source": "Anadolu Ajansı"
+    },
+    {
+     "title": "M6.6 earthquake hits the Banda Sea 148 km west-southwest of Tual, Indonesia, at 68 km depth, USGS issues Green alert",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZHNVckpla0hDalNHUGxVOENHdVpWcER4QWdGWXNYVTlqdjB6WU1OU3FmQnE1dkJsd1dwTzRKdGFsQmdzWG9oVEhQZ1RsbHotOWdyUWxaeEltcEpOX1dISmZrd3J2bUtvcXdONGZOV0ZBV19SanVCeWFlU2lmV2t0elo4WEJmTG44ZS1jNUhIUDFseTlyeHc?oc=5",
+     "source": "The Watchers - Watching the world evolve and transform"
+    },
+    {
+     "title": "Magnitude 6.6 earthquake strikes off Indonesia’s Tual",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQlJMUTJjc09NSGRvZmFMUW1kc1RVdTBSZU9oZ1dQeDBILVdWT0tQWWtNM19FRDZudkhkeF9yZnp3QThLRS1EbkVIaHA3S2E4MVhsMnJWSE5fc1o4MXJDM3d3Z3Zzb3pGOVlzQ0VsV3BDbVFXWWVzdlBUd0JoVS1mOU9wLWFjSDVR?oc=5",
+     "source": "thechronicle.com.ph"
+    }
+   ]
+  },
   "us7000txwp": {
    "headlines": [
     {
@@ -64,17 +88,51 @@
     }
    ]
   },
+  "us7000txb8": {
+   "headlines": [
+    {
+     "title": "Magnitude 5.6 earthquake strikes off Guatemala’s Pacific coast",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fX0plUjNaRzdobVM1SVpGaWNjdGc0QkRmc1lOWkpYR1ZFWTAwSzJNNFpCU1lSMnVXbGFqTkt0VFhGNHRPem9SeGdZVXhzaHVZRG1Z?oc=5",
+     "source": "سانا"
+    },
+    {
+     "title": "5.6-Magnitude Earthquake Strikes off Coast of Guatemala",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMGFISkhxOW5tQS1ZUWxXaktWMHZNbmdGY0ZfSGlPeWpaOEJmS3ZjYmZWMkZoXzVrMlV6cE5TTlZ1bC1lNDlBR0paX29adnNHVThMamtHWk0yMU43TnpBY1hWNG1FVWVxeG9KeUVjdFFpODlYR2lQdEJET0ptTVZMSzlRTGdkMDY3UHdtbllVRkpCZnAyb0lzbVNmZC01OGxSQUYtdA?oc=5",
+     "source": "Qatar news agency"
+    },
+    {
+     "title": "A magnitude 5.6 earthquake near Guatemala was felt in neighboring countries",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX21YR0xCejZfSlRlUjFoakJjU3hIMHJfRktOT0dIb2dEZ1NGS2hGT1FnZmdpRERyZGlnOVlBRWdicmk1YmItdVRlcHl3WUNISTl2Q3VIa1lQNGhBRHBLMm1QeXRiU1hCWTFLOTZnd05tdEhWVzRKQzhTcFFGc0ZaUGx4eFBXZ0tjTVUweEZiaFNnU09xRXQ2MVUzNXN1d9IBnAFBVV95cUxQZE1BbjJvRzhBVmVEVDV2bGJndV9pLWtoaU90OURFOVdlZzdMbmxGbEZHMVp2QnYxYlk2N3M0S3gyX0owR2Jnd0pMU0FVeS1pczV5QVBTQ2ZGSzc3ZDRidzBFcng4U2d3X0F5UWxLTDB6ek9fUTFZRjk2TlVUQVhKUGVGY2lhMnA3MGtQdXhKdkNkUnFOUjhZX3hpSlA?oc=5",
+     "source": "Українські Національні Новини (УНН)"
+    },
+    {
+     "title": "Magnitude 5.6 earthquake strikes near Guatemala — RMF24",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONHphZm1VdXBlYWlhaTZqUHZ5cDJEY1gyOEkxQVR4SWlYSExZUUdOYV91UDc5ZkVkalB2OTVjRXBtcWVrcmEyZldlcnVXMVBUM3VxQ0RmOVJuQjlxWDk0TEVZRmRBeGhqM0Q0UVotVDE3aXN3YnludWF2ZENablJ4a2k3Z09uUUJtNUhrc0ZTT3Fjdw?oc=5",
+     "source": "UA.NEWS"
+    }
+   ]
+  },
   "us7000tykh": {
    "headlines": [
     {
      "title": "Magnitude 5.4 earthquake rattles Peru, with tremors reported in Lima",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMG1ZM2Z4Uk9OTVplQ1BiVmhLeUV1OGgyRkRxLUxJYTZERUg3eDloYTdQUEJKbkluQW1Rci1NTl8wdTdiQk8zMGY4N2dIeEk5NzdKclRkbmR3SnlsTGVxMHJKNHhnY1dMWDNaRG5UNFdfQTZmeXdhaDZ0ZGNfNVRjR0U5RdIBiAFBVV95cUxNY1JvUi04NHcxVzRVSURJT1QxQ0VmNnB3T0hpUGtGS1FnU2pKV1gtbnFjbW50YUUtVElYMVREUFR4eUFRaFpkbjF6RGFKRWVYOEVPWDhETGFSZWFyeUZ4bDNuUUdsdFRPMWRia213RC1jUmRacEVPbzEtM21FVExhOUJudFZkYVhR?oc=5",
      "source": "FOX Weather"
+    },
+    {
+     "title": "Peru Earthquake Strikes About 10 Miles From Friday's M5.8 as USGS and Peru's IGP Split on Depth",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVE5feVZEODlfd0plS3NwLUliaUp0WDExeGlWYmZLZWxPaVQtbXJVWmdSUUlzRGRhaE90SmFqM2VmNkU3R2tpSzBpTzVYcTZJUTZQc2poS0duam80TUluXzl4WTR1LXZEOWFjcUEtZlJHRWMxU2k4Y2xCTmZFYm1raDBIX2xnQXFEWDA4VUVObzVxTW5xdkpSNllZRXdPS3F0dU81NU83NHQ4ZVJvS3RBaHh2eWoycENTT0lfMnJwSnU4MjdCUkNxcUJuQ3o?oc=5",
+     "source": "Tech Times"
     }
    ]
   },
   "us7000tyhr": {
    "headlines": [
+    {
+     "title": "Noto Earthquake: Magnitude 5.4 Quake 170 Miles Down Brings Only Intensity 1 Shaking to Japan",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb09FZHJBNTR2MWhleHB1Q1JMQkpxczhXdkJMbUQ4dkV4RFdnVFpOcENyWTY4V1YwWXBOanhlVUtrcHVMb2lvR0VmZ3I4Zmw5QzBnM3VuZ2plTDlHaFMwSWk3bVlYY0hTODVyYXh3S2thbGJfUW1pUVdIM2IxakZ1TV9rNXpZbWFIaXJmQUFVOEQ5NlpHTjJOLWlkYlRGMmE1X1Qza0dMdGpHcEpqYkFwdFlkc3JvOTRpOUlmQzdDT2hzeDBoLUx6amk1LV82RnJEbng2Z0FFQU03QQ?oc=5",
+     "source": "Tech Times"
+    },
     {
      "title": "Strong mag. 5.4 earthquake - 41 km northwest of Nanao, Ishikawa-ken, Japan, on Monday, Nov 16, 2026, at 01:24 pm (GMT +9)",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS3hTb3ZGcVgwT3RSZjdScVVZVjAwbGxHU1JSbG1URzNSMnNBOGJJeWowTVdRY1N3ell3Y0xiMnNPM1ZIbEFEOHdJbk5Vd3dUVWkyM0hyMnk3X1RVV0FTUDhOa2NfZDYzcjFuTTlvWFctcUEzbGh1UlJRNjlUMHdtN1FDbDR3SC1Yam1qdmRHWEswd0VPSUxPTlgyS0lTWGEtZmlraVB5am45V3l5dDhJ?oc=5",
@@ -100,32 +158,13 @@
      "source": "Apa.az"
     },
     {
-     "title": "World Earthquake Report for Wednesday, 11 November 2026",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeWRnaEJBUEQwdlUxa09tR2ZwR0JfbHJwVmFsNFppMzRPN1ZHYVJRTkRhMy1ZSTVRZDl5eGVWQmR3NFE3U29fMnhENVhySjFrTnZ2RG5aX2NtelktX0FGdEVoWDRLbEU3Tm9CMldkb3pJX3FvXzlnNzlRcWVsbzZ0U2w0QWNKUkZqUlRyQ3l0LVNRb2t0STBRT2pndUJNcmNhR01R?oc=5",
-     "source": "Volcano Discovery"
-    },
-    {
      "title": "World Earthquake Report for Thursday, 12 November 2026",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb28yVEdyVUpyeDAzM1BpMUswS0JiZUFmOURJeGt1ZDBqZ2l4cmptUU5ySU0wWXIybllMNmc3M09Ta1pBSXV3cmMwem1zR3ZQVnQ0UHNhVnJuRFI1QmRQeDEwNmstVUJ5UXFyY1JERENtTHk2dGwzNlJsRy1DRmZhUDFvUUw4RTQ5ZGdMTEdtRzhmQWd2TVJLZERWYmp1aHFuSTFz?oc=5",
      "source": "Volcano Discovery"
-    }
-   ]
-  },
-  "us7000tx8d": {
-   "headlines": [
-    {
-     "title": "Strong mag. 5.4 earthquake - Banda Sea, 27 km southeast of Pulau Daweloor Island, Maluku, Indonesia, on Tuesday, Nov 10, 2026, at 01:53 am (GMT +0)",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUkRQY3BKdmhDLUxyRUg3RjNhQmM5QzFCMGZzbG0ta2hReHQ2TnZIT1dDcGhta2U5VHpSS1IwOWxZakEtRmpYYUREcGVvbFRHMnVYMnlscVRieW1SS0xrSXkyQzMzN1MweE5JLU10Q2ZPNVZuTy1vN2pxdHg0ZXF0a016bEctbE5KcUJaOTMtb3JmSGd0S2w5TXVYc0xkUDNVQVhzT01nbTRYNXptX012X0dnS3pfWU5tclZ4RkRsdFB4dUk?oc=5",
-     "source": "Volcano Discovery"
     },
     {
-     "title": "Strong mag. 5.1 earthquake - Banda Sea, 85 km west of Pulau Selaru Island, Maluku, Indonesia, on Wednesday, Nov 11, 2026, at 11:32 am (GMT +0)",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONDU1UnVvNHpBZ3ppcUpJaWh4QWFrY1JLaHNiUDhTaGpZdkhPRkNka0lGWmxaMzZNaDBHZWdhR2JCc3VDRDUzazhSaGNoLXp0NEwtZ2JWOW5FWmJxTWFHX3d6cm8tWkF1Ui1vT0lCWkgyZTBsdDBFR1lDNlBHcUJ0bjFmOW5IRUo1V3ZUVlk2ODJRYzBtVzIzQ3NxUzlsMTJaTzl6NEN3dktxSlBKNE9tYU1fOFpoSWJrT1FBaFRDZHBMNE0?oc=5",
-     "source": "Volcano Discovery"
-    },
-    {
-     "title": "World Earthquake Report for Tuesday, 10 November 2026",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLWNKaEFxR2I3MTRscDVaU1NBNGtPVzUxbWlKLU1DNC1VWXd5TVFYNFp4WUVxWHZEcklnUFljQjdSUUN2czBiM3JzeFhLbmJVSEFvLXFFOTdJTmg0N0txUUgxV2JFUTBuVHZ2OTU0WVNlZks4ODhWX0RlRl9uejJrVUh5VVB5bUMza2RSWHBWanB4eDNCWlQyV0NjRUNsam5ZTWJj?oc=5",
+     "title": "World Earthquake Report for Wednesday, 11 November 2026",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeWRnaEJBUEQwdlUxa09tR2ZwR0JfbHJwVmFsNFppMzRPN1ZHYVJRTkRhMy1ZSTVRZDl5eGVWQmR3NFE3U29fMnhENVhySjFrTnZ2RG5aX2NtelktX0FGdEVoWDRLbEU3Tm9CMldkb3pJX3FvXzlnNzlRcWVsbzZ0U2w0QWNKUkZqUlRyQ3l0LVNRb2t0STBRT2pndUJNcmNhR01R?oc=5",
      "source": "Volcano Discovery"
     }
    ]
@@ -133,8 +172,37 @@
   "us7000ty7d": {
    "headlines": [
     {
+     "title": "Strong mag. 5.2 earthquake - State of Yap, Federated States of Micronesia, on Saturday, Nov 14, 2026, at 04:52 pm (GMT +10)",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbnZOSjVBTUlYYzQyNUlhNF9wYkx1ZWpEbGw3Ry1qVVEyOUlkVGQ0R1pxUV9OV1A2a2FyY09uRUxxNEtuRW1EdUVGc0ZCSHBjaHRPMDlOSEpUN0g2T2pBMzBvdXZ5aFEtSDZKS1lVNG1XSW4wZG5WbUZKaXFGN0JuUmRMbVhNbDFLRHVpOGlmUTc0NE5oWjdnbDlMa2RRYVhMRm5mVmVuTmUxbHNRV0paMGU2Z3ZfRWkwSFpiSzVwOVk1ejNwcUE?oc=5",
+     "source": "Volcano Discovery"
+    },
+    {
      "title": "World Earthquake Report for Saturday, 14 November 2026",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYzY3bmdEdlZPc1ZJT1dXY25va0Y3Q190X2I5RE43SUEtVlBURXFtWWR3UVBaNkxRUnNmRWJta2tKNmVqM1FWSl9QaF9PZFRLZHVoWGluT1Z0dEJWRnZDS1E4LTB6OE5JSWNsNUpvbmNMYnk5WVozcV9uX1NhUkVHSUY4TTZ5WnRxN0JRM3dRWktGVWtrOEZMeTE5UGczNTJ3U0pJ?oc=5",
+     "source": "Volcano Discovery"
+    }
+   ]
+  },
+  "us7000ty6n": {
+   "headlines": [
+    {
+     "title": "Moderate earthquake hits off west coast of North Sumatra",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYWNNeUdtNlpwR1pzS2FPNDUtcmRhcnFnZW9xX1F2UUlvMjhLSTVKMVlBSUpaUk9rMGNwaVNKbnVvWkdvX1h3Ui1UMk5FRDhaQkZVdWpRZFZqLVlJcHR4SHZFQkNnNWdiUnFLcVN4R2pmSVJCWUQxLV9SMEs1Z0NDWTBIYVA2NG1jc3VEWERyVE9RejBpa2FCSVIza3hSSEt3NDkwYUVUUQ?oc=5",
+     "source": "The Malaysian Reserve"
+    },
+    {
+     "title": "Mild Earthquake Hits Coast Of West Sumatra, No Tsunami Warning Issued",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYV95dWJNRldhSGFzOTFzUGdVVnZReXVvUTZVZnQwOV9RU0Q0bXRnQWhlVmZpTUJNNDB3Rnhzdlc3OXZ4RklRMk5BUXJfR1pmT2tWSjRWRlg2Y3k5ZFhoWTJzei12X182NG82RzdMR3ZVX3lfSnBKWS1tSzJBREpQQ0ZtdVkwbzZnR0NKM1hoX0pMZ2RHOHZ6MnRiRlJfY0tvUkI5ZFBmMGZmb0p4TEYtZjVNTQ?oc=5",
+     "source": "BusinessToday Malaysia"
+    },
+    {
+     "title": "Moderate 5.2-magnitude earthquake strikes off west coast of North Sumatra",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd1JzS0NrX1dWX1lCSUs2bkxaZWpETEt2a0tRVEt4MnBoSXUzNHI5VDVTLVdkdWt3d2JIclBmM2trR2hiMXJ3QkFXMnp1cWNMMTZ6M0Q1QXdoWlg1WUc2aExMbEVyVHZueWJJSHpodEVEMWp0Ry1pQzdadF9VTzNPQTY3d2RPaktEa1plN2V0RXVMWjN4a2FST3VmNTA2bmdRaXdCWmFpcURoc3JOdExIN1o5VEQ?oc=5",
+     "source": "Newswav"
+    },
+    {
+     "title": "Strong mag. 5.4 earthquake - Indonesia: Off West Coast of Northern Sumatra on Saturday, Nov 14, 2026, at 02:59 am (GMT +0)",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb25ZbzJ5dWZwLVprTnBSZG9SUXVpbVZISHNSOWs0Y09jb01weEduX2JrZFlVWkM3RDhKelFoSFJwUjhOZE5MWWJDR28yaVNBNHNXRktKNGdBU2FZMFp2bG5wUENzbzVTekhCSTVOckpIaG94cDl1MW5pemtfd2hyb2ljQzdBMTVJSzJkUDN0Y0stVGItZTZzSWdUTFg1WDlrZW1BWTBMUUtEQjJlb052bV9XY0RQaTNlOXk2ZDRmWnVLR05LRDd0Z2FmTmVjUXhZRHc?oc=5",
      "source": "Volcano Discovery"
     }
    ]
@@ -166,13 +234,13 @@
   "us7000ty0s": {
    "headlines": [
     {
-     "title": "World Earthquake Report for Saturday, 14 November 2026",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYzY3bmdEdlZPc1ZJT1dXY25va0Y3Q190X2I5RE43SUEtVlBURXFtWWR3UVBaNkxRUnNmRWJta2tKNmVqM1FWSl9QaF9PZFRLZHVoWGluT1Z0dEJWRnZDS1E4LTB6OE5JSWNsNUpvbmNMYnk5WVozcV9uX1NhUkVHSUY4TTZ5WnRxN0JRM3dRWktGVWtrOEZMeTE5UGczNTJ3U0pJ?oc=5",
+     "title": "World Earthquake Report for Friday, 13 November 2026",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUVU5bS1CWC02eUphN205ZWlHX05CTU4wTkJobGx0cVJDb0ZBWUg4V1ZYem1FTzF3bVRmak9USWJTRk1xbGI1V2NxU01KSl9yUjF1T1AzdTFXTTdjUWVXRVlGZlJEeUNOSG92NkxTVzVoZnd4ZWpESW5Vb1VBc2FjSWpQWGJ4bmFJNlVNd0tWamhlOWZZOVhkZFYySDBHNmo2UEJN?oc=5",
      "source": "Volcano Discovery"
     },
     {
-     "title": "World Earthquake Report for Friday, 13 November 2026",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUVU5bS1CWC02eUphN205ZWlHX05CTU4wTkJobGx0cVJDb0ZBWUg4V1ZYem1FTzF3bVRmak9USWJTRk1xbGI1V2NxU01KSl9yUjF1T1AzdTFXTTdjUWVXRVlGZlJEeUNOSG92NkxTVzVoZnd4ZWpESW5Vb1VBc2FjSWpQWGJ4bmFJNlVNd0tWamhlOWZZOVhkZFYySDBHNmo2UEJN?oc=5",
+     "title": "World Earthquake Report for Saturday, 14 November 2026",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd0NWTnJGM3phUjl5WWkwVk11b2xEa0F4NlBieHFuNlRPSmtqaGRqaFpSWjJ5bVEyLVllUkN6blR0QTJlc2hWUGc5VWdzX2NXaldqUUVlV1VFTDhrWU1BYll1RjZ3WFNFRjdTQTFpNC1OWFplRTUtLWNuREsyRkZlRDVkOXg5Z2diWEZYb1lCekVVOVFVei1OX1NuZ3FaMjRDa0E?oc=5",
      "source": "Volcano Discovery"
     }
    ]
