@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T07:59:13Z",
+ "generated": "2026-11-17T20:59:14Z",
  "window": "last 24 hours",
  "source": "Google News",
  "topic": "War and conflict",
@@ -7,13 +7,13 @@
  "regions": [
   {
    "name": "UK",
-   "count": 90,
+   "count": 45,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Third US aircraft carrier brings thousands more troops to Middle East",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPanNCYkxYaVNLekhaVjJHVHZOOWVELWd6OTIwdk42bTg2YVVWTjRJb2IyUzhfbnJaYlB1UVljVlNucmlWYkRXX0tYNDdFOUxVRUdRV3BKZFpGcHQtMzJlNHdXY2FOcmlqZWpicDhsWWxsdEVsZkF1RXRlUmtxczNNbTRqVlZFdlFtRFgw?oc=5",
+     "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT1RSYjZRRl8zR3hSNWZLMVZZYkVpMTQ0VG42QTd6c2lHUHNHYWp1ZVQxaUdZTkVVTTZ0UzlKTWxGcjN3Z3RhZjhVb1QzQ01MM1pYRkxIZEtFNFZIWDRrSTJLU29JeWFSdGgwTG1jb1Fsa0tNMEdRM3ZjX1ZNZkZCLVYyYWhVNUNGa3dHOWdLUjVEUW5yT1ZTMHI4T3pjakllMXZndw?oc=5",
      "domain": "theguardian.com"
     },
     {
@@ -22,48 +22,80 @@
      "domain": "bbc.co.uk"
     },
     {
-     "title": "IAEA chief: Nuclear risk is now part of Iran War",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMHpaMWxTa1lzTk5vSVhaYW5EY3Z6aVozeC1GRVVKczk4a3hFTXBfSjZVejhzTGdvdGIwVDMxa0FPV0ZLZmwzdFdKbW14UTNRcndIRGVnZnpTTEZNVmNTa3ljdE1uTy15M3ZzSmlfQjdzZ1JRTnBDM1hGSV9FaGw3aUNXMktjMlF4eE84?oc=5",
-     "domain": "news.sky.com"
+     "title": "Third US aircraft carrier brings thousands more troops to Middle East",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPanNCYkxYaVNLekhaVjJHVHZOOWVELWd6OTIwdk42bTg2YVVWTjRJb2IyUzhfbnJaYlB1UVljVlNucmlWYkRXX0tYNDdFOUxVRUdRV3BKZFpGcHQtMzJlNHdXY2FOcmlqZWpicDhsWWxsdEVsZkF1RXRlUmtxczNNbTRqVlZFdlFtRFgw?oc=5",
+     "domain": "theguardian.com"
     }
    ],
    "error": false
   },
   {
    "name": "US",
-   "count": 0,
-   "capped": false,
+   "count": 100,
+   "capped": true,
    "tone": null,
-   "headlines": [],
-   "error": true
+   "headlines": [
+    {
+     "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM3RSb255WmtXVzRseHpHdk5tT1ZLTlYzRzJudFZKZHVaR2taQzdOcmQzWGF1b3hwTmZodTV6TWRvM1pyX2JtVVNlMVI3NUtyQlRVQXhQS3FJR2lhN1ZZcFZ4WU5fRHlsLXZEXzN2aDItSUppYmt0YzdVMXg4dHRHYUZrVzhRejZYcGZxRVlSMVJxN1paNGV6MzhfaS1sNTg?oc=5",
+     "domain": "nytimes.com"
+    },
+    {
+     "title": "Ro Khanna pitches $1,700 checks for Americans to offset Iran war costs: 'A chance to deliver'",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTm1rb2N4VGhmQnlUdzg3VWJLU0VfbVJjWldtcXpaeldib2hRRnVQaEtxejVlQjRwckIzSHQyMWx6UXc3TEFJdC12cHRGMmhJME9kS3dFeUF1RVZibUNhR1QtZ2xnUlA5R3hTVXJPUlgwdlFUenlzU3BCeGI3cHNlUFg4eFQ3aFF0OFVYSTNsT0ZEMHF6R1ktRHFXWUJCc2pta0JFTnRZOWhXZWNrN1HSAbMBQVVfeXFMTnpTbjlPdTMwYjFKQjNRODNmbmJXcTZHa0JNd3NHRWg3NVFvLVJzcWM5cERRWFh5TXlkam5QZzFCM0tRVVVDVzRoNkw3YURVelRpMGpuZnl6cnQ5OC05ZHRMb0FRcmN6aUtDa2JoM2ZCTXkwdHlFSGVZTXB2dUtUYy04S284MlQtUTRjc2k5Uko4SWNzMUdyWlVFZ0dZWDBaWlRscFpMUm4xOEtCaTlXR1puVkU?oc=5",
+     "domain": "foxnews.com"
+    },
+    {
+     "title": "A 2-month lull ends with Iran’s third strike on US targets in Bahrain",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU2lESUxmdF9UMGE1eWlZcmZkUFJtNWxyNm5kZWM0cTExSGtIZXRxNTZNTjR3OXlqeFlQMjlWYWdjenZnazlJRUo1NlRndVRZWWY0VFVBcUJybG1NRTRhVkdtZFd4SUZiVlFPRWNLcmFVQjlYM3lZUUFlbUhuT0JJckg5cjNYZ2xEMlNjNVhuMVliMkRnWlFXVw?oc=5",
+     "domain": "apnews.com"
+    }
+   ],
+   "error": false
   },
   {
    "name": "Europe",
-   "count": 0,
-   "capped": false,
+   "count": 100,
+   "capped": true,
    "tone": null,
-   "headlines": [],
-   "error": true
+   "headlines": [
+    {
+     "title": "Trump says he takes possible Iran bomb threat to Washington 'very seriously'",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd0FDZ1BwNTZhZmI1a3hxZkxMamFNZzZ1MXhnS0FiMDNsMHBRZUU2UUpualp6aFBZUGMydEtRWVlXajdLSjRFQ1ppMkF1R3NhNWlsVGNPX2Q5M3o5S05oand5ejU4b3Y4dHUzMG4xMGNnclFiVTlZOFRxdzZocHl5M2tJSU9fTW8yMkZvX3pCVGhmZ2hPbWRHTFFxUUQtQk9KMVBzZHJVOFBLNWF3SGF2ZFFoTVI0OGdIaUw5RQ?oc=5",
+     "domain": "france24.com"
+    },
+    {
+     "title": "Iran claims drone attack on US radar system at Sheikh Isa air base in Bahrain",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTjZESDh1NEZDS2VHZGsyR1RlYkN4NjlabFV4ZDdISm44MHZ6RlJzODhQb2xuUGhfSTFOalU1N0wxWUxpem81T2lJekhsdUphbnRuOUJNemYtVlB3X0ZmMU9YY2FsV1RVMHNHRkFMV0ZDSExQN1ZnaFNTc1FZM2wwZHRLOGx0RXJSbGN6elRZWXlVdEhyVmp5cXBKQ2J5bFNlYmtRQUtJNW8yRWdyNk1pRzhmdw?oc=5",
+     "domain": "euronews.com"
+    },
+    {
+     "title": "Donald Trump, Vladimir Putin and Xi Jinping to discuss 'world peace,' China says",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdXZxWmNILUEwd1ItMmEtd3VJRE1uVzVySGszTnM1aTVRTHV4VC1TTmdjU0FtQUhBUlpTUElNaHBJTmY1VG1hWXB2V3BVNXVXV0pTSHpjSVdHRDR6elBCUmxhSFMtZ3VDSlA4ckRHaHlGNEM3a3ctX1hLVFhZTmdzUzNFOGFJSHp50gGIAUFVX3lxTFBVMlk0MEEyZ19tbzRDdzhTVUR6TkV5OEUwdGVvOUw4VGhlajRudDlvemNWMzVjY3hGeWI4TjlQUU1VTGl3eHg4Y0hOZzV5TXJ5WGtrUUNDcDlwdXdHdmtRdllMMzNBQnVhOVV6Y1pvdlpHcEdYcUlXcEN6d3RiSmNvYk5EVlViR0c?oc=5",
+     "domain": "dw.com"
+    }
+   ],
+   "error": false
   },
   {
    "name": "Russia",
-   "count": 13,
+   "count": 12,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "US not to allow war with Iran to drag on for two years — vice president",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9pb1BvRWlNaXVEaXZESHFFb3ZHZGZTNXF1TVNrblhVRFhQZWt3VU5KZHB1amVVbG90Tk5QaWw3RUxOck5l0gFKQVVfeXFMTmdqRHpmaXdGNkd4UUhyS2JUNW8xbDVIdGNfcmV4a1dnYy1JRGoxSEN3RHREcWZPQVBQMjJIaFpFcnR2VFd2eERfOFE?oc=5",
+     "title": "Foreign ministers of Iran, Oman, Uzbekistan discuss North-South corridor in Muscat",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBwVC1nVEhGQkwzUlRsNlptUWxzSmNfeUJKNWYxX1k1V2pHb3FCQlVlcWVraFd3M2VxLXppZ2xRR0Z1MG9M0gFKQVVfeXFMT0ROV3pSMmJTVTdIeUxaT0xRaEpkTDJyTUR6UlpGRTBpa1VZOHNzanJQVEJETzU3NlQ4ejJmQW9qQ0tWdG1OWS12UkE?oc=5",
      "domain": "tass.com"
     },
     {
-     "title": "India signs US-led pact to strengthen AI supply chain security",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ieERtNjlDNFo2ZlRyU2tqWEZ2QUJZU09oeGVhd01kSVc0b3k2OHREaDZ3a0RmdGxKSXJuVlZ1aFZ6VWxNOEQ3QjFsZFl0QU85cXp0Yk5zVmZqWmFiMmpOblEwbTYxMTVoM2tNWG9BRmNVd9IBfEFVX3lxTFB3cHFZaXc5UldNZWdaQTN0d1ZPZlFnbno2OEFRV2ZWN25CQ1JQSzBaem93X3NXM0RQX3dxcXFqNmpFcXUyMFJMUW1XOXdUWjU0UDlwMkNKS1BPNG1HM0M3UjFWNFZBYU9sMllnMGd4Z3lSV3NVT1UzQUNjVkc?oc=5",
+     "title": "Somalia",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8tYWpIZU4xZy1Lc0lEUS04OFlycEVkbzZMSkNxNEdtMmpVWDhoNnBSZUpXLXBrNjMtQl9DYmlSSXhERXRSdzBhWGln?oc=5",
      "domain": "rt.com"
     },
     {
-     "title": "Plenty of frictions remain between Russia, US — Lavrov",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBOOTRsUm5UU25MY25Ja0h5WG1lX3ptdWZZUW1yZHRraEFVQTVOdDBlTkNPMWhWbEx3ejE2NFJEVEtFNlMxY3UxS9IBTkFVX3lxTE1pV2VNYU5tWU9OY1hXSFJyaTlfcVJUSUNWbFpDbVI4elVfUjNSNmtJbks4T2VvT3RjR2liRDNELU9aTkU3cUhpXzE4ODM5UQ?oc=5",
+     "title": "US not to allow war with Iran to drag on for two years — vice president",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9pb1BvRWlNaXVEaXZESHFFb3ZHZGZTNXF1TVNrblhVRFhQZWt3VU5KZHB1amVVbG90Tk5QaWw3RUxOck5l0gFKQVVfeXFMTmdqRHpmaXdGNkd4UUhyS2JUNW8xbDVIdGNfcmV4a1dnYy1JRGoxSEN3RHREcWZPQVBQMjJIaFpFcnR2VFd2eERfOFE?oc=5",
      "domain": "tass.com"
     }
    ],
@@ -71,24 +103,24 @@
   },
   {
    "name": "China",
-   "count": 11,
+   "count": 16,
    "capped": false,
    "tone": null,
    "headlines": [
+    {
+     "title": "3rd US aircraft carrier arrives in Middle East amid Iran tensions",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMVJtUEdMYW9sT0lBVFJsMWpyWlZ6cENOTUZGQ2ZhdWR5XzFvTU1QcGtVaGQ2Z0RsSUQyVWQ0OTE2V1ZOel9aR0huNUt2Y0FMTVBjTFNXTXZpS0VWQlU2bjRYOFVmNnI0Yzk0Mjd1WU9iMmkxNGFKQkw3VURRMnpVeHdsa3VheFN3S1dzelRFNmk4RmhhSjFzY2hESVlQR0oyU09ETHZESVJvcEVlemQ1TThPWU5HUUxFMGczQVg2dw?oc=5",
+     "domain": "news.cgtn.com"
+    },
     {
      "title": "Third US aircraft carrier reaches Middle East as Trump weighs Iran options",
      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcDRTYWNOT0c3Rm1sN05fMjlGRy1pb1dlcktzdmdLV2RDLUduOE5RSm94Yi03aGpXSjUwRTRpZ2M2dksyc3Fsd1kzUHlIUEVWTGtCWE9jM3pJbUljNjZGaWJFYzVwbXZRZmdlakZ1MWo1MWRjUFpMa3B0aU5ESXl3VVdCR2ZGYjFUTzh4NlRyVmNtYVd0YmFVdDQ2OWQtZFd0SkQzQTJWQWFyOW1UTGRSU09xcXgyTm9weWhnNldPUUpoeU42bFlkTEZmNFlhQkpuZWlHcWt5NzFKOWtOQWJnM193czBnb0hGdk4xWVMyc2xaR0J2R2FR?oc=5",
      "domain": "scmp.com"
     },
     {
-     "title": "Iran says peace not to return to West Asia without ending war in Lebanon",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1ZXlvakZqMjJkaHRrSFg5bjZLbGw3RzJSZFFYNzJ4VzAxUDNZT0k5WUlVQ1V5NXFURjVpVmdDQjNRN2NxLUZjYW9oSTg0SnhkWWhyNlltVTRyd0c5cTRnbk9uMmhkZnlDYnV0elpqUFEtWlRUb3lUMTlhbWs?oc=5",
+     "title": "Xinhua Middle East news summary at 2200 GMT, Nov. 16",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kTHlrYlVfOFhtbTE3R2x0UFZrRGw3R1o2bUhkemxtRnpHQ2NsX1J3MlE4U1JDSTNvRjYxYkNYRzhsUXZwRWhnVHdncmVTaXB0UmI5amRRcUFJTFJCYmJZV3A4T0ZkbHhvVVR4RkJvZlh4LTkxa2YyOHdvRzk?oc=5",
      "domain": "english.news.cn"
-    },
-    {
-     "title": "3rd US aircraft carrier arrives in Middle East amid Iran tensions",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYklEYWFDc0Q0eVNKcHFmQXpnd0lnU2hKOVh1NW5FcUM3bzBHT0o4d05tSXRINHp0YUhib2RlLVNWRER2TElhcFBTRjd6SGtLYlJaNl9QcjF6MzViQTlyS2diNEo4WnN2aUY4YkZGSDdibWJPeDRDVGw5THMwX1hzVlQzME55Y1RUUkRraHVESG9SZ1hZakFYU1RUR1hRczNuWVdIbjlILVNGNjEyNkxiUVdfckpSQ1EzcjZzQXhJdlJBSXZtbFRqTFRR?oc=5",
-     "domain": "news.cgtn.com"
     }
    ],
    "error": false
@@ -100,19 +132,19 @@
    "tone": null,
    "headlines": [
     {
-     "title": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSWFGd3ktYlF2emZzeXI2bTVaemZMNW1WRl9meXBBVHJIWkgxVGh6Vml3RGkxS0lJeWtaNXhfQmQzN21IZnJVZ0FEcUZZb0dkenJOdk9tZjRoNkNUalJQdXpXaVhhZkp4MVF2Mkx5RE5LVlI4TmI2ZWpPM3ozTURQMVQ1ZjhocjZWUTh4YS16N1ItMmR5NmFJZm9ZZkZIOV9TdkdtdzhVRExMc0xkZGhRMnpDNNIBuAFBVV95cUxQNm5ZRWY1TnA3YjlNWkpRemlWX184cFFZdlBwMzROcFVpY2VFaVZIaTAzMERONmF5U1ZRT1hDeHNTWk94dk1qWXk5ZzM0c2dPdjhFRWxKc3pfTlUwcWtzZ3UzcnE0dktxSjBrX0JJSDdMV1h2cXJSc1hEYURDNDNBRVZ1dmtJNGpUVzlGQ0h3RlAya3hVSFVoanhZLWxZRS16eDYydW9uNXVWbWFnSHREZWJyMXlUazdP?oc=5",
+     "title": "Bahrain thwarts drone attack; Iran claims targeting US radar",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbGZCQzBNWXlsNkJNTHdKVzdUSG5PdWR4eFkwZ0VGQ2pGN3BYUVE1Qm55YWg2ZTVMRTZvWjFqRUluUzB6NGUtTWZDX2R4bThna3RQTVN4OUJPSW93WHhlZDRVcVhnenJLd0s0clp2aEh6NEtkQmJ3bG9JcWVHT3picVZzN0dYaWZrSlZwUi1USmttQm5RTHp4MkZydzl6RU04NUl1bzdEd0p1X084eFpJ0gG0AUFVX3lxTFBtSmI2V1R4aXp4WUx2TTNSU3BsXzQ5VnI0M2NiZnVleUNQOEdidnFXOEJ1emxyZ0pGWDVmYS1mX3htRF9kRElQOWZZMTRqdEk5WHBhUkNRN3BGV2F2U3Frd3l5LVFqY19vbmFXNkExb2JPYnNQTjF6Ry00cE5MTjQxYkY1YXM1WUF5UGtHN1hLNVhYUjRkSlFuajlGcFNQelItbDdoV3dyOWptQ09XOGx6Mm9FUg?oc=5",
      "domain": "aljazeera.com"
     },
     {
-     "title": "Third US aircraft carrier arrives in Mideast as Iran rules out nuclear inspections",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVkVhZGNTampMdFYyTGtDMEFUVDdxSnFIQ2d4Sk5jUFM5TEFNdEZtWC14aU1TOGMzcF9DN2ZYYnJpY3Fid2JuVHVudXZPOFczYUw5bE5zUy16Ny1ycVJWUVFqWUw5U1h0bWtZUlAwQ0g5VTB3b3lpSVphaUpBbzRsMlBBamloVXhsN0tIU0otVUwySWdUSDBxRDZ2bVFzcTJlMVJZX2VlTXRxS0Vta3UyWVdPY9IBuAFBVV95cUxNQVdIVEdjUzJRRndvMFdRT3ZKbWUyOEIyZDZVR09vN3F4dGplNkNoRGNRRlgyVHhpNkJHbVctR0xJS3EyQk9HSWgxaWwwMkpUb2lqSDYzSHNhRklGMjhjcEFRNmhqODNVZ3hkZUxiLWU2MzE1ZHdURlItbkNMb2dNRC1mel91ZDVQME9MSjdsb0hGcmI1R2VTMWhQWVREdzE2UmR6azl2ZWJ6dHdoNEVqandtM0U0alZO?oc=5",
+     "title": "US intel said to indicate Iran planning potential ‘dirty bomb’ attack in Washington",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYnY4Z3N4VFhWUEhLZ2hkb0VVZ2xRd0dzdWtoSlcybkJlMHhHRUd3NG02ejJWbHBTcDRHc1Z3WGxfbVZfRGNMd3V1QklwNGRKaDRreXNkVW16MWhraVZhS29KalFKVUhybnBqZDk5OG1nWVNkd3RMQ0t0aFlFdHBHVmZLMlJGUXFqcUtEaHZCWWgzNUNiQkJzNldRZ0ZDVjZfeHN3VTBzLXdqNV9yTWF4Vm5B0gG3AUFVX3lxTE1ZSGFfQy05TGRnU1RHU0FkWVFJUHdxZENMYzh4RloyaC1rZE1VVmlRa0otYXBKbWZZWkczeTVBU1NLS1ZwUGJFTEpiSy1sTjVSVzIwZWw4U3B6NjVacFBHVmFkckEtQUxSMUVGQXNQY3RQZlVEdXhHNWZ1SG9ZR2xwQmxlOE5td3B3QmpnMzF4QzczUVdZWFd6RzNiNmFlYnJaMXh5eXJKc2daSElzYW5fOHFNeGdUOA?oc=5",
      "domain": "timesofisrael.com"
     },
     {
-     "title": "If Iran Assassinated Trump, Would President Vance Destroy Iran?",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRkI1cWNKZHNKTWhDcEhRV0R4aFJWMWZRMzJRRFY3cHJRNHJEb1BpR2Z0QVRVeFBXR1lBNHdKZlRkelN4UmtMc1BLaFJTWS1sRFBlSVpKWnhidUZtTzhtU242M21Fc0drbG9JVmxRMG5DN0s1Y3R1SXl6MGY2QWd3R0NGYlJxQnk2cjhsWFFmR1lWZ213VWNfZzdR?oc=5",
-     "domain": "blogs.timesofisrael.com"
+     "title": "US attacks Iran’s Qeshm Island in Strait of Hormuz: Official",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa3BYb3JvVzFOOTVLWHF2Tzd2d2hOX0NmaTlKdE84YUdJS0haSTJHOXpuZ0FwWTJEX2NzdjdCY19CSjU4ajN5NkdYbjhycTd6TXB0T0UyUHJiR2tfelIwVWFDaVIyS2hDWVh2dUdaTHlTTmVhWFgtSjhiX0FsNDZ3ZnhjZ05teWNVU04wN04xMk9fRjVvdHBmVGRXaDRhN1pTcmtBODJjcGcxM0V0eFNwelA5WElKbUpf0gG-AUFVX3lxTE5uY2ZyTGRmTTkxMFp4WXdvWnFPYzVyUUJwOFExdjlUTW52OVRJOXlkY0ZmT25ubUJLQ3hGaG80X2gzR2FhRFo3UG9RdkhMSE1COXpTQV9JNHl0Z0puUGFBbWxoNFhMQlRPRTZhZUI3OHdtY3k0OFRqYUk1em1SbktEd3hCcHNMSEZZLUZIcnEtSEY1OWlFZkttQUxEcGFOc3pUeFlzOVU4WW95U1FZOXJkdnlwZUFTazkzMWRBYXc?oc=5",
+     "domain": "english.alarabiya.net"
     }
    ],
    "error": false
@@ -124,18 +156,18 @@
    "tone": null,
    "headlines": [
     {
-     "title": "Pentagon Ignored Iran Threats In Kuwait. Then, 6 US Soldiers Died",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQWY4MmlvMENleFVKdFVKYlBaYkJ1VUM4ZHNyRnJEeWZla0thVk85NVlNdEtaamhSTlNjWER4a1BybkZvdS1ZVUxNVGJOQ1NlOU93blE4ZW5TNnU5WU5sZ1Nmbkw5bFN5Q0RVbXpjVGtIVjlvWC1iWGwtS3JxVnVKcXJrTFhFYUxpdFJRVlBoS1duNlRSZlZuS0pvbkpTaVR2aTFXZW5ELXRjalBMNXBkNEc1LUEwelHSAb8BQVVfeXFMTmMtXzA0UmJuX2ZXV1ptYXBBZEhuMkQzQ1pBc2U1Yi1jdEVNZEhXUHNZYUY3UGdHbkpJak1XXzY2UWZQWHVURERVaEtWZXljLUxDd2x1UUN0UzZoR2tDQUJ2MWlYVEU2S3ZVMmJSQ1gwNzUxMmdLR0ItM2VhakdtdW1Ub3IyZEh2QmZxbDZZWkoyZThDeHo4UDAtRlVCMVhseFhZdDUzZ0YyVVRScGpuaWh3aUJwU2V5Wm5xSEdWZlU?oc=5",
-     "domain": "ndtv.com"
-    },
-    {
      "title": "Iran planning dirty bomb attack in Washington, US intel warns",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVFIxa1RQcGhUd3p3R0Rua0pPYzBUNmJfMFhzZlVfbXE5WFBPWlF1cmpoa2dWSFBRZm5mM1FndWlTY2Vvcy11T0ZDY0hheVA0Wmo4RzJ3al96dXJNbS1wTmRnQVdid29MeHAwUTAwRjQ1UUtjYmdsejdjYUVXR3JGWXdHYzNVdGdOY3lMNFc1N1NrVWtlT2diV09KX29IVEx0OVkyU3VHSFZqNUZjdFBYbWJiN1hLSVE2aDVaMXgzZ05CS2w5NkZaQnY3MNIB0AFBVV95cUxQMnhjTWdQdDdhQ0tWMF9xcVBETWlGeWRvSTl5dmFVQXYxS0ZEMlpiUWYtSzR5cjdaVmNwWThHUlh4d1ZKRXJMQkFyQjlXZENVVl90cHFfN0M5ckJZU3ZmSGd4amVTZHMzMjhoXzJZTmZZRV9xOHZZd0tBR29vNnNFd0xjSVh0aUxJU2lLYTlBQTBpeFE1TE1FUGZKZ3BDSTdsZjQxUFhYUV9oSl9xRzR3WFlIZGItMFhPZ3VwZ0ljdEhLUGV2Um4yWWJJUXVEQTZ2?oc=5",
      "domain": "timesofindia.indiatimes.com"
     },
     {
-     "title": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-     "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5faDBiWWpLa3cyS3BWYU1RQ3BrQmt2b0d4dnp0ZjRvTWZPdndZeGNzdzV0OTF3OXlCa3A3akhB?oc=5",
+     "title": "Iran Plans To Detonate 'Dirty Bomb' In Washington, Warns US Intel: Report",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZl9FRFN4RWxFTHR2WXQtcW9OeVJOY1IxMDZkcHVyR21tOVZRdUdkV3JSdWI4X0NuX1J0Wnh4RGJ5aGYzUUpTdW56U05iYndhOUNLNjItOUt6VnItd05fcG13MXNLSlkzell2bEJNV1FYTU1PMFJCVld4blpvdkxYQW1TSTd2X1A4dFdqQzlzNEVKamJJWGV1cm91WW5vRWhJUWhhaGNYOHdpblFMQWfSAbYBQVVfeXFMTUZqTE1QX2VGYVF6aVk2STdpRnE0VlRLQV9HUXpkS0ZnME0yTDhfeWNHZDdVMmw3RkhyRGZrNnhONFF3cVVoVEJnVld5X05mVHNwSERNOE1NYmtMVGl3Q3ZlNGYtMkg3TkhFMGNjaWtaY00waTNiTDBDdERzTDY1N3lUbGltQXRqd2RQSkNadlZDcW1lNHdleVZyZGpNTHlzRExNdjJjbkRseFNsbWpyaUllNGppY3c?oc=5",
+     "domain": "ndtv.com"
+    },
+    {
+     "title": "Iran targets Bahrain, slams 'fabricated' dirty-bomb report",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR0g5Y2xXaTFPV2NQNGtYQ0NVTWlaWFlFelhLYmFHNVAtam9OTDc0RW5NdXBHWVFKZkVwQklyaEZDdkNUWXZjQWdmakVvTFNVQVZFUDJRWk00UTNVallDXzV5LW8wUFFwQU5KeXVTQ01TYUJuVGVRQ2Q4QmVjNXpXWEpWdE9ZQjFLMWFTcnF2cDNoS0dDSklXWVcxekNYek5IMGRhek5xbk4xT3NlR1pocy1kNzh3OXVNbDZYemk2VldBQdIBwgFBVV95cUxOR0g5Y2xXaTFPV2NQNGtYQ0NVTWlaWFlFelhLYmFHNVAtam9OTDc0RW5NdXBHWVFKZkVwQklyaEZDdkNUWXZjQWdmakVvTFNVQVZFUDJRWk00UTNVallDXzV5LW8wUFFwQU5KeXVTQ01TYUJuVGVRQ2Q4QmVjNXpXWEpWdE9ZQjFLMWFTcnF2cDNoS0dDSklXWVcxekNYek5IMGRhek5xbk4xT3NlR1pocy1kNzh3OXVNbDZYemk2VldBQQ?oc=5",
      "domain": "thehindu.com"
     }
    ],
@@ -143,13 +175,13 @@
   },
   {
    "name": "Africa",
-   "count": 5,
+   "count": 6,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Xi, Trump, Putin meet in Shenzhen this week for talks on ‘world peace’",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNDVLNDAzQk80V1R6bDNoenVLUUxocWlpOEpJVnZXcWMxUTFaU20zM1FtY2t6N0dUTGZ6aVVoRWQ3VVhiNWpfbUVyWDNaeHVNdHVrN1NpS1djc2JBcXprRXhKdE1XTGhmNHczT0hvQV9aYWRUSkpGaTFWdmNhRUpTRG04ZUh2T25LMVNac0lkNUFtY0R3VDVsRW83ZVNfYkdYQmYxbDlnTHVrdlhMMlE?oc=5",
+     "title": "AI is ‘coming for everything’ warns Ninety One CEO",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWk1KSjRyR3dlbEF4QVZJdnZJZVg0TGZNWldXVTdfRU0yYU8zMHNYdmwzenFxel8yd0N0REdSQWRlRFZST1c2NGpNc3R1bHhjaTk0T1BRaHd5dEZxQ0NEMkRPaU84RHN3M0l3OWJlVXpoU1MzN1FFNFY2aUZLMDBvTk1tNnVfMEhNWWhkUTQ3UlBfTzFaM3V1a1AtTExtY2w4Rm9ZaTBsWQ?oc=5",
      "domain": "news24.com"
     },
     {
@@ -158,9 +190,9 @@
      "domain": "nation.africa"
     },
     {
-     "title": "AI is ‘coming for everything’ warns Ninety One CEO",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWk1KSjRyR3dlbEF4QVZJdnZJZVg0TGZNWldXVTdfRU0yYU8zMHNYdmwzenFxel8yd0N0REdSQWRlRFZST1c2NGpNc3R1bHhjaTk0T1BRaHd5dEZxQ0NEMkRPaU84RHN3M0l3OWJlVXpoU1MzN1FFNFY2aUZLMDBvTk1tNnVfMEhNWWhkUTQ3UlBfTzFaM3V1a1AtTExtY2w4Rm9ZaTBsWQ?oc=5",
-     "domain": "news24.com"
+     "title": "Customers affected as JPMorgan Chase, United Airlines, others report widespread outages",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONU9waGtyaHRzbGJLWENVckRrMVBLU3pXOS1qbkNscFRobFJFYlhKNHAtMWk0NVR6ZGpBLWxOd3hWQkV1SGZ5Q2tHVEhzdjNTMU42elBXV09vUFFtVkNLSkdienRGVXl4WUN0eFNRUm5DS0dId3VndVRTM2JvcGh5Umk3R2RlbHRRR2VVT1YyamhYVXZjVUlNbkhyeWFRNldrNlRsVkt2QzJpdzZRNHhHUGNncjhOY1NlNVlCX2tYeFB2dVpYcXI5U0ZJcTcwb1FlTWlOT3lTYi1NRmdNSVBwMmdfSWtVQQ?oc=5",
+     "domain": "premiumtimesng.com"
     }
    ],
    "error": false
@@ -171,11 +203,11 @@
    "capped": false,
    "tone": null,
    "headlines": [],
-   "error": true
+   "error": false
   }
  ],
  "framing": {
-  "text": "The Middle East, India and UK emphasise military escalation and direct threats, with focus on aircraft carrier deployments, alleged Iranian attack plans, and nuclear risks. Russia highlights diplomatic concerns and US intentions rather than immediate conflict. China frames the story around Trump's decision-making and regional instability. US, Europe and Latin America have minimal to no coverage of this developing situation.",
+  "text": "UK coverage emphasises regional instability and military escalation, including Houthi threats and additional US troop deployments. US and Indian outlets focus heavily on alleged Iranian plans for a dirty bomb attack in Washington, alongside Trump's statements and domestic political responses. European headlines centre on Trump's security concerns and diplomatic discussions involving major powers. Russia and China report less frequently, with Russia highlighting diplomatic channels and China tracking US military movements. Middle Eastern coverage addresses direct military incidents, including drone attacks on Bahrain and US operations. Latin America has no discernible coverage of this story.",
   "model": "claude-haiku-4-5"
  }
 }
