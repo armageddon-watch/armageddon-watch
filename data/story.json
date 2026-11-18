@@ -1,53 +1,37 @@
 {
- "generated": "2026-11-18T07:34:41Z",
+ "generated": "2026-11-18T20:39:39Z",
  "window": "last 24 hours",
- "source": "Google News",
- "topic": "War and conflict",
- "focus": "Iran",
+ "source": "GDELT and Google News",
+ "topic": "Nuclear threat",
+ "focus": "Putin",
  "regions": [
   {
    "name": "UK",
-   "count": 50,
+   "count": 0,
    "capped": false,
    "tone": null,
-   "headlines": [
-    {
-     "title": "Trump claims US is ‘looking into’ Iranian bomb plot in Washington despite ‘no credible threats’",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSG12Wlc5NkNZNU5KOUI2V1BzSFE5VWhfNmt1Z2hhemRjekxGMkM2QUJWT0hGSk04NmwtOVRRaHBGSlVpY1VZRW5OM1oxTkVZUks4RmhFRG9OYXJQdzJyNGJISU9ROTZXZms2TFM1Zy1OcU9zWVBKYmt1MVpFX1dkcnp3LXM2M09VWlUweVYzTnQ1cmtDMnY3QlFaTQ?oc=5",
-     "domain": "theguardian.com"
-    },
-    {
-     "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44bGFrdUljTldRNUVpbUk0b2xiRE1ENm5vbW5SYm02ZHd3UzF6eUJKcHRHVW5QQmZBdVZYWVhvdWNIamZLcE9KUHY0SHpRaU9FOFZGZzdvcGMzUEhyNEE?oc=5",
-     "domain": "bbc.co.uk"
-    },
-    {
-     "title": "'They happen to be crazy': Trump responds to Iran threat report",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWkdSMjRiTWdPckNCUmU0aEw1bVdoSzJRVnJ1RzBSNmdMc0QxZjVydEVtYlFpdFRmZUhqZExDNzRZcnY4N1pXbjV0UkxXRjM0U0FpN1pmbllQWmdDQnR2VTRvSWhNQWFGc1lIaEFVc3JIbTI3ZWN1WlBQcHhfNV94c2tBaUhSOGJST2gzc3RkUTRwUjRNc0JYemVsUHo?oc=5",
-     "domain": "news.sky.com"
-    }
-   ],
+   "headlines": [],
    "error": false
   },
   {
    "name": "US",
-   "count": 100,
-   "capped": true,
+   "count": 9,
+   "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Opinion | Shock and Dread in the Gulf",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wNXdVTENiYW1QMk9MLUVjSC1VY3RORnVSNHdVNi10d3FHU3dBRjUtRFQzRDE3OFBDb0JQUEpBSjJrdEIzb1VYX0dHU1ducy15WWRXNThJcFBiREVVcmJsV2NTNTBxM2FjV3N2SW9NQW5ZVDdVVXRN?oc=5",
+     "title": "Putin Arrives in Asia With a Show of Force: Nuclear Bombers",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaHR3MnJxdzRWMjlsQldXeGlWYk9nbVFHNk9BWjVQZk1TeXVYZzI4OURscl9jRG02Q3g1ejQyVmhWX0FrQTN3aU9tNlVlU0F2SjVXX1lyUzJ6Tmlrb1MtY0tCVUV2WmdqcTNIbGpMdDl1d0VEOWo1eDdDalh5MlZzczNHMmxOTi1NWVdSaHRxZDYzSUQzOXc?oc=5",
      "domain": "nytimes.com"
     },
     {
-     "title": "A 2-month lull ends with Iran’s third strike on US targets in Bahrain, and US retaliation",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU2lESUxmdF9UMGE1eWlZcmZkUFJtNWxyNm5kZWM0cTExSGtIZXRxNTZNTjR3OXlqeFlQMjlWYWdjenZnazlJRUo1NlRndVRZWWY0VFVBcUJybG1NRTRhVkdtZFd4SUZiVlFPRWNLcmFVQjlYM3lZUUFlbUhuT0JJckg5cjNYZ2xEMlNjNVhuMVliMkRnWlFXVw?oc=5",
+     "title": "Trump plans separate talks with Putin alongside their 3-way meeting with Xi in China",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMGlNb2Jsalc3eGpLNWFROHFOZjhyaWxjTi1LWTAxaUNzMVI2WUpXYVd1REVLaURWajJCMWVoUWxCekhtcTNMS2pxYmljMVZ5aXFHUWxwQk5NZ3JhSHpyYk5BdG5TVzZlUUp6bHVhaUJKRkx2MllHeWViQzhlcVJmRUpIekpNV052VENNZ3l2YlZUamJaNXNPYURsZnVmdEE?oc=5",
      "domain": "apnews.com"
     },
     {
-     "title": "US carries out self-defense strike on IRGC missile launch site on Qeshm Island",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTG9kZzBHLUh5a0NaWTV4T0hhdnlMdkFyd0hpbkxyamFkdFpCVFJaNFItRmNMS0VEYk5mNmFtRE9HQnplMDl4cWxaTjJXSWhvdmJ0dUIwNmo0MjVsS2FLSjlpaWhVeVFVQzBGVEEwUTFTNDFvUkZQRGlnNTdQLXNmQkQzd1RIQjMtZGdWSUpQX0VhRmlsM2RBSGhjcHZramNEemdzONIBqgFBVV95cUxNc01PempfalBNWW9CU3dJUk5vbUlWQkFJdjF1bWNwRVVrcF9YSG50YV9XdzdSN1daY1ZOSEJTYmpfVmNlQXhya1NwdkNFUWR3d0xuWGo4RUhVVmZiRlJqU0x1Y2pGQW9TNktkLUs1a0JsbE5mNGNBSnlmQlF2WDZJV25rUjBXNkdVU0Fsa3ZEN01LQXljVlZlazFjZVFkV1ZSc3Y5RXNfYUk4dw?oc=5",
+     "title": "US launches unarmed ICBM with Trump in Asia in routine test",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONng1QVkwT1pPMUN0ajlwOVZ5aEY4a1hTdFhaRmJEcEpOaEpNbm9JZnRxV3NPSW5rREVXaWJVcWZ1UkxJbkhzdVg4Mm5ybUxEbnNzYl9ZYjdLMWx2ZU9JUTRuNWdqbmIwUTNzaC1HYWZOenpuLWcwRzhQX0I3QWZ3aHE3RVQyZ3V20gGOAUFVX3lxTE1icEk4UFZoczlZdFVCenI3UHVja0VCdWFZTVM1bFFSMzB0ZkhVMUttTmhWUVJSckRSdnY2c0VwdE5iU0FKTUt5VHg2ZmxvRnJqOHBVTy1Na1ExZUpfTzBCNDRtR3ltaDE3S09BUno4ZUhGUWJTQkZwSFFGYnJqVms4Vm5iRHdmRXYxUXV2V0E?oc=5",
      "domain": "foxnews.com"
     }
    ],
@@ -55,47 +39,37 @@
   },
   {
    "name": "Europe",
-   "count": 100,
-   "capped": true,
+   "count": 10,
+   "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Iran dismisses CNN report of a plot to attack Washington with a 'dirty bomb'",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNEI2SUhucFZweWtGLThHYUVqWWYtRFA1Y01GaWxfLVFWWVo4NFBWQS1WTXRqblh1S3NxeDZXMkFXb1dHbkFwbDBTRjJ6Mk5ZR2VRdzlNenRmM3lCRWUtSDI4c2NrUjZDTWZZQnNfblk2MU55VllabkhROHlZSkh1Mm9ROWZodXpDYVNwYUs1eWV2WDJBSEpsejdyR2ExUdIBngFBVV95cUxNbHBZVWVab1R6TDZZdGh4TjAxVm1ZdFZQajc1TGRIRjhVTzdGek9udmFEWnhISW1hOHVNcUZac3J2TVBCZ2tJVE1pSmkwRzg2VzRaTkg4WlNzbWFuTUt3WWM0a3VZMEZGS0VpVUNOaTNJODBHNWRYemFvQ2NTRy1wTEFfWE1XYWJXLUNDYmlGT19fbzdjTE9oeUpwVVdVdw?oc=5",
+     "title": "APEC summit: Xi, Trump and Putin gather in Shenzhen, China",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZi1rTk1WX0hPam9HN1JQV3ZZRXJWb1VTVk5qdmhoMzNCbC11OG9fTjhGMXJTazdOQkNUdjJOaEQ4LXhsU0Fibl9sYUtMZXJ6NWpqWWFEZEpWY3BTVDJJamkwbkktTjhaUGNiQ0VTcVpZY1VOeEswM1ZiWGdtcnBzdlJWZzIyQm9rTTJ4ak5pWkJzVzVkakE?oc=5",
      "domain": "dw.com"
     },
     {
-     "title": "Trump says he takes possible Iran bomb threat to Washington 'very seriously'",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd0FDZ1BwNTZhZmI1a3hxZkxMamFNZzZ1MXhnS0FiMDNsMHBRZUU2UUpualp6aFBZUGMydEtRWVlXajdLSjRFQ1ppMkF1R3NhNWlsVGNPX2Q5M3o5S05oand5ejU4b3Y4dHUzMG4xMGNnclFiVTlZOFRxdzZocHl5M2tJSU9fTW8yMkZvX3pCVGhmZ2hPbWRHTFFxUUQtQk9KMVBzZHJVOFBLNWF3SGF2ZFFoTVI0OGdIaUw5RQ?oc=5",
-     "domain": "france24.com"
+     "title": "Xi and Putin hold talks in Shenzhen ahead summit with Trump",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVlFxcE5jcUZKeEx1enhYNXozT0NrLV9RaXFiV0c1eE1rR2tpaW1BR3hkREJXeEEzN0JTckhoTS1TTEJBb3R3TW9iQllQUk5PNWhnbk55U1lIaWlaOWZQLWFIOEhWWG4zRDBMZE90SWRnb2ltUTMyQkNzNzB0eXV6TS1TV0ZySmptNjBSdHV3Ti1ZVThYdTkyODFDcmtUQy1Sc2lyX29vRWtXZ1Q4OVptNXl0WENkVjA0SXJLZlF1cFVWZw?oc=5",
+     "domain": "euronews.com"
     },
     {
-     "title": "Iran claims drone attack on US radar system at Sheikh Isa air base in Bahrain",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTjZESDh1NEZDS2VHZGsyR1RlYkN4NjlabFV4ZDdISm44MHZ6RlJzODhQb2xuUGhfSTFOalU1N0wxWUxpem81T2lJekhsdUphbnRuOUJNemYtVlB3X0ZmMU9YY2FsV1RVMHNHRkFMV0ZDSExQN1ZnaFNTc1FZM2wwZHRLOGx0RXJSbGN6elRZWXlVdEhyVmp5cXBKQ2J5bFNlYmtRQUtJNW8yRWdyNk1pRzhmdw?oc=5",
-     "domain": "euronews.com"
+     "title": "North Korea completes external works on enrichment facility extension, says IAEA",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVUtoNFl3dEtmNXdNMXdIaHQ3ZElGNERnY3JrRmZjRUZ1M2dNXzVPTU1JQ2tOVU1qa3duS1dIMXUwODgtR3UtWXRTakdHV2tNSUZRWUwyUm5RRG1CUHR1U0t3dERVa2tEdlE3dk03b1ZleTcxdkd5Rk9DUmE2SjBST3BrVkYyVDljLVo5aVNNWFMyODdPUjhHejZMSjNsS1hGZElUZUppTzZtdFlrYXhGNW96OW4yWWpnUG4xN2JBZS1vRXBrTDBxRg?oc=5",
+     "domain": "france24.com"
     }
    ],
    "error": false
   },
   {
    "name": "Russia",
-   "count": 10,
+   "count": 1,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Foreign ministers of Iran, Oman, Uzbekistan discuss North-South corridor in Muscat",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBwVC1nVEhGQkwzUlRsNlptUWxzSmNfeUJKNWYxX1k1V2pHb3FCQlVlcWVraFd3M2VxLXppZ2xRR0Z1MG9M0gFKQVVfeXFMT0ROV3pSMmJTVTdIeUxaT0xRaEpkTDJyTUR6UlpGRTBpa1VZOHNzanJQVEJETzU3NlQ4ejJmQW9qQ0tWdG1OWS12UkE?oc=5",
-     "domain": "tass.com"
-    },
-    {
-     "title": "US strikes Iran in ‘self-defense’",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WVnotc0I3MjRsRVE4aXY5ck5mbFBjS0tEV3NnZi16a2ZHTXUwVXQ3X0pSMFdlenR6MldJR180LVFpM3dBZDdwWTc0LWxnRmU1RTJJWTRhenEyX0UwcmZYOTdwTdIBbkFVX3lxTFBPZHg0Q0loQjRUUHByVXU4YWMyWS00bGdlWFlValJJVjFwbkpfNWZDNTBLSDlRS0xhLXBDVDlWYjRGZ2xpX2VOSVpXcTZySFN1TXFnWGN0Uzd2QjdwdHdrcWk0RXRIRHI0RFBiSGd3?oc=5",
-     "domain": "rt.com"
-    },
-    {
-     "title": "Iranian drones hit US radar system in Bahrain — IRGC",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBLUGZxalFEeG9KLWZaallMWm92aG9fbURGcXpDYWMxTngtaloyZjF6b2o2WktOS0lVVWg4TzF5N0Nxb1dH0gFKQVVfeXFMT056dWQ2dHpicDVMVUxGMlFxZHAzVUxVekYxNVRZa3ExQ3ZRZE9fV1Y1QnFyT2NTMTJ1bVBWa054b0RobVowS2FFWmc?oc=5",
+     "title": "Putin addresses Russia-China ties at meeting with students",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1DTWNUMW92VUp5RUw4SllqYzFUaDRxOVQzdEVtMGJGOU9ianBkdkdlVkhnYTd4R094cVVEOTJRWlZIajdnanJzR9IBTkFVX3lxTE5XMG1NTzYwQjRPVkxlOHZjV2lxemJLYkZFMS1NZzF1V2Q3MzB2U3BEcWtmaFEtSnkzM1h1QWk5OHdjYkN5Y3c3MUdhNG9vdw?oc=5",
      "domain": "tass.com"
     }
    ],
@@ -103,71 +77,61 @@
   },
   {
    "name": "China",
-   "count": 28,
+   "count": 1,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Vance: Trump won’t let Iran become a “forever war”",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNWJUeHdlc09sYU9femVaNXFXSnhSY0RhQ2JMWm1Cc2pHZXBqZC1KN2ZyOUFpVUg3aEJobWdYQmVhNFJETk9CRXlzSnpKRXJfMGJoOXFPaEE1aDZMMEZfeS1ZTkRLVGxTSFR2ekd4UzFibUF6OUxSRFNac3dRSnlWTUo2MXlCdVVaTlVPdmZxME83X0lwemVwM2pDeld2aUtVYjZ1LU1OY2h2aHRLQmpxRjlaRVlHQQ?oc=5",
-     "domain": "newsus.cgtn.com"
-    },
-    {
-     "title": "Iran fires drones at US military radar system in Bahrain amid Gulf tensions",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb2stbjFtMHdVdWpLclpBZVdVdm9aMjVBOUd4aGZwWGNyQmkzd3hCVGZ1Ny1rQVpRaGFla0FYczBkOHk0ZWpBOXNvbFprSFFqTFZyZW5WSXNrR1RJNUVYV25iX01tQ0t3MHd0eHVxUURrUjdGYUR2eUludHlISE1SVnRXR2tDVDFrQnNsN01VNnpVTy0xbzYxb0FxZXc4ZUpVWEdNVXVVUDBDT2FFNW5FTGZ6ajBmRlloVkJQLVMxWUFMa1pvQ1gyY9IByAFBVV95cUxObjYzQkFpc0JXXy00T21LZmZHZlhWSGJESEpNN2RWZXBfckxIaFM5ZVk2dDlkTThGQWRrVkEtVFBoeURtdjJPS0hsZ0lLZ0lPbFN3MGFoVG9tVWNKT3RzVlh5eDk3QmFQaGdTeHFNck9haGtXaEQ5S2FITXJld0FQQXdvVlJxSDZlVGJueFVrQ1Fmd3NFb1pRTjFrUFdDN2xzNUh4T0tVWWlFLU5CSUtiM2JlMDR6cXNsZ3RVbWM5dU1sdkZSOVA0ZA?oc=5",
+     "title": "2026 Xi-Trump-Putin trilateral meeting: Latest News and Updates",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VT1N3R05CbkJQNk1BX3lHSS1ucFV0eW5xazlmMFNxaEk2NHRWd1lGZXZMZHQ4WnNZaVBsMUw2b0hMOTNFTnEyXzBKTzVnSGswRlVHMkVTc1Q0d25PWVlxWGhRb0V1RW0xZk1TaXJtc3F3c2NM?oc=5",
      "domain": "scmp.com"
-    },
-    {
-     "title": "Iranian Foreign Ministry spokesperson: 'The baseless allegations seeking to link Iran’s dams to missile bases constitute yet another example of a malicious campaign to manufacture propaganda and secur",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxMGE4X1ZpWjNHbHlrVmRNWmNCQ3hBa2RMd3BwSXZFNER4Z3RtcHpRRzV6VS1UVFVELW1vSVpCS3RCQUxuR19YMHFteTN2TE50VzJGQTBxbTBKWnRrVkNJYUlabl9hODhwd3FzSndHOE5la3FXNU9YUQ?oc=5",
-     "domain": "news.cgtn.com"
     }
    ],
    "error": false
   },
   {
    "name": "Middle East",
-   "count": 100,
-   "capped": true,
+   "count": 5,
+   "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU3NxaFU3RUpkTklaRUU5NkxhTjZ6aHhYOWl4WG9PQUh1dWp6ck9qdkJhc3FHMjN5cUhWSzF6OWFmZnE5MXQ3U0RKd2RmeXdvZUZ3Qjk4VzFEM0tka3dOai1IVWZFY0VaVlVHS3d2NkdyeDU3UHZEY2tMbV85ZEVldUhRSG1SS2VwZ1c1ck4wNE1HbU81WXluYU5KRUN0NmRFdVJRNWI5MFpreDR4eGNaQkgtMVg3SjjSAbwBQVVfeXFMUDFvNkpucUdWODBUZW5kV01tbDNjaGVlYWp6a2NtdktFQVJpVW9mTjJFWEhWWm1LQlIwcW5tVVozb0FpUWl5TEd1VkstTFh2S2VXRi1YLWdxcl9TaF9XcjFhLUNHb291ZkxHY210TENUclk4WjNlZml0Y1hDbnBBRURzTm1ORjl4a0hWUFVGWUVJbFNwUksyUDJ0ZmtBZWRiZV9pNTJ4QndvRGVMNzVtVW5VQ3J6azQ3c3lJcVc?oc=5",
+     "title": "Russia, China should ‘lead’ push to multipolar world, Xi tells APEC summit",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX3RqMFJBV29zRWdMOWZhLWpzZmo4YlpWMnhZd2k5VXBpWU1xZTM2VUNEOFkwV1J4STFoZFhiSElEYnVYTU5RUUFzZ1E3RHlFYUYwSk5VbFJKdExOSUM4TUZYMEk5cVFXenA0V2JMVWNaVE11ZG9kaVdUQ2pDSnV1OUxpcHZaMkpJRGR6ZVlMRjZHWXFYcE9ORjdkaHJ1NmtfM214NTZDN1A4SjdLVGM1SU1qWdIBuAFBVV95cUxPajRldTBMVFFRSnZjdENVdnhHd0dXTXJSMTdQaUJ6V2QtR0p3VDAzVmlDN29Iemw0dE1PNUY4QmRIdm9CVjJ6LXUxMkZpWjQ3MFY5dGFIa3NyVFlJUTZnTUl2UVFxVHNDTVo3d0RreTc0RTF3NHAwcGpFVGhUeFVXRkt1UnNGTnVRb2R2RENCakVkVVoyRVlLZWVjU0hLUFRvWGFFVUlqeHB4dzYwdW5ieG1oc1Q1TnlH?oc=5",
      "domain": "aljazeera.com"
     },
     {
-     "title": "US military official says fighter jets hit Iranian missile-launch site on Qeshm Island earlier today",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ3V4dUNCbEhBbHczSjVUdHNtTHl0eWZXaU9zeGU4MW5tZ3ZHSzNEMGdsSmlJUmZtemI0NXc0bFFRUExpRmlQWXFrNW5XTWw3VFE0emxYd3RrUk9zTkJrajBVbHBWVExCMGRuTHh6dC1YMVczcUZGV0gtWFJnWTF6WTYtTXJjeTMxWkgtM19Xdnd5SVR0VUxmZWF6a2xORW1OUE9WeW9QVjJhU0d3UWdGOUYyOXpKcGpJd0FSYzZvTUpFcFJERFhhSmVEZUd6OHRoQ1BybU44OEJtcHh6M2tv?oc=5",
-     "domain": "timesofisrael.com"
+     "title": "Is Iran plotting a ‘dirty bomb’ attack in US? Former Secret Service agent reacts",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSVd6VklOMlVEYXBIZVFQWGZLcGV0RHlYck1mQzNXeEdyV0FFWjBseEd2VnZRSm1aNEhPVmtHRUEzLTkwWDdlczJHZ1NFNGZLeDVnQTAzZEQ0dFhQWE1UbGhhQnd6N2tQN1VQVVNZTDVhNFhCcTA4SUIwY2l6R3laRUV0N3MzNkVSVDNKWXZ4NmNlT3NLS3dQdFY2bm1DekxsdThjMU5sdlRlRFVucFktMVRXYVJBSkZFSkQtbXU4TEtNY28yVXpUMXdNakFhZU1aNlJF0gHYAUFVX3lxTE9zYzk2TjVhc05SUzNuaXRSX05OejBpa08zb09kcGVuSnZBTHdRZU5IZnZ3LTdkWldGNTIxbUtxVExMd1g4cTIxMzA3VnF1cUFYR2FkSDVxN05VYmFMRXpEMkpRd1Z1OEtzSWQxWHZBSjdTY2tzcTFOWnNtYU93b2xtMUVTSGRPNmY4Mk9mWjdnenNabWczSmQyYXQ0UDN0SEIxODdkWk5jME1Mc3dqOUJQODlDQjVsaDJYR3BUUUgzQkN2NXBfQ3VKT2NIYjRNM3VReTR2Y1FuUg?oc=5",
+     "domain": "english.alarabiya.net"
     },
     {
-     "title": "Iran rejects ‘rubbish’ dirty-bomb report, as Trump says takes threats seriously",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT0daX29ueUdBcnZCMUI1SUQ1T3JCeHQ1YkRyRlI5RTdZVHUwX0pXM0lHY0V6SlVWT2ZqaV9YeDhkcmhjR2k1VVhkbnZnRUJrSDAxb3IxT2pXQnR2OVJqU1BCTnAtSUt0MDRxZzV6UFVHWUdlcEZhanRyZmxJSU11XzFENkx5MkJ0QndPTnNFZ3pyQzhxN0c4cXFuMGJLMVlJNjBkOEozTG9ERG5Fb0VlcVBza1YtZEVLLWRQWDctUk80N3lKSTVvRUY2empWc1hCZ0hz0gHTAUFVX3lxTFBPR1pfb255R0FydkIxQjVJRDVPckJ4dDViRHJGUjlFN1lUdTBfSlczSUdjRXpKVVZPZmppX1h4OGRyaGNHaTVVWGRudmdFQmtIMDFvcjFPaldCdHY5UmpTUEJOcC1JS3QwNHFnNXpQVUdZR2VwRmFqdHJmbElJTXVfMUQ2THkyQnRCd09Oc0VnenJDOHE3RzhxcW4wYksxWUk2MGQ4SjNMb0REbkVvRWVxUHNrVi1kRUstZFBYNy1STzQ3eUpJNW9FRjZ6alZzWEJnSHM?oc=5",
-     "domain": "english.alarabiya.net"
+     "title": "Trump says he’s ‘looking into’ reports about an Iranian bomb plot in Washington",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX2phOXpPeVdsekpITmh4TEZSYjh6SnJBTkRjRXFsQWxEZVpuVzZNaXc0N05WdXNnRkVRcG9aaWpMYXlneURLeU9iaHJkU2ViV1JoMVdhSXZMdTgwTFljZ1VxeDBfd2lDVFR6bGx4MW16Wm4xb2lsQmo2aDlfc1RVQThWTXZod3BRRDFJc3RjYnJrZXhwbE9BOHJKR3ZTZ1BBeWFtV0c0UmoxVHY1TUZsem1LLVlheUZ6MENR?oc=5",
+     "domain": "jewishchronicle.timesofisrael.com"
     }
    ],
    "error": false
   },
   {
    "name": "India",
-   "count": 100,
-   "capped": true,
+   "count": 8,
+   "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "US launches fresh strikes on Iran, targets missile site on Qeshm Island",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRjl5dzFMaHRQZWU3OGJSVkw2TmpaZGFGclU5cEVSSHh4X2pJYkhKZGItbHE4bk9lMjd1RTltTHVUclhWaFlhRmcwSEQ2blNwaFJuTXZkcmZxTGZmVzhnZHlXRDZ0SnZNV0ltV2FlV1JMaXVXMjNqZXM4VjI1YjN6TTQwc1M3SV9HSFRUU0ozelYxYXcydmhpVGxrTmlvdTJadVYtdkNTS2Y0bmNxMmtlaHYtajNvOXRRSDBaOFlVWndOMF9hUU9OVlFXREY0S1pBWDBac0w1WDhzS0ljVnNyanEtbExWdmhzNGRWS3Rn0gHzAUFVX3lxTE9kYUdTYmtzQTRJejNrRWdVQnhoVjJaU0V2dzlfdDZTcHo2TGh1eUJIVGNBU0V4SEd4WjJuRHE1RHNMbDJOTWdYaHFwUTBmUHRjUmtwa1lzRjVxaXBTV2VYc2pJR2JHd1hUb1RWOExiTUdCdjlCcFhWWVRYMml2VExCOTBxTFNCb2tfQzNqclVycTBReFl5ZlNTOWMxenczWnVDMmx5UXB0WGh5VGJSQldiSENIM3ZXMlA1Q0ItcjB5bnJmMWdhTnBIWkRHQUhoaFRHZGRJWWlIc0lBNXFkdUdNcExWTEg2clp3cW1tTmkyaWdSOA?oc=5",
+     "title": "Trump, Putin to hold talks in China after 2025 Alaska summit failed to end Ukraine war",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVHh5WmpLamZobTJabU83M2pVUllZREhRVlB1WG5QMjlpcy16ZmdBLWpZckNwclptZ21La2lReUdTSmFGa0NHaEM0RWJkNkRvUUttZ2xjXzA3T3dHRHYxbGRrTDFvUnZteVJqaGRrdnhqX3FSX2Jpd052NVV4NkRxVlhOVWVGRHZNS0taU1hpM0FiT1p1ODE0c2t3d0FaaHl6RjdYNHRucXNZRk9QNG9mRVFtRENydERidkVhdjNpX2w2eU5VdnZUNFZza2duMjZXZVg5bm5odGRXdFVpN1d5V0tFRnBRZ2JSRjZXOS1lUGfSAfYBQVVfeXFMTU9MTXFTQ0pOMEs1S2VseGNldk9QRmM5bXdWRC1jU2FoZmpPd19NdTRKdl9xRFFtS1lMS3hhaV9WSlBWdmU0TGdCX3NxbGlpU1BTTUNnOUxhWXJpdG45X2tOazJoekJzVk53VjQzSWxDVzN1cEdXblhHUTloZGVMTXhBNmVDVUVCVElTTTV4TUUtV3lzZW1sdTNZZGtod1hIY21sTEIwRk5qclQ2YTFfa0Q3NWhFTm9TWHF1ZGQ4LTduczc3cks0dDhZTTBFMmE3TTYyc2ZMZExRZVJ5NDltOVUtdGpjZ0Q5QzFzSm5fT0tmdThVUG1n?oc=5",
      "domain": "timesofindia.indiatimes.com"
     },
     {
-     "title": "US Navy Chief Blasted Over \"Minimising\" Mental Health Strain Of Iran War",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcnJra3FaQ0VsNGltSG9jaGRMX2ZIQ2R5cFFkVWRZazRCNC1OeG11UnRtRUx1czFIWHBNM2lWZ0hYNF9CRTdybEZwRWlkT3hfeHNvNzQwWklDOFAxMDIxT1pnbTlmN3g3OUdYZXYyeVZkVnI2QmtUMV83OHhVb0Z6dE1YcEd1Q280NFgzNXBWdjhKMU8tYWQ2WGJWTGgwX1M5QTY2U1hiZkNSaVRiS3hHQ9IBuAFBVV95cUxQRlh6MjRMVG5POTI1VkVlX1JjSDRKLXRDd0xLcmpzSGJoZG5WRlp3WE5SSFpMTjIxbkd2THlyLXNzdzVlcjY0R0NRRkFLTUNtY2VKUXdBV0JoSGpNRjk0ZXlfMXpFZ0dSNVNfTE9nUWNUZ0VqWmtTRjZyTXRCYUVFd2U3Mm5KSThqZEJVakRmM3Jxa0NpelA4YXRPdEdUU1NaQnk2UENENk5pSWxQZlo0S05wMDE4b2NS?oc=5",
+     "title": "Trump Heads To China For Trilateral Meeting With Xi Jinping, Vladimir Putin",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTGFlTkprLXFueF9EbTkyT1E5Nm5VcFpIZ1IzX1RObEc2LXdHVzhPVzg3bDZ2YVF3am1XX1p3N0dwV2hqYk9ERU5jemkzdUY1aXl4UDlicmRVcU41Z19oR2Y5T2lqMG1KeGJpWm9tSmNoOFBOSnBqQ001NndQTzNKWkFvRXVMdHhRU0VsWkZVX2haSHBBV0liQXZFYjI4S3A1OS1pQkpwallieFprQ2Zjcm5mak16QWFlTDZRQjl30gG-AUFVX3lxTE1MYWVOSmstcW54X0RtOTJPUTk2blVwWkhnUjNfVE5sRzYtd0dXOE9XODdsNnZhUXdqbVdfWnc3R3BXaGpiT0RFTmN6aTN1RjVpeXhQOWJyZFVxTjVnX2hHZjlPaWowbUp4Ymlab21KY2g4UE5KcGpDTTU2d1BPM0paQW9FdUx0eFFTRWxaRlVfaFpIcEFXSWJBdkViMjhLcDU5LWlCSnBqWWJ4WmtDZmNybmZqTXpBYWVMNlFCOXc?oc=5",
      "domain": "ndtv.com"
     },
     {
-     "title": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-     "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5faDBiWWpLa3cyS3BWYU1RQ3BrQmt2b0d4dnp0ZjRvTWZPdndZeGNzdzV0OTF3OXlCa3A3akhB?oc=5",
+     "title": "Trump-Xi-Putin Shenzhen meet: Significance of the China-US-Russia trilateral?",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLUJxMEgtblZSTlFjSDJCMVFOdm5GaFhCaFJBaWF3V254TzZ1eHBucW93eE9uVzRIbjJRQVB5SFdRYzFkVjBha0VkTEtxZE8xWHlvRXA3Ym1WRWo1RGl4ZzRkNGRpa0lHLXlHOVlrYVE3M1lTNlNuTEFHVmlWbWttaWxfZFlpTzZoMlAzR3RvdXBxR1NiYmdFWXBycnlJZ09xSUg2dmYzLW1zZXd2TXRWcEc3V0xRZFhiWlA1d05HVEZTTWpJdTM3M2xvaEptTzRvMWfSAdgBQVVfeXFMTkhsY2ttdUNjYThhOV9DdEE0T0xIRVhvNVdjMGpwaHgwb3JaaERSYmhmT3RBSjBpQ2ttMEdTUVE3RkNPaEtyT3VIQVZxb1hlSmpCTXFlTll4c2F3UElMSkZkS3l3UWpxZ3lUSWI4TERwMEZJZmw1SnIyVlpxbm96QzVCM0ZuNFhqdTNXVmF4LTMyd0x4T21YUm9kcTVzYUlnLTd3RGktQXkyODloS1pGR29WMENqekdXdUdFeS1ILTlmX2tsRmI4OW9oNlVnRUo4MUY0Vy1KMjRz?oc=5",
      "domain": "thehindu.com"
     }
    ],
@@ -175,26 +139,10 @@
   },
   {
    "name": "Africa",
-   "count": 6,
+   "count": 0,
    "capped": false,
    "tone": null,
-   "headlines": [
-    {
-     "title": "A Super El Niño could turn Africa’s food crisis into conflict",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYndSYXdUYjRDYnp3aERLMno1X2dVUDFRVzJKOWNjV0VfZTlMbGtxYWt0RmhzUXk0THVuUEtMRmZXOXlJMmhmRUp0ZGlBNncxU1BCMUUwWHdQYWlVQTZjQ1hDbXQ1dG4ydzFNNWVOZVN1T1ZObVpHQ1Mzc0J2V093TTNnUkN1Qk9JaHVhcDZQTWQydXNVNkFQTGRmdUJBMkNVTmpTVE9n?oc=5",
-     "domain": "news24.com"
-    },
-    {
-     "title": "Diaspora",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rNjRrcTBTaTE2NXF0RXRpSnh0NVhYYjRodGFQRnBudjV3VmhzVWNLRWRLOVJKQ3duaDEwSXZOd1ZUd3BRTVFyRGU0WV9uTXFadVpR?oc=5",
-     "domain": "nation.africa"
-    },
-    {
-     "title": "Trump warns Iran would ‘pay a price’ over reported dirty bomb plot in Washington",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ21aZnVUZGRraWd0NlRiaTlXQWhyR2lOTkJqWDFxUHgzVFFWdENnWVpxQllnNzVXc0x5Y0dBeW43d0Rhb1lVcmtaV0Rza1hwWTVaRUladlQydThpbG1lTHZIdDRlWVRpdEl6YldDZE5GUG45dU1MdlJZVFRRS1N1LV9WNjVVRVRTTmdmNlJCQWUwdnVKVE9ObnJHcUtiUTRYUlR2ZjRSR2lOMkVuQVdtcXpZMzJjZTdvbG13RTBB?oc=5",
-     "domain": "news24.com"
-    }
-   ],
+   "headlines": [],
    "error": false
   },
   {
@@ -207,7 +155,7 @@
   }
  ],
  "framing": {
-  "text": "The UK emphasises Trump's statements about alleged Iranian bomb plots against Washington, while the US focuses on military escalation, including drone attacks and retaliatory strikes. Europe covers both the military exchanges and Iran's dismissal of the bomb plot allegations. The Middle East and India report the reciprocal attacks on Qeshm Island and Bahrain. Russia provides minimal coverage, mentioning economic discussions alongside military incidents. China emphasises Trump administration messaging about avoiding prolonged conflict. Africa and Latin America have little to no meaningful coverage of these developments.",
-  "model": "claude-haiku-4-5"
+  "text": "US coverage emphasises military signalling, with nuclear bombers and an unarmed ICBM test during Trump's Asia trip. Europe and India focus on the Shenzhen summit itself, with India also linking it to the Ukraine war and the failed Alaska talks. Middle East headlines centre on an alleged I",
+  "model": "claude-haiku-5-5"
  }
 }

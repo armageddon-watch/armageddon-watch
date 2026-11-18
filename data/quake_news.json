@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-18T07:35:19Z",
+ "generated": "2026-11-18T20:40:16Z",
  "source": "Google News",
  "quakes": {
   "us7000tymu": {
    "headlines": [
     {
      "title": "Magnitude 6.6 earthquake strikes off Indonesia's Tual",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeXdnUUFuQVZrV0J1cGsxUXd3QUZBQzg1TmVHeXNZM2xCUURZX3hCT0JkUjVjaVptMmtXdmJMc0dGdTVmT1JzWEhWQ1J3OW5SQ1RMT05DX1QyalpvQ0FrZEJmSnpzaFlPVlhoM0NYSm54cFVPMzVPVW9xcUtSdUxBR0Z2Um5sdFVYRXBwb3NLN0dXejdJaVY4cw?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUEp0OGtheXB0bm0tZFNuQVdlZVIwN185QURVaE1RWlI0UnloY3YwUE9nZFB3NThoMURYbW1oTUFYblFSMUhFTzBVaWs4N1NlR1p6b24tdFJoY3NNQlRCeWEyQm13NHJ1ekpHZktYcVcyaWxKcVlBaEwyNGloQjJocm0wX0MtYVpSZjFKNmM3QnotLUx2YWtPSnhqRy1vdw?oc=5",
      "source": "Anadolu Ajansı"
     },
     {
@@ -26,15 +26,39 @@
     }
    ]
   },
-  "us7000tyy8": {
+  "us7000tz37": {
    "headlines": []
+  },
+  "us7000tyy8": {
+   "headlines": [
+    {
+     "title": "M6.0 Earthquake Strikes off the Coast of Peru",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQzNWcS1YVExmZlNCblB0SWxLTGZoVHVpOHdDNERqMDVQRFBUeF9qcXUwWkItWE1iTjV3YVRWNktPTDN2a0gzeU1ITThsNHRDTkNYR09hVDNFTTJoenNyOERFY3hFeDBDVlBwaEpNckgzdWVHRFlYZUlhSUw2ZHpYMUN1RmI?oc=5",
+     "source": "Tempo.co English"
+    },
+    {
+     "title": "M5.9 earthquake strikes near San Juan, Peru",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUGFBUjhzbndaZ2NjUkVfeEFTajBBRVozOWFrWnZvWHF1NGtxNk04Y19ydXNlUi1QU0Z5d04yeDFWaGZiN2ZiUzY1TEVFSGNCem5zdU1kUk1ycnlUODZ6UjdRNXNIaUYwMGpvUU90R1hTS0xTaTFTVURTZzc2RUt3a3M5VEZ2ZkxUc0dFUTMwNnROTURQeFE?oc=5",
+     "source": "cedarnews.net"
+    }
+   ]
   },
   "us7000tyxi": {
    "headlines": [
     {
+     "title": "No casualties reported after 5.8 quake near Ruteng: BNPB",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPemlrTFNwb3BjT2JYekZUMFQxTWJmbFhUQ1VFV0R3c1Z5SUxta3V2OEE2LWMxQUFEUDcyNGk5S2V0THFRWHlMM2FES3ZKQ0pzS1hCR08xbXI3VGU3c1Rmc1dLY3VYVGROTlFQOHJMb09Jc054aVlXeWc0T0pHd0ZwS1FzQjhrd3MxWnpJaUdhTERnb0h6SW5F0gGcAUFVX3lxTE8zN2lpMW5GSnJBMGpUM0ZNUjdzT0FEYkdCMmlBbHJjb1VZSUZCbVV5TW94MmJ0eVNDbHhVa2RJRjV3Wm1GNllGNkh1U3Z1X1YtcTZjWUphRGgtRHp3MUhxanVra1FtNVVBTlhIWVV4QXdub3czNlpkdGJHNl9hdUl5ZG8xd1AtVGNmQjVPTkJVNEhuWV80d3Y1TkMxNw?oc=5",
+     "source": "ANTARA News"
+    },
+    {
      "title": "Indonesia Earthquake Today: Powerful Earthquake of Magnitude 5.9 Strikes in Flores Region – Check Epicentre, Affected Areas and More",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNNGpxS3phcHVSdFduSmd1UnhDX3JiOGZpZUdQTXdMOWpLTEo1UjMxeUZtck9mYzd2OG12OXpfNUNmbTlwc3RIZ0dHQ3c4VUN4ZGFYSlFlX3drQVFsRnRTd2swSm1CcW13YlpxUnlCQmlFaDAtd0pRTjBkb1Z2NVA2bDZsUDhabnlXMEFTeXUta09tTDhDX0dFZG9IaDZpX0JHcloxTDQ4b29OSi1YNGo2UXNvcjdnVmFGSUIxRUZFdGJDRUVMZkJkNzE0aERWMUFwYlhpUmZwekk3dV9vcjVRMGg5cU1BNjJaZEM2clhYVVVoMi01NWV0OXh5OC1lQ0J2UkHSAYcCQVVfeXFMTkk5WG5rSHJKc2NhakZxVTJ4dkdhZ3JsdGdEa2dBamZlN3dfTUJyWjAzdS1yNGdicXAtOXFLNW9tZlpnU04wWm9lN0tCOE9vanJfeTNKNGg1cVo1X2cyUnJHSlJpOXhldUxid1E4cDFpbUZTVHV0cWVhbTZCZXMyZFNfcDBTRG4wRmFOQ3NSU3NMWU56UzdWS2VhZ3o2Q2FqVWNfdXJCeTZBOUptTUw5MjJpRjdMd2IyYmgtODltYjZmOUw5X1N4ci1jbFRQYTVrQ21zdnR3bTF0YzBOQnpxM19sTTNsUkMyZDhqRTlFd3lOV1dmV19PT0s3emVrRWtGcVdaZmJCRlk?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOSTlYbmtIckpzY2FqRnFVMnh2R2Fncmx0Z0RrZ0FqZmU3d19NQnJaMDN1LXI0Z2JxcC05cUs1b21mWmdTTjBab2U3S0I4T29qcl95M0o0aDVxWjVfZzJSckdKUmk5eGV1TGJ3UThwMWltRlNUdXRxZWFtNkJlczJkU19wMFNEbjBGYU5Dc1JTc0xZTnpTN1ZLZWFnejZDYWpVY191ckJ5NkE5Sm1NTDkyMmlGN0x3YjJiaC04OW1iNmY5TDlfU3hyLWNsVFBhNWtDbXN2dHdtMXRjME5CenEzX2xNM2xSQzJkOGpFOUV3eU5XV2ZXX09PSzd6ZWtFa0ZxV1pmYkJGWdIBhwJBVV95cUxOSTlYbmtIckpzY2FqRnFVMnh2R2Fncmx0Z0RrZ0FqZmU3d19NQnJaMDN1LXI0Z2JxcC05cUs1b21mWmdTTjBab2U3S0I4T29qcl95M0o0aDVxWjVfZzJSckdKUmk5eGV1TGJ3UThwMWltRlNUdXRxZWFtNkJlczJkU19wMFNEbjBGYU5Dc1JTc0xZTnpTN1ZLZWFnejZDYWpVY191ckJ5NkE5Sm1NTDkyMmlGN0x3YjJiaC04OW1iNmY5TDlfU3hyLWNsVFBhNWtDbXN2dHdtMXRjME5CenEzX2xNM2xSQzJkOGpFOUV3eU5XV2ZXX09PSzd6ZWtFa0ZxV1pmYkJGWQ?oc=5",
      "source": "The Sunday Guardian"
+    },
+    {
+     "title": "M5.8 earthquake strikes near Ruteng, Indonesia",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMTBLMmJMTHZUQy0xX19xd09XNWFqSEFFSFd3MUR3S21VbFBydGtBeXBxc3VvcHVteWpIRU1hWDRYY2xMOUZBcWVMMGtqUXNuc1NMVF9PZW1sQk1XRjlfU3B3TUs2U3NHZVhlLVlBS2RJQkNQdWV3SVFrdXZpQWU1NHpjOGJMaTROVndhZk9lbw?oc=5",
+     "source": "cedarnews.net"
     }
    ]
   },
@@ -46,14 +70,35 @@
      "source": "Fana News -"
     },
     {
+     "title": "Earthquake in Papua New Guinea: Quake of Magnitude 5.8 Hits Madang Province",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcDV1Z3NRYkJ0cjBMMTRFbWJpZlo5VkRHMXBSZzNjcmVNQjNHRS1VQUxUX1JsTUZPVTNhZWxaUnVzLWozMzRKZjNJUHdXWG83VU54SlNZcXRTeWlXX2NVb1piOGdEUE02dmxYREtENjNvY0pITGNoUzRWdU9rbGVKeFJyX2ZoQTU0RmoySWhELWgwcFg5R1ltMmtFVWxUM2hFTjNxRkxjYWhha1ZLelNGRHRfeFNGQ25WQnlwcW1R0gHDAUFVX3lxTE56Rm1QRXczRE50aXlkLUlNbHh0RTNuemxPY3V2S0hLdlIxd2NLblpyTkxOS01WWmFLd05xQlR4S2lvaWJveVdObktmUk5YY184Wm41Ny1hZ3F0M19yY1VhdEsyODRDVU5zaVBWdTB3WmlFTERyRHdXTlBzNks2TnpZb2hKaTRTZi1VZ2VFUEFCUWE3emtyWS1IT0duY3dSOWhiUGVodmNzaUZJc1VheGh5d3IyNkM5OTdWTGp4V0RQV0tVYw?oc=5",
+     "source": "Lokmat Times"
+    },
+    {
      "title": "Magnitude 5.8 Earthquake Strikes Near Madang, Papua New Guinea",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeEhRYWRVMUZrNTJDRjIzQ0tBZjJiMnphSWZPXzVETzhJLUM3SmdpUm9fRENRQUZ0b1lQdENES1hCSG5pVmhZUUl1b0NYRGNlYUFSZW5XYlNtVGpFc1BFUG1uWHVTT3hQYmlseS00cTJFd0lrcjVUeTMxRWdsNFdPWmVvT1l1YUg3ZE9oLXlwR0ptc3JJX3ZJdi1qaURHTl8wWHVMdg?oc=5",
+     "source": "cedarnews.net"
+    },
+    {
+     "title": "M5.8 earthquake strikes near Madang, Papua New Guinea",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdUpkQVpkM3IwR29WOEtCeHlQbGdBUXV2Rl9JNWNzbS15aWsyalFqb2pQVkJFYWVNLUE4VDg0X0Q5aFBJdHh3d0xFd1JkRWY5WHpEenlwMUYya2dwckdRRVZjZFpNcnVYNHhWa09QRExnSlJjaDlUUHhEdF85dXRZRXJOX1lYU2UxXzZ4VjI1SjJCV1hZTnIyYnBTbm1vNFE?oc=5",
      "source": "cedarnews.net"
     }
    ]
   },
   "us7000tywi": {
-   "headlines": []
+   "headlines": [
+    {
+     "title": "USGS: 5.8-magnitude earthquake hits 150 km SW of Merizo Village, Guam",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51WEMwdXhaa0VGclRjcURMbmVsOHhCRUZTTnEySjN1TDZFLXc4X1V0d1dlWUZnS2JOdFhGZmg1TTE5azlVLVdwYThZZmVuNGRXUVFlWWUzblhWS2FFb1piNi1mLTNDa2M3SzFJZmZDS1ZGU1E?oc=5",
+     "source": "CGTN"
+    },
+    {
+     "title": "Magnitude 5.3 earthquake strikes southwest of Guam",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObTB0M0R0UHFYNy1acUt6WGdrZGluZDNPM1JlVEN2TFRqLUI4SkZpRGU0OU9vVEF2WUtfNDB2RjBLTnhvUHJrc0xObFN0MmItVElTakZRaFhKakpKT25yTDJaMlhhalhSa01WQkZxWklqcm1sYXVLOUhhNHJkSWZYZlJkT1dyNE0wcG5JVlREREFoaG5leUE?oc=5",
+     "source": "cedarnews.net"
+    }
+   ]
   },
   "us7000ty1a": {
    "headlines": [
@@ -85,11 +130,6 @@
      "title": "Magnitude 5.8 Earthquake Strikes 148 km NW of Kavieng, Papua New Guinea",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORklzcUxXeDFOd09IYlVjekVoUmlHd1ZSZThSLWJzVUtaUmdpcFdNU2dJTUtoZjdGTllmRUY4cTNZem43Z3NEMUdoQ19wMmNsekxiQVNFazd2ckxlTEVNWmRZdnk4TUp6ZUNEMDE2TE0wZUdCbWNYUVhkQ0dHQ1hxU3o4VDRJX0NERUVR?oc=5",
      "source": "cedarnews.net"
-    },
-    {
-     "title": "World Earthquake Report for Thursday, 12 November 2026",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb28yVEdyVUpyeDAzM1BpMUswS0JiZUFmOURJeGt1ZDBqZ2l4cmptUU5ySU0wWXIybllMNmc3M09Ta1pBSXV3cmMwem1zR3ZQVnQ0UHNhVnJuRFI1QmRQeDEwNmstVUJ5UXFyY1JERENtTHk2dGwzNlJsRy1DRmZhUDFvUUw4RTQ5ZGdMTEdtRzhmQWd2TVJLZERWYmp1aHFuSTFz?oc=5",
-     "source": "Volcano Discovery"
     }
    ]
   },
@@ -113,6 +153,30 @@
     {
      "title": "Minor mag. 1.8 earthquake - Philippine Sea, 30 km southeast of Siargao Island, Philippines, on Monday, Nov 16, 2026, at 07:30 am (Manila time)",
      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSEs3Q2xYUEdEbm9VUjlCZjhUTFR5M2VTQVFyaXh3T3ZfRDVXZVhPVUh2X3pqVjVOamtsRkdOTGlwWlNhbUtKc3V4bmRWdWYyWXBMZXI5NWtyWllHdEcydk9QLU9Uam1sS2Z4bXYwdlF0UzdnQWxfTUdlcldvSUtDbE83ajdrMWlCekV1OFo3b1VPRjJpd0JaNHE2RmZTbEZYVjY0Q3N3cEtFYkt0cVBTQU5yQjlGNkNlN09ycFNPZnVDZDl2NzdZV1JHcWN0NmViVkl2RDczZkVKTGx2OUEzZDExajRadw?oc=5",
+     "source": "Volcano Discovery"
+    }
+   ]
+  },
+  "us7000tyca": {
+   "headlines": [
+    {
+     "title": "Fiji records 264 earthquakes last month",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mNkdaTVk3c3pFT2N4RzlkS0lIOC12X0xuYUh3TlVGRm11aXRlS2tYam5qQmVPekJIelVvVnNFSnIzVlM0a2ZWSTJVNVVkLVpjb0w5UFdEaFUwVW1JODZJWDMyM0ZmbGJEYUJxbTBNM3NTeThxNjMzVUM0Q1U?oc=5",
+     "source": "FBC News"
+    },
+    {
+     "title": "No Fijians affected by Japan earthquake",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YMC1xWk9GVGhWSlVoTUlBNlBWMzJYOUd6T3otaEdHY1JzRWdaWm5CTjd1TTRYRjh1NmNlM1MxSXZjMUtpdHNKdmpyZHFZSG1Eb2Z5VWdNeENad1p0SDlBc2paTEsySGZ5ZlhPRHZWSkRsM3ZSUEtPYk5mWHU?oc=5",
+     "source": "FBC News"
+    },
+    {
+     "title": "Shallow 6.0-magnitude earthquake hits Papua New Guinea region",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaHVSN3dKbWtNaUJjWXBaeHVJQ2VSY2VqMC04N1IwbENtcjFmQ0pHTk1RNjZWOWxOT0pqSnJEemlZT1RGcUpjck54VUhmc3QydWhHTGVXNmdrSDYzdGVjTWNYeGdkcE9jdHNtaEk1RGx5Sk5ubkRSaUZPV29oeUprbk1UcmZpU1dTVjFuaF85M1lnYWtXVDBhMXBoNThDRWdvTjJVQQ?oc=5",
+     "source": "Newswav"
+    },
+    {
+     "title": "Strong mag. 5.5 earthquake - South Pacific Ocean, 116 km southeast of Namuka Island, Eastern, Fiji, on Saturday, Nov 14, 2026, at 05:15 pm (GMT -12)",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMHYtbUJudy0wR1BZM3RUTUJITW5lTFRMVjVHS1dRZldSZEJWSFN4Y2JsWFhMT1dhOGpvVkxpYUo5OFRFWnRqSHpSM0hJc21kZm9TWExLd1dJYjZ4NUI5cG1hcXdzYjJJSjF2S0ZQWjF0WlN2TEJoY3E0alRiLVpfUjRLTHdVeF92eUdMUkx4cENfQ2lkQ0xaQVJzSjRBSXgxRENYdG5RTE5INFVucEZsRA?oc=5",
      "source": "Volcano Discovery"
     }
    ]
@@ -192,16 +256,13 @@
      "source": "Apa.az"
     },
     {
-     "title": "World Earthquake Report for Wednesday, 11 November 2026",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeWRnaEJBUEQwdlUxa09tR2ZwR0JfbHJwVmFsNFppMzRPN1ZHYVJRTkRhMy1ZSTVRZDl5eGVWQmR3NFE3U29fMnhENVhySjFrTnZ2RG5aX2NtelktX0FGdEVoWDRLbEU3Tm9CMldkb3pJX3FvXzlnNzlRcWVsbzZ0U2w0QWNKUkZqUlRyQ3l0LVNRb2t0STBRT2pndUJNcmNhR01R?oc=5",
+     "title": "Strong mag. 5.1 earthquake - South Atlantic Ocean, 49 km east of Bristol Island, South Georgia and the South Sandwich Islands, on Friday, Nov 13, 2026, at 05:04 pm (GMT -2)",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTFBVdDJBYm5YaThhSmtSYXdORGpKYjBCQjZFbFRnTXk2Q2tockMzdlI1X2llZDBwSHM5Nm0yNHdiMmdqRDBnOEFmM1dTQ01WZXViRzR5eUtjTGVUYWFxUV82bllobm1aLUNaOGk5RW5sRlNBMUtTY2JLMmZPekI5cEFUZ0lNUDkydHJvNG45Z2ZzQW8zZ3dwMTlIQ0Ywcm5jWGhfanRiWEJMd2tuaTRuYmJwNk5YRS1YeGNqWFR3?oc=5",
      "source": "Volcano Discovery"
     }
    ]
   },
-  "us7000tyw8": {
-   "headlines": []
-  },
-  "us7000tyw6": {
+  "us7000tz1n": {
    "headlines": []
   }
  }
