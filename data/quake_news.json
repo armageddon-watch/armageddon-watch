@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T07:31:44Z",
+ "generated": "2026-11-19T20:44:52Z",
  "source": "Google News",
  "quakes": {
   "us7000tymu": {
@@ -44,8 +44,8 @@
      "source": "Latest news from Azerbaijan"
     },
     {
-     "title": "World Earthquake Report for Wednesday, 18 November 2026",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMGxEOVViRDNRLWhyT0RWOFVhMGdyNHhmcVM2R05ESHBhbC01Qm1mY2g3bjNtLVJ5aDY4UkM1bDYzVkJQQjd6ZEZ3S2w0a0lwNWxsbHhZYWJMVy1uMFJFTE1qWUJia01KX3A3UVRvLUdMT3ZlalJLYVdKbWV3akZvVTVNeUlFa0FKLWNBRnJTdnFSMDhCSzVWYXZIOWE5VkY4eFE?oc=5",
+     "title": "Very strong mag. 6.1 earthquake - Pacific-Antarctic Ridge on Wednesday, Nov 18, 2026, at 09:14 am (GMT -10) -",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc2FTRm1Id2RpRG9Cd1RJZXhyZVhpRkM3ZGloUGU2QWZQTmJVcE1FRVM5UFp2R215R3BiUmU3OFI3NkFlWlNieVBycVU4di1VcFRYeXZLWkNjNnFnN3h3TGREcklKUzRrc2IzVUZNWmJFRm1meHhCbUtIQVkzejdnNHFQSE1HdnJ3S21HM2N4alYxVndLbzJRSlI1dmo3YXFuQ2ZnN1RZQkZjQQ?oc=5",
      "source": "Volcano Discovery"
     }
    ]
@@ -66,11 +66,6 @@
      "title": "Strong mag. 5.9 earthquake - South Pacific Ocean, 88 km west of Minas de Marcona, Ica, Peru, on Wednesday, Nov 18, 2026, at 01:07 am (Lima time)",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT1BpWThVd3NoenJ5WEUzbjJjRDlGSGdGT3dlN0F5Vmdob0JDczk3NkNzazRiYXN3c2FHNHdIVkRWVElRRkJPRkkxMGxNNFphLWtNUTNvZ1BvMl8wNi16V19FWHhFSm5ta2VVLUx3MmVSb3JkUnBHTndWN2o5c0I5bXAzcHJXeWlOcFNVV0RxSUFXMktKT0Q3U2M2ZS1QVmJYdllqR3dXQU0taklJZFZv?oc=5",
      "source": "Volcano Discovery"
-    },
-    {
-     "title": "Magnitude 5.9 Earthquake Strikes Near Minas de Marcona, Nasca Province, Ica, Peru",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb2NHVk9iY0EzV1VmeTlxWU9Sc3FfaTc1V3prNWJDRkp3ekhieDI3R1lGRktHMnZCbGJZcVFEcXJUYXg4dWhRVHBOMk5KMmFlZHZibkctSC01V29rSGZUSWNnTDMza21ZcXREWWhreVRnTDhBSWtaSmtmanphOHcxdmd6OUtIdjAxZkdUcWViQUwwbm9iYWNWRjBPcXNCbWJ3V2VJY20tRXZLcmtiNl9ZS1Zndm9FNVdBUkFpSDRqUUhtY1cxOGNGa0hreTk1azdGbFdhYXBn?oc=5",
-     "source": "Volcano Discovery"
     }
    ]
   },
@@ -90,20 +85,25 @@
      "title": "M5.8 earthquake strikes near Ruteng, Indonesia",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMTBLMmJMTHZUQy0xX19xd09XNWFqSEFFSFd3MUR3S21VbFBydGtBeXBxc3VvcHVteWpIRU1hWDRYY2xMOUZBcWVMMGtqUXNuc1NMVF9PZW1sQk1XRjlfU3B3TUs2U3NHZVhlLVlBS2RJQkNQdWV3SVFrdXZpQWU1NHpjOGJMaTROVndhZk9lbw?oc=5",
      "source": "cedarnews.net"
+    },
+    {
+     "title": "Strong mag. 5.8 earthquake - 41 km north of Ruteng, Kabupaten Manggarai, East Nusa Tenggara, Indonesia, on Wednesday, Nov 18, 2026, at 04:41 am (GMT +0)",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTTNieGlHc0RyZDdtVHJseHEyVWpsOUNBTEtudVhDeHBtWURTMWxJc1oya2ZBVVdaNnZrZXJfaEdYeWN6cFpPNkVUYjN5ZVVNWDR4ZFVrMDZ3OFBxd0tHYzhfSFNXWUZzVTJYb3oxNXJGaFh6YzYyOEM4YVNUemxBLVc1bDdlSVE1M0YxMzVlVHlfeWplVHV4Z2lOREktU3hOSDBIY0ZpQUYzNDRZbDg2RlhGblN1VUNvRm9KTkZaNjRKWXZXVzNLNDBfbw?oc=5",
+     "source": "Volcano Discovery"
     }
    ]
   },
   "us7000tyx2": {
    "headlines": [
     {
+     "title": "Strong mag. 5.8 earthquake - Bismarck Sea, 75 km southwest of Long Island, Madang Province, Papua New Guinea, on Wednesday, Nov 18, 2026, at 03:42 am (GMT +0)",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdUNnZVpzbHBxVy1rZ1ptWW5JU21leUI1a1RKckgteDRNNWdNcGtGdktEemhnSnk5dHJva3BuMkYyYzhVWUR5Vko2OEYtR1pFZ0N3ay1udXRDdndHMkJiYTdyWXY1VTF1cFBxQXZYZFlzel9IdmhHeGkydDZUZjFPZG1rQ08tWHFyR2hDTDl5MXlxeWF4dE9aVGNaS2kweDlQa3RIM2gxUVMzcGc0VjVDdzBlMEFQUQ?oc=5",
+     "source": "Volcano Discovery"
+    },
+    {
      "title": "Earthquake in Papua New Guinea: Quake of Magnitude 5.8 Hits Madang Province",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcDV1Z3NRYkJ0cjBMMTRFbWJpZlo5VkRHMXBSZzNjcmVNQjNHRS1VQUxUX1JsTUZPVTNhZWxaUnVzLWozMzRKZjNJUHdXWG83VU54SlNZcXRTeWlXX2NVb1piOGdEUE02dmxYREtENjNvY0pITGNoUzRWdU9rbGVKeFJyX2ZoQTU0RmoySWhELWgwcFg5R1ltMmtFVWxUM2hFTjNxRkxjYWhha1ZLelNGRHRfeFNGQ25WQnlwcW1R0gHDAUFVX3lxTE56Rm1QRXczRE50aXlkLUlNbHh0RTNuemxPY3V2S0hLdlIxd2NLblpyTkxOS01WWmFLd05xQlR4S2lvaWJveVdObktmUk5YY184Wm41Ny1hZ3F0M19yY1VhdEsyODRDVU5zaVBWdTB3WmlFTERyRHdXTlBzNks2TnpZb2hKaTRTZi1VZ2VFUEFCUWE3emtyWS1IT0duY3dSOWhiUGVodmNzaUZJc1VheGh5d3IyNkM5OTdWTGp4V0RQV0tVYw?oc=5",
      "source": "Lokmat Times"
-    },
-    {
-     "title": "Papua New Guinea Earthquakes: Latest Quakes",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vTURmRTZNUmlzRzNOZU9tay16VVNoOEZ5RS1pWVlvcVNoQlB6Sm0zcHFROWE1amRHZFZMVGp2THZfeWk3ODNsaTJWaUJGNmNnS0tMUm9PWUx3Z0ItQUNMLU5OZjBSZw?oc=5",
-     "source": "Volcano Discovery"
     },
     {
      "title": "Magnitude 5.8 Earthquake Strikes Near Madang, Papua New Guinea",
@@ -120,9 +120,9 @@
   "us7000tywi": {
    "headlines": [
     {
-     "title": "USGS: 5.8-magnitude earthquake hits 150 km SW of Merizo Village, Guam",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51WEMwdXhaa0VGclRjcURMbmVsOHhCRUZTTnEySjN1TDZFLXc4X1V0d1dlWUZnS2JOdFhGZmg1TTE5azlVLVdwYThZZmVuNGRXUVFlWWUzblhWS2FFb1piNi1mLTNDa2M3SzFJZmZDS1ZGU1E?oc=5",
-     "source": "CGTN"
+     "title": "Strong mag. 5.3 earthquake - North Pacific Ocean, 170 km southwest of Guam Island, Guam, on Thursday, Nov 19, 2026, at 02:06 am (GMT +10)",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVGdRVjZkbTFaZlhPZzVtbEN2NEptRXRZYk9tcm84MmsxdnBBSTNnNk5VanVrbklhX1FJS0hlQjQ2OEtlTGpqVDBSQW91Nl9pTUtxMDdpdTEyaTl0NHlrSEpwZVdLa2xBWDVFUWdES1BzMUROdnJxWXh4OVNIbjVISUtreVpHcEs2NEVwRWw4dzctbmc0NGo3bzJNQ3ZjX1NOOWh1dEZBVWJkX1FrUVRHY2dvWVhEYmVHM2FXaHNn?oc=5",
+     "source": "Volcano Discovery"
     },
     {
      "title": "Magnitude 5.3 earthquake strikes southwest of Guam",
@@ -130,13 +130,13 @@
      "source": "cedarnews.net"
     },
     {
-     "title": "Strong mag. 5.3 earthquake - North Pacific Ocean, 170 km southwest of Guam Island, Guam, on Thursday, Nov 19, 2026, at 02:06 am (GMT +10)",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVGdRVjZkbTFaZlhPZzVtbEN2NEptRXRZYk9tcm84MmsxdnBBSTNnNk5VanVrbklhX1FJS0hlQjQ2OEtlTGpqVDBSQW91Nl9pTUtxMDdpdTEyaTl0NHlrSEpwZVdLa2xBWDVFUWdES1BzMUROdnJxWXh4OVNIbjVISUtreVpHcEs2NEVwRWw4dzctbmc0NGo3bzJNQ3ZjX1NOOWh1dEZBVWJkX1FrUVRHY2dvWVhEYmVHM2FXaHNn?oc=5",
+     "title": "Strong mag. 5.8 earthquake - North Pacific Ocean, 172 km southwest of Guam Island, Guam, on Wednesday, Nov 18, 2026, at 12:22 pm (GMT +10)",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLTQ5RHpjd0U3WWJRdFZncndsUjVUM0l3b24tbnRDNW9mSXhRbnpEODhGaC1RLUotcGN5N1hpNVRYRnNzTFFxbXJXam82emtsY0psVmFJSk5yNlFvZjBsTnVvSUZQZS02RGV5OFYxVy0yeDNmTEF1VXBFVWlLZUR0NHRFbGtTeTJBTFFSc2hzNDM1QXozZXlmRkNua05Xc05ndWZwTXZzX3BOQnZXZWdJaDZTWGRSWmRMMnk3Rk5B?oc=5",
      "source": "Volcano Discovery"
     },
     {
-     "title": "Magnitude 5.9 Earthquake Strikes Near Minas de Marcona, Nasca Province, Ica, Peru",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb2NHVk9iY0EzV1VmeTlxWU9Sc3FfaTc1V3prNWJDRkp3ekhieDI3R1lGRktHMnZCbGJZcVFEcXJUYXg4dWhRVHBOMk5KMmFlZHZibkctSC01V29rSGZUSWNnTDMza21ZcXREWWhreVRnTDhBSWtaSmtmanphOHcxdmd6OUtIdjAxZkdUcWViQUwwbm9iYWNWRjBPcXNCbWJ3V2VJY20tRXZLcmtiNl9ZS1Zndm9FNVdBUkFpSDRqUUhtY1cxOGNGa0hreTk1azdGbFdhYXBn?oc=5",
+     "title": "Significant Magnitude 5.3 Earthquake Reported 90 km North of Bugalaga, Indonesia",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWXlLMXJncnNyeV9oOGQ2XzlONmwyZmt4WmZRNW9GMlpDa1ZqenZ4RkRBYWc3b215VVJoM2tLcUVVdzRTcjZzc2NkLUp1OWE1VkpqRHltWElkRUVHNWhCMVNpU1JaZUdVZ2w1WDF1aTlhUzVEX283djVtUTVTOENrdzgtSmFTNXhsa3ZnUW90UlZwQWpFdDAyQTg4V2UxdzdqZDRrTk4wTmI5XzJyMFV4bzl2LTVxN0VNMDNFWjBWQUdFR01VSnR5UVdIVzQ2aExuVVRRZXB5SQ?oc=5",
      "source": "Volcano Discovery"
     }
    ]
@@ -154,13 +154,13 @@
      "source": "Tech Times"
     },
     {
-     "title": "Strong mag. 5.8 earthquake - South Pacific Ocean, 103 km south of Ica, Ica, Peru, on Friday, Nov 13, 2026, at 11:43 am (Lima time)",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVmFJQWowZG1pNjdOQ2tFRWw0NTdaYnRfUy1za1hwZ0dpM3RWTHdqaXJad2RiUW56VmZnd3daVTZPTmx6YklWQUdSZ0ZINHJEdTZ6YmhEYkR3WVR0d2d2OU9jbzExVFotRUJ4eHhVSVk0UGVyS1JGRDdCby16OGExQ2J0N050X1hkZ0VCZ29aZ2tfU0VVZmNrdzZoNDNFQW14RVFRQmhVS0VUZ0hST0dV?oc=5",
+     "title": "Strong mag. 5.9 earthquake - South Pacific Ocean, 88 km west of Minas de Marcona, Ica, Peru, on Wednesday, Nov 18, 2026, at 01:07 am (Lima time)",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT1BpWThVd3NoenJ5WEUzbjJjRDlGSGdGT3dlN0F5Vmdob0JDczk3NkNzazRiYXN3c2FHNHdIVkRWVElRRkJPRkkxMGxNNFphLWtNUTNvZ1BvMl8wNi16V19FWHhFSm5ta2VVLUx3MmVSb3JkUnBHTndWN2o5c0I5bXAzcHJXeWlOcFNVV0RxSUFXMktKT0Q3U2M2ZS1QVmJYdllqR3dXQU0taklJZFZv?oc=5",
      "source": "Volcano Discovery"
     },
     {
-     "title": "Strong mag. 5.9 earthquake - South Pacific Ocean, 88 km west of Minas de Marcona, Ica, Peru, on Wednesday, Nov 18, 2026, at 01:07 am (Lima time)",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT1BpWThVd3NoenJ5WEUzbjJjRDlGSGdGT3dlN0F5Vmdob0JDczk3NkNzazRiYXN3c2FHNHdIVkRWVElRRkJPRkkxMGxNNFphLWtNUTNvZ1BvMl8wNi16V19FWHhFSm5ta2VVLUx3MmVSb3JkUnBHTndWN2o5c0I5bXAzcHJXeWlOcFNVV0RxSUFXMktKT0Q3U2M2ZS1QVmJYdllqR3dXQU0taklJZFZv?oc=5",
+     "title": "Strong mag. 5.8 earthquake - South Pacific Ocean, 103 km south of Ica, Ica, Peru, on Friday, Nov 13, 2026, at 11:43 am (Lima time)",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVmFJQWowZG1pNjdOQ2tFRWw0NTdaYnRfUy1za1hwZ0dpM3RWTHdqaXJad2RiUW56VmZnd3daVTZPTmx6YklWQUdSZ0ZINHJEdTZ6YmhEYkR3WVR0d2d2OU9jbzExVFotRUJ4eHhVSVk0UGVyS1JGRDdCby16OGExQ2J0N050X1hkZ0VCZ29aZ2tfU0VVZmNrdzZoNDNFQW14RVFRQmhVS0VUZ0hST0dV?oc=5",
      "source": "Volcano Discovery"
     }
    ]
@@ -178,8 +178,37 @@
      "source": "cedarnews.net"
     },
     {
+     "title": "New Ireland Province, Papua New Guinea, Earthquakes: Latest Quakes",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx6amNPWktaSlNYMGVVcG1Lcy1TN3BWdi1MOG9FZUppTzRLQ3VxaXlYRE1TMmRuZW5IbWc3YTI4ejZSYWVPZUk5Xzg5aFR1OXFHRmdpSXJkRUFhdTdEZThkU25VZXRKWnAtcWNIU3UwdzNiM3RpNWVkM2ZfZlQyc3VlUmo?oc=5",
+     "source": "Volcano Discovery"
+    },
+    {
      "title": "Papua New Guinea Earthquakes: Latest Quakes",
      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vTURmRTZNUmlzRzNOZU9tay16VVNoOEZ5RS1pWVlvcVNoQlB6Sm0zcHFROWE1amRHZFZMVGp2THZfeWk3ODNsaTJWaUJGNmNnS0tMUm9PWUx3Z0ItQUNMLU5OZjBSZw?oc=5",
+     "source": "Volcano Discovery"
+    }
+   ]
+  },
+  "us7000tyek": {
+   "headlines": [
+    {
+     "title": "M5.5 earthquake strikes near Union, Philippines",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWGptVzgycjMzejV5bWVTYTdSbjdma1NLX1JVWWFFeFNXcjRhd1h4MmNrVXhzWDBHdHJEU2tRekR4QWtsM280TzZFTWlnMkxpMm1jZ0RiVWxJUnY4X05qSXB1Q3JKTU5hVW91dDdoRVFnV2xFbGdTdW9FcXoyS3dHRmpxUzFQaUdKT3ZRV1hZaFk?oc=5",
+     "source": "cedarnews.net"
+    },
+    {
+     "title": "Minor mag. 1.6 earthquake - Philippine Sea, 30 km southeast of Siargao Island, Philippines, on Monday, Nov 16, 2026, at 01:29 am (Manila time)",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ2d6LTVZS1NNN2E4Z1JaMWFMUkhXa3NjWTZ3QkwyaFZKNFdsMlBYbmdCUExvTjExT3dCY21QSkkxUkJQVXc3U2RHbGxmOXJqdUZNVy1fTEE0aDQxNnRLM0tlc2NfOFdVWVdUOWlLcnJjdVFiS1JobmJrMGNObjZJZEllOUZzMFkxU1ZoSHgxQlEzT2RrVU1WZTIzMGE2NmkxdTZPX2JkSk9lTnNpbDVNdnNkS2FTTXBBWFBWdjg1TlA2ZnhoYl9hNHFsM0E3Mk9GUjlIT1N1aHlrYzJSTEx6NFNoQ1dtZw?oc=5",
+     "source": "Volcano Discovery"
+    },
+    {
+     "title": "Strong mag. 5.5 earthquake - Philippine Sea, 21 km southeast of Siargao Island, Philippines, on Sunday, Nov 15, 2026, at 01:41 pm (GMT +0)",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMHhBRDJtcnhsazh4NEZoSklsVlh3MXg3a1MyTzhMemRORnBLMXdoVURZQkxQMndtOGM2dGJzTDNCaHp5R0N3NjNSSjc5N0VMSWdQdlg5U1RMVnNWc2RiZlpPWFM0clJmRlV0ZWxuTmNBSHpaaGpYNTlYX29wUy1haFpZX0Z0VVB2eGFSV2hUcXpQeUZUaVFTcF80MnpVNk4zRmNDS1lwM3JycHZqWDVNX0Zab3liVXhRb3lyXzM0d3RKQQ?oc=5",
+     "source": "Volcano Discovery"
+    },
+    {
+     "title": "Strong mag. 5.7 earthquake - Philippine Sea, 24 km southeast of Siargao Island, Philippines, on Sunday, Nov 15, 2026, at 09:42 pm (Manila time)",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbGJRaXdFMXNBNDFzOHBxYUpBUlBtcDNjRUlST0dhblFfUGVITHVZZjhYa0l1OHFianA5T2hIVml2T0RHbGIxZmVvTHBfU0dfbUw0Z29aUms2NmdwWmxPbGYyUHlVZmtxM3FNMUpOX0VORFlqRzJ6LUxRUjk3YlBCdkUxOGRaMDBzNTlwYmo4Um5TZkhGSFExSldKV2lKMnhzN1FlTTIxTGcxRF9KdzNPdERR?oc=5",
      "source": "Volcano Discovery"
     }
    ]
@@ -187,9 +216,9 @@
   "us7000tyca": {
    "headlines": [
     {
-     "title": "Fiji records 264 earthquakes last month",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mNkdaTVk3c3pFT2N4RzlkS0lIOC12X0xuYUh3TlVGRm11aXRlS2tYam5qQmVPekJIelVvVnNFSnIzVlM0a2ZWSTJVNVVkLVpjb0w5UFdEaFUwVW1JODZJWDMyM0ZmbGJEYUJxbTBNM3NTeThxNjMzVUM0Q1U?oc=5",
-     "source": "FBC News"
+     "title": "5.5-magnitude earthquake hits FIJI REGION - EMSC",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43LVlPbGZhclpSV2VMVVBXTWo0UFdXZ0RkbzNOanNFTTF3XzFwbGZyUmhUbERoTXVWMkxBSmEzQVBhRVVERHlkZFcxN3VPaEVqSEpVX21jbU1YNENqTzYtU1ZMUzdmMS0zSkxUM1VB?oc=5",
+     "source": "CGTN"
     },
     {
      "title": "No Fijians affected by Japan earthquake",
@@ -202,9 +231,9 @@
      "source": "Newswav"
     },
     {
-     "title": "Fiji Earthquakes: Latest Quakes",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Gc29TbU42MC1xRFlwVTNVVGV3UElSNS00LTdxZmJ4WnNQUGV6aE8yczVWdF9NSVJCM0hla2d3ZXlvT3k3dnRtX1YyUXFzYmdPSWtYMnlvaGUtWDBUeE1uU2F4aF8?oc=5",
-     "source": "Volcano Discovery"
+     "title": "Moderate quake strikes Flores region, Indonesia",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUXZla0NfQ1pXZ3E2WF9Yd0xYVWw0VlQ4UlJSVml5dDhjb0dVZUQ0S2hEajlpM3JIam1jR2xmdVZSZXUwekxPZ2N6YUxIeDlZMk1wM1lCQ2syZmxGVTN5cENFOVJDWkZXNktXbDcxVGxVTVU1M2dtaDZaT3VkNTVtbDREcm94bFdERlZaWkNYbGo?oc=5",
+     "source": "Newswav"
     }
    ]
   },
@@ -219,6 +248,11 @@
      "title": "Bulusan Volcano Logs Over 430 Quakes in 24 Hours",
      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWkVDMl9zdk5FOHdfZGg3N0ZtczI5V2VUOHQzRFNldWUzTi1vNXdna1lubDAxS2lnZU1lUFFVRzhNUHB1dUhxdlRIblRyeE4zY0FGb0VyYldjYjM2NGhva0tEZHhKVGpTV3FYYzNCSGtJeHRDdTJ0TVlGSmV1WW5WdHVYRXR5N2xiRlFDMmRZdUpwbFkxZ1B2RXZLQ21HWFBBcVU2ZHdLZjBoc0NqcFY2bHdCY0N1NERoVVAxZF95cVJ0Y3RfbTdRSEVieGE2V2NFano5alBR?oc=5",
      "source": "Nature World News"
+    },
+    {
+     "title": "Strong mag. 5.5 earthquake - Northern Mid-Atlantic Ridge on Saturday, Nov 14, 2026, at 06:26 am (GMT -3)",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSTU4b3dMaDVuV2huQl9ndk1ZTlN3emdWR2hLWnhpN1hORnJHWDVYTmtSclVHSEdXS0FJYmZCZHpjZFVHczNZSTMwWEJ5czNEaks3YTdkZmRzMFVXeWIxczhuMmZ4SEhrVk4xTl9hSldRaC1RQW5ORW12Y1BoRk9iZXdNUm5fbzRSclViZTBKdGd2MVFVcGhVS1NQbmQydVVCaTROYlBLclJKRDZYNVgyLXplSHZRa3BaSWpJ?oc=5",
+     "source": "Volcano Discovery"
     },
     {
      "title": "M5.5 earthquake strikes near northern Mid-Atlantic Ridge",
@@ -265,17 +299,41 @@
     }
    ]
   },
-  "us7000tz1a": {
+  "us6000uc2q": {
    "headlines": [
     {
-     "title": "Magnitude 5.3 earthquake strikes southwest of Guam",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObTB0M0R0UHFYNy1acUt6WGdrZGluZDNPM1JlVEN2TFRqLUI4SkZpRGU0OU9vVEF2WUtfNDB2RjBLTnhvUHJrc0xObFN0MmItVElTakZRaFhKakpKT25yTDJaMlhhalhSa01WQkZxWklqcm1sYXVLOUhhNHJkSWZYZlJkT1dyNE0wcG5JVlREREFoaG5leUE?oc=5",
-     "source": "cedarnews.net"
+     "title": "Strong mag. 5.3 earthquake - South Georgia Island Region on Thursday, Nov 19, 2026, at 06:07 pm (GMT -2)",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORkhqV0N6djdhZDl1VGhfOWlLZWNWcTlyczUzWnlTdGlrcFh2bWVjU29IQ1phWHc5YjJVWnNNb3pCM2JCYmNzdzYwTVdXMWJwU0ZPTjNoc0laNlMwd2hrNW5mRGNuT3VmSGdWdTlTRHpsV1QzVTJQM2FDdVRDb2RRZVFtaEtXdlJEMnVYVGpkazZxdkNWOWdFenRWN0NaLW9XQW02VUU2NHoxUFRRSUFzNGIzUUpDbndMb0tV?oc=5",
+     "source": "Volcano Discovery"
     },
     {
-     "title": "Strong mag. 5.3 earthquake - North Pacific Ocean, 170 km southwest of Guam Island, Guam, on Thursday, Nov 19, 2026, at 02:06 am (GMT +10)",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVGdRVjZkbTFaZlhPZzVtbEN2NEptRXRZYk9tcm84MmsxdnBBSTNnNk5VanVrbklhX1FJS0hlQjQ2OEtlTGpqVDBSQW91Nl9pTUtxMDdpdTEyaTl0NHlrSEpwZVdLa2xBWDVFUWdES1BzMUROdnJxWXh4OVNIbjVISUtreVpHcEs2NEVwRWw4dzctbmc0NGo3bzJNQ3ZjX1NOOWh1dEZBVWJkX1FrUVRHY2dvWVhEYmVHM2FXaHNn?oc=5",
+     "title": "M5.3 earthquake strikes near South Georgia Island region",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPblM3YmNrZU5SMWJfQVB1c0prWTN6eHdIenhkM0tnR29HR0NDTHdfdWJnY3dlbllLNnZqaFpnV1l3WlhXd2FEcndTc3hYOEp3cVJIeHZ5c04tbXh4ZjdtZF9BWmRyMExLSGJmWjZZSXNZSG1hckVzWl9xZkJ3dVpCNTJBdjVkVWE0Q2FYS0U2OGdCQndhYkNKbS1OTWlRdw?oc=5",
+     "source": "cedarnews.net"
+    }
+   ]
+  },
+  "us7000tz1n": {
+   "headlines": [
+    {
+     "title": "Magnitude 5.7 Earthquake Strikes Kumamoto, Raising Fears of Further Tremors",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuZHdUT0lWS2tMVWkzZEw5ekhEQTBnOHYyVFllZUxESmxPRTlkMTVHYzY5d2dybHVfcFB2UVpyZ1h4Y3o0b1hRUnJ4NEVQcElxS2lVYQ?oc=5",
+     "source": "News On Japan"
+    },
+    {
+     "title": "Magnitude 5.7 Earthquake Hits Kumamoto Prefecture, Western Kyushu, Japan... \"Caution Urged for Next Week\"",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wZXh3d2dINVJsLTRnaXhhX3NWN1NMNkIySGhEaXZoUHNISFFnREtZbWFDb2NZcU1UVzYxR0RuRkhkdE1kdHlET2ExNnhwV0xGTGRxLS1GQmVpLVdPVGRTX2I0SDF0cVBQcmdXSHZ3?oc=5",
+     "source": "news.sbs.co.kr"
+    },
+    {
+     "title": "Strong mag. 5.3 earthquake - Kumamoto, 118 km west of Nobeoka, Miyazaki, Japan, on Thursday, Nov 19, 2026, at 02:22 am (GMT +9)",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTzFpamkwa19tQWY4OXpnTG4zZkEyM3dqQnRxT1FHSkxzMEg2R0hZMUtwaTdHM2xjVzhJVkNnRXFqa1VtRnVWNFJjMXBKQlZCRVFxVGN3T2dXS2pmM1hQREFVZEZTSHZ0N042ZDNhZnJtWUJRVExTUl9TcUV1REoxZXcyemJqOHlob090MGpIZUcxeER4M2N4VGVmX0luNTV0YjVEY1JCMk5lbl9SZzd3cDJCaVhnTHRGOE92bw?oc=5",
      "source": "Volcano Discovery"
+    },
+    {
+     "title": "Magnitude 5.7 Earthquake Shakes Kumamoto Japan",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wU0Q0ZXd4QzZ6TkZjU3h2N25SLVFIZ21ObmRWOW1XR2F4YjdVem5Wam8tR1J6bHFPTnBYcGthVHJmRzZ1UXJEbXpmeDliaVJlZ1d3ZmV0Z1g0cGFmLVk3MEJfR21HdnM?oc=5",
+     "source": "SuaraGarut.ID"
     }
    ]
   }
