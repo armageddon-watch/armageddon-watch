@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T20:40:16Z",
+ "generated": "2026-11-19T07:31:44Z",
  "source": "Google News",
  "quakes": {
   "us7000tymu": {
@@ -27,7 +27,28 @@
    ]
   },
   "us7000tz37": {
-   "headlines": []
+   "headlines": [
+    {
+     "title": "6.1-magnitude earthquake hits Pacific-Antarctic Ridge",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdWpIcGp5Z042dmhsSDZobGlrd19iWDdFN3BsOUhJeGVhTF9FcUhjV1VBWFoxOHlsNXRQaXZWbWROQndJQVpvSDA3SFZoX2w5R3NlVy0yZkVDM1NCQXN3cU80eThwRjF6YkNXaExlUjloSnEyMVRkVVpLSGo2cFlDdk42NVRURjVjS2RyOUlnbFl2OE9mLW5CRXVPTlJCWlk?oc=5",
+     "source": "Breakingthenews.net"
+    },
+    {
+     "title": "5.8-magnitude quake hits Pacific-Antarctic Ridge - GFZ",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHVBNjdMWUQ2cjNQUmFRUHZ4TDhNV1VZaVYxZVdRczAtTklKMjJuR3ZXLUNHN2h1OGhMZUNYY1FZWU9vaVdIOFl0Sm9OVk9uYWdna2RKc0xDVXhhbmRhYUVWYXdnajdidWpYTmkzcHJ6V1REeXUxbnZaUzlOTFhINnY0dThLUFVUSEV4LXF3?oc=5",
+     "source": "Apa.az"
+    },
+    {
+     "title": "Strong 5.8-magnitude earthquake hits Pacific-Antarctic Ridge",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOai1PYmRsSXd3eklaUGNEV0VPNC1ZelY4VU9KVldHYmd2YzFuY3dUMFhyS1R0WlRrOEM1alEzWmJfbXdOb19lcVg4OTJDYUhuWU1oNlcxVk5UYmdRdWpwbnJ1NC1DRUNxajhfbTl2Rk9VTjAtcnRodkNuOFVSNEZxdXhsemNlSkE?oc=5",
+     "source": "Latest news from Azerbaijan"
+    },
+    {
+     "title": "World Earthquake Report for Wednesday, 18 November 2026",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMGxEOVViRDNRLWhyT0RWOFVhMGdyNHhmcVM2R05ESHBhbC01Qm1mY2g3bjNtLVJ5aDY4UkM1bDYzVkJQQjd6ZEZ3S2w0a0lwNWxsbHhZYWJMVy1uMFJFTE1qWUJia01KX3A3UVRvLUdMT3ZlalJLYVdKbWV3akZvVTVNeUlFa0FKLWNBRnJTdnFSMDhCSzVWYXZIOWE5VkY4eFE?oc=5",
+     "source": "Volcano Discovery"
+    }
+   ]
   },
   "us7000tyy8": {
    "headlines": [
@@ -40,6 +61,16 @@
      "title": "M5.9 earthquake strikes near San Juan, Peru",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUGFBUjhzbndaZ2NjUkVfeEFTajBBRVozOWFrWnZvWHF1NGtxNk04Y19ydXNlUi1QU0Z5d04yeDFWaGZiN2ZiUzY1TEVFSGNCem5zdU1kUk1ycnlUODZ6UjdRNXNIaUYwMGpvUU90R1hTS0xTaTFTVURTZzc2RUt3a3M5VEZ2ZkxUc0dFUTMwNnROTURQeFE?oc=5",
      "source": "cedarnews.net"
+    },
+    {
+     "title": "Strong mag. 5.9 earthquake - South Pacific Ocean, 88 km west of Minas de Marcona, Ica, Peru, on Wednesday, Nov 18, 2026, at 01:07 am (Lima time)",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT1BpWThVd3NoenJ5WEUzbjJjRDlGSGdGT3dlN0F5Vmdob0JDczk3NkNzazRiYXN3c2FHNHdIVkRWVElRRkJPRkkxMGxNNFphLWtNUTNvZ1BvMl8wNi16V19FWHhFSm5ta2VVLUx3MmVSb3JkUnBHTndWN2o5c0I5bXAzcHJXeWlOcFNVV0RxSUFXMktKT0Q3U2M2ZS1QVmJYdllqR3dXQU0taklJZFZv?oc=5",
+     "source": "Volcano Discovery"
+    },
+    {
+     "title": "Magnitude 5.9 Earthquake Strikes Near Minas de Marcona, Nasca Province, Ica, Peru",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb2NHVk9iY0EzV1VmeTlxWU9Sc3FfaTc1V3prNWJDRkp3ekhieDI3R1lGRktHMnZCbGJZcVFEcXJUYXg4dWhRVHBOMk5KMmFlZHZibkctSC01V29rSGZUSWNnTDMza21ZcXREWWhreVRnTDhBSWtaSmtmanphOHcxdmd6OUtIdjAxZkdUcWViQUwwbm9iYWNWRjBPcXNCbWJ3V2VJY20tRXZLcmtiNl9ZS1Zndm9FNVdBUkFpSDRqUUhtY1cxOGNGa0hreTk1azdGbFdhYXBn?oc=5",
+     "source": "Volcano Discovery"
     }
    ]
   },
@@ -65,14 +96,14 @@
   "us7000tyx2": {
    "headlines": [
     {
-     "title": "5.8-Magnitude Earthquake Strikes Papua New Guinea",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRjNDckFsTTNvX1ZCYm81NU5WMlJvVEJNRGlUWTR0U1FzVWFHaFZzX1VEZGNUR1lIZm9GaDdLcUl0Q3FoMnI4UTM2bHVoZzdlUXV0MWlnUFpXUDdFYVg2REx4TlpGTWRyaW8xQ042Nzd1emI3UmtfSE9zZVNseXJaWGE2eEhjZWJUYVl3MmRMdGE?oc=5",
-     "source": "Fana News -"
-    },
-    {
      "title": "Earthquake in Papua New Guinea: Quake of Magnitude 5.8 Hits Madang Province",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcDV1Z3NRYkJ0cjBMMTRFbWJpZlo5VkRHMXBSZzNjcmVNQjNHRS1VQUxUX1JsTUZPVTNhZWxaUnVzLWozMzRKZjNJUHdXWG83VU54SlNZcXRTeWlXX2NVb1piOGdEUE02dmxYREtENjNvY0pITGNoUzRWdU9rbGVKeFJyX2ZoQTU0RmoySWhELWgwcFg5R1ltMmtFVWxUM2hFTjNxRkxjYWhha1ZLelNGRHRfeFNGQ25WQnlwcW1R0gHDAUFVX3lxTE56Rm1QRXczRE50aXlkLUlNbHh0RTNuemxPY3V2S0hLdlIxd2NLblpyTkxOS01WWmFLd05xQlR4S2lvaWJveVdObktmUk5YY184Wm41Ny1hZ3F0M19yY1VhdEsyODRDVU5zaVBWdTB3WmlFTERyRHdXTlBzNks2TnpZb2hKaTRTZi1VZ2VFUEFCUWE3emtyWS1IT0duY3dSOWhiUGVodmNzaUZJc1VheGh5d3IyNkM5OTdWTGp4V0RQV0tVYw?oc=5",
      "source": "Lokmat Times"
+    },
+    {
+     "title": "Papua New Guinea Earthquakes: Latest Quakes",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vTURmRTZNUmlzRzNOZU9tay16VVNoOEZ5RS1pWVlvcVNoQlB6Sm0zcHFROWE1amRHZFZMVGp2THZfeWk3ODNsaTJWaUJGNmNnS0tMUm9PWUx3Z0ItQUNMLU5OZjBSZw?oc=5",
+     "source": "Volcano Discovery"
     },
     {
      "title": "Magnitude 5.8 Earthquake Strikes Near Madang, Papua New Guinea",
@@ -97,6 +128,16 @@
      "title": "Magnitude 5.3 earthquake strikes southwest of Guam",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObTB0M0R0UHFYNy1acUt6WGdrZGluZDNPM1JlVEN2TFRqLUI4SkZpRGU0OU9vVEF2WUtfNDB2RjBLTnhvUHJrc0xObFN0MmItVElTakZRaFhKakpKT25yTDJaMlhhalhSa01WQkZxWklqcm1sYXVLOUhhNHJkSWZYZlJkT1dyNE0wcG5JVlREREFoaG5leUE?oc=5",
      "source": "cedarnews.net"
+    },
+    {
+     "title": "Strong mag. 5.3 earthquake - North Pacific Ocean, 170 km southwest of Guam Island, Guam, on Thursday, Nov 19, 2026, at 02:06 am (GMT +10)",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVGdRVjZkbTFaZlhPZzVtbEN2NEptRXRZYk9tcm84MmsxdnBBSTNnNk5VanVrbklhX1FJS0hlQjQ2OEtlTGpqVDBSQW91Nl9pTUtxMDdpdTEyaTl0NHlrSEpwZVdLa2xBWDVFUWdES1BzMUROdnJxWXh4OVNIbjVISUtreVpHcEs2NEVwRWw4dzctbmc0NGo3bzJNQ3ZjX1NOOWh1dEZBVWJkX1FrUVRHY2dvWVhEYmVHM2FXaHNn?oc=5",
+     "source": "Volcano Discovery"
+    },
+    {
+     "title": "Magnitude 5.9 Earthquake Strikes Near Minas de Marcona, Nasca Province, Ica, Peru",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb2NHVk9iY0EzV1VmeTlxWU9Sc3FfaTc1V3prNWJDRkp3ekhieDI3R1lGRktHMnZCbGJZcVFEcXJUYXg4dWhRVHBOMk5KMmFlZHZibkctSC01V29rSGZUSWNnTDMza21ZcXREWWhreVRnTDhBSWtaSmtmanphOHcxdmd6OUtIdjAxZkdUcWViQUwwbm9iYWNWRjBPcXNCbWJ3V2VJY20tRXZLcmtiNl9ZS1Zndm9FNVdBUkFpSDRqUUhtY1cxOGNGa0hreTk1azdGbFdhYXBn?oc=5",
+     "source": "Volcano Discovery"
     }
    ]
   },
@@ -116,6 +157,11 @@
      "title": "Strong mag. 5.8 earthquake - South Pacific Ocean, 103 km south of Ica, Ica, Peru, on Friday, Nov 13, 2026, at 11:43 am (Lima time)",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVmFJQWowZG1pNjdOQ2tFRWw0NTdaYnRfUy1za1hwZ0dpM3RWTHdqaXJad2RiUW56VmZnd3daVTZPTmx6YklWQUdSZ0ZINHJEdTZ6YmhEYkR3WVR0d2d2OU9jbzExVFotRUJ4eHhVSVk0UGVyS1JGRDdCby16OGExQ2J0N050X1hkZ0VCZ29aZ2tfU0VVZmNrdzZoNDNFQW14RVFRQmhVS0VUZ0hST0dV?oc=5",
      "source": "Volcano Discovery"
+    },
+    {
+     "title": "Strong mag. 5.9 earthquake - South Pacific Ocean, 88 km west of Minas de Marcona, Ica, Peru, on Wednesday, Nov 18, 2026, at 01:07 am (Lima time)",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT1BpWThVd3NoenJ5WEUzbjJjRDlGSGdGT3dlN0F5Vmdob0JDczk3NkNzazRiYXN3c2FHNHdIVkRWVElRRkJPRkkxMGxNNFphLWtNUTNvZ1BvMl8wNi16V19FWHhFSm5ta2VVLUx3MmVSb3JkUnBHTndWN2o5c0I5bXAzcHJXeWlOcFNVV0RxSUFXMktKT0Q3U2M2ZS1QVmJYdllqR3dXQU0taklJZFZv?oc=5",
+     "source": "Volcano Discovery"
     }
    ]
   },
@@ -130,29 +176,10 @@
      "title": "Magnitude 5.8 Earthquake Strikes 148 km NW of Kavieng, Papua New Guinea",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORklzcUxXeDFOd09IYlVjekVoUmlHd1ZSZThSLWJzVUtaUmdpcFdNU2dJTUtoZjdGTllmRUY4cTNZem43Z3NEMUdoQ19wMmNsekxiQVNFazd2ckxlTEVNWmRZdnk4TUp6ZUNEMDE2TE0wZUdCbWNYUVhkQ0dHQ1hxU3o4VDRJX0NERUVR?oc=5",
      "source": "cedarnews.net"
-    }
-   ]
-  },
-  "us7000tyek": {
-   "headlines": [
-    {
-     "title": "M5.5 earthquake strikes near Union, Philippines",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWGptVzgycjMzejV5bWVTYTdSbjdma1NLX1JVWWFFeFNXcjRhd1h4MmNrVXhzWDBHdHJEU2tRekR4QWtsM280TzZFTWlnMkxpMm1jZ0RiVWxJUnY4X05qSXB1Q3JKTU5hVW91dDdoRVFnV2xFbGdTdW9FcXoyS3dHRmpxUzFQaUdKT3ZRV1hZaFk?oc=5",
-     "source": "cedarnews.net"
     },
     {
-     "title": "Strong mag. 5.5 earthquake - Philippine Sea, 21 km southeast of Siargao Island, Philippines, on Sunday, Nov 15, 2026, at 01:41 pm (GMT +0)",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMHhBRDJtcnhsazh4NEZoSklsVlh3MXg3a1MyTzhMemRORnBLMXdoVURZQkxQMndtOGM2dGJzTDNCaHp5R0N3NjNSSjc5N0VMSWdQdlg5U1RMVnNWc2RiZlpPWFM0clJmRlV0ZWxuTmNBSHpaaGpYNTlYX29wUy1haFpZX0Z0VVB2eGFSV2hUcXpQeUZUaVFTcF80MnpVNk4zRmNDS1lwM3JycHZqWDVNX0Zab3liVXhRb3lyXzM0d3RKQQ?oc=5",
-     "source": "Volcano Discovery"
-    },
-    {
-     "title": "Minor mag. 1.9 earthquake - Philippine Sea, 23 km east of Dapa, Philippines, on Sunday, Nov 15, 2026, at 11:23 pm (Manila time)",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZVNMVVYtYThmeVl1RG9VaVdhRnBINlcydHR5ZHRfRV9wM2c2ZXNVYkpOT0tPSnBYWENmRWJERGxGcTBUZlU3UnZLalFFX0FPejlTcWVEN3p0ZUp2U3FpSjVJa1Z5YzJ1TW9NYVZ0TFRoRUhKbHBBWjJRZmE3NkI3NDlTX19HYktyZmw5SUNpZm9TZVlzWGp1TTU0eW9BZnRBcURKQ0NXR0lpSzB5dmp5ZnBjSkZBZGowcFJhNUpIRzNKUGRXZDJLSFNVWjJQWENwRGVtdmpSdjNEWURfWGxPdFVTa1ZpUQ?oc=5",
-     "source": "Volcano Discovery"
-    },
-    {
-     "title": "Minor mag. 1.8 earthquake - Philippine Sea, 30 km southeast of Siargao Island, Philippines, on Monday, Nov 16, 2026, at 07:30 am (Manila time)",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSEs3Q2xYUEdEbm9VUjlCZjhUTFR5M2VTQVFyaXh3T3ZfRDVXZVhPVUh2X3pqVjVOamtsRkdOTGlwWlNhbUtKc3V4bmRWdWYyWXBMZXI5NWtyWllHdEcydk9QLU9Uam1sS2Z4bXYwdlF0UzdnQWxfTUdlcldvSUtDbE83ajdrMWlCekV1OFo3b1VPRjJpd0JaNHE2RmZTbEZYVjY0Q3N3cEtFYkt0cVBTQU5yQjlGNkNlN09ycFNPZnVDZDl2NzdZV1JHcWN0NmViVkl2RDczZkVKTGx2OUEzZDExajRadw?oc=5",
+     "title": "Papua New Guinea Earthquakes: Latest Quakes",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vTURmRTZNUmlzRzNOZU9tay16VVNoOEZ5RS1pWVlvcVNoQlB6Sm0zcHFROWE1amRHZFZMVGp2THZfeWk3ODNsaTJWaUJGNmNnS0tMUm9PWUx3Z0ItQUNMLU5OZjBSZw?oc=5",
      "source": "Volcano Discovery"
     }
    ]
@@ -175,8 +202,8 @@
      "source": "Newswav"
     },
     {
-     "title": "Strong mag. 5.5 earthquake - South Pacific Ocean, 116 km southeast of Namuka Island, Eastern, Fiji, on Saturday, Nov 14, 2026, at 05:15 pm (GMT -12)",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMHYtbUJudy0wR1BZM3RUTUJITW5lTFRMVjVHS1dRZldSZEJWSFN4Y2JsWFhMT1dhOGpvVkxpYUo5OFRFWnRqSHpSM0hJc21kZm9TWExLd1dJYjZ4NUI5cG1hcXdzYjJJSjF2S0ZQWjF0WlN2TEJoY3E0alRiLVpfUjRLTHdVeF92eUdMUkx4cENfQ2lkQ0xaQVJzSjRBSXgxRENYdG5RTE5INFVucEZsRA?oc=5",
+     "title": "Fiji Earthquakes: Latest Quakes",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Gc29TbU42MC1xRFlwVTNVVGV3UElSNS00LTdxZmJ4WnNQUGV6aE8yczVWdF9NSVJCM0hla2d3ZXlvT3k3dnRtX1YyUXFzYmdPSWtYMnlvaGUtWDBUeE1uU2F4aF8?oc=5",
      "source": "Volcano Discovery"
     }
    ]
@@ -197,11 +224,6 @@
      "title": "M5.5 earthquake strikes near northern Mid-Atlantic Ridge",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQckdjelFsWXNHaWs3S1BWLWZnb25LR1BHcW10YmZ1bS13Nl94dWVCUVItSXFRNFktMlhTYS1jU1ZjQXU4eXo0YmpsODBLRXV6ZEVNbUEwdVpRUkxQcG91c2NGRjNpZmNOdDJESzR1c0JSSUhCOXZ2c1d6N0NzNVltdGwzWlZUdEViQ3dEWVRTTXFsWldVQlE2REY4bm5NQQ?oc=5",
      "source": "cedarnews.net"
-    },
-    {
-     "title": "World Earthquake Report for Saturday, 14 November 2026",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYzY3bmdEdlZPc1ZJT1dXY25va0Y3Q190X2I5RE43SUEtVlBURXFtWWR3UVBaNkxRUnNmRWJta2tKNmVqM1FWSl9QaF9PZFRLZHVoWGluT1Z0dEJWRnZDS1E4LTB6OE5JSWNsNUpvbmNMYnk5WVozcV9uX1NhUkVHSUY4TTZ5WnRxN0JRM3dRWktGVWtrOEZMeTE5UGczNTJ3U0pJ?oc=5",
-     "source": "Volcano Discovery"
     }
    ]
   },
@@ -216,6 +238,11 @@
      "title": "Peru Earthquake Strikes About 10 Miles From Friday's M5.8 as USGS and Peru's IGP Split on Depth",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVE5feVZEODlfd0plS3NwLUliaUp0WDExeGlWYmZLZWxPaVQtbXJVWmdSUUlzRGRhaE90SmFqM2VmNkU3R2tpSzBpTzVYcTZJUTZQc2poS0duam80TUluXzl4WTR1LXZEOWFjcUEtZlJHRWMxU2k4Y2xCTmZFYm1raDBIX2xnQXFEWDA4VUVObzVxTW5xdkpSNllZRXdPS3F0dU81NU83NHQ4ZVJvS3RBaHh2eWoycENTT0lfMnJwSnU4MjdCUkNxcUJuQ3o?oc=5",
      "source": "Tech Times"
+    },
+    {
+     "title": "Strong mag. 5.9 earthquake - South Pacific Ocean, 88 km west of Minas de Marcona, Ica, Peru, on Wednesday, Nov 18, 2026, at 01:07 am (Lima time)",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT1BpWThVd3NoenJ5WEUzbjJjRDlGSGdGT3dlN0F5Vmdob0JDczk3NkNzazRiYXN3c2FHNHdIVkRWVElRRkJPRkkxMGxNNFphLWtNUTNvZ1BvMl8wNi16V19FWHhFSm5ta2VVLUx3MmVSb3JkUnBHTndWN2o5c0I5bXAzcHJXeWlOcFNVV0RxSUFXMktKT0Q3U2M2ZS1QVmJYdllqR3dXQU0taklJZFZv?oc=5",
+     "source": "Volcano Discovery"
     }
    ]
   },
@@ -238,32 +265,19 @@
     }
    ]
   },
-  "us7000txqr": {
+  "us7000tz1a": {
    "headlines": [
     {
-     "title": "5.4-Magnitude Earthquake Strikes South Sandwich Islands in Atlantic Ocean",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQkN5VFZ4enhIMklwQzRpeW95R0kyZ2Z2YlE4UTFVTF9XcE9lb3B2UEpyMGktZDNOYXFuYzNYSF84UFlKOUFGUEFXWnpuSzk0X3NKMHd4X1k1SUtCeERZV3JzYVlYS1Z1bktKekZqZ0tTNW5sc0pEWWQxUFZjUHY2aVRGVUZzQjhKZ0VsUlNCY2JwMWxKTXdNOW81T09qdDdTNGktNUctMlFkaS1XdzU3R1RMR3FVaXk5aGdYVA?oc=5",
-     "source": "Qatar news agency"
+     "title": "Magnitude 5.3 earthquake strikes southwest of Guam",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObTB0M0R0UHFYNy1acUt6WGdrZGluZDNPM1JlVEN2TFRqLUI4SkZpRGU0OU9vVEF2WUtfNDB2RjBLTnhvUHJrc0xObFN0MmItVElTakZRaFhKakpKT25yTDJaMlhhalhSa01WQkZxWklqcm1sYXVLOUhhNHJkSWZYZlJkT1dyNE0wcG5JVlREREFoaG5leUE?oc=5",
+     "source": "cedarnews.net"
     },
     {
-     "title": "South Sandwich Islands: earthquakes and volcanoes at plate boundaries in the Atlantic",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdjByT3JjVkVBNUZOVEMwOWtwNy1pdENCTzJGcTNYcEoyakxWSVIxY0FRYUZlYVMxNWhyQ1hKR205N3NZaTgyYzlram1kX3hSYkZ2a1VnNi1jY2RQNUNmTFNVNWNIMjQ1aVpWR1lMRllhZ3lzcFdTMnIwSlZ1dWVPb1k1cFhfQ2ZOMnhIT1UyUGVNaENvSERsUUJOREhHRFd4TnV2aTZGaExRRF9lemx4T0VldldLMjJBZUdyRnFkOHpBSEHSAcgBQVVfeXFMT2Vkc3hLcHoyVzFVQ3NpWFc3OHF6R3FUR3gteHJFT0xWVHVrY21hVm5KOG1OWXpyVXpLcmJGb1FtdFBQWmxFeDNzWXZ6bE16bUREcFpmYl9seWs0ekpOQVlhb2lKY2xIczRmWlBBdm9vWGdqRTB1Q0wzZEdWcjhWNno3WF82em1ucmZVdDBpVnNoNDZvZjNDQUNZQk9ySTNteUc1RWY0UGRWejlnMHFxR3lTVzZMZTE4REdLa1hkSU9GejI1WmJHMkY?oc=5",
-     "source": "Noticias Ambientales"
-    },
-    {
-     "title": "5.1-magnitude quake hits South Sandwich Islands region - USGS",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdk5tcjNwbEtIRUlPaWp2VFFBa1RELXNQT0lUcXlWRzgyaTJhNVB2OXA5Y3QxNnNNYTVGZUZ1SU5qa0pxTjRnTDlLZ0Rxa2NzR2RwUGhmUkJYOUgwOXp3R054SWtQeWpZRmlKRmZkZnZmVW12aFRqY2FBQkJJbmxveDM5TzBKUUZQNlFGNFM4Tm1NbHEyTjJrWWxWamFWdHpwOXVQdEQtLVlyVzVNOE5WQTZ3Wmx0QQ?oc=5",
-     "source": "Apa.az"
-    },
-    {
-     "title": "Strong mag. 5.1 earthquake - South Atlantic Ocean, 49 km east of Bristol Island, South Georgia and the South Sandwich Islands, on Friday, Nov 13, 2026, at 05:04 pm (GMT -2)",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTFBVdDJBYm5YaThhSmtSYXdORGpKYjBCQjZFbFRnTXk2Q2tockMzdlI1X2llZDBwSHM5Nm0yNHdiMmdqRDBnOEFmM1dTQ01WZXViRzR5eUtjTGVUYWFxUV82bllobm1aLUNaOGk5RW5sRlNBMUtTY2JLMmZPekI5cEFUZ0lNUDkydHJvNG45Z2ZzQW8zZ3dwMTlIQ0Ywcm5jWGhfanRiWEJMd2tuaTRuYmJwNk5YRS1YeGNqWFR3?oc=5",
+     "title": "Strong mag. 5.3 earthquake - North Pacific Ocean, 170 km southwest of Guam Island, Guam, on Thursday, Nov 19, 2026, at 02:06 am (GMT +10)",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVGdRVjZkbTFaZlhPZzVtbEN2NEptRXRZYk9tcm84MmsxdnBBSTNnNk5VanVrbklhX1FJS0hlQjQ2OEtlTGpqVDBSQW91Nl9pTUtxMDdpdTEyaTl0NHlrSEpwZVdLa2xBWDVFUWdES1BzMUROdnJxWXh4OVNIbjVISUtreVpHcEs2NEVwRWw4dzctbmc0NGo3bzJNQ3ZjX1NOOWh1dEZBVWJkX1FrUVRHY2dvWVhEYmVHM2FXaHNn?oc=5",
      "source": "Volcano Discovery"
     }
    ]
-  },
-  "us7000tz1n": {
-   "headlines": []
   }
  }
 }
