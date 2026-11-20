@@ -1,184 +1,104 @@
 {
- "generated": "2026-11-20T07:22:04Z",
+ "generated": "2026-11-20T20:31:15Z",
  "window": "last 24 hours",
- "source": "Google News",
- "topic": "War and conflict",
- "focus": "Iran",
+ "source": "GDELT and Google News",
+ "topic": "Extreme weather",
+ "focus": "Florida",
  "regions": [
   {
    "name": "UK",
-   "count": 58,
+   "count": 4,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Senate Republicans rejects war powers bill to halt fighting in Iran",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN19EOFdQUmJBMGt4VUo3UFd6Tk5sRXpRYVBHd2YwNmVTOU9lNUItSjB2V1JRQmkySEs5VE9ialBQb3JXLWZGbjlBVW11ZFdYNFktdjZwZmcyaEhUYkpRbEdCSzZXSE9hWEZBTGZqUjBUNF9wanlmMWFlSWpXVXlaemMycWx6V1VrNzNYRF9tWW41WW9n?oc=5",
+     "title": "United States",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtQTIzbzhVQ1JhZVgwSnlIcGp5blg5NTBIRVlkNXEtbUpTUmpra1BZRkpYTWF6VktpeWVpSzd3WGhDcW1pVWVZOXppdUNUdzRJRTJMX0RZTGNXdw?oc=5",
+     "domain": "bbc.co.uk"
+    },
+    {
+     "title": "News",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGdzUm53RllpVUhDVXYtS1hycS16NkZzTklGUVhrcVJOVkMzdnBacUQ1R1FNekJjaHdFd09QMUROU1RXYmp5eVN4UXItakJWZGdFLVpkTnczMW9oNkh5V0V0cXkzUklyb3J1VEkyNElEUGpoTVdNXzFfUUh0LTl4aDZwR0d3UXVIdkNLc3d3aERuN1JsNW9NNV9lMnJuMU1qLTJnbEIwLXVTR19OMENR?oc=5",
      "domain": "theguardian.com"
     },
     {
-     "title": "Saudi's tallest skyscraper damaged in Houthi attack",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORThXT3I5QnpTVGwxaTdQek9zdk1MUUxYTWhqbTItZFNHNGZZMFdGdVpURWRSdE1NbDBZQmVxVkV6MF9BSHBFRWpIQ1Zlb2NoSFRTM09ldmRlTEU5U3FTUzFvUEtTTnMtZjMtM1M1WTNfWmxpMVdNbXhKeGJ3OTdUVTJQN0I5NnFFdmN0ZnpxYw?oc=5",
-     "domain": "news.sky.com"
-    },
-    {
-     "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtR3BncVhtNzVmeVl1NDhycUVjY1NBTmc3TlY3MkFKcDY0S0R1dUdjTDkyNS1IZUhVcXBSa05aWU5kcjRuVENaNU5CR2NMeGh1dE9pNDhqTkpKamNYMFE?oc=5",
-     "domain": "bbc.co.uk"
+     "title": "California",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lWFNxRXJWdHFXQlZZb2g3YjBhZVEwTHRMN0JwUGx3NEY2NE0zWk1rSFlFTXU3U2hXSGphUF9vNW9DZE1iRWFGZnE5bHY4V2xkYVBpak5yd0xHZw?oc=5",
+     "domain": "theguardian.com"
     }
    ],
    "error": false
   },
   {
    "name": "US",
-   "count": 100,
-   "capped": true,
-   "tone": null,
-   "headlines": [
-    {
-     "title": "Unexpected Fallout From the Iran War",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbUVreHFPd0U0ZGxSQ1NJT3YzazIwVEdYRHJIa1B1Zm9keXdqOC1EalpXRW1CQjNsaWl1Z1Q4UkVJdEhkTnBOVVFDdEtFVHdEaWZBU3RVNEJjYXRyMUk5QUFxam1BSnl6REJZNTBPWnpNZGx6RXNwdkNZbS1nN29pY3VXWWpkaVVsMkp3?oc=5",
-     "domain": "nytimes.com"
-    },
-    {
-     "title": "Trump, Xi and Putin hold rare 3-way talks on nuclear risks but deliver no breakthroughs",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZko0TjU0LUdSMUxlTkNVcnJsSThoSFo5Y2ZuamRVQ2tidnZQa2M5N1o0dlpndmptSGxNTGhYYS1IUXVKMjZibjFPcWVURHJRaHNfclhIMHlSVFdIN3VkZUxFVEo5Z1JoZFR0bkdHOUd1UUNuNXRCVDBKUlhPaGItcmVfY09NQ1U5WmhHYzRNZHdtWDVVay1JalhlNA?oc=5",
-     "domain": "apnews.com"
-    },
-    {
-     "title": "Dems, GOP rebels fail to rein in Trump's Iran war in Senate, but bigger battle looms",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTEJZNm1mUXhoSmZnaVNpcC1vZVN0Sk1CTWNOQU8yZkdFcENTQU1mQjJSd29kMWJOTFc2TzVub0p6TG9ydFpvNUoyVTE1cEtidFFhRWJSajJXckNEenpZYnN1cHdxRU15N2RxS2w3d25la2Rhc3J5VjZ5c2tzS0FqM2NMaUdZajFrdjdmYUxmZ2cwZFoxMVlxUmRsN1h5UlJlRXBz0gGoAUFVX3lxTFB6VjJkdXZOS09QZkl5azlUUFdxVmdhWjRneUFWSzgzTHNEZGNMM2swekU5cTJCQldMSjRVOEJqMHl2SWRGeDA4YmN4MGg4ckdCU0g1V0o0b2ZSR1pPRVBwTmt5dGc4a29TV2RlR2ZuTjhwbHgzbkhGbzNYR1VnOHlxdEhjQkJHb0t4UDExaHBzUzlJSjNBNURqRkNZc0R2QlU1ekxWSWNfOQ?oc=5",
-     "domain": "foxnews.com"
-    }
-   ],
-   "error": false
-  },
-  {
-   "name": "Europe",
-   "count": 100,
-   "capped": true,
-   "tone": null,
-   "headlines": [
-    {
-     "title": "Iran relies on China and Russia as US pressure grows, but both powers are pursuing broader interests",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOERJUlNTNjBRUXAzMzFjVmhjamlRMF81cUNKQlJNcWtkSTNSeVRYUHZMY3lnYWhObEFka3lTSWM3VUNmS1VTa3ZJSGhmakhZelVLTy1mNlZremRycFA1OXZQR2xhQzhUblpnUUc3dzJMQzAwUncxSnJLWXJVY2hKNi1BeWxDQk13dUJiSm9aUDBMM2w5Z0hJOUdPVDNSSHpxUHfSAaIBQVVfeXFMTTR0dGJFTjdmejdvZ3U5TGFXNmNVSDJ2cTZiRndkWUV0U1ZKWk9xM3ZNeWF2VlFFYXJkV3cwRDd3dGRSeUdwdk94RTZMUEFwWlNpUkpvbkpmeEd1X0pCUHJ3VW13VVk4akp2RTI3aVVZQ2tsTzUwWWZLUm53Um9lSk1jc19PSklEcEljRkxVdmpFdlJUcnhFd2ctSHp4YU5sVENR?oc=5",
-     "domain": "dw.com"
-    },
-    {
-     "title": "Pakistani FM outlines regional security strategy and EU benefits",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdHNYWlQtUWwtZ3lEUUVieTFNVXBiTHVhWGtJRVIzdFRpTXI1aS0waW1YYUJ6VFQ1V2pLdU9JNGkxandSNW9RQ1hITHNHTGpPdDV6a0tRVGVlT1c3QkZfcTk0eGxTU0NjVEVkZ0l2QmJHNHJ3TnJqODFEbV94bUY5cUFNWkRRb0lzdGE0OVctcTAxYmgwS19ROHpBUzJSbjFFYWFLdUF6YmFoMlYwcF91cHgwalc1Vm84Ynh2ZERlemE?oc=5",
-     "domain": "euronews.com"
-    },
-    {
-     "title": "Skyscraper in Riyadh damaged as Saudi Arabia reports surge in new Houthi attacks",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX2dIclQtc0NCVUk0dVZ6NS1XcVNLVS1EZFh2aTY3b2pmbGFuM3ltaGYwRkJOLWpsQlZIT0lPbkdabDA2ajhMeW9qeXc5a1JZUWhCbEthYTliRFcwNFB5XzFkdUQxTlh5am91aWFhSGVWRmY0WGw3QWFhVW14TlJESExsVjdHTnRoRkdzaHJzajB1TXpaU3NfMUpnUHFGc1lPMGQzNllEMGFyM21EUVktOGdqMkRPX2NMNnMxOFZwbmJVLURWR01SeA?oc=5",
-     "domain": "france24.com"
-    }
-   ],
-   "error": false
-  },
-  {
-   "name": "Russia",
-   "count": 9,
-   "capped": false,
-   "tone": null,
-   "headlines": [
-    {
-     "title": "Press review: Putin, Xi set new economic realities as Russia questions Nord Stream probe",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5wc0N3N2cxQkxDMFZ6M2ctc3MwZnBKT0thU3FPTEp6RDlrRWpreW00MW9MSDlYeXl2anF2X0NEdXpKZ0lhM2RvYi1BTi3SAVJBVV95cUxOUjlwT19MRDFGNTdkSk14Y3Y1d2xTN0NYTVV4dXFWMkh1aThHc2poXzRsUVJwZEJFS2t0WU5xT05jODAwUUYtYVlzN0Mzcmt6akpB?oc=5",
-     "domain": "tass.com"
-    },
-    {
-     "title": "Russia-Ukraine conflict",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJTUxiTFNyMnFDaXpMNjBQNXhKZk9CaTIwbGNXZ0c0ZDM2Y2ZBbVhmeEVWZ0xSZThsRERiLUVWci01Rmp3aS1zd2FCLXZ0ZV9ZTXBscDBnV2FkOGtqQ0Nn?oc=5",
-     "domain": "rt.com"
-    },
-    {
-     "title": "Russia-China-US cooperation promises progress for all humanity — US presidential candidate",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1paW9Ibm93M2ZSWkQwMTZpMjAyZDcwWUhpbDBlQnRVelJWQkF5Y3JQR1FTQzkyeUYzQXA4cWNhOWtYa1NO0gFKQVVfeXFMTXVTaURzOHN6LTIxSGJxT1RkOFdrMHFPNmhmVkdSR1BFb1Nxak1mMTBFUTRTeWN0dkpnQk5PNEY1bzl6VEhIY3dZSFE?oc=5",
-     "domain": "tass.com"
-    }
-   ],
-   "error": false
-  },
-  {
-   "name": "China",
-   "count": 14,
-   "capped": false,
-   "tone": null,
-   "headlines": [
-    {
-     "title": "Innovation stagnation: why China’s import surge is not helping Europe",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeGh6NnR4UVlSdTAzdlRiYW1CLUptSEJBd2pnZFZhYU04NzEyZDZBQVZONWU4dm1PTXdvMGN3V2NJRXZ3aktBZC1zNHdUeTVBTWhoQU81Vk0xbjY3UENlazdtTDRtLVJ1dENCWDNpT0E1dkt0eVY3cnFyVnBmc1lCeHVfaU5MU3ZIMlFxRm9zRDlSRTJPSndLTmVrSWJ5YjJCMHBTOUxGeDlHRFdNNXg4ZmFfWGVXUEFxeThoa2pGMzh6T3ZoQTY2UVl1Ql8zWWhzSlR1bEFzNVItd9IB2gFBVV95cUxOUUtEa3REY1ZUejE3bW83N0FaQmdCeGtRWDZmQzItSXhiY0xtV1JtOFo5ZHR3MUdqeldmZkhkN000cGNFLVhrNW5YOUlUVlAwUnN0NWpuR1ZmYWJxRlF6Wl9XLXc5WUMtSkNnUGtOb0FoVnJURFFkclZtQmdjMi1BSXB6bDE0MHFlRmd0TFV5Y1k0VFM5WDJVSHkwc3dpTHdxc2VQNlZHM2RmRlpzOC03QUdwTkxHU2FtSHlLdlZYYW1RVXJpSFdVMWNNaFpTNjZNYWpldEc0NjhrZw?oc=5",
-     "domain": "scmp.com"
-    },
-    {
-     "title": "Iran war bill reaches 48.3 bln USD: Pentagon official",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oRjh4Qk1DY3BHX3ZVbEdfcVdwVUZnOVY0Q3NJWDdBRXNmX2JPZktVZDlDWkpQRGR3N2VUZTE5Mkk1Z29aMm50UDgtZHg4alJ1WkpPS2JJR2ZPRG8xN3BmU2dSblpmYUg0RW9iMTFoNjQ5cE1Dc1JYTnVOWWk?oc=5",
-     "domain": "english.news.cn"
-    },
-    {
-     "title": "Iran not to accept continuation of war of attrition: IRGC spokesman",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QZmFMWnlxT2dYdXpKRVFwUTZwNmxBNmpueXVmVWFKSHRUTGZfWmctdG5PbHlidlZvTEF0WDlOdlBpNUR1b3p0Y1dOR3pRQzV6eU83ZzlTbHZEMUVqcDJxOVZ5N2pqSzJWLTBIdkFxd1BjNnlOc1pXRXFTemE?oc=5",
-     "domain": "english.news.cn"
-    }
-   ],
-   "error": false
-  },
-  {
-   "name": "Middle East",
-   "count": 100,
-   "capped": true,
-   "tone": null,
-   "headlines": [
-    {
-     "title": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSm1IYzd0dmZPZEpYYTY3Yk5PRnJZNGVfYkl5bGhHd0NaekY3ektkbnFWdXlEZFNKTlVCOVJnWXF6WGM1Y2U3U2xPRmw5NG5ZbWNxTS1pWV9IbUItZTdxNjVaZUJwZEYxR1o2ZlJSa1VCYXNVbEJmODMyQUFwWnVxcnFLU3U5UkYzX0pvQmx0NXpkVk5aOWptNVlFOHowbVpfQWlEUDlrVWFhZXJMUWszLWFoNWdQWTDSAbwBQVVfeXFMTzJLaF83bXZxcVN3Vy1tb0F4LTA3bjJiWjh5empUbEplU1VUMXYtR21UdmpzSDBsNHJVTHZrNUFMVWdxbE53ZHZ5S1dQLUllazJQR1RlUnpLNEZqeHl0aWFxRlVnNEVkMGpKUVZMdWh3aURvTmJaTkI1NzMxcWxyLUNISVhaZU9vbWVzVDU4OVpRQnRTZTVvRWNtSlZ4TDZQMHNsYk5GLXJkTXFxMzhYbHQ5XzdYLVNOWW9odko?oc=5",
-     "domain": "aljazeera.com"
-    },
-    {
-     "title": "Iran war has cost US more than $48 billion, Pentagon official says",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeXVlVGhLZ1N1cE5XU0xkZWZqRWsxelEyck1UT1ppWk5RaE53cFFyOGxoZUNSbmg2ekMwWk81MVZMOWRsSjZSMi1VS29Xckh5NWloMzgwVUxaQVJQdVdtcUhfMnd5Ty1OYVJCc3pnTjZhVDBuZW50YlJTUmdrSFRLYUpocm1pVFhIQmFQRFRyakgxcU1vTGx1SGVnM2k2cmNaZTluWVB3am53WmQ3UkdN?oc=5",
-     "domain": "timesofisrael.com"
-    },
-    {
-     "title": "Trump claims Iran is developing bioweapons: Is there any evidence?",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkVwVkxCTGFrV1g3UXk0R0xScDhlZWk4LU9HWWkxazNZLVFVRnAwbWdaWmRHUDR2aUxOQlN6dnZjek1CWkhFZG9ST2t3R1I2WVVpU3YwVUtHYWFMWnlDQS1GLU1iM3pmNWt0eTlQQXYyblJhZFZKUGZRZ1c1VG5jRUtRMVB5YlB5Nnc3dzBFNGJ2RW12MXU5b0VCOFhOV3ppdjFTT3FzbzI0QdIBrwFBVV95cUxPOUtWUVFBVEJRNmQxWjRLaENMZUM0aXpSY1JBM1ZyckFPSWlsc3liODdLOTEyNWhwZUVUVUtSd3A4eEVqMHN4WG16R0JLNjZ2cm5mWjd2bTVTOTQ3NS1Pd2pHSnRFOVF0X2xsM0l5Tl9nRG9sM0wwOEp3TzJfVVNVSmpqd0dYNXdpWkN6WFltVG5LSTl3VVdxbTR6c1dmNk5STWpBVEZyZjc4ZjhBc2xZ?oc=5",
-     "domain": "aljazeera.com"
-    }
-   ],
-   "error": false
-  },
-  {
-   "name": "India",
    "count": 0,
    "capped": false,
    "tone": null,
    "headlines": [],
-   "error": true
+   "error": false
   },
   {
-   "name": "Africa",
-   "count": 7,
+   "name": "Europe",
+   "count": 0,
+   "capped": false,
+   "tone": null,
+   "headlines": [],
+   "error": false
+  },
+  {
+   "name": "Russia",
+   "count": 0,
+   "capped": false,
+   "tone": null,
+   "headlines": [],
+   "error": false
+  },
+  {
+   "name": "China",
+   "count": 0,
+   "capped": false,
+   "tone": null,
+   "headlines": [],
+   "error": false
+  },
+  {
+   "name": "Middle East",
+   "count": 0,
+   "capped": false,
+   "tone": null,
+   "headlines": [],
+   "error": false
+  },
+  {
+   "name": "India",
+   "count": 33,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Trump calls Putin ‘friend’ as three leaders pledge UN reform and ICC curbs",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTmd5LUFzV1VhZjJrMUlOcmtMQl9pUk5hMEJPQ0lMVTNkVkMxMzdVR0hjQmllU09NQmtnVVVCdFdLaHZoVUdRR1Z4UlZVaVFmTXZ5R0lTR1NzeTY2TmNBMkZlTnJXbHBBTnNVYlM4c0FvYWJUMWZXLVpoQlB5Nkc1ZE4wWWNMZmMzZ2RtdW5XYU9talh2SlZ1Y0p1UDhzSEt5Y3ZlUUVaSXNOSDROVG1HZWJLM3hlQQ?oc=5",
-     "domain": "news24.com"
+     "title": "Happy birthday, then goodbye: English club sacks struggling manager hours after publicly wishing him a ha",
+     "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOQi1ESkFua08zOXBIbkdfcG9IalRoQjBUanBpcERWdUFUeXVLRjVESjJMdXVla3NTUjFZZU5ZOHJ1WWgzekY4eC1EUzdldkpUcGg5al9IYm5PcU5DZ3JNNXUzbk5PNk1sT01PdWU3VGdodEN1VVU4SUFGeW9ReElRWk5KdUFxX2lzc3hkcng4SFlJNXFDbmpjYkUzUUlLZDR6WmRXSG91dFBuYlBWQ1UyX3Z5amFGV3hlR2kweU80WEUxUWppSTBfZ1REQTFQa2FfbHVmbWN6U3hpLWlUMXRHSUxwUk43VVBTWUZsVThoZ2hTU01kWFpXVWFNUXg2WmhCQkxpaXpmb0VWVndNd0FCUzhaa3MtSVlNWE5sVTJRZjRWLWJoMVRYeWxmYW9nc3Ryenh2R9IBugJBVV95cUxNYm9NWk5XYUVnTlA1X2x2VVdLY3pYNlE5YlNoZmM5U3I1cWJCTklxMGZjeUpxOEhLYzN0UWtlTS1zd0hlVlFlbWFEbWdWMUdDRFNldHdMaEZZZFplWGloWlBLOTlqTEJ1MlA4MFNON2FRVFBJZklnQ0h1S2lSeXpzSVQ3VlRuUmxjR0N6NGw3bVZVRzI3Vl84VFBKbEVoT3FBZzh5dmd3S2dLRmhzbU5ld1VaWkIxaWF4blRfcnZTdlZLMXNTcjJhaS1VZEY4TFF5VDBHUjJfNU4xbVVTbkJ2X1lWRllnQ3pNQmdaWVZiWm41elZWaENrV1pkUEtZOTUxNFlPdEl6RU5aNDJRX3IzMHl0SDh2TWpPRVVPWEkyNVNMS2hhRmJSN3RVbnVfdDlHV3pBTnFxMk1SZw?oc=5",
+     "domain": "timesofindia.indiatimes.com"
     },
     {
-     "title": "China's Xi to host historic summit with Trump, Putin",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSDN4dVhKOG1Zc09zTWFsVElsSHVnbEoyaUdzMENyUkFUYzFyb0t2bDZHMEY2bUx5dkUxXzdZbFpGRWlKXzNzMng2NVpZRlhYcmNYcHR1YWE1RzJvVVZiaDg1Y3BZdVBLTHg5NFhiNy1CUlJhWnBXR3FhcnVaUHlsb1ZKTk9URzNhdEswUTBvSTIySVNuYjNtRw?oc=5",
-     "domain": "news24.com"
+     "title": "A Frida Kahlo painting expected to sell for up to $3.5 million was withdrawn from a Christie’s auction in",
+     "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNNWd2SVhhRjVISDRQa2hVRDRMMmY3RnUzQnprSVdHODN1a0pVVFJTSHk0eE45SDI1UUtDekRZWlc0UjFYcDdzdldDZTctQ0hISEtnRWlOaDAzVEhIY2IzSFVZMEJUTExiZlFzNk1wMGEzMVhzaUJWMERTbXBHcmlHUmxEUEVIRHpVU1VkMVgyZUw0U2RkcEhCRTVidkJnQ0lzUnNqNy1NSnp6OEpSdmUzYm5tQUU5NmQxX3JlUV8yNm41el91WGdob2NqQ09fdXZfc3l5ZlZFT1JkY2duMnduYkt2YzlXdHM3YUVOMUVkell3cHJkS2hSVUc5Q2tnbHhLN3JjUlBlX0dDc3JoLWVuNlZjdWhtbDJyV2Uwenowclh1RXJHWkZFWmpDQ2RLb0Q3ZFlmdklzVFdDRkZOMmhUU2lrQTR1ay16S2RCNENtZlpCazQ4T0NlemswS1VRdWlKQ0NZQ09Zd3oyWEVHVHRxbWhxN25MWDIzNkdUNkR3bklEVjZVdzFBSUNjc9IBkANBVV95cUxOa2lDVmN6UzhRa25nRkV3cTd5eGdJLUpRX3FNc0pBd1U1M3JZNlY3VE1ZbWVnSlNMakRhQ0JmZkVQQUxtQWZRNXhscVZsWHJ1cjVHOVh6RDhUd3dHX3RGZEFJSTJ1aGFSVC1UZktsdWllVnA5TS1Hc21WNWMtWmUtYVkxekRNLXNHZTFiMTVRa2ZiSWQ0a05aX0tYT3R4Q3V6Ync2djQwQ256VWtXTHlFeVJ6RUtlbHB4blk4SE5NQkg3MHo4RmM3V1lyTHZyVTdDczNITk1hSE9SWU5EMl94ZUtDb3VkN0hkcnFsVTluMkpCc0hvcktIbUpYcU9pQUU0YUpVLTJyTXdyTEFERXRBWDFRZ3J0Tm9IdWVkRFc2NVFDclkwd2EyNFFHZ2Jkdk0waHRFQWhWenVxdXpEMUNyRjJ4RUJ6aUNGelFnVkl5MXhyV3N3Z2JycjRHdGxoVXk5MWFkUXg2RG1DbEtmaElRME55bE1SaTF2Q05sSnl0UW5lMXhXbWZtRUY4UGFMMmRI?oc=5",
+     "domain": "timesofindia.indiatimes.com"
     },
     {
-     "title": "Interest rates: The MPC’s long, risky wait until 28 January",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYTlNaDI2M1FMaWd2ckh3dkVSVXdVbnh4Nm9QYVNhcHJMOS1YR2hnSmxMZjhrVThkM0taTXhvRlF0Z3pGRHZaZS12WGlIZ3V4TDFpMXdRcS1raGY1YUxEekxqc2VLcktBV2txampTYTBrMmFUaG4tSXNXaWdWXzVpUnV4VmF4MzVtZ2VlTGxsZERxSmpNOUdhd1gyeUFBc2IyZ1VpTlhkUzlQTE4tejF3Y3RaM3NIVWRhT01LcWNCZmF5NTZz?oc=5",
-     "domain": "news24.com"
+     "title": "Florida’s dry season sees ‘quite the opposite’ as record rains trigger widespread flooding",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZ3BsZnJNdXhxRmpYWmNnazNpTXNBMGxlUG5RNzlLcG9PNTlpcWlERGU0RjJmOHhLWWlhMk94WUg0dnBqUk5aTGRqMXBOV1RCN1R0UFl6cGFFNlhsYm1xYkZCTVBpendhLTlXT3otcUoxTlJ1MTVXNGVrMnUtS0lTZWdiYmlOV0ptNUZwQ19PTkdZUkpGcVNjOUJVdUQ0N1VqdjJDWFdFay1YLTVJZ3BvYk1PcW9McWQzWlBiRkhEYjhGdm5TYTN1MlNnd0p3Yk5URlRGdjlWSjFWMUNCT2xzVVVuMWt3NGtqMllvMk84RdIB9AFBVV95cUxPMWNMdFM1alNhbmdWTXZPSjdsSWk4NGZ5SWdnczMyaVJ5S1BYd2VoNl9zeVB4SUF3VzFRRDBLZXVoSEZaWVdLbmh2S3VNM3c4SW5LQWg2M3hURFdmd3J1dUlmbE43QTJQZXV6WkhJZ0FGUEZmSk9CRGNhOHZxMVdTaDJxekZDbG9EaVR1dmpqak9rTkMtTlQzdG1qSWRBVzdhU1dqTjJUbW9yU0EzQnE2WERFZmpNUl9ocjJBZFhIMzQ2bkh4YVd6NVhoWmYwcEdWX3BmbWtuTkhQdzhOc0NNX0NiR3BId1J4YURpT2tsalFiZE5M?oc=5",
+     "domain": "timesofindia.indiatimes.com"
     }
    ],
+   "error": false
+  },
+  {
+   "name": "Africa",
+   "count": 0,
+   "capped": false,
+   "tone": null,
+   "headlines": [],
    "error": false
   },
   {
@@ -191,7 +111,7 @@
   }
  ],
  "framing": {
-  "text": "UK, US and Middle Eastern outlets emphasise the domestic political struggle over war powers and military spending, with US sources highlighting Congressional debate and costs exceeding $48 billion. European coverage focuses on Iran's strategic alignment with China and Russia amid US pressure, while Houthi attacks on Saudi infrastructure feature across UK and Middle Eastern reports. Russian and Chinese coverage is sparse but emphasises the three-way diplomatic talks between Putin, Xi and Trump. India, Latin America and most of Africa show no or minimal coverage of this conflict.",
+  "text": "India and the UK are the only regions with coverage of the Florida extreme weather story. India emphasises the meteorological specifics, noting record rainfall during the dry season causing widespread flooding. The UK outlets frame the story primarily as United States news. Most world regions including the US itself, Europe, Russia, China, the Middle East, Africa and Latin America show no coverage of this event within the 24-hour period.",
   "model": "claude-haiku-4-5"
  }
 }
