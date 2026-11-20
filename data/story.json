@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T20:44:13Z",
+ "generated": "2026-11-20T07:22:04Z",
  "window": "last 24 hours",
  "source": "Google News",
  "topic": "War and conflict",
@@ -7,24 +7,24 @@
  "regions": [
   {
    "name": "UK",
-   "count": 63,
+   "count": 58,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSUtORUpMeGRRZUFPdjY2UlJ2cmpsd0ZNZmNwdjctRW8tbmtlaXp1Vk5UVkRqREZHY1BMcVRxMDFYOVo3VnJ2dHREWHRYdzhnbEFDOWlkNkl4RklnTk1xMFdHUjFyanpySk1QYVB1QVZmemRvRFBYYmJzT0x4Y3E2a3hpcjF5LS13TTRNRmtJcV84bU9fdl9fNDdRNm9ScjhER0VvWkZnS0tDS0ItUmlmbEFB?oc=5",
+     "title": "Senate Republicans rejects war powers bill to halt fighting in Iran",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN19EOFdQUmJBMGt4VUo3UFd6Tk5sRXpRYVBHd2YwNmVTOU9lNUItSjB2V1JRQmkySEs5VE9ialBQb3JXLWZGbjlBVW11ZFdYNFktdjZwZmcyaEhUYkpRbEdCSzZXSE9hWEZBTGZqUjBUNF9wanlmMWFlSWpXVXlaemMycWx6V1VrNzNYRF9tWW41WW9n?oc=5",
      "domain": "theguardian.com"
     },
     {
-     "title": "'I'd rejoin the Army to fight Russia' and 'Boiling point'",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3NWNIN3JCS2tDQmxJY0hTWktYVTItSjZ6Ukg4TXk4dktGWnh3Tnl4MmhScEluNzlObF93T25hMFlUNVZfS0R2RzhVejZ2MDZvYUw0TENxbWs2aXFJdXc?oc=5",
-     "domain": "bbc.co.uk"
+     "title": "Saudi's tallest skyscraper damaged in Houthi attack",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORThXT3I5QnpTVGwxaTdQek9zdk1MUUxYTWhqbTItZFNHNGZZMFdGdVpURWRSdE1NbDBZQmVxVkV6MF9BSHBFRWpIQ1Zlb2NoSFRTM09ldmRlTEU5U3FTUzFvUEtTTnMtZjMtM1M1WTNfWmxpMVdNbXhKeGJ3OTdUVTJQN0I5NnFFdmN0ZnpxYw?oc=5",
+     "domain": "news.sky.com"
     },
     {
-     "title": "Israeli troops launch ground operation in central Gaza",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSjBHejFOSnJSTFhwSXE4T2lmM2xOWDBrbzlTenhKbEw1cnFwaU5LR3dVVnJWZlRDWEpoYUxYTUt4WjUzWExKY09WLXlMaDhTdS1GUEY5bVJGNGltOGRxNTFwZjZCdGduancybmNyclp4N1kwZzF2RXlZTHRUd3AtLVVwNHM5blk0T3paN1hPclNRbXdY?oc=5",
-     "domain": "news.sky.com"
+     "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtR3BncVhtNzVmeVl1NDhycUVjY1NBTmc3TlY3MkFKcDY0S0R1dUdjTDkyNS1IZUhVcXBSa05aWU5kcjRuVENaNU5CR2NMeGh1dE9pNDhqTkpKamNYMFE?oc=5",
+     "domain": "bbc.co.uk"
     }
    ],
    "error": false
@@ -36,18 +36,18 @@
    "tone": null,
    "headlines": [
     {
-     "title": "How the War in Iran Will Remake the Global Energy Order",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yU0FMWnlOQ0Q5ajRGOTRXcGczQzJkSmo5VzlBOEJCOU9OVlluNXZNQmNTZzFlN0dLV1N4b1o0SmxBTVBka2EyejU1Q2xkVHRnWGRjUl84LTRtSlJpUU9sSjBYNERPbk9RNDJWOFBrZm43UHM?oc=5",
+     "title": "Unexpected Fallout From the Iran War",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbUVreHFPd0U0ZGxSQ1NJT3YzazIwVEdYRHJIa1B1Zm9keXdqOC1EalpXRW1CQjNsaWl1Z1Q4UkVJdEhkTnBOVVFDdEtFVHdEaWZBU3RVNEJjYXRyMUk5QUFxam1BSnl6REJZNTBPWnpNZGx6RXNwdkNZbS1nN29pY3VXWWpkaVVsMkp3?oc=5",
      "domain": "nytimes.com"
     },
     {
-     "title": "Mideast nations ramp up efforts to avert all-out war as Israel urges Iran strikes, officials say",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVkpMQk5Ha1FZNG45Vmt6WWxWeUtMS3lSU0hON0F0b0ItSHlWY0NnUHFyQ1JTWFBPSWViZTFVZHpKNWI3V3R1TjM0b25HWTNEZGZ2Q1ItZG5hdXNGcG03M3FjZlJKNmE5SC1lYTJERmRETERvdGJOUGlsMG9pQjVVU2dEWkJxOEY2eXJYd1RtVmNlN2pIcGlLcHJlaw?oc=5",
+     "title": "Trump, Xi and Putin hold rare 3-way talks on nuclear risks but deliver no breakthroughs",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZko0TjU0LUdSMUxlTkNVcnJsSThoSFo5Y2ZuamRVQ2tidnZQa2M5N1o0dlpndmptSGxNTGhYYS1IUXVKMjZibjFPcWVURHJRaHNfclhIMHlSVFdIN3VkZUxFVEo5Z1JoZFR0bkdHOUd1UUNuNXRCVDBKUlhPaGItcmVfY09NQ1U5WmhHYzRNZHdtWDVVay1JalhlNA?oc=5",
      "domain": "apnews.com"
     },
     {
-     "title": "US races to build bunkers across Middle East as Iranian strikes threaten American troops",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQjJ5SHZaQmlaT2pXTUJnOEthSTZMemUxdnU0RjJoWG9RSE1RNmFoQnBJcHdfSFZBV2l2TkZSTzZQdzZueTgyeVpCN3hBTVV4eTg2ZTBONTV4TnplVkdwNE04RE92VDFFamZiMm9VSTFLUDdpZWZJQ3FuUzhxSjdDSUZwcWFCMGpmOXBGTWdfQ0lkdlJ1XzhjRmJEdzFpcS1OWW0tOEJlcHVWWDJtZWtKUE530gG3AUFVX3lxTE5pcXVLdldDUnlRUTRfSHptaXNmc2F3aFBneG1zTG16OVpReFliWW1iOTc2dFRWSFN3dkQzTS1iLWNGWGdEVzhrWG9TWjZwU1NrNjJPdXA3bFMwT3ZYd25FQW1yWF96SFZsUC0xTi1wa19OV29iYnFaQ1hQc3NrYnFjQVZMemxwR2dDZmpCYnVKWkMxLXBVbWg0THRudk41MGpVUk1UZHJOaGZuMC0wZnVNT2hLUURYcw?oc=5",
+     "title": "Dems, GOP rebels fail to rein in Trump's Iran war in Senate, but bigger battle looms",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTEJZNm1mUXhoSmZnaVNpcC1vZVN0Sk1CTWNOQU8yZkdFcENTQU1mQjJSd29kMWJOTFc2TzVub0p6TG9ydFpvNUoyVTE1cEtidFFhRWJSajJXckNEenpZYnN1cHdxRU15N2RxS2w3d25la2Rhc3J5VjZ5c2tzS0FqM2NMaUdZajFrdjdmYUxmZ2cwZFoxMVlxUmRsN1h5UlJlRXBz0gGoAUFVX3lxTFB6VjJkdXZOS09QZkl5azlUUFdxVmdhWjRneUFWSzgzTHNEZGNMM2swekU5cTJCQldMSjRVOEJqMHl2SWRGeDA4YmN4MGg4ckdCU0g1V0o0b2ZSR1pPRVBwTmt5dGc4a29TV2RlR2ZuTjhwbHgzbkhGbzNYR1VnOHlxdEhjQkJHb0t4UDExaHBzUzlJSjNBNURqRkNZc0R2QlU1ekxWSWNfOQ?oc=5",
      "domain": "foxnews.com"
     }
    ],
@@ -60,14 +60,14 @@
    "tone": null,
    "headlines": [
     {
-     "title": "Trilateral summit ends with no mention of Ukraine and Iran",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ3djYUlJLXcweFJHSG9FZGJFaHQyeFBhaWlIOEZobWlyVVFwa244SHE5ZlJPbS0tc2pZUlMxc2ZZbTZLVXZ4Qk83NTR6cGpWN1pIcHRlRXozNlZ2SXJxQ2J0Wk1xdXVzVExHWDlzSUlBY3NOd1BlRVFVUXg1MjUtdWk5eHpMSFJiR1RnbTg0NmltbGZFeXFqRTZUbnhjTnA5aXd4V05FeFFtYlloQTlUdXBOQzE5MEt3SmNXMQ?oc=5",
-     "domain": "euronews.com"
-    },
-    {
      "title": "Iran relies on China and Russia as US pressure grows, but both powers are pursuing broader interests",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOERJUlNTNjBRUXAzMzFjVmhjamlRMF81cUNKQlJNcWtkSTNSeVRYUHZMY3lnYWhObEFka3lTSWM3VUNmS1VTa3ZJSGhmakhZelVLTy1mNlZremRycFA1OXZQR2xhQzhUblpnUUc3dzJMQzAwUncxSnJLWXJVY2hKNi1BeWxDQk13dUJiSm9aUDBMM2w5Z0hJOUdPVDNSSHpxUHfSAaIBQVVfeXFMTTR0dGJFTjdmejdvZ3U5TGFXNmNVSDJ2cTZiRndkWUV0U1ZKWk9xM3ZNeWF2VlFFYXJkV3cwRDd3dGRSeUdwdk94RTZMUEFwWlNpUkpvbkpmeEd1X0pCUHJ3VW13VVk4akp2RTI3aVVZQ2tsTzUwWWZLUm53Um9lSk1jc19PSklEcEljRkxVdmpFdlJUcnhFd2ctSHp4YU5sVENR?oc=5",
      "domain": "dw.com"
+    },
+    {
+     "title": "Pakistani FM outlines regional security strategy and EU benefits",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdHNYWlQtUWwtZ3lEUUVieTFNVXBiTHVhWGtJRVIzdFRpTXI1aS0waW1YYUJ6VFQ1V2pLdU9JNGkxandSNW9RQ1hITHNHTGpPdDV6a0tRVGVlT1c3QkZfcTk0eGxTU0NjVEVkZ0l2QmJHNHJ3TnJqODFEbV94bUY5cUFNWkRRb0lzdGE0OVctcTAxYmgwS19ROHpBUzJSbjFFYWFLdUF6YmFoMlYwcF91cHgwalc1Vm84Ynh2ZERlemE?oc=5",
+     "domain": "euronews.com"
     },
     {
      "title": "Skyscraper in Riyadh damaged as Saudi Arabia reports surge in new Houthi attacks",
@@ -79,23 +79,23 @@
   },
   {
    "name": "Russia",
-   "count": 10,
+   "count": 9,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "US has options to ensure Iran does not pursue nuclear weapon without renewing war — AP",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE0zQ2pxY0w3ZGhqd1pFOWZHTE1fTDlVNUlpZ3B5WnlUYjZUMnJYSmx5UGttaTY1azJNcU9wbWVjT2dCejc50gFKQVVfeXFMUDhEY3NFZjZLenRFakY0WnV1MXRtWVI5RmM2TDlNUDVzVlVWV0t4Q1JxcjdDMUxMekc3VHBsa21ieURvMnNGSW1EVVE?oc=5",
+     "title": "Press review: Putin, Xi set new economic realities as Russia questions Nord Stream probe",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5wc0N3N2cxQkxDMFZ6M2ctc3MwZnBKT0thU3FPTEp6RDlrRWpreW00MW9MSDlYeXl2anF2X0NEdXpKZ0lhM2RvYi1BTi3SAVJBVV95cUxOUjlwT19MRDFGNTdkSk14Y3Y1d2xTN0NYTVV4dXFWMkh1aThHc2poXzRsUVJwZEJFS2t0WU5xT05jODAwUUYtYVlzN0Mzcmt6akpB?oc=5",
      "domain": "tass.com"
     },
     {
-     "title": "News",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hODBtUzN6Nmg5ckN4cHNBVHlhcEYxc1Z4ZkFUaGxpQVB6SUdDbjVFRUVyb2s0UXNzajBzbXJzbThxMkdtRHREeEZVOEdyRjV5?oc=5",
+     "title": "Russia-Ukraine conflict",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJTUxiTFNyMnFDaXpMNjBQNXhKZk9CaTIwbGNXZ0c0ZDM2Y2ZBbVhmeEVWZ0xSZThsRERiLUVWci01Rmp3aS1zd2FCLXZ0ZV9ZTXBscDBnV2FkOGtqQ0Nn?oc=5",
      "domain": "rt.com"
     },
     {
-     "title": "Iran knows size, deployment locations of adversary forces in region, says IRGC spokesman",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE4yWDlvaG9iNE95ZzhmTmlELW9BNElKZy1vU0d0cVFCN01fcjdKUkFnRVBKOTQ3emFyMzFoaFpJdnRzSFBo0gFKQVVfeXFMTmU2UE1ESTVCRnRadzJRenJxTVZnbnkyZUozeUlHODFyeDlOeEFVeHE0MDlWOEkwM2JDTzFQRGJNYVNXZHptSGQzNHc?oc=5",
+     "title": "Russia-China-US cooperation promises progress for all humanity — US presidential candidate",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1paW9Ibm93M2ZSWkQwMTZpMjAyZDcwWUhpbDBlQnRVelJWQkF5Y3JQR1FTQzkyeUYzQXA4cWNhOWtYa1NO0gFKQVVfeXFMTXVTaURzOHN6LTIxSGJxT1RkOFdrMHFPNmhmVkdSR1BFb1Nxak1mMTBFUTRTeWN0dkpnQk5PNEY1bzl6VEhIY3dZSFE?oc=5",
      "domain": "tass.com"
     }
    ],
@@ -103,24 +103,24 @@
   },
   {
    "name": "China",
-   "count": 9,
+   "count": 14,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Iran not to accept continuation of war of attrition: IRGC spokesman",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QZmFMWnlxT2dYdXpKRVFwUTZwNmxBNmpueXVmVWFKSHRUTGZfWmctdG5PbHlidlZvTEF0WDlOdlBpNUR1b3p0Y1dOR3pRQzV6eU83ZzlTbHZEMUVqcDJxOVZ5N2pqSzJWLTBIdkFxd1BjNnlOc1pXRXFTemE?oc=5",
-     "domain": "english.news.cn"
-    },
-    {
-     "title": "Houthis hit Riyadh’s tallest skyscraper in strike on Saudi wealth fund HQ",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR1ZuMVM2bVRCbkYwTWFqaFZYWlR4VmE3U1hoZkdTVTFrajZBTlJNcksyeEx6VkthR2RvQlZzU1R1VmlhMS1BdWt6YkxDQzlGZkRCbVRkRFhYb1BTdE5kbEFhZFlzTF9QZ25vVmpXNXU0VXlLa2YwZFpXQ2x1Sk1ZM2l4Z1lNZUl3bmZQWHlhMU5lQlFDb29fblNOejFvTThMNnRQUmdJdTJUd05zRU4zbmdmSWFTWmdGdndWYkhYaXRlTC0w0gHEAUFVX3lxTE1Nbk0yend5RzlodTlYcFRKOHAyY2RQR2ZkZnp6V2trVHI5STVVcTNUa1hjQ2VPTV9CWDF5MHJ0NGtYNWl3emE5QmEwZFNXamRBdnRXV25LZVp0YWI5QXVsMUhKZmpXYmdjWmpfRHBBUFJBM0xyQV9Jc1lrak1ESFFDTmVnaDI5d0h0akpoek5fTkdNMGs4eGZzTmk2YUEzQ1dCdzhPLWVQdDAzMW1DQWhwcnhsbW9Walp1RXYxN2oycmduYjU?oc=5",
+     "title": "Innovation stagnation: why China’s import surge is not helping Europe",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeGh6NnR4UVlSdTAzdlRiYW1CLUptSEJBd2pnZFZhYU04NzEyZDZBQVZONWU4dm1PTXdvMGN3V2NJRXZ3aktBZC1zNHdUeTVBTWhoQU81Vk0xbjY3UENlazdtTDRtLVJ1dENCWDNpT0E1dkt0eVY3cnFyVnBmc1lCeHVfaU5MU3ZIMlFxRm9zRDlSRTJPSndLTmVrSWJ5YjJCMHBTOUxGeDlHRFdNNXg4ZmFfWGVXUEFxeThoa2pGMzh6T3ZoQTY2UVl1Ql8zWWhzSlR1bEFzNVItd9IB2gFBVV95cUxOUUtEa3REY1ZUejE3bW83N0FaQmdCeGtRWDZmQzItSXhiY0xtV1JtOFo5ZHR3MUdqeldmZkhkN000cGNFLVhrNW5YOUlUVlAwUnN0NWpuR1ZmYWJxRlF6Wl9XLXc5WUMtSkNnUGtOb0FoVnJURFFkclZtQmdjMi1BSXB6bDE0MHFlRmd0TFV5Y1k0VFM5WDJVSHkwc3dpTHdxc2VQNlZHM2RmRlpzOC03QUdwTkxHU2FtSHlLdlZYYW1RVXJpSFdVMWNNaFpTNjZNYWpldEc0NjhrZw?oc=5",
      "domain": "scmp.com"
     },
     {
-     "title": "Wang Guan's Take: This is Shenzhen 1.0, not Yalta 2.0",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaDZpV3d1ZkpiQTJ4TkY0Y3JvRWdlMGdNT18zay16QXRsYTl6VGphTV9CQWs4NUdYN3pOLUkyYlVDU1l4TmJjQkNiWVV0d25jSExwTVgxVkQ3T1drQWhpWXRRMkVadE1iU1hralU0OUpiNExJRTFlR3g3NkJDUTRYZjJfUURPYURMeFVHMElpTEo0bjhabUxuaGhyMHptd3pFbkRhbVBGVGJmWm9Y?oc=5",
-     "domain": "news.cgtn.com"
+     "title": "Iran war bill reaches 48.3 bln USD: Pentagon official",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oRjh4Qk1DY3BHX3ZVbEdfcVdwVUZnOVY0Q3NJWDdBRXNmX2JPZktVZDlDWkpQRGR3N2VUZTE5Mkk1Z29aMm50UDgtZHg4alJ1WkpPS2JJR2ZPRG8xN3BmU2dSblpmYUg0RW9iMTFoNjQ5cE1Dc1JYTnVOWWk?oc=5",
+     "domain": "english.news.cn"
+    },
+    {
+     "title": "Iran not to accept continuation of war of attrition: IRGC spokesman",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QZmFMWnlxT2dYdXpKRVFwUTZwNmxBNmpueXVmVWFKSHRUTGZfWmctdG5PbHlidlZvTEF0WDlOdlBpNUR1b3p0Y1dOR3pRQzV6eU83ZzlTbHZEMUVqcDJxOVZ5N2pqSzJWLTBIdkFxd1BjNnlOc1pXRXFTemE?oc=5",
+     "domain": "english.news.cn"
     }
    ],
    "error": false
@@ -132,50 +132,34 @@
    "tone": null,
    "headlines": [
     {
-     "title": "‘Too early’ to determine impact of US blockade on Iran, with Tehran defiant",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR0tDOEoxcE1oTWlVYnFZX2w3SXQ4UHY5ZGM5NUhiOVNiblhqMm1ZblFiWFF4YTVPM0RaZURuMjFkNjNFOHRiaDExTGtFZEJrN0tMR0EycjdieDZCRHRPTFdvVDlqSE4wMnYzbl83TkJvRE11bWRtdVU3a1RWLXdwdzhyRXhmVndmU0ZHZ3NJLWowdWh1QVA3TkJyS0RfdnV1SFRRQlNCR3lGSnplWXVmUWgzMWfSAboBQVVfeXFMTU1hWUtoLVAyQ3VmUW1hVDJRRUxjYXRyODAzY2RrdWR0SnE2a09VMDROQjRfdUc3azJSU0R2djhtdTAyb0hwTHREMFZjcURxTDlyMHVKZjBlcDdYbzNtOTFCdzNadnZhZ3VjUV9tVmlDcUJvWVJNNU1xa3puRzVXVVZHNmhiSmhBai14WWQzbWpIVHJQVXIyVWlBaDVIWElzeDNmUVdDMTRuYmFNTzdUMVBSNDBXRkxaX0Jn?oc=5",
+     "title": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSm1IYzd0dmZPZEpYYTY3Yk5PRnJZNGVfYkl5bGhHd0NaekY3ektkbnFWdXlEZFNKTlVCOVJnWXF6WGM1Y2U3U2xPRmw5NG5ZbWNxTS1pWV9IbUItZTdxNjVaZUJwZEYxR1o2ZlJSa1VCYXNVbEJmODMyQUFwWnVxcnFLU3U5UkYzX0pvQmx0NXpkVk5aOWptNVlFOHowbVpfQWlEUDlrVWFhZXJMUWszLWFoNWdQWTDSAbwBQVVfeXFMTzJLaF83bXZxcVN3Vy1tb0F4LTA3bjJiWjh5empUbEplU1VUMXYtR21UdmpzSDBsNHJVTHZrNUFMVWdxbE53ZHZ5S1dQLUllazJQR1RlUnpLNEZqeHl0aWFxRlVnNEVkMGpKUVZMdWh3aURvTmJaTkI1NzMxcWxyLUNISVhaZU9vbWVzVDU4OVpRQnRTZTVvRWNtSlZ4TDZQMHNsYk5GLXJkTXFxMzhYbHQ5XzdYLVNOWW9odko?oc=5",
      "domain": "aljazeera.com"
     },
     {
-     "title": "Trump said weighing another Iran offensive as Netanyahu pushes 4- to 7-day campaign",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdmhCUDF4d0ZvVkhmU1daNWIydEVKODlsUkhLaE9UekVMZnFYVkFLNkdTSThSazdFNi1VVjhQM2l4VEt0UHNhQzhHYi1wNW9UV1NCZ0RIWjZ4WFg1RDBTMFNOZVlCdWtQcXJJS3N4Q0VMOEV3SDAzbG9IQ201S3BNc2JjVWw4Q3pmQWNrX1pUeTI0NWI1OUh5aU5qb3BHaWlfQ2tYaGxQa2R2ZUZGN3Ria9IBtgFBVV95cUxOSnFfMWlyWXVqbXVUWVpvMlFLN2t0U1E2eG15YV9XdENMb0F4Tl92YjMtTXIySElGMmRxRUZudS1xdEJTNGh3V3Axak1ucl96bzhwZU8yLXBreGl4UVhpYTNybG9nLXZCSE00YkVNelRpMi1aaXBIcjFWTmR5X24zeGZrYWViUjk2Umd6S1EtMXE4eHh2RDBVZUoxdi0wZE1MRy1yLW1GdWMxdWg0dU9CMmRfNl91UQ?oc=5",
+     "title": "Iran war has cost US more than $48 billion, Pentagon official says",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeXVlVGhLZ1N1cE5XU0xkZWZqRWsxelEyck1UT1ppWk5RaE53cFFyOGxoZUNSbmg2ekMwWk81MVZMOWRsSjZSMi1VS29Xckh5NWloMzgwVUxaQVJQdVdtcUhfMnd5Ty1OYVJCc3pnTjZhVDBuZW50YlJTUmdrSFRLYUpocm1pVFhIQmFQRFRyakgxcU1vTGx1SGVnM2k2cmNaZTluWVB3am53WmQ3UkdN?oc=5",
      "domain": "timesofisrael.com"
     },
     {
-     "title": "US military rushing to build new bunkers across Middle East amid Iran war",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeDJkYk1fVDdDMnl5WERpaXVKUmp1TEN4T3NYa3IxZEE5UllIZUFzMEZiUWF3Z1pna1VZeDE5MmtuZEwxd1gzN2wwTW5DSDBKUVdLcXptOWVjNEFfYXl6X0ZvQUU5YU5YMDdxV0pQMTVIRWotUjlVUEpKb0t1cEJSc1VVdXZCZ1U1OXltYnFmNVJTUkZoNUxXM2JJQmN1SGdZNUo2U2tOTF9mTHhhV3RlTFZ0ZVAzempTTWNfdXVhWE15dHF1bGFoZ0o0Y9IB0AFBVV95cUxOVmEzaGRkcElwZTg0aFdLVzc2bVY4aEt6R2tXTms1OGtwXzk3QnB5d0dDdlVBTFN0TVRFam0yREFzNXNWeEVkSWtJUVRoWVZlck9YQ09TVFM4S1hpNlQ1WDBOQTdfWm1mQnZ6ZEc1SnM5LURsTmZWbkxUbHlIbWVadEdoWVNNMkdULXVPU0s4RWhrWjItYm45N093cXhJMWVOLVVUVXBaR0RWeXZSVHd2YVd2NEcxZHA5VzJTVFhUQXJUM0xjZlV1MUNBVlBKaXdy?oc=5",
-     "domain": "english.alarabiya.net"
+     "title": "Trump claims Iran is developing bioweapons: Is there any evidence?",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkVwVkxCTGFrV1g3UXk0R0xScDhlZWk4LU9HWWkxazNZLVFVRnAwbWdaWmRHUDR2aUxOQlN6dnZjek1CWkhFZG9ST2t3R1I2WVVpU3YwVUtHYWFMWnlDQS1GLU1iM3pmNWt0eTlQQXYyblJhZFZKUGZRZ1c1VG5jRUtRMVB5YlB5Nnc3dzBFNGJ2RW12MXU5b0VCOFhOV3ppdjFTT3FzbzI0QdIBrwFBVV95cUxPOUtWUVFBVEJRNmQxWjRLaENMZUM0aXpSY1JBM1ZyckFPSWlsc3liODdLOTEyNWhwZUVUVUtSd3A4eEVqMHN4WG16R0JLNjZ2cm5mWjd2bTVTOTQ3NS1Pd2pHSnRFOVF0X2xsM0l5Tl9nRG9sM0wwOEp3TzJfVVNVSmpqd0dYNXdpWkN6WFltVG5LSTl3VVdxbTR6c1dmNk5STWpBVEZyZjc4ZjhBc2xZ?oc=5",
+     "domain": "aljazeera.com"
     }
    ],
    "error": false
   },
   {
    "name": "India",
-   "count": 100,
-   "capped": true,
+   "count": 0,
+   "capped": false,
    "tone": null,
-   "headlines": [
-    {
-     "title": "Trump’s heir, but not his echo: JD Vance, Iran and the limits of loyalty",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMUtzN2F1bTdFcDBRcllycTZvenIwU0x0WVBObUtuQzJiODVLZ1FIN05RT3BNZFlodUt1N3VEZFFnMVZuMGxFSEJTY015QVJrd0JxUi1tRGItcnVDUk1lR2RnMFIwbV9uYXRnRkFCT25CMGFqc1FySDlxRlJUaWtfZ3ZzSVR1dDRCaGxvNFZ2Qk5aR0xmblR6dFBORlFydlJ5cjFqWWFUMEhOSGw3NjdtVjU4TXNSUXJuVTJUNjV3ZGlscUF3M2xmc3MtZ1A1Nzcxdk5QOFJ3?oc=5",
-     "domain": "timesofindia.indiatimes.com"
-    },
-    {
-     "title": "Donald Trump \"Frustrated\" With JD Vance Over Iran War Remarks Post Midterm Rout: Report",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbVpDbDF2UE9mMWxjREFXVGRFTDZfQnoxWm82ZlRSVkQ0UVVMZWVweDdFZVlJQjBHdTZsS2tqZ0FoYW9ORjVYX2ZuOUY3WnJnOG5yVjB0QmdESDN3dVhuUjMtclVMbzg1VThFNklYN0tvaVd5UTRXbWZLVHFFbUsySzMzQjhfbi1kb1p2ZTl2dnV3TzMtd0tINjdxdmNOd1JUcU5feHlsWnVING5ERy1xNVZOa0lNamNBX1pVUU1Oc2g5MTltaEs4TWszeF9TakFwQ3lVSGtNY1hmbWR5QU81TlUzQXc3TDRBS1HSAfIBQVVfeXFMTjgyakR4NFBuMzN2ekNxOG9TNjZVa0hPTVQ3ZldJNGNQOTRkNjRXeUFDU19GUWQtanlUa1dwQ3V2Qm8wbHExVS1CNGp1Qmh0UUV0RlNDdmJJblV2NmVBbnctbm1UY0FROVZMTTlXMmMxX3psZ1Z1cmVXZzc2UWNIQmRRNFhUblhzNFJJMkZYekowcHZ3cmZJVmNmQ18tSHU0VWRQTVZzcDhrSXYwZ2NoNHpsOU1GcTU3MUFZQVZHTmdyZE5Xcmx0cTFIRzJjUHIzX3VkbGFRZVF6RzBEc1NtWk85aW1yR0FDWi14eTFwX0o5OXc?oc=5",
-     "domain": "ndtv.com"
-    },
-    {
-     "title": "Boycotting polls will end democracy, says Rahul Gandhi; calls Indian democracy ‘sacred’",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNLUttRXNpSk1OS2RGYWdSaXdQNTc0VzJUT0I4Uk9EN0gtaXlsaFRIdVo3Q21qcUhlMzNVUVlqdTcxOFQxYzlfQUVmRDFHOFFIbVh3RHBwWFIxOVQwUmptR2RSSmNxdUczaVpZMm5fUVFQNUg0MGNLbnZRMjRadnVqZzZjb3VqTXJHSlZFdXdhTmZ0UXFJVnJqeXlwUGEzUTMxMk5FN1BPT3pSSEFXa3Frbmw2VHh5V3FkUGtLd0dLRUZmR3UwMkIxeFdzeDM0c1VqLTZDUXdDbDBWbUloODlIVF8wSdIB6gFBVV95cUxNaG1GSlhrdkpiclY5U2hUY2hUTTRVTWdyZEM3SUVTZnlBMWNCak9mUzc0aDloVlNrbmJrUEdfdzBWem9MZXk5WS1qSXduYzIyRzJYU2hoeVRNRGNneXBCenEwc2U4TnFIVmR5bHhpdDZ2ZVBncUNxQy04YXByb1RtdTlBc3d0d25fUnZ6TS1xcTMydHBVek12SUtMRGk5bi1aUFFyVWYxUV9Cbk9hWUhSQ3ZLNnJpSEN0dmd1UGt0czB1Mzl5WGkwYVZVbF9iZXZXSU4yTE8tQzdZQ2JDM1JzR0lmNjVlbFJEMVE?oc=5",
-     "domain": "thehindu.com"
-    }
-   ],
-   "error": false
+   "headlines": [],
+   "error": true
   },
   {
    "name": "Africa",
-   "count": 9,
+   "count": 7,
    "capped": false,
    "tone": null,
    "headlines": [
@@ -185,13 +169,13 @@
      "domain": "news24.com"
     },
     {
-     "title": "Finance and Markets",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50ZVBaWUNJbFRQLVVUUE5fTERFNFUwUU11RWVSRWcxNDRMX1UxbXJINmxCOVZfblVlcU4xSDdUZEVoekMzOUdWTk5acHBDRVNxaF96VFZ5SlBJT19NYnBZdG1ZcVVVaU0?oc=5",
-     "domain": "nation.africa"
-    },
-    {
      "title": "China's Xi to host historic summit with Trump, Putin",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSDN4dVhKOG1Zc09zTWFsVElsSHVnbEoyaUdzMENyUkFUYzFyb0t2bDZHMEY2bUx5dkUxXzdZbFpGRWlKXzNzMng2NVpZRlhYcmNYcHR1YWE1RzJvVVZiaDg1Y3BZdVBLTHg5NFhiNy1CUlJhWnBXR3FhcnVaUHlsb1ZKTk9URzNhdEswUTBvSTIySVNuYjNtRw?oc=5",
+     "domain": "news24.com"
+    },
+    {
+     "title": "Interest rates: The MPC’s long, risky wait until 28 January",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYTlNaDI2M1FMaWd2ckh3dkVSVXdVbnh4Nm9QYVNhcHJMOS1YR2hnSmxMZjhrVThkM0taTXhvRlF0Z3pGRHZaZS12WGlIZ3V4TDFpMXdRcS1raGY1YUxEekxqc2VLcktBV2txampTYTBrMmFUaG4tSXNXaWdWXzVpUnV4VmF4MzVtZ2VlTGxsZERxSmpNOUdhd1gyeUFBc2IyZ1VpTlhkUzlQTE4tejF3Y3RaM3NIVWRhT01LcWNCZmF5NTZz?oc=5",
      "domain": "news24.com"
     }
    ],
@@ -207,7 +191,7 @@
   }
  ],
  "framing": {
-  "text": "The UK emphasises diplomatic efforts to prevent escalation, mentioning peace declarations and international summits. The US, Europe, and Middle East focus heavily on military preparations and immediate threats to regional stability, particularly regarding Iranian strikes and their energy implications. Russia and China downplay conflict severity, with Russia noting non-military solutions exist and China highlighting broader geopolitical interests. India's coverage centres on US domestic political divisions over Iran policy. Africa and Latin America have minimal or no coverage of this story.",
+  "text": "UK, US and Middle Eastern outlets emphasise the domestic political struggle over war powers and military spending, with US sources highlighting Congressional debate and costs exceeding $48 billion. European coverage focuses on Iran's strategic alignment with China and Russia amid US pressure, while Houthi attacks on Saudi infrastructure feature across UK and Middle Eastern reports. Russian and Chinese coverage is sparse but emphasises the three-way diplomatic talks between Putin, Xi and Trump. India, Latin America and most of Africa show no or minimal coverage of this conflict.",
   "model": "claude-haiku-4-5"
  }
 }
