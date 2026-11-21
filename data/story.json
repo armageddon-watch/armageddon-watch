@@ -1,104 +1,200 @@
 {
- "generated": "2026-11-20T20:31:15Z",
+ "generated": "2026-11-21T07:14:59Z",
  "window": "last 24 hours",
- "source": "GDELT and Google News",
- "topic": "Extreme weather",
- "focus": "Florida",
+ "source": "Google News",
+ "topic": "War and conflict",
+ "focus": "Russian",
  "regions": [
   {
    "name": "UK",
-   "count": 4,
+   "count": 61,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "United States",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtQTIzbzhVQ1JhZVgwSnlIcGp5blg5NTBIRVlkNXEtbUpTUmpra1BZRkpYTWF6VktpeWVpSzd3WGhDcW1pVWVZOXppdUNUdzRJRTJMX0RZTGNXdw?oc=5",
+     "title": "What we know about the latest Russian missile strikes on Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10M3Q5MDhtNFdMQTAyNXJzOHFsaUZXYlBxWGpDOE1IR2luaGc5bXZUY3paOWJRZHZWY19GM3RxZXZFZGVSWFRIRFdLZkhOeEQ1Q2t4RThhNkRNbHM?oc=5",
      "domain": "bbc.co.uk"
     },
     {
-     "title": "News",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGdzUm53RllpVUhDVXYtS1hycS16NkZzTklGUVhrcVJOVkMzdnBacUQ1R1FNekJjaHdFd09QMUROU1RXYmp5eVN4UXItakJWZGdFLVpkTnczMW9oNkh5V0V0cXkzUklyb3J1VEkyNElEUGpoTVdNXzFfUUh0LTl4aDZwR0d3UXVIdkNLc3d3aERuN1JsNW9NNV9lMnJuMU1qLTJnbEIwLXVTR19OMENR?oc=5",
+     "title": "Ukraine war briefing: European leaders react with anger and alarm after Russian missiles crash in Poland",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV3ZsTlVPVEN2STFrWVYtZFA1eWpCd3BxdHhwU1U5Zm5JeFdTVXJmUXYyamFEZklBdGZxVE1rN3VtSDZLWDhzNGVnT294RkxVbGEwc1lVc1ViZ3Q3QVJYMG53bVNaeVNSbEVscnh1di1vNDBDQ0h1TkpGek00Y1BjeUJ2YVktZkYxcDdyVGZyalhkUkNob0FOejNCM0laNy04Mm1BUmtjR2dZa1dkdnBjRVEyZXRmdWNYODU2bnNkUnZNNndCb3N1NGpSNTEwRHR1VmN4dWs0ZDRhTDZvM3Bwak85Zw?oc=5",
      "domain": "theguardian.com"
     },
     {
-     "title": "California",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lWFNxRXJWdHFXQlZZb2g3YjBhZVEwTHRMN0JwUGx3NEY2NE0zWk1rSFlFTXU3U2hXSGphUF9vNW9DZE1iRWFGZnE5bHY4V2xkYVBpak5yd0xHZw?oc=5",
-     "domain": "theguardian.com"
+     "title": "A 'very worrying' incident for Poland | Ivor Bennett on alleged Russian breach",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNkIxSkhsOW5iN3BoQzdHdGpyNkJIQ1FETVVrdVNMZTBHZnlrM0d5bUtjNThzQm9FamxhbVR6bGhNSmMxSHVrLVFoOENuaTZtTWZLZjM3VjVrcndudFdDMk1fSHotQU5WNWpPWkJFVzJJWnRPRURwWTQydFlWNmxhaG1IVkhleElvR0JRakdJbVpJem1CTmtEMWNzbXJuMEdrdUNPYkxqZUkzWXdycmpj?oc=5",
+     "domain": "news.sky.com"
     }
    ],
    "error": false
   },
   {
    "name": "US",
-   "count": 0,
-   "capped": false,
-   "tone": null,
-   "headlines": [],
-   "error": false
-  },
-  {
-   "name": "Europe",
-   "count": 0,
-   "capped": false,
-   "tone": null,
-   "headlines": [],
-   "error": false
-  },
-  {
-   "name": "Russia",
-   "count": 0,
-   "capped": false,
-   "tone": null,
-   "headlines": [],
-   "error": false
-  },
-  {
-   "name": "China",
-   "count": 0,
-   "capped": false,
-   "tone": null,
-   "headlines": [],
-   "error": false
-  },
-  {
-   "name": "Middle East",
-   "count": 0,
-   "capped": false,
-   "tone": null,
-   "headlines": [],
-   "error": false
-  },
-  {
-   "name": "India",
-   "count": 33,
+   "count": 40,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Happy birthday, then goodbye: English club sacks struggling manager hours after publicly wishing him a ha",
-     "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOQi1ESkFua08zOXBIbkdfcG9IalRoQjBUanBpcERWdUFUeXVLRjVESjJMdXVla3NTUjFZZU5ZOHJ1WWgzekY4eC1EUzdldkpUcGg5al9IYm5PcU5DZ3JNNXUzbk5PNk1sT01PdWU3VGdodEN1VVU4SUFGeW9ReElRWk5KdUFxX2lzc3hkcng4SFlJNXFDbmpjYkUzUUlLZDR6WmRXSG91dFBuYlBWQ1UyX3Z5amFGV3hlR2kweU80WEUxUWppSTBfZ1REQTFQa2FfbHVmbWN6U3hpLWlUMXRHSUxwUk43VVBTWUZsVThoZ2hTU01kWFpXVWFNUXg2WmhCQkxpaXpmb0VWVndNd0FCUzhaa3MtSVlNWE5sVTJRZjRWLWJoMVRYeWxmYW9nc3Ryenh2R9IBugJBVV95cUxNYm9NWk5XYUVnTlA1X2x2VVdLY3pYNlE5YlNoZmM5U3I1cWJCTklxMGZjeUpxOEhLYzN0UWtlTS1zd0hlVlFlbWFEbWdWMUdDRFNldHdMaEZZZFplWGloWlBLOTlqTEJ1MlA4MFNON2FRVFBJZklnQ0h1S2lSeXpzSVQ3VlRuUmxjR0N6NGw3bVZVRzI3Vl84VFBKbEVoT3FBZzh5dmd3S2dLRmhzbU5ld1VaWkIxaWF4blRfcnZTdlZLMXNTcjJhaS1VZEY4TFF5VDBHUjJfNU4xbVVTbkJ2X1lWRllnQ3pNQmdaWVZiWm41elZWaENrV1pkUEtZOTUxNFlPdEl6RU5aNDJRX3IzMHl0SDh2TWpPRVVPWEkyNVNMS2hhRmJSN3RVbnVfdDlHV3pBTnFxMk1SZw?oc=5",
+     "title": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXhFLWVHeVA2TTIyRTRBRklRM29NQlpLTkNSbkdUYlNWVTNLek1BNG52cDFJRjNNVGNxNW04V3RDTEJPNGtDZ1R6WXE5TVV3SDJhQkFDRVFEMXZaTF92aWhZdS1xS1A0QnR2dE9selFRNGJYclZkRmdKUlJrWjB3VGxzTFE3aVBjYWJCUXhsM0Q1Sk5qR1U3TFlIekxkUE43MUNNenk2bw?oc=5",
+     "domain": "apnews.com"
+    },
+    {
+     "title": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTVFIcVZvUUdXNWtFYTZXSXdPQ01HZDdtUUd1U29Ca0VKcUVSelpERlR0S0F0MDZiUjk0MndhdVVjZEFVRk9fM1NpM3EwRHJtQmh3WjBuZjFnaC1OcXpfV1FNVnBfaUluczFwN0dhaVp6eDNFcUFFWmU4NnR0N3JQbjdiWnRWenlELWow?oc=5",
+     "domain": "nytimes.com"
+    },
+    {
+     "title": "Putin launches Ukraine barrage hours after Trump meeting amid alleged Russian missile breach of NATO airspace",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOV9oS2JWcDFJbFFUQldYNVl4Um9BR1dxN1BISVhDQTVHdnVoNzgxejNJUDNOWkFtSldkUURVUDY2ZFhQNTFBUTVoUzY4ZFFsUmVvdkxVWFQ1NTRCMjEwMlpSb0VIdUh1SFR1NU5WZzZoTXpyUFNjV3F0NlZRc1N2MlZ1aFQyeG5zQkt5SFR1eHR2Ti1FSGZPQ1VDa0s0MmVkNzRjX2hzOTNZbzNHcmZtS3F2YWlkTmdmbTlFY3VwZzJlODhxUGltQzJqZ29RR044U0HSAdcBQVVfeXFMUF9GNnVRcnRYb1g1Z1JodjlMYlVOeTItclpwUEI3UFZraWJJbHZ2cWRqQmMzNGNhYUNjTWxJYjFUMVlsTTZGQjNkZDFxRFYtcWhYRXJsR05SenBwZGNWY21ZdnRxM1k3S0wyMjQxNldlTWV4THoyMjUwcVFjTlZwU1Y0cHZUMlBnaXY2azJvQ2luS3h1NG1ybzBBdW95dGNRRVVZanJiSmQ1VXVkUmVhY296enFjYlB6dE9pZmhWTlo5QmMwc1V3WXRPQWVzVmlQcXNKUW1uaUk?oc=5",
+     "domain": "foxnews.com"
+    }
+   ],
+   "error": false
+  },
+  {
+   "name": "Europe",
+   "count": 100,
+   "capped": true,
+   "tone": null,
+   "headlines": [
+    {
+     "title": "Poland slams Russian 'provocation' as missiles land near European military drills",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcGNJNHRNRjRURGJsSFhXcV9taGNRb3Y3UUx4S0RCYlFLbnFkMUVhYUxHcHhZYkt2QldfWHdISUVpazh2UWFLSWZ4T1JfUzR0WHBCQ2M1WkoxSGFFWW9nLWFGQnRvOHplYTlvRkVqa3ZUd2JCa3FCTXpOUUVseHVlVkt1dkdfcS0tMzUzNXgtRk55QXBEeWEybkcxNmY3SU5VUlhLaHA1OHkxaXhtU2xTc0dudEE?oc=5",
+     "domain": "france24.com"
+    },
+    {
+     "title": "Ukraine updates: Russian attack 'one of largest,' Zelenskyy says",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeV9qSzNGLU5BaGd1UHRudmk5NjV5UDFnLVJuX2FYUUZnZmpVZjZkZFVSZzE3SnFzMkZLVVZDMktHTGdUbGJTM3E4S2VZMW9hcWhaR21uSFB5czM3ZDZBNkF2ZmlrUWtmOHF0S3Z4MzhLUzl2ZmxiWXlwUjdSODdHeHlOa29DUmNzTl9oTG5WbjlfbjJheEt3YmRBR2I?oc=5",
+     "domain": "dw.com"
+    },
+    {
+     "title": "Tusk denounces Russian 'provocation' after missiles crash in Poland",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRW1sdERHVGpla09DdmI3R3Y3aGVRRU1pazdIQ3E3dnZuQ1NqaDA4N3ZDVG9mQnVDOUtsaTVfQXREeUhTRXBXT0t1SXg3NzgzNUZsMkxpMWNRQWhUS3FYdmZ3R0VFRTJiV3VkQnBjLVY1UzZZSDRQVVd2ajlqMEtuemRtTkstT3NWYVlTdFlvWkJKakFsbzB4LWlTQ2JlOXl3dFBJZzVKbXF6UUtEaDhKMGFkV2FMZ1k?oc=5",
+     "domain": "euronews.com"
+    }
+   ],
+   "error": false
+  },
+  {
+   "name": "Russia",
+   "count": 100,
+   "capped": true,
+   "tone": null,
+   "headlines": [
+    {
+     "title": "Russia working toward visit of EU Troika to Moscow — senior diplomat",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBqT1pqVWVPRGVOMk9JSnQxUWxzNlN0VExoTXR1V3FlVVNTNzhaVnFaN1FGeGFNSE5DbFNSOHJGUEcyN2h3bkRtTdIBTkFVX3lxTE9jdjhCLXcxazZiZVFzQjBlQ2tlT3JrV1QtZEZEbExpVlM3MUo2UmxHSktPWUhKcXF3MlF0Yi1YREFGUlJ6SDN0NjhBVUNkZw?oc=5",
+     "domain": "tass.com"
+    },
+    {
+     "title": "US",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rc3RteVdmS1VGRzUzZ2RIWjFtajhrcms2aTlqOUZpb0dJeWE5MUNlaUhZY3VuMjV2ZEZrTHZVQ0FDU0J3NE1UNkNocHFsZlNVMjNHODhzSTkzRzgwT2VF?oc=5",
+     "domain": "rt.com"
+    },
+    {
+     "title": "Press review: China, Russia, US hold first summit as Washington backs EU in Ukraine talks",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1PUFktTFpaTDZnc0pBbHlYODdsbGt3bVlVeUFVZzlaMThTY0NSSU5NdExFYjlXZ29fMV92SHVveDM0ZEVtQmxXV3E3SW_SAVJBVV95cUxPZTFTTTBwOWxPYnVibWNfczFQNGpaa2VVT09yUDM4WnJvMDBQN0xxck5ndlJhWkxhRzU4X3JROGN0cXV2TzZRdDdzYXo0OWNKaHVn?oc=5",
+     "domain": "tass.com"
+    }
+   ],
+   "error": false
+  },
+  {
+   "name": "China",
+   "count": 25,
+   "capped": false,
+   "tone": null,
+   "headlines": [
+    {
+     "title": "Russian missiles land in Poland, as Europe holds military drills nearby",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUVlEWWw1LWxtNGY5M0dhVm16RjBnVEZoYXJIM2tlTlBuOXMwZkFKZ21QM295MmExWTBLeTRyY2pmVGxyRGRCUjZMQnJsSnROTHFhT2N0Mk5IQmdZdFlRVlFoNkNHdV8xbEliWFdLVWQyN2czWnV6eUI5V25heGV3WXJnV21mZ1c3aXB2S1ZIS241MVlqbjVrVjdXc2RhRk9PdVE5Y1R4ZFZ5OEd6MXpVQkdOMzktNTRmbVRlclhEOThHdE5KLXlrMTBYajRLcUV6V2VHYWlrdmEtVFB3YWc?oc=5",
+     "domain": "scmp.com"
+    },
+    {
+     "title": "China-Russia-US summit: Injecting stability into a turbulent world",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcVVWeGUtZ2pfNmlsR1VWV09tZG1WM3ZhazFXb2JYLUxVS1hPanNpSVdDakhuZHY1NXdCb1ZsOU1FQXhoWGhSUU4zMFhsSnBkdjg0ejc5SzI2QS13bHZCY2dXZHI5MldwUmNTRjJmVWQzRFdJdWxfY0pRQmlTSno1UHkyTVZocldmYU91VWxPZTVVa0NQTkdCYWtfenlzemcxQTFMMVdRZVlhdGZidFhNTG9aU3h5SHJWRnJvSEtGcw?oc=5",
+     "domain": "news.cgtn.com"
+    },
+    {
+     "title": "CGTN | Breaking News, China News, World News and Video",
+     "url": "https://news.google.com/rss/articles/CBMiOEFVX3lxTFA3a1hKY3dfcFFlWnE1Z0tyUlV3YkNSQWlVM3RJS0pSQ3ExN2c0T2pyVVZ1QjU5dExL?oc=5",
+     "domain": "cgtn.com"
+    }
+   ],
+   "error": false
+  },
+  {
+   "name": "Middle East",
+   "count": 50,
+   "capped": false,
+   "tone": null,
+   "headlines": [
+    {
+     "title": "Poland condemns Russian ‘provocation’ after airspace violations",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSWMzYzZUYVBYZnJ4RmJxME9pVkU4VGdFUE1DMDBFNm85eWVTZVRkdWY4c3hOSng3aFBsSWVMN3NJSHdoTHhNaTJUeEhIclpTa3BENHdMblJrUDFIMzczeTc1WnhONTVaMHhvcWNNUXA5Mm5KVnVnZ3Z2NlJJOHBISWk4bVQ3RndxS19zMG5rYTd0NU9tUWJzY3ZzZXd0R3NMc0RvYUt30gGrAUFVX3lxTE1CUzVHN2JzdzBqOTNZYzlnV3VTZTVvQVBCZkt1aWh3UGZ2U1FhMlczd3cxTllnM2VwLW9jcmU3NlBCbFJyR0lzUVQyTklRU0xmWUJua2pFb1ZOMEVLcHJuc2ZMS0lxaGl0LVMwblc4RG15TjBBTnB2NEh0OUlaS1FtelhiZFYtX3dGNEdCTk15UXNMUVMwU2xEMndkcndOMTM0ZXBoUmJQZ2lIaw?oc=5",
+     "domain": "aljazeera.com"
+    },
+    {
+     "title": "Why Jeffrey Epstein loved Russia: Women, oligarchs and a shot at redemption",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYU1RUGo5MnM5Q3hUUmZNMEU0MG5hRWlWQVBoaWZhZEJITkxXalNhUG5rX0I4QTBGLTh1LXp1Z3VsdE9Ic0JpRGVnMV82Nm01RXFLQjJzWm51X0VLQU9Scld1bHdKMnlYakZDMU1wbEJOc2ViM21ES09zTlN3N2twWmJuRm5ScF8xcVZZaEk0by1RMDM1ak5aRU9kaDlnUzVTVC1WcFNPWdIBrAFBVV95cUxNQnB4SFc5OXpncEQ3SG56REJwWlpuNWZuNjNySVNJS0tDbUtoTXhxbWlaSU8xZ2tRdDcya2c3TW5peWU0SkxfWnk4Z3VsV1Nrakp4V1JFRHozSFpGaWpNTlJOVFNuRlFWQldUQ21PY3NabTNHSjBEa0Vtb00zcVFjbExsN3MwUkZTYmFmWHg3VFlSdEpUbTFzQ2VrR01BTmFtcXQ5Tm5WXzJPVGFY?oc=5",
+     "domain": "timesofisrael.com"
+    },
+    {
+     "title": "Russia pushes back against US idea of NATO-style security guarantees for Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQU9qLTIzMDdUSHhmYnZGbHVIRlUxLTFEdnRXbkdUZTF3c00zb0ZpbUZpVmhRdVBvamwtQ3J6cjA2OWs4SHIxaVQzWV9XSHhGZE9NbFEtS0ZodmNnTTJVWjhjOXdSZU01dENSU1NSNjM2Zi0wLV9zS2pqMkFSWUl6SzFpM1ZVUWUtSU81cXBQWk9XeXhydEo2WDZrNDNPRExoUUI4ajNKQlp3WGE2c0xRT2dpd0l1c3g0bHZCbk5lb05WaTFQem84aUI1MNIB0AFBVV95cUxNSXgydXpoNkZCUTdQYWNma3M5OERaU2RqcFlLSmhkelNEdjBrSmhjS0V6RjVOVlB2NGpxeUpVNUtUYmxjd051OWpyc2JZeXllRkxHU3dscWQ3NmZUT1RoRC1ENUdDVkFDTGlITnMyNWNDeGVSWUptTmloZjRZUFJXanhvd1g0d19zMmFsbE9EOVhGeGF2NWhsd2pzcHZxWEVHWkNtS1JZVUZvUUpSamFTOFNGazdiVnpYRVluRlNuOWNsM2FGUmUtV0hqNFFlejkt?oc=5",
+     "domain": "english.alarabiya.net"
+    }
+   ],
+   "error": false
+  },
+  {
+   "name": "India",
+   "count": 100,
+   "capped": true,
+   "tone": null,
+   "headlines": [
+    {
+     "title": "8 Ukrainians Killed In Russian Strikes After Crimea Bridge Attack",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMS1NRF9kNGYta1laMDViaUtxblUwbkxac2tFNll5Q2t6NzhyNGRvV1c0LTNOa3lscVBXaWhaU2tCdzdHcnNfUkY4RFk3Q2t5UkxUUjBGSEQwN0Z6OXM0cmt2WXRaaURyRTV1cnFJcllBS2FSY1ZyWlZ4MEdzdjVRN29SVzdiejlnX1ByVFRCMlBHb3p1a1pnM2tjVzVPeFVxdHdiUkNybzJKZ9IBsgFBVV95cUxPcnF2RTlmVkFEX3JxeDBRb2RuZWFXbTRzZElQZHNpaWV1ZGNXMFFHYTctUVpnSWJlM1ZjckkydTNoclpYc3ZfbktsRExaSUVydG1SRk1rZ1hwOFU1WDhHeTRWV1F4ak04QXdHTzZtMERJZld2Z3pMOTNuc3RjeV84NHRwUXZEN0c0NS1pUEZpc1FHMlVIM1djRENIV2hsb19SZXVrckRPMEtNbmhpdmdXaWRR?oc=5",
+     "domain": "ndtv.com"
+    },
+    {
+     "title": "'Compensating with terror': Russia hits Ukraine with 400 drones, 110 missiles in one of war's largest att",
+     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMFR1WDgzb09qbDF2dkM4c0dwal8ySEl2ckFSb1lYcGZYSFZkNDI3OE0zc0gyTWI3R1JvVWRXVDNkbWIwNFotSzhMRUlLMzlEZFFtcVJvRGVlSkNEWEw0b3d2SWNVWFQ0X2JZTU9mTmQ4TGdNbVg4QVljX1JFN0RVdVFxT1FVYzhjeGJjdXNuMC1BQXJBalNhdV9xSG5MRUZHak1aV3ZmZXlXdnllanh4U0pSNllkTVJsX1Zua0t0WGxYTW5kand0WldtMnVOSEUzYVdqTGdnMjhBZXhYWk9qbFlTNnJ5aGZ3a2lNdXIxcnpyV3d3bGRpTlNLb3drd3NNcUZ6dE5KSXYyUG_SAZACQVVfeXFMTTZTZ2VjVFk3anNWekVzNkpJWDdaWEdySW5KOS1SVXZxeGQ1a3piZW9XZTlYcTNYYXlCb09JWktxS0ZBV0N0TFFYNmd0OVkzRXFzeHVSNFl3MjFJYV9LX2VaTzNrbkpFcXNlTndRZ0ZFdV9lU3JsQzNvOEEzTk5BR1VxYXJuTE1PZlAtbENLSEQ0VTdaTm9EZHpFSHhNajFjcFBpZmMyeERXbUI3bUlteDNURFJTUVo2bnFNTFNjSGNpd1MwaGd0NGVKWGZWTmxFeVJSZlBuQ3NybFUtSXlPUnllNm45Mks3cXdncXJscTZTeVJWZFpuS1ZNRzlGVGFFNFhQZ09sZm5vbXVscXliSjg?oc=5",
      "domain": "timesofindia.indiatimes.com"
     },
     {
-     "title": "A Frida Kahlo painting expected to sell for up to $3.5 million was withdrawn from a Christie’s auction in",
-     "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNNWd2SVhhRjVISDRQa2hVRDRMMmY3RnUzQnprSVdHODN1a0pVVFJTSHk0eE45SDI1UUtDekRZWlc0UjFYcDdzdldDZTctQ0hISEtnRWlOaDAzVEhIY2IzSFVZMEJUTExiZlFzNk1wMGEzMVhzaUJWMERTbXBHcmlHUmxEUEVIRHpVU1VkMVgyZUw0U2RkcEhCRTVidkJnQ0lzUnNqNy1NSnp6OEpSdmUzYm5tQUU5NmQxX3JlUV8yNm41el91WGdob2NqQ09fdXZfc3l5ZlZFT1JkY2duMnduYkt2YzlXdHM3YUVOMUVkell3cHJkS2hSVUc5Q2tnbHhLN3JjUlBlX0dDc3JoLWVuNlZjdWhtbDJyV2Uwenowclh1RXJHWkZFWmpDQ2RLb0Q3ZFlmdklzVFdDRkZOMmhUU2lrQTR1ay16S2RCNENtZlpCazQ4T0NlemswS1VRdWlKQ0NZQ09Zd3oyWEVHVHRxbWhxN25MWDIzNkdUNkR3bklEVjZVdzFBSUNjc9IBkANBVV95cUxOa2lDVmN6UzhRa25nRkV3cTd5eGdJLUpRX3FNc0pBd1U1M3JZNlY3VE1ZbWVnSlNMakRhQ0JmZkVQQUxtQWZRNXhscVZsWHJ1cjVHOVh6RDhUd3dHX3RGZEFJSTJ1aGFSVC1UZktsdWllVnA5TS1Hc21WNWMtWmUtYVkxekRNLXNHZTFiMTVRa2ZiSWQ0a05aX0tYT3R4Q3V6Ync2djQwQ256VWtXTHlFeVJ6RUtlbHB4blk4SE5NQkg3MHo4RmM3V1lyTHZyVTdDczNITk1hSE9SWU5EMl94ZUtDb3VkN0hkcnFsVTluMkpCc0hvcktIbUpYcU9pQUU0YUpVLTJyTXdyTEFERXRBWDFRZ3J0Tm9IdWVkRFc2NVFDclkwd2EyNFFHZ2Jkdk0waHRFQWhWenVxdXpEMUNyRjJ4RUJ6aUNGelFnVkl5MXhyV3N3Z2JycjRHdGxoVXk5MWFkUXg2RG1DbEtmaElRME55bE1SaTF2Q05sSnl0UW5lMXhXbWZtRUY4UGFMMmRI?oc=5",
-     "domain": "timesofindia.indiatimes.com"
-    },
-    {
-     "title": "Florida’s dry season sees ‘quite the opposite’ as record rains trigger widespread flooding",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZ3BsZnJNdXhxRmpYWmNnazNpTXNBMGxlUG5RNzlLcG9PNTlpcWlERGU0RjJmOHhLWWlhMk94WUg0dnBqUk5aTGRqMXBOV1RCN1R0UFl6cGFFNlhsYm1xYkZCTVBpendhLTlXT3otcUoxTlJ1MTVXNGVrMnUtS0lTZWdiYmlOV0ptNUZwQ19PTkdZUkpGcVNjOUJVdUQ0N1VqdjJDWFdFay1YLTVJZ3BvYk1PcW9McWQzWlBiRkhEYjhGdm5TYTN1MlNnd0p3Yk5URlRGdjlWSjFWMUNCT2xzVVVuMWt3NGtqMllvMk84RdIB9AFBVV95cUxPMWNMdFM1alNhbmdWTXZPSjdsSWk4NGZ5SWdnczMyaVJ5S1BYd2VoNl9zeVB4SUF3VzFRRDBLZXVoSEZaWVdLbmh2S3VNM3c4SW5LQWg2M3hURFdmd3J1dUlmbE43QTJQZXV6WkhJZ0FGUEZmSk9CRGNhOHZxMVdTaDJxekZDbG9EaVR1dmpqak9rTkMtTlQzdG1qSWRBVzdhU1dqTjJUbW9yU0EzQnE2WERFZmpNUl9ocjJBZFhIMzQ2bkh4YVd6NVhoWmYwcEdWX3BmbWtuTkhQdzhOc0NNX0NiR3BId1J4YURpT2tsalFiZE5M?oc=5",
-     "domain": "timesofindia.indiatimes.com"
+     "title": "Russia says role for EU's Kallas in Ukraine talks with Moscow would lead to their collapse",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeG5NZEtkVklLc3hnS2p4enpZSWVRdHVVeDI4dzRyT21VUE5tYVIycTZvNS1CSVdkX0M0Q2o3eXZKT2w4c0JkcDJCZmR3Rnp4R2NCQmpjX2FFQWNCX2JrMlhVclF4Tzcza3pVZ3FwaVpBVWpIaXdaNFBDQXJ3dkJmbDNkX2hkbGx6VVFUM2Y4bWh2eEF1MV9aRTRKLTAySWlUcWthOFp0TmVtTmo1NS1zcWY4ZXNpYVZnNHhsMld2RVFXS1Q2cUIzbk1ibXpLTWhRbi04RFNydnBTMTN1M0tEWEttNTNnOGZ1b3l2aVJwRdIB7wFBVV95cUxNeG5NZEtkVklLc3hnS2p4enpZSWVRdHVVeDI4dzRyT21VUE5tYVIycTZvNS1CSVdkX0M0Q2o3eXZKT2w4c0JkcDJCZmR3Rnp4R2NCQmpjX2FFQWNCX2JrMlhVclF4Tzcza3pVZ3FwaVpBVWpIaXdaNFBDQXJ3dkJmbDNkX2hkbGx6VVFUM2Y4bWh2eEF1MV9aRTRKLTAySWlUcWthOFp0TmVtTmo1NS1zcWY4ZXNpYVZnNHhsMld2RVFXS1Q2cUIzbk1ibXpLTWhRbi04RFNydnBTMTN1M0tEWEttNTNnOGZ1b3l2aVJwRQ?oc=5",
+     "domain": "thehindu.com"
     }
    ],
    "error": false
   },
   {
    "name": "Africa",
-   "count": 0,
+   "count": 3,
    "capped": false,
    "tone": null,
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "Britain and EU seal ‘landmark’ deals on trade and youth travel, but fees row delays rollout",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTVhtV0lmczNlUWdTaUFtUDU0YlE4ZnhFT1ZkLS1mdzUyOU5PYURmUmRvenprdWd1WHZoRGNGaWcyYU1sMVFfN1JVLWFod1d1QkVYR1MtUUxDaVdHeDc0SFQ0b1V6OEpaNTdFdjNHbDQ0Z2hMZy1KMUtqSThVdzdXakNhcWFaNmZhSWI2Z2dqTUV2NHI2WlJWbHVNVlluaVRLV09pdWx6b0otMWZNaFRZelFPNzZ6bWRWNXdRNzQyNGhfWFZBc215cGdMOA?oc=5",
+     "domain": "news24.com"
+    },
+    {
+     "title": "The big three in Yalta-like summit to calm unsettled waters, By Owei Lakemfa",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRnh6c3pwWEsyRGppRlNSYXF3SU1FUkpzdUJTUjBPMUh5N1EyMDVqNHF4NllCNFp4NkRRdVRpTVhuQmxWTWR5bmZiT2lvTTJMMEFNRUJBOER5cG9GNlYxcm1vdmhzejczNGlScTB2VmtNcjFBalo1cnk4SDA0Rmo5dlJVVTBoUWNLckF2YW9uRkdLU3c1SmNQdzB0cGtsMTB4dEZoR2NVa1EtQjZLUGxjcFRGRmIxQ2NtcGFUSUc5YVZGTnVt?oc=5",
+     "domain": "premiumtimesng.com"
+    },
+    {
+     "title": "Russia launches one of war’s largest attacks, killing six in Kyiv as missile lands in Poland",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX2xQLWZhR1pYMFYwd2VoRjZqOVJ6NWVTeXprR3FnT29uYnRfNXUyb2lNb09zWTdDM2VzMDhOYjJrb2pJQVZwdjJ5SXIyaGVmaGhQcEN1a0JEMGJPNTVpc3F6NWFEVHE1emR1enBfODRlclVJQldlek1LWEJNSjVsVG8zckcwWGtiVHh2UE12R21LNmdPNlBtYXRJOFdHZXBFM2NSTDJwYjIyb0RGdFlfOUtnYUl6Tmd6V3FtVFNMczhwVlFCeVFTZ1VnYk1jZw?oc=5",
+     "domain": "news24.com"
+    }
+   ],
    "error": false
   },
   {
@@ -111,7 +207,7 @@
   }
  ],
  "framing": {
-  "text": "India and the UK are the only regions with coverage of the Florida extreme weather story. India emphasises the meteorological specifics, noting record rainfall during the dry season causing widespread flooding. The UK outlets frame the story primarily as United States news. Most world regions including the US itself, Europe, Russia, China, the Middle East, Africa and Latin America show no coverage of this event within the 24-hour period.",
+  "text": "UK and European coverage emphasises the missile strikes' proximity to NATO territory and diplomatic reactions, with Poland describing the incident as a provocation. US reporting focuses on the breach of NATO airspace and technical details of the objects involved. Russian coverage shifts attention to diplomatic initiatives and international summits rather than the military incident itself. India and Africa provide coverage of the broader Ukrainian conflict context. Middle East and China have minimal engagement with the story, while Latin America has no coverage.",
   "model": "claude-haiku-4-5"
  }
 }
