@@ -1,29 +1,29 @@
 {
- "generated": "2026-11-21T07:14:59Z",
+ "generated": "2026-11-21T19:20:46Z",
  "window": "last 24 hours",
  "source": "Google News",
  "topic": "War and conflict",
- "focus": "Russian",
+ "focus": "Iran",
  "regions": [
   {
    "name": "UK",
-   "count": 61,
+   "count": 50,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "What we know about the latest Russian missile strikes on Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10M3Q5MDhtNFdMQTAyNXJzOHFsaUZXYlBxWGpDOE1IR2luaGc5bXZUY3paOWJRZHZWY19GM3RxZXZFZGVSWFRIRFdLZkhOeEQ1Q2t4RThhNkRNbHM?oc=5",
-     "domain": "bbc.co.uk"
-    },
-    {
-     "title": "Ukraine war briefing: European leaders react with anger and alarm after Russian missiles crash in Poland",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV3ZsTlVPVEN2STFrWVYtZFA1eWpCd3BxdHhwU1U5Zm5JeFdTVXJmUXYyamFEZklBdGZxVE1rN3VtSDZLWDhzNGVnT294RkxVbGEwc1lVc1ViZ3Q3QVJYMG53bVNaeVNSbEVscnh1di1vNDBDQ0h1TkpGek00Y1BjeUJ2YVktZkYxcDdyVGZyalhkUkNob0FOejNCM0laNy04Mm1BUmtjR2dZa1dkdnBjRVEyZXRmdWNYODU2bnNkUnZNNndCb3N1NGpSNTEwRHR1VmN4dWs0ZDRhTDZvM3Bwak85Zw?oc=5",
+     "title": "Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUGEzcUdkaW9kYmFheHhDbzBMTG9PTnhmeGZwTzBURFA5amgtbEZRX1Z2WTVRZzRKV3Z5a09ObWVpMXFpMG83bWxvYngzZi1jOTJMWnJPVkN0V1FiTUxPTkdQYWVraW5hWVN0QXZ0SWtmSExMSmQ2cWtibmdrRFdKRTg4VFhDdw?oc=5",
      "domain": "theguardian.com"
     },
     {
-     "title": "A 'very worrying' incident for Poland | Ivor Bennett on alleged Russian breach",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNkIxSkhsOW5iN3BoQzdHdGpyNkJIQ1FETVVrdVNMZTBHZnlrM0d5bUtjNThzQm9FamxhbVR6bGhNSmMxSHVrLVFoOENuaTZtTWZLZjM3VjVrcndudFdDMk1fSHotQU5WNWpPWkJFVzJJWnRPRURwWTQydFlWNmxhaG1IVkhleElvR0JRakdJbVpJem1CTmtEMWNzbXJuMEdrdUNPYkxqZUkzWXdycmpj?oc=5",
+     "title": "Strait of Hormuz swim highlights environmental cost of war",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LX2FFeUo5ZjFkdWZBZXNTSWU2LUV4UVVhQnk5NFZsVkNiOGFwdHZPTkVDRmd3NHZLYTktX1M2NXJhaWNZUlZ4QjRLV1ZWVzgtdnVEcXpXYmo1dnNVOFE?oc=5",
+     "domain": "bbc.co.uk"
+    },
+    {
+     "title": "The World with Yalda Hakim",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxeVZOU0Z0NGlobGJNcVNvLUJ4U0xReDRORXdZZVBCUVB2el96VXZrTEpiX3hkQlhhVFp3bkJLak5mWWZENk1KSm5qTzEyQnB5dXhTbERJQnRiTG8?oc=5",
      "domain": "news.sky.com"
     }
    ],
@@ -31,71 +31,71 @@
   },
   {
    "name": "US",
-   "count": 40,
-   "capped": false,
+   "count": 100,
+   "capped": true,
    "tone": null,
    "headlines": [
     {
-     "title": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXhFLWVHeVA2TTIyRTRBRklRM29NQlpLTkNSbkdUYlNWVTNLek1BNG52cDFJRjNNVGNxNW04V3RDTEJPNGtDZ1R6WXE5TVV3SDJhQkFDRVFEMXZaTF92aWhZdS1xS1A0QnR2dE9selFRNGJYclZkRmdKUlJrWjB3VGxzTFE3aVBjYWJCUXhsM0Q1Sk5qR1U3TFlIekxkUE43MUNNenk2bw?oc=5",
+     "title": "Endurance athlete swims in Strait of Hormuz to highlight Iran war’s impact on wildlife",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ0JtX0ptcWJJLXVuYkhxaG1uNTFXV0hEdzRSUDZIckpCQWVfVWZtMWU5b3AzYjhUcTdvdjNrQmNXMnVFSTdZWE9wTnhWQ2NBSnpBT0thUEdMQ1hKcGY0aURSMXFiM1UtUktHVEIzbzFCM2JYRGRvb01yOGhFSkNVSlJabk9fUUx1ekk0QWFNQzBOVDRvamdrRmZmcw?oc=5",
      "domain": "apnews.com"
     },
     {
-     "title": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTVFIcVZvUUdXNWtFYTZXSXdPQ01HZDdtUUd1U29Ca0VKcUVSelpERlR0S0F0MDZiUjk0MndhdVVjZEFVRk9fM1NpM3EwRHJtQmh3WjBuZjFnaC1OcXpfV1FNVnBfaUluczFwN0dhaVp6eDNFcUFFWmU4NnR0N3JQbjdiWnRWenlELWow?oc=5",
-     "domain": "nytimes.com"
+     "title": "Trump responds after Vance blames Iran war for midterm losses, VP says his job is to support president",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSGs0QUE2YnhLZVZUVEcyeGtoLUNDdGdRdExtaXVUUjdEaXRGQ0Nwd29KRzdTSVkzM2JNLWpFX3EtZUwtUzhnOHBZYmxFM3dqTHBBanM0dDI0eE9KUncwM3huRm0yTnYyWkd5S3ZWbWlCRFJyYUg3VUNPSmh2NzV2Y0tuY3dzc05mZVBqQUZVM2ZaUXp1ZFFMeG5QWU9waFJ4dDhpbDEwNnlqSFJST09WZUhPUU_SAboBQVVfeXFMUEY0bEIyMl90OGRmenNobE5neGdFUjJUUjhqTnhSNk5aV0hQeVVZd2VhYkdKU0k1NlVScm43SGRJc2RiTHdHMzl0bzFOMGw2Mnh6cl95Q0JId1hGQXU4Skt5R2lIejY3bEJ6bV9CSk5qZHJVajBOZ2xJQVBjTWY2bUlZNjA0S3lJWk5uWjBIQzNndWE2Uk81T1FGcTlDeTQ0NXk5Y0pHLWl5TVNxUmZocmtlMzlEdVFBZUt3?oc=5",
+     "domain": "foxnews.com"
     },
     {
-     "title": "Putin launches Ukraine barrage hours after Trump meeting amid alleged Russian missile breach of NATO airspace",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOV9oS2JWcDFJbFFUQldYNVl4Um9BR1dxN1BISVhDQTVHdnVoNzgxejNJUDNOWkFtSldkUURVUDY2ZFhQNTFBUTVoUzY4ZFFsUmVvdkxVWFQ1NTRCMjEwMlpSb0VIdUh1SFR1NU5WZzZoTXpyUFNjV3F0NlZRc1N2MlZ1aFQyeG5zQkt5SFR1eHR2Ti1FSGZPQ1VDa0s0MmVkNzRjX2hzOTNZbzNHcmZtS3F2YWlkTmdmbTlFY3VwZzJlODhxUGltQzJqZ29RR044U0HSAdcBQVVfeXFMUF9GNnVRcnRYb1g1Z1JodjlMYlVOeTItclpwUEI3UFZraWJJbHZ2cWRqQmMzNGNhYUNjTWxJYjFUMVlsTTZGQjNkZDFxRFYtcWhYRXJsR05SenBwZGNWY21ZdnRxM1k3S0wyMjQxNldlTWV4THoyMjUwcVFjTlZwU1Y0cHZUMlBnaXY2azJvQ2luS3h1NG1ybzBBdW95dGNRRVVZanJiSmQ1VXVkUmVhY296enFjYlB6dE9pZmhWTlo5QmMwc1V3WXRPQWVzVmlQcXNKUW1uaUk?oc=5",
-     "domain": "foxnews.com"
+     "title": "Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSmhZODNjd292clh2TlJBYWJNV0NuQV93UWxVTmxiMmNJaHJnNHI5WFF2bVJwOHgwcmdRS21DU3lYbGQ5aXdCVW1HbjNoaVRnSlFPRThCOFdsbTd3Y0hDUlJPci04QzdVM0d0SDhqMzVEU0VQYTUzWFNSd29FeklxbTlKWk8yQnZCV3ktZlZaOFpncHhzU3c?oc=5",
+     "domain": "nytimes.com"
     }
    ],
    "error": false
   },
   {
    "name": "Europe",
-   "count": 100,
-   "capped": true,
+   "count": 98,
+   "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Poland slams Russian 'provocation' as missiles land near European military drills",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcGNJNHRNRjRURGJsSFhXcV9taGNRb3Y3UUx4S0RCYlFLbnFkMUVhYUxHcHhZYkt2QldfWHdISUVpazh2UWFLSWZ4T1JfUzR0WHBCQ2M1WkoxSGFFWW9nLWFGQnRvOHplYTlvRkVqa3ZUd2JCa3FCTXpOUUVseHVlVkt1dkdfcS0tMzUzNXgtRk55QXBEeWEybkcxNmY3SU5VUlhLaHA1OHkxaXhtU2xTc0dudEE?oc=5",
+     "title": "Spotlight - House of Cards: America's enemies \"no longer fear it, its allies no longer trust it'",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNS2xyY1g2NlQwN0JOVFlqYWFtazRKMVVBaE1lN1VPQkEyQi15eE5Pd1Y0RkYyUjlYMjl4SkU1eF84clhCSkNUeW55SnNXVGFkNEVVMmswei1oOGNwM1hRRDJWR21jdmgyMzhmaXpXSVp2eUs4UzQtZjlEZWF4V050by1RcncwcmRFdzBDcFd0Y3hxQlBraW1HV0pMSDBaeGwtbTBYZXl2Y3BibE9YQXVrTXkxblhlZlFKS3FMYlRzRk9kNG51QTlTbjhlYmdlV3JUc3c?oc=5",
      "domain": "france24.com"
+    },
+    {
+     "title": "Ballistic missile attack on Zelenskyy's hometown kills two people",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWFNDVWJ4ZXdhOEM0dW94QzViVWxUTFNreFZ3Yjk5OU94R0RLUGFsa2NqSWFKVUlJclhHMDBDamNaWVFSWk1KNEl6TlhjZE9UYS0zVzFBb1pqbHdfM3hmRHZGMGhZNl9LMzg5ejhLSVdrNTA1Sl9ZTnQwVlBVQzRUTFBrTFhVLWZfU3NHY2hsTE9kalR3VUZUdHFRSzAzVElVS2c?oc=5",
+     "domain": "euronews.com"
     },
     {
      "title": "Ukraine updates: Russian attack 'one of largest,' Zelenskyy says",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeV9qSzNGLU5BaGd1UHRudmk5NjV5UDFnLVJuX2FYUUZnZmpVZjZkZFVSZzE3SnFzMkZLVVZDMktHTGdUbGJTM3E4S2VZMW9hcWhaR21uSFB5czM3ZDZBNkF2ZmlrUWtmOHF0S3Z4MzhLUzl2ZmxiWXlwUjdSODdHeHlOa29DUmNzTl9oTG5WbjlfbjJheEt3YmRBR2I?oc=5",
      "domain": "dw.com"
-    },
-    {
-     "title": "Tusk denounces Russian 'provocation' after missiles crash in Poland",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRW1sdERHVGpla09DdmI3R3Y3aGVRRU1pazdIQ3E3dnZuQ1NqaDA4N3ZDVG9mQnVDOUtsaTVfQXREeUhTRXBXT0t1SXg3NzgzNUZsMkxpMWNRQWhUS3FYdmZ3R0VFRTJiV3VkQnBjLVY1UzZZSDRQVVd2ajlqMEtuemRtTkstT3NWYVlTdFlvWkJKakFsbzB4LWlTQ2JlOXl3dFBJZzVKbXF6UUtEaDhKMGFkV2FMZ1k?oc=5",
-     "domain": "euronews.com"
     }
    ],
    "error": false
   },
   {
    "name": "Russia",
-   "count": 100,
-   "capped": true,
+   "count": 9,
+   "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Russia working toward visit of EU Troika to Moscow — senior diplomat",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBqT1pqVWVPRGVOMk9JSnQxUWxzNlN0VExoTXR1V3FlVVNTNzhaVnFaN1FGeGFNSE5DbFNSOHJGUEcyN2h3bkRtTdIBTkFVX3lxTE9jdjhCLXcxazZiZVFzQjBlQ2tlT3JrV1QtZEZEbExpVlM3MUo2UmxHSktPWUhKcXF3MlF0Yi1YREFGUlJ6SDN0NjhBVUNkZw?oc=5",
+     "title": "US F-16 fighter jet damaged by Iranian air defense — Iranian army",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBXTHdyQld3SUFDVEYwT2V4RG41N3drRUNTN251TEE2WGxpbDFCci1YLUNRcF9Nd2JzSUFmcW5RcDBmdHV40gFKQVVfeXFMT3RNeWdybVVKX3RxanV4R0VoSEp5Zm4yQW03ZVN2TExVaDRCSTRnUDl5UjZtUlZvVVpoeFFZRTVaSlFEV2xqT1pSMWc?oc=5",
      "domain": "tass.com"
     },
     {
-     "title": "US",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rc3RteVdmS1VGRzUzZ2RIWjFtajhrcms2aTlqOUZpb0dJeWE5MUNlaUhZY3VuMjV2ZEZrTHZVQ0FDU0J3NE1UNkNocHFsZlNVMjNHODhzSTkzRzgwT2VF?oc=5",
+     "title": "Live",
+     "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAtNTBqdW40X0w3WDZFYzBIRGVwMGIzSU51RXlDTDZSREdrVXdYZ0UtalVQblgtdkV5ZFJfOGJ4RXY3Umc?oc=5",
      "domain": "rt.com"
     },
     {
-     "title": "Press review: China, Russia, US hold first summit as Washington backs EU in Ukraine talks",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1PUFktTFpaTDZnc0pBbHlYODdsbGt3bVlVeUFVZzlaMThTY0NSSU5NdExFYjlXZ29fMV92SHVveDM0ZEVtQmxXV3E3SW_SAVJBVV95cUxPZTFTTTBwOWxPYnVibWNfczFQNGpaa2VVT09yUDM4WnJvMDBQN0xxck5ndlJhWkxhRzU4X3JROGN0cXV2TzZRdDdzYXo0OWNKaHVn?oc=5",
+     "title": "Pentagon denies reports that F-16 fighter jet damaged by Iran",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9oUGRpU2JETUdCemc2Q0dwRl9kUV9KTmw2V09JeF9KYmlJWWUxUUZYcldZQjhMNXF5VGtlWlJ3dHVvMTNU0gFKQVVfeXFMTUhrbkQtaUNLWDBjbWFPaDVIOFd4REVCTkkwb1dKYjNsM3kyRnRHQVk0SUZYUGNObzkwTXNJY2ktSTZZU3ZIV3FydFE?oc=5",
      "domain": "tass.com"
     }
    ],
@@ -103,48 +103,48 @@
   },
   {
    "name": "China",
-   "count": 25,
+   "count": 22,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Russian missiles land in Poland, as Europe holds military drills nearby",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUVlEWWw1LWxtNGY5M0dhVm16RjBnVEZoYXJIM2tlTlBuOXMwZkFKZ21QM295MmExWTBLeTRyY2pmVGxyRGRCUjZMQnJsSnROTHFhT2N0Mk5IQmdZdFlRVlFoNkNHdV8xbEliWFdLVWQyN2czWnV6eUI5V25heGV3WXJnV21mZ1c3aXB2S1ZIS241MVlqbjVrVjdXc2RhRk9PdVE5Y1R4ZFZ5OEd6MXpVQkdOMzktNTRmbVRlclhEOThHdE5KLXlrMTBYajRLcUV6V2VHYWlrdmEtVFB3YWc?oc=5",
-     "domain": "scmp.com"
-    },
-    {
-     "title": "China-Russia-US summit: Injecting stability into a turbulent world",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcVVWeGUtZ2pfNmlsR1VWV09tZG1WM3ZhazFXb2JYLUxVS1hPanNpSVdDakhuZHY1NXdCb1ZsOU1FQXhoWGhSUU4zMFhsSnBkdjg0ejc5SzI2QS13bHZCY2dXZHI5MldwUmNTRjJmVWQzRFdJdWxfY0pRQmlTSno1UHkyTVZocldmYU91VWxPZTVVa0NQTkdCYWtfenlzemcxQTFMMVdRZVlhdGZidFhNTG9aU3h5SHJWRnJvSEtGcw?oc=5",
+     "title": "Iran signals openness to diplomacy as Trump rejects its terms",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUlAtY0EtM25ZR2NpNjc5WkI1b0NnOVdJY2lMQUFVeWZTWWJPRlU4MVBkZmNaQ3dJbVhhQ1dHMlhDbDZ4b1l2NVZRd0NKQnczZEJ6WFZfQWt4dmtnLXIzLTdzSXNhS2lOa1NYVGFLZE9qal9ZMGRjTm1xUWRVblMxZlcxNU1ObHlwRC1EV2pOM1hwVTJ2TnlSMjk0c3Nhcll1RXRmOFRyVEdVMmszUVlWY3JfLXNKdWRJUnc?oc=5",
      "domain": "news.cgtn.com"
     },
     {
-     "title": "CGTN | Breaking News, China News, World News and Video",
-     "url": "https://news.google.com/rss/articles/CBMiOEFVX3lxTFA3a1hKY3dfcFFlWnE1Z0tyUlV3YkNSQWlVM3RJS0pSQ3ExN2c0T2pyVVZ1QjU5dExL?oc=5",
-     "domain": "cgtn.com"
+     "title": "Tanks, drone and anti-drone vehicles spotted at Zhuhai air show site",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcXFOSl95ZHZHQlhhN3ZnVXMyZnV4ZmR1THo3T191LVZxSjRYLXphdUx6VlVNRGt1cVhycUNFUnlxN1huWmpuMUxRVmc2WEgyUmFiVXR0ZG5yY2NKWGMtZmxtUEFyNWNlY3Q1SDlJWXVHU0xKMy1TSUhlUGJvQy11UEEtekZnT2VTRmlxLVZWTFl1Z0ZlYWxnSDAxTWpwY1JjeEFNV1BXQVRaQ1FuRFRQWVhn0gGyAUFVX3lxTE9FTHNJSWNhVlY5X1h3SzFQcWpCOWJWS21EdUM0VDl2TGFscktDbG5JQVNmQWcwc0E1LTJ6WUtTQ1ktRkhoakY2bFAyenQweXJyWktTNnd0MXBPWUdpeDFJWDhBaXVOUHQ2UzM0MVhPUVd3SEllRlFaOV9MSUl1X09OTVBMMHlvMThld05OV2NfWG9pQkN1czgzemVQTmNnZ0o0RFlLVmt0bXFSaXdBOFh3NWc?oc=5",
+     "domain": "scmp.com"
+    },
+    {
+     "title": "Iran's army says air defense missile damages U.S. F-16 fighter jet over Gulf as U.S. denies claim",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KRV80Z1BoRTR3ZHhtSnN1YzlQaGd6elhqNjd3R2U0S2lIbHpERWRlMGNnbTJYa2s4OTc2UFZSWldTUkhROG1vMHp2OU9nTDg4ME9VYjByZ0NaNTBXUDZRYk9WY0kzRno1aFdzR3pkMlFIeW1EQ2VjNHBSa3M?oc=5",
+     "domain": "english.news.cn"
     }
    ],
    "error": false
   },
   {
    "name": "Middle East",
-   "count": 50,
-   "capped": false,
+   "count": 100,
+   "capped": true,
    "tone": null,
    "headlines": [
     {
-     "title": "Poland condemns Russian ‘provocation’ after airspace violations",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSWMzYzZUYVBYZnJ4RmJxME9pVkU4VGdFUE1DMDBFNm85eWVTZVRkdWY4c3hOSng3aFBsSWVMN3NJSHdoTHhNaTJUeEhIclpTa3BENHdMblJrUDFIMzczeTc1WnhONTVaMHhvcWNNUXA5Mm5KVnVnZ3Z2NlJJOHBISWk4bVQ3RndxS19zMG5rYTd0NU9tUWJzY3ZzZXd0R3NMc0RvYUt30gGrAUFVX3lxTE1CUzVHN2JzdzBqOTNZYzlnV3VTZTVvQVBCZkt1aWh3UGZ2U1FhMlczd3cxTllnM2VwLW9jcmU3NlBCbFJyR0lzUVQyTklRU0xmWUJua2pFb1ZOMEVLcHJuc2ZMS0lxaGl0LVMwblc4RG15TjBBTnB2NEh0OUlaS1FtelhiZFYtX3dGNEdCTk15UXNMUVMwU2xEMndkcndOMTM0ZXBoUmJQZ2lIaw?oc=5",
+     "title": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0s5elZpRk5PMWVjdWJna2RmUTBNNUVMWTA0dURwcUJIWEVRRUVDYWZYT2dNb1ZNc21taTVIZ0lKa2VGR3IyTk5oZG9HczJpc3ByX0Zra3p3NEMwM0ZGSlg4TnQyd1p0SUtEUWtwTjQyeUUtSWkwN0hmY0dacmJiOTlBSlNTVTRpeUZCcnRfckhHRWpqN05YVHhreTItaGhEVXlGTVdhMXM2TVFTY3kwVTFSN3VTNDDSAbwBQVVfeXFMTVNzaWs0TnJNaXpZYWV2T21kNUtCMEZaNFVEcFQxcFFXQnVMX3ZEY3lhRnJwY3R6bE9LLWgxVnotNEE4RXdnRlBZMzZMVkhrTjl0LUVYSk5Qc1l1b3FseHJOaFRJUkNMYjNwXzdWQlc4V0pxUTUyR0ZidFo5UWFZU1NwZnA2cXk0bkhXWWY0X2tsNDNHVW15a0c0cF9mdVRKa3VCVGRLczZBSk9MZDVHMFdIcGlZRlZtejVIQVY?oc=5",
      "domain": "aljazeera.com"
     },
     {
-     "title": "Why Jeffrey Epstein loved Russia: Women, oligarchs and a shot at redemption",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYU1RUGo5MnM5Q3hUUmZNMEU0MG5hRWlWQVBoaWZhZEJITkxXalNhUG5rX0I4QTBGLTh1LXp1Z3VsdE9Ic0JpRGVnMV82Nm01RXFLQjJzWm51X0VLQU9Scld1bHdKMnlYakZDMU1wbEJOc2ViM21ES09zTlN3N2twWmJuRm5ScF8xcVZZaEk0by1RMDM1ak5aRU9kaDlnUzVTVC1WcFNPWdIBrAFBVV95cUxNQnB4SFc5OXpncEQ3SG56REJwWlpuNWZuNjNySVNJS0tDbUtoTXhxbWlaSU8xZ2tRdDcya2c3TW5peWU0SkxfWnk4Z3VsV1Nrakp4V1JFRHozSFpGaWpNTlJOVFNuRlFWQldUQ21PY3NabTNHSjBEa0Vtb00zcVFjbExsN3MwUkZTYmFmWHg3VFlSdEpUbTFzQ2VrR01BTmFtcXQ5Tm5WXzJPVGFY?oc=5",
+     "title": "Briton swims in Strait of Hormuz to highlight Iran war’s wildlife impact",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaFFERVRWdkZ0UFBObnJVUkgwekR5Y1c0dTFhakVLZy1IajRKdmxxRV9jUzV4aVp4Vk5WUWZRNEhqWmtqWDc1VUl2WGMwQXdUc1ZLb0w3RUJFNEFWVmJQOTRneTRvYlo4NEtaMmpFb3ZCQ1dsbWU0MGU5ZVctV2VvbUhYbHV1YWN4TF9FZzVTc3JMNDNha3B4MzVXX21xbUY00gGmAUFVX3lxTE1MUXZEN0FNamVyMnJOcEhpS2kwVURlQ05EMHZta1k3RmRqYlJ6NUhmOE50X0lYcmxsbS1ZM2V3dUYteWluX056RGdsdnhuSXdkTms3eVVSV3Z2cWlFVWh0UVBtaFFXaGVwcHc0WEtrQ3VLcF82b1prQ2ZFeTQxWGVVZEs2TnhGemt2VGZTVWQySVdkcHVfczZTcElFSUpGU0RHV0lBQkE?oc=5",
      "domain": "timesofisrael.com"
     },
     {
-     "title": "Russia pushes back against US idea of NATO-style security guarantees for Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQU9qLTIzMDdUSHhmYnZGbHVIRlUxLTFEdnRXbkdUZTF3c00zb0ZpbUZpVmhRdVBvamwtQ3J6cjA2OWs4SHIxaVQzWV9XSHhGZE9NbFEtS0ZodmNnTTJVWjhjOXdSZU01dENSU1NSNjM2Zi0wLV9zS2pqMkFSWUl6SzFpM1ZVUWUtSU81cXBQWk9XeXhydEo2WDZrNDNPRExoUUI4ajNKQlp3WGE2c0xRT2dpd0l1c3g0bHZCbk5lb05WaTFQem84aUI1MNIB0AFBVV95cUxNSXgydXpoNkZCUTdQYWNma3M5OERaU2RqcFlLSmhkelNEdjBrSmhjS0V6RjVOVlB2NGpxeUpVNUtUYmxjd051OWpyc2JZeXllRkxHU3dscWQ3NmZUT1RoRC1ENUdDVkFDTGlITnMyNWNDeGVSWUptTmloZjRZUFJXanhvd1g0d19zMmFsbE9EOVhGeGF2NWhsd2pzcHZxWEVHWkNtS1JZVUZvUUpSamFTOFNGazdiVnpYRVluRlNuOWNsM2FGUmUtV0hqNFFlejkt?oc=5",
-     "domain": "english.alarabiya.net"
+     "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZlNyX3lsbHJKN1Fwb2lGLTM4SmkzYTJBYXFfaUg4dkw3dFNpMjZBSWw1a0Nmc3E0UjgxeUR6a2dHZlJkckhBNWJSemxDXzJPZ2JCOTlrQjBJWVV4OU9reE1Kb3B4bFZtRVl1dGtXUURSeUtJRmEyX2kyRDB6N2I1cnhtUlZDNXNpby1sNm1LcF9HMGw5TDRwSHRjV0xnbngybVFVZFFtM2ljSVVHNEFGekd30gG3AUFVX3lxTE5LUVE4Q1R6X2RhZ2RTUWVKSHhDZU1nTEN6cV9faHBoNGs2MEZiOXBDRkRIVGt0V0xQWm90aDQ5ZmZaTFhJamQyRFBleFRtX0c3V0dpWXA0TVRTYUJIZlQzdUxMS3M2YVdaRUZSMDlDWko3YVVyRm1pd2VGSDQtVGM5MHoybm9vOVFHend6ckw3YWhJbUx4cDZoaFJSM2FkdXMtQzJDdjdaeHhiUDZ0MFFEcVItV3B2QQ?oc=5",
+     "domain": "aljazeera.com"
     }
    ],
    "error": false
@@ -156,18 +156,18 @@
    "tone": null,
    "headlines": [
     {
-     "title": "8 Ukrainians Killed In Russian Strikes After Crimea Bridge Attack",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMS1NRF9kNGYta1laMDViaUtxblUwbkxac2tFNll5Q2t6NzhyNGRvV1c0LTNOa3lscVBXaWhaU2tCdzdHcnNfUkY4RFk3Q2t5UkxUUjBGSEQwN0Z6OXM0cmt2WXRaaURyRTV1cnFJcllBS2FSY1ZyWlZ4MEdzdjVRN29SVzdiejlnX1ByVFRCMlBHb3p1a1pnM2tjVzVPeFVxdHdiUkNybzJKZ9IBsgFBVV95cUxPcnF2RTlmVkFEX3JxeDBRb2RuZWFXbTRzZElQZHNpaWV1ZGNXMFFHYTctUVpnSWJlM1ZjckkydTNoclpYc3ZfbktsRExaSUVydG1SRk1rZ1hwOFU1WDhHeTRWV1F4ak04QXdHTzZtMERJZld2Z3pMOTNuc3RjeV84NHRwUXZEN0c0NS1pUEZpc1FHMlVIM1djRENIV2hsb19SZXVrckRPMEtNbmhpdmdXaWRR?oc=5",
+     "title": "Iran Claimed It Damaged US F-16 Fighter Jet, Then Came A Fact-Check",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYnR1bmh3elBndnVYcGFqRmRFTkhLak8teDQzWWF4Zk5ycGNtQUFFSUVHR0ZyX3pCd1d6U2pxSWd4eldiVWo0N2NXQktIR0JvWWxkVVFxbWFRR28xNmp5blRWeXIxX0l6NWdEbHJWVUloMm5oVjhicm9oUWNhbGUzdlR6N3pBRUlJdERQdC1nWXVFRXBTbzRuMGdvTXY5VHlQbHhpLWtwUko2YUNkd21qZE80QXdwQXph0gHAAUFVX3lxTE5BWDhzZEJnVXNwM1hlTUpSd1BfM1I4YWpQWEgzS2Jhb0lsbmttZW1mTmR1QzBMNm9NcWRONzAtWmxUT0ZyY0NjRFM0UHlPY2tXT0hIRVl3RzlYSXE3dEwyREk5c0NYRDN6b2xTMlhYUzVDT3BfVmVSbk96aEozWkRXLWMxcVlySV8tUEQzVk1LSEtodHRJb0lUeFdUMF9xRDBiOEVZV2U2XzJmRVNLSUJFcmdOOFRfUEtHdkJTckx5bg?oc=5",
      "domain": "ndtv.com"
     },
     {
-     "title": "'Compensating with terror': Russia hits Ukraine with 400 drones, 110 missiles in one of war's largest att",
-     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMFR1WDgzb09qbDF2dkM4c0dwal8ySEl2ckFSb1lYcGZYSFZkNDI3OE0zc0gyTWI3R1JvVWRXVDNkbWIwNFotSzhMRUlLMzlEZFFtcVJvRGVlSkNEWEw0b3d2SWNVWFQ0X2JZTU9mTmQ4TGdNbVg4QVljX1JFN0RVdVFxT1FVYzhjeGJjdXNuMC1BQXJBalNhdV9xSG5MRUZHak1aV3ZmZXlXdnllanh4U0pSNllkTVJsX1Zua0t0WGxYTW5kand0WldtMnVOSEUzYVdqTGdnMjhBZXhYWk9qbFlTNnJ5aGZ3a2lNdXIxcnpyV3d3bGRpTlNLb3drd3NNcUZ6dE5KSXYyUG_SAZACQVVfeXFMTTZTZ2VjVFk3anNWekVzNkpJWDdaWEdySW5KOS1SVXZxeGQ1a3piZW9XZTlYcTNYYXlCb09JWktxS0ZBV0N0TFFYNmd0OVkzRXFzeHVSNFl3MjFJYV9LX2VaTzNrbkpFcXNlTndRZ0ZFdV9lU3JsQzNvOEEzTk5BR1VxYXJuTE1PZlAtbENLSEQ0VTdaTm9EZHpFSHhNajFjcFBpZmMyeERXbUI3bUlteDNURFJTUVo2bnFNTFNjSGNpd1MwaGd0NGVKWGZWTmxFeVJSZlBuQ3NybFUtSXlPUnllNm45Mks3cXdncXJscTZTeVJWZFpuS1ZNRzlGVGFFNFhQZ09sZm5vbXVscXliSjg?oc=5",
+     "title": "Iran claims it hit F-16 jet over Gulf, forced emergency landing; US denies attack",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQamlIS1pmUkJaLTB3aU1WQVVnRmtVNW9tWHRZc3hxYk1HQ0RzRzZISnNiQ2VSOXlRRmxRNHZUcTBvek9jT3VpVHZ1ZVoxbTA2RFZ5eUVPcklFcWpsbTVPSHc0cDVJbTg4Z3k4RjY1SERiNDVsTnhBM1RyOHRwcUNhZlkwLVBfOVBVU25xVVNyVlNpbkhLdjBzeVYwS2FUY3BEeTFEdWx0NmR3bi1ROFdNcmFZaVdiUUN4dVBwTEVkeTBRdlI2SlVycE54aVJzUGFVbnp4eFlJYkwwNk5BMEpTT1V5dHhQWDM1czRoMEZURmjSAfYBQVVfeXFMT0l2a3pxSG94NnJhRERpdXFZTkxZLVN1Q0pobFZ5QTBhWlhmSm9PbmV4T0RTLXVVQWRFS3JFMTFWaXgxYVlyZ2JYVXUxTkt0T3RkQm9yZmVmNjlVTmRLdDNXYXl0RXdFYjhlbzZkRkpScklBSnRESDN6Nmt6ZmxxWVVMTnBqaUdlMXFkLWczQ3RXYUpleGhvTktYdHZhR2JIMHM0R0dLYVZHRkUzUGtpLXE5SkhiZVdaemdkLVZ5SS1Nd1gzZG5rYjN4S3FDMzZOR0NHeUFFa0pTNml6dFRyeUVZbjFyWERjaFlmVmN3NXVweEt0QUZn?oc=5",
      "domain": "timesofindia.indiatimes.com"
     },
     {
-     "title": "Russia says role for EU's Kallas in Ukraine talks with Moscow would lead to their collapse",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeG5NZEtkVklLc3hnS2p4enpZSWVRdHVVeDI4dzRyT21VUE5tYVIycTZvNS1CSVdkX0M0Q2o3eXZKT2w4c0JkcDJCZmR3Rnp4R2NCQmpjX2FFQWNCX2JrMlhVclF4Tzcza3pVZ3FwaVpBVWpIaXdaNFBDQXJ3dkJmbDNkX2hkbGx6VVFUM2Y4bWh2eEF1MV9aRTRKLTAySWlUcWthOFp0TmVtTmo1NS1zcWY4ZXNpYVZnNHhsMld2RVFXS1Q2cUIzbk1ibXpLTWhRbi04RFNydnBTMTN1M0tEWEttNTNnOGZ1b3l2aVJwRdIB7wFBVV95cUxNeG5NZEtkVklLc3hnS2p4enpZSWVRdHVVeDI4dzRyT21VUE5tYVIycTZvNS1CSVdkX0M0Q2o3eXZKT2w4c0JkcDJCZmR3Rnp4R2NCQmpjX2FFQWNCX2JrMlhVclF4Tzcza3pVZ3FwaVpBVWpIaXdaNFBDQXJ3dkJmbDNkX2hkbGx6VVFUM2Y4bWh2eEF1MV9aRTRKLTAySWlUcWthOFp0TmVtTmo1NS1zcWY4ZXNpYVZnNHhsMld2RVFXS1Q2cUIzbk1ibXpLTWhRbi04RFNydnBTMTN1M0tEWEttNTNnOGZ1b3l2aVJwRQ?oc=5",
+     "title": "Iran wants diplomacy to end war, says Araghchi as U.S. rejects terms",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTUwzT3hCUElPZkhEZTVrNDh6ZjVHdng3NUgyNVd5Z3NFYnZrbUY0dzNvU1BlbUNhUW1lS1FsYnoxXy1vQlV4MnV1R1NueHF0ZU85TGlKdUdDUG5KQ3JUQ1I4VFNweFpMUzNwSUZNdFg1V0hJMVp2OXNfekpHOFhEanpYc1BSQVJfRUVNdjloa1hZWGVrVHBaYlVlS2xsNFdXWm9ZdFdfbFlyVEtWWUphVWdNMENGbllBSjYyaHkwZDJXU2xoOWlfbNIBzwFBVV95cUxNcE1LMEduQjhUSnRPQkZscnZwUmxFN19xaVctQk5pOHhVSTBZdlBsal9VRDA2LXBqY3RjcENnYVdzcHdtSVhqUzdqaS0wM3VPNDIyZzZfdGpocE04NjBieHZwS2tKbVJDYUVkQU8yc0ExZUo4UXhDX0I5OEE1c3pkY0M4WmdVS1djaWoyN25qa3Y3eGxoV3BtVDR1Uk0zV2ZQUVh0cmQyNkpfeDh0OXRURjFBdGpQR0hRb3h6ZFZXOFVISWxkaTJyUkx0elJQbDg?oc=5",
      "domain": "thehindu.com"
     }
    ],
@@ -175,24 +175,24 @@
   },
   {
    "name": "Africa",
-   "count": 3,
+   "count": 4,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Britain and EU seal ‘landmark’ deals on trade and youth travel, but fees row delays rollout",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTVhtV0lmczNlUWdTaUFtUDU0YlE4ZnhFT1ZkLS1mdzUyOU5PYURmUmRvenprdWd1WHZoRGNGaWcyYU1sMVFfN1JVLWFod1d1QkVYR1MtUUxDaVdHeDc0SFQ0b1V6OEpaNTdFdjNHbDQ0Z2hMZy1KMUtqSThVdzdXakNhcWFaNmZhSWI2Z2dqTUV2NHI2WlJWbHVNVlluaVRLV09pdWx6b0otMWZNaFRZelFPNzZ6bWRWNXdRNzQyNGhfWFZBc215cGdMOA?oc=5",
+     "title": "Iran wants diplomacy to end war, Trump says terms unacceptable",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN1FnZWVVZ2lJcEp2NVBRU3IteUFuSWhXNVh4b3hzeW9RYTdKU3YzS2xHdXZ5c2t3U3RSUG9UOXBlN2Vnb1QyWVVDakduM0RZZXcwUE1qWS1xckxhWWFTMTNneTU2TVZXdlk3bFF3NW41UVhCb0M4eXE2UEUtZlBkVDdRWkFYZFM4YkpoWXJjTENocFRXMTdZV0hFeC1JTUQ5Zm5qaFh2VlktY1pD?oc=5",
+     "domain": "nation.africa"
+    },
+    {
+     "title": "Countries race to secure COP31 deal after fossil fuel row",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLWUxand2NXNvZ0N6dGRVeWFCdUFoTVlRbVk0UXlnSUpoa2xxQ25hN2tPRTlBZzhIN18yZmRqMjUzbFpuWmJVd0RtUW5LWHp2endhUUZpdzZGaC1RaElKRzBZczI4T1ZjSGFMWFREX2RveXNVWEpsbXNHcW1ON1RYTnA3S09veDItT1lNaC13clhDcDJxTGxTTnFkMEdrVFZCb3BicTRXWmg4VHZSei1tMUN2ODZabFVfVmdoN19YSWY?oc=5",
      "domain": "news24.com"
     },
     {
      "title": "The big three in Yalta-like summit to calm unsettled waters, By Owei Lakemfa",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRnh6c3pwWEsyRGppRlNSYXF3SU1FUkpzdUJTUjBPMUh5N1EyMDVqNHF4NllCNFp4NkRRdVRpTVhuQmxWTWR5bmZiT2lvTTJMMEFNRUJBOER5cG9GNlYxcm1vdmhzejczNGlScTB2VmtNcjFBalo1cnk4SDA0Rmo5dlJVVTBoUWNLckF2YW9uRkdLU3c1SmNQdzB0cGtsMTB4dEZoR2NVa1EtQjZLUGxjcFRGRmIxQ2NtcGFUSUc5YVZGTnVt?oc=5",
      "domain": "premiumtimesng.com"
-    },
-    {
-     "title": "Russia launches one of war’s largest attacks, killing six in Kyiv as missile lands in Poland",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX2xQLWZhR1pYMFYwd2VoRjZqOVJ6NWVTeXprR3FnT29uYnRfNXUyb2lNb09zWTdDM2VzMDhOYjJrb2pJQVZwdjJ5SXIyaGVmaGhQcEN1a0JEMGJPNTVpc3F6NWFEVHE1emR1enBfODRlclVJQldlek1LWEJNSjVsVG8zckcwWGtiVHh2UE12R21LNmdPNlBtYXRJOFdHZXBFM2NSTDJwYjIyb0RGdFlfOUtnYUl6Tmd6V3FtVFNMczhwVlFCeVFTZ1VnYk1jZw?oc=5",
-     "domain": "news24.com"
     }
    ],
    "error": false
@@ -207,7 +207,7 @@
   }
  ],
  "framing": {
-  "text": "UK and European coverage emphasises the missile strikes' proximity to NATO territory and diplomatic reactions, with Poland describing the incident as a provocation. US reporting focuses on the breach of NATO airspace and technical details of the objects involved. Russian coverage shifts attention to diplomatic initiatives and international summits rather than the military incident itself. India and Africa provide coverage of the broader Ukrainian conflict context. Middle East and China have minimal engagement with the story, while Latin America has no coverage.",
-  "model": "claude-haiku-4-5"
+  "text": "Coverage of the Iran war is heaviest in the US, Middle East and India, where headlines focus on the F-16 claim, diplomatic stalemate and US domestic politics. The UK and US highlight the Strait of Hormuz swim and its wildlife or environmental cost, while Europe pairs Iran with Ukraine and emphasises the wider alliance context. Russia and China centre on the disputed F-16 incident and Iran's claims, and Africa's few headlines barely touch the conflict. Latin America had no coverage found.",
+  "model": "claude-haiku-5-5"
  }
 }
