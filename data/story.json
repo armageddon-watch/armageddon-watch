@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T06:54:57Z",
+ "generated": "2026-11-22T19:45:11Z",
  "window": "last 24 hours",
  "source": "Google News",
  "topic": "War and conflict",
@@ -7,13 +7,13 @@
  "regions": [
   {
    "name": "UK",
-   "count": 49,
+   "count": 54,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUGEzcUdkaW9kYmFheHhDbzBMTG9PTnhmeGZwTzBURFA5amgtbEZRX1Z2WTVRZzRKV3Z5a09ObWVpMXFpMG83bWxvYngzZi1jOTJMWnJPVkN0V1FiTUxPTkdQYWVraW5hWVN0QXZ0SWtmSExMSmQ2cWtibmdrRFdKRTg4VFhDdw?oc=5",
+     "title": "Briton swims length of strait of Hormuz to highlight environmental cost of war",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbEhGa045V054T0pYTUNZTHMyZFFuYmkxM2w5V0dYOFFYZHVlbzcyel96TGc0Yzh4c3hUMnhtOC04QkotYVhpV2pzOW8xZEFnbTR1dHh6cmtFS3dHcFhFaEQ5aVVhQlplR2YwRTREREYtcjR5Rk85dFFVVEdjN2EzZUNRdHZnSFJmbmxZTFhKTkM1MVUxZmNqWW5ZNk1vQk9RaEx3Zw?oc=5",
      "domain": "theguardian.com"
     },
     {
@@ -22,8 +22,8 @@
      "domain": "bbc.co.uk"
     },
     {
-     "title": "How is the Iran war affecting petrol and diesel prices in the UK?",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRE5haU5HLWZpOUg0NFhkVzBQMVhCWGI2MDJjOVFKM3RDcTNGMWZkdUhKTDJrZzBDZVZiX3BYOFBrdFV6N2pZVzhFRjF0SDRSek1CeHNkc1h0QjFGY3ZaOTV0MlhUVkR5Q0h6TnpjR1lHMlVYNjBJOTlnZzdpUUpGWEk3WWl6OVF3WkhXSVZtVGxmT0F0YXB2U3dzZDBXNmNDOWc?oc=5",
+     "title": "Finding downed US pilot now 'a game of cat and mouse'",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZzRRSmNTQ0I5ckkybXd0QkFKUGtKT0s0ZVItN25QY3RmeEkwdVdKeG5nel9TNlVyWGs5WU9uOFdJTDZDSXdUTlgwTXo5eHRzN1hsa1V1elJPOE5GenVZbVRnQXVUenNzNzE2d3JNRjI5TVlUNGpERGZsbl9UcGNQSGJ2M0UzZHRmZkEwZW05YXE?oc=5",
      "domain": "news.sky.com"
     }
    ],
@@ -36,26 +36,26 @@
    "tone": null,
    "headlines": [
     {
-     "title": "Endurance athlete swims in Strait of Hormuz to highlight Iran war’s impact on wildlife",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ0JtX0ptcWJJLXVuYkhxaG1uNTFXV0hEdzRSUDZIckpCQWVfVWZtMWU5b3AzYjhUcTdvdjNrQmNXMnVFSTdZWE9wTnhWQ2NBSnpBT0thUEdMQ1hKcGY0aURSMXFiM1UtUktHVEIzbzFCM2JYRGRvb01yOGhFSkNVSlJabk9fUUx1ekk0QWFNQzBOVDRvamdrRmZmcw?oc=5",
-     "domain": "apnews.com"
+     "title": "Trump warns of new strikes against Iran after new year, calls negotiators ‘professional tap dancers’",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTWlUTXBfYUZwTTVPcllIRkpMZ29FM2lHa25PdkJEZ3F4cXpYLVdpcV9zLVFEdmhKRkE5MUE4alNSZEFDZjQ3Y1JiWlNqQmctXzdTN1UtblpFWmJKRzZwbGNMWWthbUFXSEd6ZV80cWNhb1RNYkRzdElmNGJtLTExZkhvUzg1QkZhY3B5azhKRW1NU3RwVXFWdVk0Q18tZGprV3JVRXd0RnZRUURuOFBOMjBpSWxFMkh5eFl2TElOczBkY0l6c0E?oc=5",
+     "domain": "foxnews.com"
     },
     {
-     "title": "Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSmhZODNjd292clh2TlJBYWJNV0NuQV93UWxVTmxiMmNJaHJnNHI5WFF2bVJwOHgwcmdRS21DU3lYbGQ5aXdCVW1HbjNoaVRnSlFPRThCOFdsbTd3Y0hDUlJPci04QzdVM0d0SDhqMzVEU0VQYTUzWFNSd29FeklxbTlKWk8yQnZCV3ktZlZaOFpncHhzU3c?oc=5",
+     "title": "Democrats Clinch 258 House Seats, an Election-Year Record This Century",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRTlhVl9TdFB4TzZPMHExRjJKdGJvQmZJcDRTcWl5TzRlMUpoalpDRmpJdjdpZWlQQTZrSWhfU2lXRGdSZVJCWVpMUFVubjNzRGpfUHEwUEptdHJJODZ1dlNoVk83dlN6aFgyRkk3RlRwUGJ2VXdNNFZSTThfOWxnclFjVzV5RS1iZ0R5QTZVcVU1YWRvamc?oc=5",
      "domain": "nytimes.com"
     },
     {
-     "title": "Ukraine deals major blow to Putin’s Crimea lifeline, European intel assessment claims",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUFE2UFNMREttTXZEd0VvNW9BcXhvSUIzRUZSQXB6SGs2d2VoTWFnUC1YUW9Ic0QydWxLT0h4ekdkMmlrMVp2WkhoaThwaUsyYlh3RE5CQWstUEdJUWp3YlpOMWhJV1lieWdaOG9kTGM1ZnIxaU9TcWRUZUVTcHplN0pWeG5IYjBiWHVTeThRYWZJM0tkR3UyejA2bl9MdUoxUFU5ZXhxRUJtenVvVUpv0gG0AUFVX3lxTE9Nd3d2OXJsVmNORUd0UnN1VTlLU2Y5ZjFId2tkRXJjc2xRWnlZNGQ2eVNPUzVIU1NFeW1XTm9IblM0bkE3ay1IdmNXV2NPMURXdjNaTjd0aU5JT2c4azJld09sTExTZk9GX3liSHh5RlhZZG9lMjAyWVQ2a3hWbE5Ybm5IeUVOclJGOHRFRWdGWjZ2c2IweW1ha2ZYSmJwZV9va1lrbjl0MVNmc0VyMzB4Qlk1Ng?oc=5",
-     "domain": "foxnews.com"
+     "title": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa2RiNXlYT1VFSmc3cEJmU0N4QW9Ydk9rX1RBZ3hvakVOYWtIa1ZDdGlhVm8wSUp5MUk2bWg0TFNyc2lvN3VXazhaamp3WTZBOVpqXzBPcnV5OVVGREVtU1FNVDBXb2d2ck5mVmhybmptaUtCMGRJNEt0UGhxU25fM0JWZE5NSUF2NmRxZVlZOGJSaUpncmt6dnFkNEpDdG9ZejlidXU5RnJUdm8?oc=5",
+     "domain": "apnews.com"
     }
    ],
    "error": false
   },
   {
    "name": "Europe",
-   "count": 91,
+   "count": 82,
    "capped": false,
    "tone": null,
    "headlines": [
@@ -65,62 +65,62 @@
      "domain": "euronews.com"
     },
     {
-     "title": "Germany news: Support for Ukraine military aid waning, survey shows",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLUp6WXZrTlRWMWVnSV9xNWVZSEZ5enRZY2dkTF8yc3VHa0ZqQVdDaGNwMzkzOE9wSG1sczBoV2EwVHg3SUFoVUpJUEM3TUh2S2J2cEthWTNnSGMza2F0YWZrRnQ3RjFQRGFQQXJadEw1Z25DaGVuaDdPWlppc3hyaXhXZ2Vnczk3RUJoX3Z2dWdwZmNQUzYxUTBWYlY2d1QwZEtv?oc=5",
-     "domain": "dw.com"
+     "title": "Bahrain accuses Iran of striking industrial site as tankers hit in Hormuz",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb2JDZ1FhbWU2VzFfcU5TbWgtb0JMRUhDTjhIb1ozRnlMS3FVZU5RTXQwZ18zOVV5aVpkWm8xUmo3bFRTZm8xaHdNcklITGUxd2pnekktekFqLUxZX0xvZXpnQlAxbnF2NUpRSlBENEhlcEo3d3dOSllxWjk0SVc0QUtWbnZmUXkxV18zdjhUd3UwUS15NG5ZSGN6TXdpVl9aNThfLVZ1SENwLXAyc2wyUjdNS0lFaVZjY3dtWlVOcw?oc=5",
+     "domain": "france24.com"
     },
     {
-     "title": "Bahrain says Iran struck industrial site as tankers hit in Hormuz",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRkc0MjJUSkFQVld2U2NLbVFWY1h0RkllRUR1OWRRTXI0aXVpY2QxV09uNTlEbEVrbnhhSFk5Q0pKNEFQbHFVTzRzbzUtamc2WGF6ZG9OM2NESDZDVW9BYnM1Vlc5MTBvR3M4U19laGRGZTNPLWd0RF9BME4tVElvZzYzNEtkQkxzRWt6SjZhWnQxZ1N6a3VFQzFWaW5HYnBSYkNuZ3Z1d29MOE01V2xHbVpn?oc=5",
-     "domain": "france24.com"
+     "title": "China, ASEAN countries struggle over South China Sea code of conduct",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNkVyX0p0ejFoY0YtX3lqQ0IxMVdSTnFTTFAzQTFjZnE4Y3FnSFVwTVQ3WkRyUGV5V25rTHBOLTNuZWdOSFdvSlhpbzN5dlZ1Qm9DMkRFMm1OVmY1c0RsdlYwUGRiNFhwUnctZGhuTWhENVhEZk1mRTlEd2VfSzJ2MEdLbmFVNGVqNG1XVEE1bWJGWUlqNXRiRGRwSmltOHcwc2fSAaIBQVVfeXFMUGVWdmZKRjV4eUd5a2pVUFBXZUEwZ3hmU29vVndTbnU3VUtNUzNXMEpJT0tidWxXdHRaQ1BqcGlmU29oRTEzYmxpNEtTTjhpVVVBdi1XbVdrRjFLRlNiQWRtVHpzLWtLSmpwTWs3OTlJYW1wZURjWXo1c3ZIeFBqM0hyaDJBQ0ZRdlp3VzRKM2I3QnVKSFhuWV84dE9qT0NaMWpR?oc=5",
+     "domain": "dw.com"
     }
    ],
    "error": false
   },
   {
    "name": "Russia",
-   "count": 10,
+   "count": 6,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Iran actually no longer NPT member after strikes on its nuclear facilities — MP",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE44RXM0UjUyWjVaTU1RLXFjNWw3T3pXcVpmU3luUmtJenFZNWo4ZDdMT3NKejE2Vk9MendtX29PdnlFN0J10gFKQVVfeXFMT3owZXhGNGhsWTNpcWEtY3RJOC1tUzdUc2hLdkVURkVvR1JCWGwtemEzWHNJM3h6T0RMdmozcGhJVXgwbElVN3RHY3c?oc=5",
+     "title": "World",
+     "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5TY0ZIeHdkOGhhWWJRdDd3dUsxV2VldkZwT1hoNUVPdWVZOWItaHhzaVoyT3pYcXY1RGc?oc=5",
      "domain": "tass.com"
     },
     {
-     "title": "Iran Latest News Headlines - Persian Stories from Iran",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05UUdPR2E4MnpzejZEY2p4SU5pV0dBcnJpX1RLSWNkSFZIRU41b1RFcUJRUzJUYmxfMjBMUVloMVJVNUVGU3lhb3FMZzN3bDFETnpQb0J4MA?oc=5",
+     "title": "Russia-Ukraine conflict",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJTUxiTFNyMnFDaXpMNjBQNXhKZk9CaTIwbGNXZ0c0ZDM2Y2ZBbVhmeEVWZ0xSZThsRERiLUVWci01Rmp3aS1zd2FCLXZ0ZV9ZTXBscDBnV2FkOGtqQ0Nn?oc=5",
      "domain": "rt.com"
     },
     {
-     "title": "Reopening Strait of Hormuz off table until Iran’s demands are met — foreign minister",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB6bUE4eHgzbzlYaDNkdDZvdm40YXB6MTlmdVllTlRwWFdXU1RlNVlWOVl4eE5uU2dna0MwZWtlMWw1SDZl0gFKQVVfeXFMTTA4WGhCTWRvT21tbDgxUTBYd1FRVGZvckFiOHp1ZWtJQ2xkLXdwSjJjRl9JSVZHamhnSVpYNm52Tjc3U3ZoQ2pENWc?oc=5",
-     "domain": "tass.com"
+     "title": "News",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hODBtUzN6Nmg5ckN4cHNBVHlhcEYxc1Z4ZkFUaGxpQVB6SUdDbjVFRUVyb2s0UXNzajBzbXJzbThxMkdtRHREeEZVOEdyRjV5?oc=5",
+     "domain": "rt.com"
     }
    ],
    "error": false
   },
   {
    "name": "China",
-   "count": 18,
+   "count": 15,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Iran's army says air defense missile damages U.S. F-16 fighter jet over Gulf as U.S. denies claim",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KRV80Z1BoRTR3ZHhtSnN1YzlQaGd6elhqNjd3R2U0S2lIbHpERWRlMGNnbTJYa2s4OTc2UFZSWldTUkhROG1vMHp2OU9nTDg4ME9VYjByZ0NaNTBXUDZRYk9WY0kzRno1aFdzR3pkMlFIeW1EQ2VjNHBSa3M?oc=5",
-     "domain": "english.news.cn"
-    },
-    {
-     "title": "Zelenskyy meets UK defense secretary in Kyiv",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WZ1hGYy1tcWw2XzVianhXaFJ5QlFTOUNxVDhLSThPd0txaDM2dXpqZmlfdldCU3ZxVlNVYmFvbjB1ZXZfQjBUVF9BaWhoMWZ5NXBXVE43Ylc5WmJNSFhYRDVRY283UE9qX2NYOWRXQXdhUVUtY25NNQ?oc=5",
+     "title": "Iran's IRGC targets US radars in Bahrain as Trump says he wants to sign 'permanent deal'",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT2taOWk2dUtxYml0ZDZid2tUdTl4cmNJR1lLcW1hOHhwWkJfVnU5UnE2bjdxOGVlT2duU3RYdXlBVkNLUXhaNDBiRXNCbm00eUlfTWRXN2w5WUpJZ09HaVFhRFRFUWhMbGRzUTNOZzh5bUJkWE14OUg5YlpKNF9tYllsdndtWDFIeTRsZ0Q2aVBDWExYYTFGUmZoc0xPX3V0OW4wajE5VUd3VlNRSlFjOVJ0aGg4aDMzRDV6UjZB?oc=5",
      "domain": "news.cgtn.com"
     },
     {
-     "title": "Sophie Wushuang Yi: Latest Articles, Analysis and Profile",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ETS1yZG1hOGF0eUp0bTZPRF9tOFIxMG0yTEdYZEtQejdqWThDRERURXFRMDROdTM2Uk1ncnVQS1BqeEVLNU44aWEwNjZ1bHlwNFMzN01iX0NLUQ?oc=5",
+     "title": "J-20’s radar signature could nearly double with 10% stealth coating loss: study",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ1o0cHJLdmlxdFBvMG1qX19UbXNfOVVlWTA5ZllaRUpvdFVEOUZsS28teWtIdnZLLVJ5VHZ2T3EwaGVjNjh4ZnpycjlxRm5GYXA5NEwwTE9KcHJZTjFLbHJsZE9hczZaWDVuZ3dyMkphS3U2a2RrSmRVdDYxQWEzVHNaSkhfaHVRMWVieE4zWVk5eWJZcU94MHR2RG53c3lobTRNWUZNcDFCR2pvOE9zS0U4UlJFRlVmS1JpbWhHdlUzS2FDSUp1ZG5tcnFtMDVV0gHQAUFVX3lxTE1WaTVBN0VQazZnNFh3ZXhGYzQyVVQ2dEQ1ZVJLdXRQaFB0YkhCN0tXcVpvSnI4MlRlMFpPcVVqWWFFTHZKWUdCSkI1RG9CemRRd1RJaGZ3dUJxZjIyRHlFR0RZbEtZelRpY21ja2l4aURiSDNmQUpEUUo5TmQtQlRwZzNpNGFuN2RQdXRnaTBCMU1Cd0U2Z2YxaFR0aUN1R1ludUdEczFmZzVHeEs4VDNlVFd5Zkd3ZmpCampYeEUtcmI4R3hEWVZRdThuTjllOHg?oc=5",
      "domain": "scmp.com"
+    },
+    {
+     "title": "Iran's IRGC says targeted U.S. positions at 2 bases in Bahrain with missiles, drones",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhQnNxa1p3SEQ1MmRacm11NTFpRDlmN2JpZmV3eWtDemdDOEFrNXlGcUNPQWVOZVpzT05yUGh2cFlyZlZoRl8zMFk2cVpzV09Xb1BRNFVVTGJQRHplTVNfV3VrYXkwYmdZQVM1UjJEaUU0eTRCYy1ES3BEVFY?oc=5",
+     "domain": "english.news.cn"
     }
    ],
    "error": false
@@ -132,18 +132,18 @@
    "tone": null,
    "headlines": [
     {
-     "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWHFKUDdNZFRCLWtBLVdXaXJicmtVTFVoMFM2anB6VnA2dER4bHhWTVROaDdpWFhTeUpZYUJRWnZjYzc1b3g1WC1TcTJnZk5EdXpULTRwRFJRMGJRYmRKTzlzd1FiazJrSlNGRHNuUktRRjNaLTBTWlJScGhkeHJMTnYxdUdlcVRJOHZmWFdFeE1fUnlhMHB5MnM1SzcxaTdrWnRiT1BFbktpcmhSemw3anQ1R23SAboBQVVfeXFMT01MTmVjb1NOQWlBR3ZTRUhUU203dVZZSVljRnUwcGhWSUtiQkFOOFdsQjduS0tSVkN0VUtIVDc5NTJ4b21UbVVXWEp2SmdXTFZpbHB1X3FvM3ZHZ2piWURGTU45anA0M3VDOTJiaXh6ZTNZVFhlSlhlTjBoS0FFWjY0NDJ4V04zSUFwcVVORTJqQ083RjAtdmtCanZUMWQxNzgwak5NSWxwMWx5eVZGWHlWODhIM1R4Uzln?oc=5",
+     "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1owT2pOYVc3bXd5Z0RTeGlaemVoVXVReXNLeHcza0U3aVo2RW5FWDJjUTFGdGtrNm9OVEY4VVZCYXh6aTZ3bzZaVG1NYzdwZGRYOHRlUXVyanBTVzNTQ0FPNnpLbFl5WDBSamUxQmkxRHVUMG1sMk5xMm9sbmZKOEpwMUxVSHJCamsxdFJEZ3dKUWRoSy1SaGJn0gGfAUFVX3lxTE1sMGtPREkyMU1XR0dvQ0pkM2hraWFPblNyWGtsNC1fY1REcjFELUU2Sk9hNFNpT2dxVmxoU3JZQU9QMmlVWlladjlCRW95bEx6MGItcFNjN1VuMHJQSTZwWm1SQ3pLN28zbE05ZHo4cnBGWFZwZXhUR0VYUC1DMGFkTnV2XzlnZTRubzJtSzJ6YzhwUzgwRk1HdnhpVlNNWQ?oc=5",
      "domain": "aljazeera.com"
     },
     {
-     "title": "Briton swims in Strait of Hormuz to highlight Iran war’s wildlife impact",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaFFERVRWdkZ0UFBObnJVUkgwekR5Y1c0dTFhakVLZy1IajRKdmxxRV9jUzV4aVp4Vk5WUWZRNEhqWmtqWDc1VUl2WGMwQXdUc1ZLb0w3RUJFNEFWVmJQOTRneTRvYlo4NEtaMmpFb3ZCQ1dsbWU0MGU5ZVctV2VvbUhYbHV1YWN4TF9FZzVTc3JMNDNha3B4MzVXX21xbUY00gGmAUFVX3lxTE1MUXZEN0FNamVyMnJOcEhpS2kwVURlQ05EMHZta1k3RmRqYlJ6NUhmOE50X0lYcmxsbS1ZM2V3dUYteWluX056RGdsdnhuSXdkTms3eVVSV3Z2cWlFVWh0UVBtaFFXaGVwcHc0WEtrQ3VLcF82b1prQ2ZFeTQxWGVVZEs2TnhGemt2VGZTVWQySVdkcHVfczZTcElFSUpGU0RHV0lBQkE?oc=5",
+     "title": "Bahrain says Iranian attack hit industrial facility; IRGC says it targeted US positions",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaTJxdl9Zc0s1RUVOT2FNRTg1OFBaallUdkk5LV9fRzE5TXlibjVfZVNST201S1BMQ2tTNXFNajJXaWZQeDR0TjJocHVuUnpfbW9IOGRzSVJuYm9zMHNlOTJMckVna1N5M245cmdlTzM4WHc0RFhPa0ZQQ3pxRWEtdEFFcEEwZzZ4TWhLMEZvclRHbmpVRW0xeXJvZWowcm5ndW9KVUo1ejVqck1xWUllcFdvdm96S0dm0gG-AUFVX3lxTE5KbjBzMXN0aF9ZX3g3eHpWUHRZNC0zTTd1SHZsbnk0VU04NjdFcXdGV04tVFdmTDJJV0dqMTBDcXRoTkE2YnNPQ2ZFSjZicEh3YS1CMmJJdkI2VTZVdjBBMUh3bFcyOENxM2ZhY0xvaTJHTDBkd0llLWlTU2hxc0ZtQzJ2blpFbDRRRWFXRmhfTy1LdWwxcDBvSlIxZGZoOUp3Y3RWajNjS3ZQaE5RZXA4MjBYemJRTDhrMUhWcmc?oc=5",
      "domain": "timesofisrael.com"
     },
     {
-     "title": "Bahrain says Iranian attack causes fire at industrial facility",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaVlibGxsbXZhME1WYWYtNmJmUHpzSTg5RHRBUVlEbmkxUUk1X183TE9xbV9raDRRTkxZcXZIa3VMX0d3RFU2OEh1YXRLMkNObnUtbEp3cC1WcTUzUXl2dlNBdk02cHdPdXBxeG41NVVHTWk3dEpabE14bGpVemx1aXFrX3pDMUZVZGVSWDhMb1JfcjhPa2FIdGkwMk1zSmVGSVJwMHFfMNIBrAFBVV95cUxOcmJjTXlwWFQ5ak4yeS1scHJoUVVGYVhqSkF1WS13TXR1RFFLdUwtSDZwYmJ2ajZWOGJtcGlLU1diU1NwTXNhaEs3MTlPUnNyUlNNSXVOMXp4ZmVIZVpuX1l4akQ2S09pMWN3eTdhVW81akVGYm50cUIwQ2duZ0ExdFNnN3B0OGwzMGlnc01oMjhyRjlTQjNMa1JrNlpRZlktNkZrUTZZV2xkR2kt?oc=5",
+     "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZWZsOWN0bmtuM0VnLWpjVnlLMXVfeVdqdFlkZjVsb01uLUJhUjFoOC0yeDZtLURYbVBObWg3T2dUQm51akxZMVJfeU43Nl90eHNfc29hNVVNVG40dXd1V1VvTUtUSE5nVGFDOTdRN0tVa0xGS3BXUm9Ycm5MVDdtRXpyZWN5WFhZc2ZnSldjcXI2N0ZHTTMtSjFLZVdYTFpYWGNubk9ZM3FJUdIBrwFBVV95cUxQTGlqSVNoVU0xLTB4MDNLbW9haElfa3ZsWFVqVVFvV3I3RU04eEItYnlUTTUxNEw1N3ZMUjJab2wtcmw5M2FHbVJOdmpnUG40bGVBdURINWs0cXVMaUJuNjRHV0RSemV4T3ZBQS1nQ1VITGtUemZaY29JMVJwaFlVTm1NUVZsRlNBeUNVRXg0aVNlZWdFNmhDRWs5UmR3cFplVFNaTDl0RnRpMXpIaHFZ?oc=5",
      "domain": "aljazeera.com"
     }
    ],
@@ -156,18 +156,18 @@
    "tone": null,
    "headlines": [
     {
-     "title": "Iran Claimed It Damaged US F-16 Fighter Jet, Then Came A Fact-Check",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYnR1bmh3elBndnVYcGFqRmRFTkhLak8teDQzWWF4Zk5ycGNtQUFFSUVHR0ZyX3pCd1d6U2pxSWd4eldiVWo0N2NXQktIR0JvWWxkVVFxbWFRR28xNmp5blRWeXIxX0l6NWdEbHJWVUloMm5oVjhicm9oUWNhbGUzdlR6N3pBRUlJdERQdC1nWXVFRXBTbzRuMGdvTXY5VHlQbHhpLWtwUko2YUNkd21qZE80QXdwQXph0gHAAUFVX3lxTE5BWDhzZEJnVXNwM1hlTUpSd1BfM1I4YWpQWEgzS2Jhb0lsbmttZW1mTmR1QzBMNm9NcWRONzAtWmxUT0ZyY0NjRFM0UHlPY2tXT0hIRVl3RzlYSXE3dEwyREk5c0NYRDN6b2xTMlhYUzVDT3BfVmVSbk96aEozWkRXLWMxcVlySV8tUEQzVk1LSEtodHRJb0lUeFdUMF9xRDBiOEVZV2U2XzJmRVNLSUJFcmdOOFRfUEtHdkJTckx5bg?oc=5",
-     "domain": "ndtv.com"
-    },
-    {
-     "title": "Iran's Surface-To-Air Missile Hits F-16 Over Qeshm; US Jet Plunges To 4,500 Feet, Diverts To UAE",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPQ3Rtc0g2Smx6WDBLcFJGY1Q4c2hzNi1uMS1iNFdCT0JEZHBvSnptcmcwcGFacnJlX1ZHaEQzTDBLN0dIelVyck1COEpJWUJXeUFuYzZwMVZfMUVUTFl6YmRvSFU3OWhnMmpCX0RHMjI4TnRoY2FCVldGM1pYcXJ1X255SmRPdkxFdFJjUl9GYUF5S2hFYW14M1UtMGNxMjNndzVYclhhNGFDZFJCZUEyTHlQT0IxenlEaXk5UmlmVmd5NmVvWG9BckFnZ29YVmpZR2pvWjVwbDhGY3JLZmJYV0s4aEYySERvZF9rVmU5akVPVnVlUWhhY0p6TmV3cGJqZm5n0gGIAkFVX3lxTE1IVEhsdjlxWkN5NmJ4UG1sTmR1RmtvczJrOXNEQVU0eTRFTFktLWRtcGxvZlZoZ1M4cWZuODRhMVZkcjkyREMwU0ZIUHdaRnoxOHpqWnNXTElKQlp0RS1oWm9oT3A1ZUZTelE0Z2tRN25CRlBKek9KNDV0ak85U3ZQWGdqcFloa1VWVkt0bU5oWVlsRk5paUlTaWNHaTJhdFZSSkd4TENZTkF2cUoxUnVOckVlb2lvQ09sWlAtLWM4N1hUTG05UG9hb0EyV3dSY3JKaWYyRk56bEd6WU10TGZWYWF0QTVUanRmcENkeUxRS2dPeE1sODZQV20yNmpWd2dDTzZNSmdnag?oc=5",
+     "title": "Iran says 428 children killed in two wars, Red Crescent chief calls for independent probe into Minab scho",
+     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPbTNRMTNIYndZT1RkaTA0RkhQVUFqaXlvaEk4WDZXMFBXVFctVGRxZGlqUDhQQ2hIM3RJaTZIQmFSc2dBeHVhNkF5blNVUUdNM3BZQnlBVWVrb1kxRnF1VGN6MlVxWXByUGc0S05DYkpRb3pzWTdCT25vN2JBdDc3NlNnQXhMTWdUdVlybG9NOEF4Z193N0RsWU5GMnYyMVVLRUFzbHJkcnd3R3VYSjJYVW5mT0pmTGpRbHpBVVF6OVdNTWQtLUlvLVp0bndkSEV0a0phZUdHUGJjMzNZR0tiYjFIVXhXLW1WX3JqaG9DYkg0Ukx4MGhLQmRLeFlPMDZSUVhqZ3pVUUhZSmoxelY3WEJzSlRUc21DWnVSRV9n0gGjAkFVX3lxTE5aLXNWa2RSMldENGMtZDNVcEVpWnZKSHdjWVJ1Y3pjajR3VXU0cDBzekZpYWdkX0xkSjlJU3VRV0xwVlh1ZEpjS1AxMlEzZFVscmdPOF9sTXExczlmbDR5dkJoYk84Nl9MTW1tRy1OSi1tWFN2VzN4Z3hJY2F3TzlFNzJTTmNBcnNxQkJvOWVIRUE1UWduOHNOd1lINWtORmtLdVBtYTVRYWR2ZktVb2poLWtDalJydnBpX2U2YzlGcHNSS1I3NkdjcjdPWHlCMVVjLWtSQUhyU3JYcGpFZmxFTkhKQmwyWUJCRGlMU3JJaDJBQlMzSlktbXU0bVhRR1pWQldTRV92dmlrWENZX0xUTjVjeERzcGc3LTA4SzVlRXpycw?oc=5",
      "domain": "timesofindia.indiatimes.com"
     },
     {
-     "title": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-     "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5faDBiWWpLa3cyS3BWYU1RQ3BrQmt2b0d4dnp0ZjRvTWZPdndZeGNzdzV0OTF3OXlCa3A3akhB?oc=5",
+     "title": "Why A British Swimmer Risked His Life In War-Hit Strait Of Hormuz",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa1A2b1RGUXBwd2l4dkN6YkluR0dlRy13RmZEOXRUYmppR1NWUExjQ0ladmlERk5nVnd3YkJRelpESk9JZXBBUnFKZEkzQkRXb0xMY0pMSVhRejZ4YmM5WkJzS3p4THEtVGtpci1sTTZZS01RVkZRRnhaR3hKcE5mRGl3N3NmNmg0Z19id2ZSTG1NNl9nMkhBZkUwUU1qd1VGREoxMXRQRURfVERXYUxXOUVGOVNWdmVHa05Zd0FXNU12Y01ZMUNkb0ROUVpKSkpfWTRlOWRtWXRHdkoxLUHSAeYBQVVfeXFMTkdHS2ZlTHpwdWVqcG9IWE84THZGRDloQW01emw4M21STGdjUEpIMDFEQ0dMS05TR21lNjFfMl9sdmxnZWpLWHFLVFI2Q0JTRlhuVTRlWUpMemVaajV1NFh5TndlS2p3RU5jbmtWTDJxUVIzS29mZC1kM2RmMWNoY0pMWnQ4djhsa2JzbHFpMVI1c0ZvUVV2SzBBU2NvQmlzV00tR2k2VG1WM3RoWktBNnVud0taMmtTUXdQa0pnNVhxNGF6RDRhM2ZRWjBKclRfVEZib3FHTE5FazBYSWVMY3lQTTdfV1E?oc=5",
+     "domain": "ndtv.com"
+    },
+    {
+     "title": "Iran strike wounds two in Bahrain, Riyadh denounces ‘criminal’ attacks",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeGZ3RWR0aDVPcURhWTZCbXJsZmh5bkt0WVBtTjdvaWRBUU1jbDJrUlAzYTBkYUMzTm9VRkpiSWt4TU8wTEdyUmo0NURrOHdjTjhlYkx2cWJtZzFTbi1JU0RfTWlzYUg3Yi1YRFV5ZTB0RFBGbFplWUxYeTRIc0tZRXpLcUdxQUVhUEgwaW5hUzIxSXJZdDNnNzJvU0ZJZVhIUTd4T3VqRFNTams3REdGd2RYcDNFbDlRVTdmUmZjMGVJZEJDNGwtaNIBzwFBVV95cUxOVm5MV2R4OWVoS3loT2xPNVRoSU9yazVXLVBvY3dYVnlxckRLc1NqSFFheFRzNmVLd1lEa0ZqV2h4YVFhRjhCbG5BcnM4Q1NUMjNSWXZ5Vm5NX3U0VGd4cVZjbm96S0Qtc0JIM1J3ZkdDUjdqNFU3QXdCX0p1cHQ3akdqbkNMbWc2RTRjUU8wRnZ3SG1yYWNfOEQ4ZHlHMWo4b3Y3THRxYXIxc2ExMFNvZlFFNzFjbFhpRjZ6LW9waWhwWXF4YXdCRVc5OTNHaHM?oc=5",
      "domain": "thehindu.com"
     }
    ],
@@ -175,20 +175,10 @@
   },
   {
    "name": "Africa",
-   "count": 3,
+   "count": 1,
    "capped": false,
    "tone": null,
    "headlines": [
-    {
-     "title": "Iran wants diplomacy to end war, Trump says terms unacceptable",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN1FnZWVVZ2lJcEp2NVBRU3IteUFuSWhXNVh4b3hzeW9RYTdKU3YzS2xHdXZ5c2t3U3RSUG9UOXBlN2Vnb1QyWVVDakduM0RZZXcwUE1qWS1xckxhWWFTMTNneTU2TVZXdlk3bFF3NW41UVhCb0M4eXE2UEUtZlBkVDdRWkFYZFM4YkpoWXJjTENocFRXMTdZV0hFeC1JTUQ5Zm5qaFh2VlktY1pD?oc=5",
-     "domain": "nation.africa"
-    },
-    {
-     "title": "Countries race to secure COP31 deal after fossil fuel row",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLWUxand2NXNvZ0N6dGRVeWFCdUFoTVlRbVk0UXlnSUpoa2xxQ25hN2tPRTlBZzhIN18yZmRqMjUzbFpuWmJVd0RtUW5LWHp2endhUUZpdzZGaC1RaElKRzBZczI4T1ZjSGFMWFREX2RveXNVWEpsbXNHcW1ON1RYTnA3S09veDItT1lNaC13clhDcDJxTGxTTnFkMEdrVFZCb3BicTRXWmg4VHZSei1tMUN2ODZabFVfVmdoN19YSWY?oc=5",
-     "domain": "news24.com"
-    },
     {
      "title": "Adriaan Basson | Is a Doomsday pact Ramaphosa’s parting shot to SA?",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPelNUcnlRcGhqck5XZEZBUjlPeHFMdVhEUDl1MzdmU3NLcVNyRG5Ea2R1Zzh4R0RJVUdqbTdMSjBwcDRKNHlqTmRrQXIyTDZzZEJPQWIxYnc0d1pRMDBXQW56bXcxZTJpWWMxaEdJbVlsSXVNeXA3YzBOS1Y0WlB3TlhkVHFONDVmbUVqdWFuY29aeDdfMFNUTE1udGhxY2NueXVYSHZJVVhQSksyNGwzRGtyakd1eGVoMi1YRw?oc=5",
@@ -207,7 +197,7 @@
   }
  ],
  "framing": {
-  "text": "UK coverage leans towards domestic and environmental angles, such as fuel prices and the wildlife cost of the Strait of Hormuz swim. Europe and the Middle East focus on Iranian strikes on Bahrain and shipping, while India and China dwell on the disputed F-16 incident. Latin America had no",
-  "model": "claude-haiku-5-5"
+  "text": "US coverage emphasises Trump's threats of future strikes and his characterisation of negotiators, while UK outlets focus on environmental consequences through a swimmer's expedition in the Strait of Hormuz. European and Middle Eastern sources stress Iran's recent military attacks on positions in Bahrain and the Gulf region. China and India report on Iran's military capabilities and casualties from conflicts, whilst Russia, Africa and Latin America show minimal coverage of the story.",
+  "model": "claude-haiku-4-5"
  }
 }

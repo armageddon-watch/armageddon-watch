@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T06:55:33Z",
+ "generated": "2026-11-22T19:45:49Z",
  "source": "Google News",
  "quakes": {
   "us6000ucij": {
@@ -34,14 +34,14 @@
      "source": "The New York Times"
     },
     {
-     "title": "Magnitude 6.7 earthquake shakes Peru’s Andes, with no damage or casualties immediately reported",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUHlxUFpCc2R2WDExaHpuckRwRlJHNnZRTEh2YTRmYlNoMGVuQjU5UW5haVFhZTc1X3FXdzRQT0RJLVBtNWlETlRyZTdPZHBRNXdNODI1NGRxMlpYbTNmU2psdDVCVTlXSHhtSm1lVjZseTl3WHJkMXJtdGVmemU1QkR0cUNFLWlVTW51d2ZVV0NMRG1fWjBfOHFNTnpwWTBvTklDTzJqckdDdllEVmFCaFZnM2PSAboBQVVfeXFMT1JQTmhmYjJFVzI3VWwwRWkzczVpeHhRd1BRTVFjTkJrMDRoSUdPSFBEZS1KdTQyOVA1VG0yV0N4R1I5LXZaNTdmVFFlemNVcjhmUkZqVUhjT0lkZTh5Yzg1WjM0NmZ5bWlENVRGRFFRYV9iWWFBeGRITVVaT0UxVXJ4XzdZS21QRjNxTDB1YWEzSUdCRVJORm9aM2hBYXdITzRhZFpmdkJTWWVZTlpBd3hJUVRzckM1Q0pB?oc=5",
-     "source": "ABC News - Breaking News, Latest News and Videos"
-    },
-    {
      "title": "Strong magnitude 6.7 earthquake strikes Peru just outside of Lima",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYWUyQkQwcjNjQnVNVm5ZZnJ0dnE4TGhfZXBxVzY2Q0pWajNnSktidW5qNnFIeTBYZjhRcm9iVTExMGpwOERkUG5XUk9aNmVIemRiX1F3TTlDT0VBdWhWOE54T3BlUTFZNXpUbWY4MVgwTXFoVS1RU1Z5YW1OXzZMWTAwZWYzTk1kSjJlWEpPenQ5Y0HSAZgBQVVfeXFMUEQzVFN3WHJqellfVEhrTElsbno4Y0pKdzRtM1d2NS1UZjZwaWF5SmNUbmdxZ3cyS3A1UnY0VkhiX1ZYSjlvOFhlb09wMmRkS0tSSzNlb09lVzlLRE9xbVMxdGxBQnNQVVU4elNHRXVoNndXdVZmbHZBcVVac2JMM1dkeHlLa2twUG9lZG1VNlUyVWdlTGpxT2Q?oc=5",
      "source": "FOX Weather"
+    },
+    {
+     "title": "Magnitude 6.7 earthquake shakes Peru’s Andes, with no damage or casualties immediately reported",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUHlxUFpCc2R2WDExaHpuckRwRlJHNnZRTEh2YTRmYlNoMGVuQjU5UW5haVFhZTc1X3FXdzRQT0RJLVBtNWlETlRyZTdPZHBRNXdNODI1NGRxMlpYbTNmU2psdDVCVTlXSHhtSm1lVjZseTl3WHJkMXJtdGVmemU1QkR0cUNFLWlVTW51d2ZVV0NMRG1fWjBfOHFNTnpwWTBvTklDTzJqckdDdllEVmFCaFZnM2PSAboBQVVfeXFMT1JQTmhmYjJFVzI3VWwwRWkzczVpeHhRd1BRTVFjTkJrMDRoSUdPSFBEZS1KdTQyOVA1VG0yV0N4R1I5LXZaNTdmVFFlemNVcjhmUkZqVUhjT0lkZTh5Yzg1WjM0NmZ5bWlENVRGRFFRYV9iWWFBeGRITVVaT0UxVXJ4XzdZS21QRjNxTDB1YWEzSUdCRVJORm9aM2hBYXdITzRhZFpmdkJTWWVZTlpBd3hJUVRzckM1Q0pB?oc=5",
+     "source": "ABC News - Breaking News, Latest News and Videos"
     },
     {
      "title": "Was there an earthquake in Peru? Yes, a deep magnitude 6.7 in Junín shook Lima",
@@ -77,6 +77,11 @@
   "us7000tz37": {
    "headlines": [
     {
+     "title": "6.1-magnitude earthquake hits Pacific-Antarctic Ridge",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdWpIcGp5Z042dmhsSDZobGlrd19iWDdFN3BsOUhJeGVhTF9FcUhjV1VBWFoxOHlsNXRQaXZWbWROQndJQVpvSDA3SFZoX2w5R3NlVy0yZkVDM1NCQXN3cU80eThwRjF6YkNXaExlUjloSnEyMVRkVVpLSGo2cFlDdk42NVRURjVjS2RyOUlnbFl2OE9mLW5CRXVPTlJCWlk?oc=5",
+     "source": "Breakingthenews.net"
+    },
+    {
      "title": "5.8-magnitude quake hits Pacific-Antarctic Ridge - GFZ",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHVBNjdMWUQ2cjNQUmFRUHZ4TDhNV1VZaVYxZVdRczAtTklKMjJuR3ZXLUNHN2h1OGhMZUNYY1FZWU9vaVdIOFl0Sm9OVk9uYWdna2RKc0xDVXhhbmRhYUVWYXdnajdidWpYTmkzcHJ6V1REeXUxbnZaUzlOTFhINnY0dThLUFVUSEV4LXF3?oc=5",
      "source": "Apa.az"
@@ -110,14 +115,14 @@
      "source": "Tempo.co English"
     },
     {
-     "title": "M5.9 earthquake strikes near San Juan, Peru",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUGFBUjhzbndaZ2NjUkVfeEFTajBBRVozOWFrWnZvWHF1NGtxNk04Y19ydXNlUi1QU0Z5d04yeDFWaGZiN2ZiUzY1TEVFSGNCem5zdU1kUk1ycnlUODZ6UjdRNXNIaUYwMGpvUU90R1hTS0xTaTFTVURTZzc2RUt3a3M5VEZ2ZkxUc0dFUTMwNnROTURQeFE?oc=5",
-     "source": "cedarnews.net"
-    },
-    {
      "title": "San Juan, Argentina, Earthquakes: Latest Quakes",
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRWEZwLW9vRDRLNmF0dnNxS1RIUTBramFBU1VWZ05MM3F5bU9VVlNYaDA3bncwVURlYkhOMkEzTk1tRndzdTFNOU04Ri1IOVY0c3RVNk1SbUo1RXJ3MTkzZDdpbFpfdzdUdmtDaWREWTVYUTBGLXF5QkpBUQ?oc=5",
      "source": "Volcano Discovery"
+    },
+    {
+     "title": "M5.9 earthquake strikes near San Juan, Peru",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUGFBUjhzbndaZ2NjUkVfeEFTajBBRVozOWFrWnZvWHF1NGtxNk04Y19ydXNlUi1QU0Z5d04yeDFWaGZiN2ZiUzY1TEVFSGNCem5zdU1kUk1ycnlUODZ6UjdRNXNIaUYwMGpvUU90R1hTS0xTaTFTVURTZzc2RUt3a3M5VEZ2ZkxUc0dFUTMwNnROTURQeFE?oc=5",
+     "source": "cedarnews.net"
     },
     {
      "title": "Strong mag. 5.9 earthquake - South Pacific Ocean, 88 km west of Minas de Marcona, Ica, Peru, on Wednesday, Nov 18, 2026, at 01:07 am (Lima time)",
@@ -139,28 +144,28 @@
      "source": "ANTARA News"
     },
     {
-     "title": "Minor mag. 1.9 earthquake - Flores Sea, 48 km north of Ruteng, Indonesia, on Friday, Nov 20, 2026, at 04:39 am (GMT +8)",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNVhobm5FeFpQRFJEZXNSbFZUWVNDenhveG40dFZ0UDRkQ190azJQeUl3cWtlRXU0SkJ1RWkxRkMyMTBUYm9VTldSSUI2a2FoNUtCcDB6Y3l1U19jNTg0cW5ONzltNF9qcjQ4aVNXMVFyamFLcEVPXzcxbTFKZXFDRGRFOGIwWHpDbHdDQlFFTGtjUGdPRDgyX3JNRC10QnozVlFiblJzYkhQSEJUVHYxbk55RVQ5UQ?oc=5",
-     "source": "Volcano Discovery"
-    },
-    {
      "title": "Indonesia Earthquake Today: Powerful Earthquake of Magnitude 5.9 Strikes in Flores Region – Check Epicentre, Affected Areas and More",
      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNNGpxS3phcHVSdFduSmd1UnhDX3JiOGZpZUdQTXdMOWpLTEo1UjMxeUZtck9mYzd2OG12OXpfNUNmbTlwc3RIZ0dHQ3c4VUN4ZGFYSlFlX3drQVFsRnRTd2swSm1CcW13YlpxUnlCQmlFaDAtd0pRTjBkb1Z2NVA2bDZsUDhabnlXMEFTeXUta09tTDhDX0dFZG9IaDZpX0JHcloxTDQ4b29OSi1YNGo2UXNvcjdnVmFGSUIxRUZFdGJDRUVMZkJkNzE0aERWMUFwYlhpUmZwekk3dV9vcjVRMGg5cU1BNjJaZEM2clhYVVVoMi01NWV0OXh5OC1lQ0J2UkHSAYcCQVVfeXFMTkk5WG5rSHJKc2NhakZxVTJ4dkdhZ3JsdGdEa2dBamZlN3dfTUJyWjAzdS1yNGdicXAtOXFLNW9tZlpnU04wWm9lN0tCOE9vanJfeTNKNGg1cVo1X2cyUnJHSlJpOXhldUxid1E4cDFpbUZTVHV0cWVhbTZCZXMyZFNfcDBTRG4wRmFOQ3NSU3NMWU56UzdWS2VhZ3o2Q2FqVWNfdXJCeTZBOUptTUw5MjJpRjdMd2IyYmgtODltYjZmOUw5X1N4ci1jbFRQYTVrQ21zdnR3bTF0YzBOQnpxM19sTTNsUkMyZDhqRTlFd3lOV1dmV19PT0s3emVrRWtGcVdaZmJCRlk?oc=5",
      "source": "The Sunday Guardian"
+    },
+    {
+     "title": "M5.8 earthquake strikes near Ruteng, Indonesia",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMTBLMmJMTHZUQy0xX19xd09XNWFqSEFFSFd3MUR3S21VbFBydGtBeXBxc3VvcHVteWpIRU1hWDRYY2xMOUZBcWVMMGtqUXNuc1NMVF9PZW1sQk1XRjlfU3B3TUs2U3NHZVhlLVlBS2RJQkNQdWV3SVFrdXZpQWU1NHpjOGJMaTROVndhZk9lbw?oc=5",
+     "source": "cedarnews.net"
     }
    ]
   },
   "us7000tyx2": {
    "headlines": [
     {
+     "title": "5.8-Magnitude Earthquake Strikes Papua New Guinea",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRjNDckFsTTNvX1ZCYm81NU5WMlJvVEJNRGlUWTR0U1FzVWFHaFZzX1VEZGNUR1lIZm9GaDdLcUl0Q3FoMnI4UTM2bHVoZzdlUXV0MWlnUFpXUDdFYVg2REx4TlpGTWRyaW8xQ042Nzd1emI3UmtfSE9zZVNseXJaWGE2eEhjZWJUYVl3MmRMdGE?oc=5",
+     "source": "Fana News -"
+    },
+    {
      "title": "Earthquake in Papua New Guinea: Quake of Magnitude 5.8 Hits Madang Province",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcDV1Z3NRYkJ0cjBMMTRFbWJpZlo5VkRHMXBSZzNjcmVNQjNHRS1VQUxUX1JsTUZPVTNhZWxaUnVzLWozMzRKZjNJUHdXWG83VU54SlNZcXRTeWlXX2NVb1piOGdEUE02dmxYREtENjNvY0pITGNoUzRWdU9rbGVKeFJyX2ZoQTU0RmoySWhELWgwcFg5R1ltMmtFVWxUM2hFTjNxRkxjYWhha1ZLelNGRHRfeFNGQ25WQnlwcW1R0gHDAUFVX3lxTE56Rm1QRXczRE50aXlkLUlNbHh0RTNuemxPY3V2S0hLdlIxd2NLblpyTkxOS01WWmFLd05xQlR4S2lvaWJveVdObktmUk5YY184Wm41Ny1hZ3F0M19yY1VhdEsyODRDVU5zaVBWdTB3WmlFTERyRHdXTlBzNks2TnpZb2hKaTRTZi1VZ2VFUEFCUWE3emtyWS1IT0duY3dSOWhiUGVodmNzaUZJc1VheGh5d3IyNkM5OTdWTGp4V0RQV0tVYw?oc=5",
      "source": "Lokmat Times"
-    },
-    {
-     "title": "Magnitude 5.8 Earthquake Strikes Near Madang, Papua New Guinea",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeEhRYWRVMUZrNTJDRjIzQ0tBZjJiMnphSWZPXzVETzhJLUM3SmdpUm9fRENRQUZ0b1lQdENES1hCSG5pVmhZUUl1b0NYRGNlYUFSZW5XYlNtVGpFc1BFUG1uWHVTT3hQYmlseS00cTJFd0lrcjVUeTMxRWdsNFdPWmVvT1l1YUg3ZE9oLXlwR0ptc3JJX3ZJdi1qaURHTl8wWHVMdg?oc=5",
-     "source": "cedarnews.net"
     },
     {
      "title": "Strong mag. 5.8 earthquake - Bismarck Sea, 75 km southwest of Long Island, Madang Province, Papua New Guinea, on Wednesday, Nov 18, 2026, at 03:42 am (GMT +0)",
@@ -217,27 +222,17 @@
     }
    ]
   },
-  "us7000tyek": {
+  "us6000ucrb": {
    "headlines": [
     {
-     "title": "Minor mag. 1.9 earthquake - Philippine Sea, 23 km east of Dapa, Philippines, on Sunday, Nov 15, 2026, at 11:23 pm (Manila time)",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZVNMVVYtYThmeVl1RG9VaVdhRnBINlcydHR5ZHRfRV9wM2c2ZXNVYkpOT0tPSnBYWENmRWJERGxGcTBUZlU3UnZLalFFX0FPejlTcWVEN3p0ZUp2U3FpSjVJa1Z5YzJ1TW9NYVZ0TFRoRUhKbHBBWjJRZmE3NkI3NDlTX19HYktyZmw5SUNpZm9TZVlzWGp1TTU0eW9BZnRBcURKQ0NXR0lpSzB5dmp5ZnBjSkZBZGowcFJhNUpIRzNKUGRXZDJLSFNVWjJQWENwRGVtdmpSdjNEWURfWGxPdFVTa1ZpUQ?oc=5",
+     "title": "Strong mag. 5.3 earthquake - Talaud Islands, Indonesia, on Sunday, Nov 22, 2026, at 07:54 am (GMT +0)",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNkdUX3Exd1h0VXQ5Wkx0QjlzbGI2SmFLelkwQXR5bGcxMExMZ2JQRFd2QnFEaGRVNjF1NjRhMGhmRVUwOWRzMUx1b1FoTVpENjFxYTNHUEZwMmYyWmw4Vnp5VUFuUHZoUWQtTHZRblVidExqaGVfb2JoQ08tT3FyYUJIUW81N3ZzV0NDM1ZVSUlNajVyeF8wMW9RWURSeElCMWhZVW9pbGRoRTVTV25pMElDb3FIbTg?oc=5",
      "source": "Volcano Discovery"
     },
     {
-     "title": "Strong mag. 5.5 earthquake - Philippine Sea, 21 km southeast of Siargao Island, Philippines, on Sunday, Nov 15, 2026, at 01:41 pm (GMT +0)",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMHhBRDJtcnhsazh4NEZoSklsVlh3MXg3a1MyTzhMemRORnBLMXdoVURZQkxQMndtOGM2dGJzTDNCaHp5R0N3NjNSSjc5N0VMSWdQdlg5U1RMVnNWc2RiZlpPWFM0clJmRlV0ZWxuTmNBSHpaaGpYNTlYX29wUy1haFpZX0Z0VVB2eGFSV2hUcXpQeUZUaVFTcF80MnpVNk4zRmNDS1lwM3JycHZqWDVNX0Zab3liVXhRb3lyXzM0d3RKQQ?oc=5",
-     "source": "Volcano Discovery"
-    },
-    {
-     "title": "Strong mag. 5.7 earthquake - Philippine Sea, 24 km southeast of Siargao Island, Philippines, on Sunday, Nov 15, 2026, at 09:42 pm (Manila time)",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbGJRaXdFMXNBNDFzOHBxYUpBUlBtcDNjRUlST0dhblFfUGVITHVZZjhYa0l1OHFianA5T2hIVml2T0RHbGIxZmVvTHBfU0dfbUw0Z29aUms2NmdwWmxPbGYyUHlVZmtxM3FNMUpOX0VORFlqRzJ6LUxRUjk3YlBCdkUxOGRaMDBzNTlwYmo4Um5TZkhGSFExSldKV2lKMnhzN1FlTTIxTGcxRF9KdzNPdERR?oc=5",
-     "source": "Volcano Discovery"
-    },
-    {
-     "title": "Minor mag. 1.7 earthquake - Philippine Sea, 10.8 km east of Siargao Island, Philippines, on Saturday, Nov 21, 2026, at 02:50 pm (Manila time)",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSDBEMVZidjc0Q3QzMGQtMGc4WmZnWUZkNEJ5QzlTU01NbTZtM01rT0VWcXV2QnN3QUptdXdJNGtYUGlhdTQ3WVJKZ2hDVENsR3YtbHFXZ1gxNWtUeDVycDhfMnFweFNzb1N1emlwYWdobFp5SWlubXJ1cmc0ZFhoZjAwVWJvcEhVazktdmUtaDA4ai1rVFNWbVdOT1VvQXhEejdPRmNrUVdzZ3FzaWNubldmMW5mbGt6S1R5OVROS1p5T1ByLU1jRnNzMDhpNEJoZUN3RVotUVd1RFVV?oc=5",
-     "source": "Volcano Discovery"
+     "title": "Magnitude 5.5 earthquake strikes this country",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mYnROOXB4UktyMVllaDd1WGZVbUNzbzh5ZkF1VFhSNGhuc2FmUXhia3NjY1p6MFVGTk5laUY4UkRXTjlCVjR4ZnRCdXhiLTFtdnBoQkFOdnJuaVUwdzAtTTR1N0RvclJ5VHNwUGg0cU92cHZDeHc?oc=5",
+     "source": "GlobalInfo.az"
     }
    ]
   },
@@ -252,6 +247,11 @@
      "title": "M5.4 earthquake strikes near Carlsberg Ridge",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdURqS3BEWWpILTZtTnAzYm84WFAwVXVSeHdVQl9ISDVuX2ZwQTNVbkE0SHpKYUFzc05KOWNmVm5vN3RSY1dRZDNSeDRSZHJJdHVxOVdsajhYZFhLbmUyc01xc0NZT2VnNzJUYmpZVEs1QnZGSUN4M1VreWlrTHlxak1qNU83TlpZZXNCWUFB?oc=5",
      "source": "cedarnews.net"
+    },
+    {
+     "title": "Strong mag. 5.4 earthquake - Arabian Sea, Yemen, on Friday, Nov 20, 2026, at 12:44 pm (GMT +4)",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUXBkc1hURnJJSktIdU91ZTRCTk85aEx4V1BnMHMwR2llLWVZRlVPTHVKdml2UHRFRTRwUlhZYlgzT29CMTR0OEo1TGowazFqeHdUQUNWSjZpNjRjM1NpUXA3dHBPX3FWODFCYXI1eU12M2phQkdSQkphMDQ0b213azJwa1hkVEx1b0E4d1VEUHUyc0Q2U0ZrYkxlRUpreFlFcVFyMHRBenRWX1RWTk56NlJlUQ?oc=5",
+     "source": "Volcano Discovery"
     }
    ]
   },
@@ -277,7 +277,7 @@
      "source": "Tech Times"
     },
     {
-     "title": "Mag. 4.9 earthquake - Japan: Off Noto Peninsula on Sunday, Nov 22, 2026, at 08:46 am (GMT +9) - 13 minutes ago",
+     "title": "Moderate mag. 4.9 earthquake - Sea of Japan, 78 km west of Wajima, Ishikawa-ken, Japan, on Sunday, Nov 22, 2026, at 08:46 am (GMT +9)",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONHFhd0NQRmZLSTJVMGhGcW9xSG1rRVRyUVoyd0U2SThCY0NkX3JrN3BLMWJkQkVObGZTWlpqNHQzVWIwQzllR0lzZkZZYXJBOEN0NXk5M2RTNjFMelFUZjhmTlpvbGR0dl94cElibWVrY2kyTzQxQ1BLbEJpZ2pUWVN3N1NqeW1ZdmxFeU1EVUUwX0Y0cmI2RFJRSmY2Qk9uUDNfcHhkMW1yc0RuUHR0b2VMY1k1MHM?oc=5",
      "source": "Volcano Discovery"
     },
@@ -296,14 +296,14 @@
   "us6000uc2q": {
    "headlines": [
     {
+     "title": "Strong mag. 5.3 earthquake - South Georgia Island Region on Thursday, Nov 19, 2026, at 06:07 pm (GMT -2)",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORkhqV0N6djdhZDl1VGhfOWlLZWNWcTlyczUzWnlTdGlrcFh2bWVjU29IQ1phWHc5YjJVWnNNb3pCM2JCYmNzdzYwTVdXMWJwU0ZPTjNoc0laNlMwd2hrNW5mRGNuT3VmSGdWdTlTRHpsV1QzVTJQM2FDdVRDb2RRZVFtaEtXdlJEMnVYVGpkazZxdkNWOWdFenRWN0NaLW9XQW02VUU2NHoxUFRRSUFzNGIzUUpDbndMb0tV?oc=5",
+     "source": "Volcano Discovery"
+    },
+    {
      "title": "M5.3 earthquake strikes near South Georgia Island region",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPblM3YmNrZU5SMWJfQVB1c0prWTN6eHdIenhkM0tnR29HR0NDTHdfdWJnY3dlbllLNnZqaFpnV1l3WlhXd2FEcndTc3hYOEp3cVJIeHZ5c04tbXh4ZjdtZF9BWmRyMExLSGJmWjZZSXNZSG1hckVzWl9xZkJ3dVpCNTJBdjVkVWE0Q2FYS0U2OGdCQndhYkNKbS1OTWlRdw?oc=5",
      "source": "cedarnews.net"
-    },
-    {
-     "title": "World Earthquake Report for Friday, 20 November 2026",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeE5oR19yZThaX0xmSmY2TWJDZlpzOVYteDBaQ2FKT1NWVDFqODNoekxjYjB0cUtJVHlqa1NFRXVMS05IazlHVFBJTlM1VkJyZzhNSnN6S0cxb1hhd3B4U0I0NHROV0pLQ3NLRVRwdXFwbVJLYnZ1U1JJa0RsVHc3SFBzQV9GcXo1czh0cGRlSnRKQUJfUHd2NHczaEJZblA1YzhR?oc=5",
-     "source": "Volcano Discovery"
     },
     {
      "title": "California earthquake sparks 22 tremors as fears grow of major aftershock",
