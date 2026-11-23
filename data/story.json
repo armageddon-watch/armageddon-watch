@@ -1,29 +1,29 @@
 {
- "generated": "2026-11-23T07:45:07Z",
+ "generated": "2026-11-23T23:57:23Z",
  "window": "last 24 hours",
  "source": "Google News",
  "topic": "War and conflict",
- "focus": "Iran",
+ "focus": "Ukraine",
  "regions": [
   {
    "name": "UK",
-   "count": 48,
-   "capped": false,
+   "count": 100,
+   "capped": true,
    "tone": null,
    "headlines": [
     {
-     "title": "Briton swims length of strait of Hormuz to highlight environmental cost of war",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbEhGa045V054T0pYTUNZTHMyZFFuYmkxM2w5V0dYOFFYZHVlbzcyel96TGc0Yzh4c3hUMnhtOC04QkotYVhpV2pzOW8xZEFnbTR1dHh6cmtFS3dHcFhFaEQ5aVVhQlplR2YwRTREREYtcjR5Rk85dFFVVEdjN2EzZUNRdHZnSFJmbmxZTFhKTkM1MVUxZmNqWW5ZNk1vQk9RaEx3Zw?oc=5",
+     "title": "Russia’s war dead: the hidden toll of the Ukraine conflict",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcHEzaFFZSHUwdzN0LS1RbTVLRlF1MFpWblFUV2l1eUtybk9fOHJzNmQzeW8zSi13TEdMWGtYTE9UTFNHbGx4UUZ6Z2UyRlJQUU1kY3hKNmtsV3V1ZkVsWWR3UmxvdDlud0NQa2VRRldnWFQwdV85R0RNZTVKaTJKbko0UV9Qa3FLR0J1S1FNSkZxM01k?oc=5",
      "domain": "theguardian.com"
     },
     {
-     "title": "Sunday with Laura Kuenssberg - Brexit: Remain Out or Rejoin?",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZUNoTUtyQnUyYmd3T1ppZHpIVW9vSU5sQmVGdENTbTU5bnVQcUZsdWhXVTJ6X1ZmLWwtaGJ4VGFrZ0sxYWNDRDFrX1Z6WjNnRl9xdnZjdHNra01XNkxEc2Zhdm1QdmRfem1pOG4zVmEzWEgtd1B4RV9hX3R0ZlM1ODI2d0JmSkk1dGtDNDJQajlRenFib3JRMGxfVXlFOWJpdEJyMU1R?oc=5",
+     "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzRlpROXRSV044RXVOaF82dVp1Y3NpM0FjdGgtcm1EWTRDY3V0REVZckZEbHE2Y2F1VGp5S3NLdk5kUkNrN1lBOW1IQVVnXzN3TXVHTUNVMzJyNkdWWWc?oc=5",
      "domain": "bbc.co.uk"
     },
     {
-     "title": "Finding downed US pilot now 'a game of cat and mouse'",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZzRRSmNTQ0I5ckkybXd0QkFKUGtKT0s0ZVItN25QY3RmeEkwdVdKeG5nel9TNlVyWGs5WU9uOFdJTDZDSXdUTlgwTXo5eHRzN1hsa1V1elJPOE5GenVZbVRnQXVUenNzNzE2d3JNRjI5TVlUNGpERGZsbl9UcGNQSGJ2M0UzZHRmZkEwZW05YXE?oc=5",
+     "title": "Dramatic moment Ukraine naval drone hits Russian ship in Libya",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcHlyZTh4am9YMGJhT0hTM1IzdTcyS2UtSGdPVmE4Tk5FTzFrQWxjUGx2bW81ZlF6VjBIMnZpME81YU1qQ3dHRkZKVFd4U3FIRzVqUjhqNlFuUGR2SE9sdlAwTTR6T1R4bHo3ZmhUNVR5T3duV0djTzZhVGJhZ25CRmQtWXJyRXF6eTczWWtaNkV5dlRpY2Y5Y2k5SGprOTg?oc=5",
      "domain": "news.sky.com"
     }
    ],
@@ -36,18 +36,18 @@
    "tone": null,
    "headlines": [
     {
-     "title": "Opinion | Democrats Must Defund Trump’s War in Iran",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ab0labFB3MEFNdGVZcnBDS2phdVNQMVFIbE96VzJBN0YzTmVzVk9NSVNyM1RKSlBMX1ItQktFZjRBb20wNEo0NGFUYURFN0t3QzN5QlFwQXk4OV9xQmVHMjRBNGtWSWg5djBuT3d3QnByQnFhNnhaUS02OWRtdw?oc=5",
+     "title": "Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbGtaSVAtSnh5RTRGUmp6ZW5BbUhiZFlPTnloTlB0MHpsaFRsWmJkQTB4czRDWUl6OEdfcXZmUVNITFY1ZjFSOHoyLW94VHFxZm9SLTRJZHUtM0hZNmMyX3JMSVBCUk5VV3hzU211VVpUb1lBcENuWGtTZm05TG00bDFCSGM?oc=5",
      "domain": "nytimes.com"
     },
     {
-     "title": "Trump warns of new strikes against Iran after new year, calls negotiators ‘professional tap dancers’",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTWlUTXBfYUZwTTVPcllIRkpMZ29FM2lHa25PdkJEZ3F4cXpYLVdpcV9zLVFEdmhKRkE5MUE4alNSZEFDZjQ3Y1JiWlNqQmctXzdTN1UtblpFWmJKRzZwbGNMWWthbUFXSEd6ZV80cWNhb1RNYkRzdElmNGJtLTExZkhvUzg1QkZhY3B5azhKRW1NU3RwVXFWdVk0Q18tZGprV3JVRXd0RnZRUURuOFBOMjBpSWxFMkh5eFl2TElOczBkY0l6c0E?oc=5",
+     "title": "Russian warship sinks off Libya as suspected Ukrainian strikes take war beyond Black Sea",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0dwRWFkeGtST1psY1NEYTc0TEdyZzRpdzFpcTBubDJKaG11T3FXSVlIVWw1dW5NM25IVWg1TWJ1T0VvVWNJWWVJelBsT3gxY3lfSkxvZnk4eWRFTnU4MzNVT3QyOEU3WTlGaDAybWFnWG1LeEF4OHRIcXF1c001MW5OTlJONDJKLURZSkU2Yk9RZDJBNHBoQUdqWnNKNHpyXzRqWW5pazlhaGtyMFEzRNIBtgFBVV95cUxQZkhJOFdwM3lJZmtXUVRWSGZuaDBhSGthcXUzelFSS1VrRl9DOEprbGFrMnlwN3Z2bS1OdmtQQjd6WmdWTDJEaWJUUTdVME9Xb25oZWZtT3otWWdsS2s2bklfRFQzMWdGVFZMd0pHQ2hwLU9HMUprRFd1TU1yeGlZVjFvSkxVY2J3dEtuaTJwZzdZdERwMThXTGJiUkFSY0YyQmJlRVI4S2d3cm10eXlXaE1qdnB3Zw?oc=5",
      "domain": "foxnews.com"
     },
     {
-     "title": "Russian attack near Ukraine’s capital strikes apartment building, killing 3 and burying others",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV0dYbG15VGlQaUxBOGJXQkhMem1ZTEJVSWE3QkJHT0FaaVo3Tk5iai1LcHd0NEVPRm1EYldUR1pHNENaa3dYTmpfOUpsVHJnTGtXa2VvRXNLaHc0bjNBZWNXTVowT3FWRTk0MzgtNXktN2hUNFhnUlVYSjFXRVBNNUt5bDcyNXMyb3pQV2pCbWphUGItclFzeDVKV1pTT0xUQzVZQ2xrVUZ0UWtoZEo0?oc=5",
+     "title": "Zelenskyy hails Ukraine’s attack on a Russian warship docked at a naval base in Libya",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR1VjenRaWHFSYy04RXNZOGtGZ21ldWg3a1B4WVp3dk1OY2pPZ2pRcXFCLTk0YnJjalVEMnBqV2M2UnpCSENVWVNPVDhEZXhNQTdPZnlPWDJhNXR5VThOTVdKT2JRYmJfOW9hTzdqRUdMakNOUEFHVmdwWnNNOEx6ZmFiRVc5Z1JyZE5nNHFwODlkTkp5aHRVNUZxZVo2aDR0TnN6U2VRTlE?oc=5",
      "domain": "apnews.com"
     }
    ],
@@ -55,95 +55,95 @@
   },
   {
    "name": "Europe",
-   "count": 98,
-   "capped": false,
+   "count": 100,
+   "capped": true,
    "tone": null,
    "headlines": [
     {
-     "title": "Tanker incident “involving military forces” reported in Strait of Hormuz",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQm96RExBbGw0OERZX1lMWGxhczRYS00yOXR6Rlg0XzJ0VHk2bEhZVHVFNmFRYllVUjZvZUhqYzFQSnNULTNhRjNhcE5IOXFNQmFOU2RlZlRZYWxrUnVZbWJrWGEyQWF6T1Z4MUUweHVKTmsyNnMtSS1KeHhxeWdoUWlZYU03eUR0X242RVdjNUp5dnU1R3hXRmNwOV94Nkx5UGtySXZMVnV2QQ?oc=5",
+     "title": "How to stop the war in Ukraine, part 22 – and a climate summit fiasco",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS0l4dFJCelk5Vlhoc2J2bGpURWtreEVsWURaNUtkUnlHdnFOYi1lc0RIb1pRMXY1RENQSkdJTTNZaWVoRm85SktwbWpzSmZUTkk4TEJjNThteGhTLW5ucGlJNlo2VGN0UDRJdm8xLTRyZ3R5cXhBZ3NwSTJZc1JxVHpwVGN5UTBaenhVcVlVVGE5eDdXUTYwQWJBUDJPVFpUTU5yZDhSTnEwNXpYdGc?oc=5",
      "domain": "euronews.com"
     },
     {
-     "title": "Iran : Téhéran frappe des bases américaines à Bahreïn et prépare ses pétroliers à briser le blocus",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeTJLQXZ4TkJFMDNlajhRWndXNnVLUGxWYm5PZmRvNlZsc01NQkZaamlCQzBISkhkV0gyTFhWZExkNUhkS3JoY3lnV245ZjJxdk10ZmM1R1pCZmJWcEZTU2EyU3p1dklDNXBnTTNLZ09CVTBHSkJ4U0ZUZWxWdndHdmdKRHBXNktNTFVMNHpTc0dKbFhJdGxKdDdXVlBRRXBJUkhhWTV3MDhEU0preE1BeE9wMGNZaE5Ic3lkaWNVVzF2RzQ?oc=5",
-     "domain": "fr.euronews.com"
+     "title": "Ukraine updates: Kyiv claims strike that sank Russian ship off Libya",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWDhrMTltOFVXcFo3ZXhzNjZLeThPT3ZreFlXYjN1cmN3S3VNa01iOE5DMlNVM2IwQk00dEdaaDk2V01SRmJJZTA5RHlYUVBva3R3NkRfMXpid2JveDg1SFRjVlpTaklIVXA3OFVxd2ktZVJSMHQ0cUpGV2FwRmlwWGp6SXNwS0hQNjY2S2xFaHVGR0FlNTlPbFY2RDMxVVNBeHVPZ0t3?oc=5",
+     "domain": "dw.com"
     },
     {
-     "title": "China, ASEAN countries struggle over South China Sea code of conduct",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNkVyX0p0ejFoY0YtX3lqQ0IxMVdSTnFTTFAzQTFjZnE4Y3FnSFVwTVQ3WkRyUGV5V25rTHBOLTNuZWdOSFdvSlhpbzN5dlZ1Qm9DMkRFMm1OVmY1c0RsdlYwUGRiNFhwUnctZGhuTWhENVhEZk1mRTlEd2VfSzJ2MEdLbmFVNGVqNG1XVEE1bWJGWUlqNXRiRGRwSmltOHcwc2fSAaIBQVVfeXFMUGVWdmZKRjV4eUd5a2pVUFBXZUEwZ3hmU29vVndTbnU3VUtNUzNXMEpJT0tidWxXdHRaQ1BqcGlmU29oRTEzYmxpNEtTTjhpVVVBdi1XbVdrRjFLRlNiQWRtVHpzLWtLSmpwTWs3OTlJYW1wZURjWXo1c3ZIeFBqM0hyaDJBQ0ZRdlp3VzRKM2I3QnVKSFhuWV84dE9qT0NaMWpR?oc=5",
-     "domain": "dw.com"
+     "title": "Finland summons Russian ambassador after suspected airspace violation",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNU5ZUlVlU1hDUmE2UGRrc3ZScHlSaksyR1dPZndVbUJBMGFHMlNzMWNWZFJUYmk2UU8xWjlDSGR2TFBfMHZKNzM4djRVRFprRUZzTTJWcHRtc0hlWUQ1Q3JDdzJDR1BlY2ZfaUgxSVdLWUFHYzRtbWpIclNoLXBla0hWdlVJaWdoakd3VVFiYlRVWTRRaE5pSERkTnBwVWtNdlNnaFRNS25weHJBd2xqak5saw?oc=5",
+     "domain": "france24.com"
     }
    ],
    "error": false
   },
   {
    "name": "Russia",
-   "count": 9,
+   "count": 64,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Trump says Iran uses missiles and drones for strikes more often",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE91amJEaUY0S0ZRWm5mNE5lcHpVZE1JM3phejVleHdFSWFZQkRwUm8xUWtOeWRyZjZvLUlnTkFOa3ltVVhl0gFKQVVfeXFMTlprWVVqYkFuUkhZYkJNa2JEM2czajkzcm9Fd3dVR3RlTU85R0dWV2doWk9fMlFhc3dGVG1vdTIwazhNMElmZThVcFE?oc=5",
+     "title": "Le Pen sees no connection between Ukraine’s future and accession to EU",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1kN1lEajFWd3JzbVVMeElud2MtVTVVdWkzS3ZMWTdIZ3l4RXhDb2k2RkdCSXUzbTZfYmdOVXZRUVJ4ZUFD0gFKQVVfeXFMTjhJTllHakpOMzNvbjZCSl9lZlprdDVlSUtYQjRCZWFsejA1QVEwdjJjOWtZRmx2MGJDWS1ra1k1Z0tUMnE1XzduNWc?oc=5",
      "domain": "tass.com"
     },
     {
-     "title": "News",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hODBtUzN6Nmg5ckN4cHNBVHlhcEYxc1Z4ZkFUaGxpQVB6SUdDbjVFRUVyb2s0UXNzajBzbXJzbThxMkdtRHREeEZVOEdyRjV5?oc=5",
+     "title": "US",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rc3RteVdmS1VGRzUzZ2RIWjFtajhrcms2aTlqOUZpb0dJeWE5MUNlaUhZY3VuMjV2ZEZrTHZVQ0FDU0J3NE1UNkNocHFsZlNVMjNHODhzSTkzRzgwT2VF?oc=5",
      "domain": "rt.com"
     },
     {
-     "title": "Russia-Ukraine conflict",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJTUxiTFNyMnFDaXpMNjBQNXhKZk9CaTIwbGNXZ0c0ZDM2Y2ZBbVhmeEVWZ0xSZThsRERiLUVWci01Rmp3aS1zd2FCLXZ0ZV9ZTXBscDBnV2FkOGtqQ0Nn?oc=5",
-     "domain": "rt.com"
+     "title": "Pakistani PM to pay three-day visit to Russia next week — newspaper",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9tcmEwMmQ2bHI1R0xCbnhZYkdmMjBBbVAwMlpmaURzQUZGcUZNb3NXdHl1OEc2dEZ3YUJsazVUYndTU0wt0gFKQVVfeXFMTW1MYVFJeEFuSkp1aUhDVnpoYnRkNW8yRDJSYlJ5U1NFZWNuSVdZci1MUmc5YmFkS2JnempqNTgzUm1KQkIyLXVPdXc?oc=5",
+     "domain": "tass.com"
     }
    ],
    "error": false
   },
   {
    "name": "China",
-   "count": 11,
+   "count": 3,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "IDF warns Netanyahu strike on Iran could trigger wider regional war: reports",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VM3dfRkNMdjQtRmJRd1F5cUg5dld0eVM0WWxNd0xNOWplZTRkU1hkbW8yZ2FXN2g5UjFfSWdpaG14U21hNnoxcnZJeTFURkRqR25mUTlpRGdtRnY1TTFTLXJUVkJBZjlUUFgxSGctN21kVXc0ZEpRcFF5TEY?oc=5",
-     "domain": "english.news.cn"
+     "title": "Opinion | EU’s absence telling as Xi, Putin and Trump met in Shenzhen",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZllXZVZ3aW1vWFRfMmZrU2JHeGdEcW1scHlobG84UzlJRUJ2R0d0RHNPSEIxSUF1eXBpeWJtcWtvWVNMM0NLY2JuemEtVlVac3NLQnJlVHpVUGVMOFlFZ1F3ZU9pNzVTZEM0c1dCbGpRQnN4YjRBUjRKQUQ2ZURfc1d3c0FpVEJvcjNSQVRJdnN3bDdkQUdpSExpRmNmSUUwQ1BZaEtSSjhLM1J3UzJyeE9iTHLSAbQBQVVfeXFMUDh6U25ENFVGVmFBTzdpQklGUXV3RzYyRll5TnNJNDhtQjZIRnBBQmZ5TkJjOGVPZVY5TnZxaGRPa1VCZ1R3djdBaXc0MENYTTkwa3JlVVhMSWZzTUo1Zm51VTZJVk1QV19pYzc2ejJuNThsejNFUHlYY2stZDFRWGoyVk9RUFY2QURyblVIYzdFXzlueklNOGR0cEtyMU10d0hIVEdmbTBvU1hYZ1pqbEk3TExp?oc=5",
+     "domain": "scmp.com"
     },
     {
-     "title": "Saudi-led coalition says it intercepted Houthi missile in western region",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTWlna3FWSXlXaDhFWFJyOTd5WkFTLTUzbU5xLW9PdWhneHg3UDRwdGtoWDJ0elBlanlPYTBtS2RiX3BNTm1kSnNVd3dQb2tKSk5kNm9xNjE1eDJERFJWblJTN19IZkMtSU5TM184SHRqM0hCaW8yTFJHUjU0TDZhY3RfNlczSHVpemhoTWU0Y25UbkFVZUVjNFFmRVFKY0U5RkpTSlFVT0RYcTRURHNxQ0piNWxxVTc1NGQw?oc=5",
-     "domain": "news.cgtn.com"
-    },
-    {
-     "title": "Washington’s ‘missteps’ narrow US lead over China in annual Asia power ranking",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMTVOMTJNRzVFRU95OGVnd3hxNzkzZ21rOXZMWjlVUXNaV1U0SFpQWnBGSUFvdkthdjFfemFrVTF0Z0RMaWlUWHd1Y0s1NDU5Q0RxaU5MdjNCSTJtOE84ZmJsaUVrdU9GR1Zpc1FhZ3N1elNVWjBRSzNfTUZzUVFwZzNMVzRZRS01aWNQaXd0RGZnMXQwaktvUEwzRUNfZFp4a3ROa0RWTEtoUnR6UzhIc051cFRpSjB6TS1OX3FTb0xRTi1ONm1TMy1R0gHKAUFVX3lxTE8xNU4xMk1HNUVFT3k4ZWd3eHE3OTNnbWs5dkxaOVVRc1pXVTRIWlBacEZJQW92S2F2MV96YWtVMXRnRExpaVRYd3VjSzU0NTlDRHFpTkx2M0JJMm04TzhmYmxpRWt1T0ZHVmlzUWFnc3V6U1VaMFFLM19NRnNRUXBnM0xXNFlFLTVpY1Bpd3REZmcxdDBqS29QTDNFQ19kWnhrdE5rRFZMS2hSdHpTOEhzTnVwVGlKMHpNLU5fcVNvTFFOLU42bVMzLVE?oc=5",
+     "title": "North Korea seeks power for security, not supremacy, Kim says",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbGpGMTd6WTFseVAwVm41cm9fY0p2OTZRcFRpYktfX1VqSWJsQ2xsRVZ5T2ZyUzR4a241MS01TE5lelFyVXlycVhLc3d2bTExOXJCc3B1WU1vZG5hY3FPS192dXNqVVlJZmFIWHdMX2Z4b0VGZDdGRU9hRnJwQlZyel9EOF85UG1IQ2o4S1JKS3p0Q1NkM2pPX05JX1hzX24tcHJpVkZBSFlNOV95aE9XcmhB0gGyAUFVX3lxTE1sakYxN3pZMWx5UDBWbjVyb19jSnY5NlFwVGliS19fVWpJYmxDbGxFVnlPZnJTNHhrbjUxLTVMTmV6UXJVeXJxWEtzd3ZtMTE5ckJzcHVZTW9kbmFjcU9LX3Z1c2pVWUlmYUhYd0xfZnhvRUZkN0ZFT2FGcnBCVnJ6X0Q4XzlQbUhDajhLUkpLenRDU2Qzak9fTklfWHNfbi1wcmlWRkFIWU05X3loT1dyaEE?oc=5",
      "domain": "amp.scmp.com"
+    },
+    {
+     "title": "EU moves to ban Russian flags at sports events under new sanctions",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOXdTRGVSbmtWamFCV3p1TjhYdVVEYi1xdFhRb1lTQW5vSEVCeEZHUmVmTFBhQ1BhVG9UTkNVbTY3QXlOUkVIS3V2RmFpcEFiQ01tUXJUQVZKM1pIaDZST1F0VHQtTURLeGtaNHVBNmlVb2ZXaHpHaWVLWU0yWktreEx0WER1N0dNN0o2NHV3QWNTSXJrQjE4ZGhDcFJPa2x0R0h2Y2FhRzlZZjlGNGUwRkZPbFVhMmJnc3Y0dXpXUXJ2Z2ZYbDBaZkhYZWttaXRBTDNlal9IV0tjMV9HVktMOQ?oc=5",
+     "domain": "scmp.com"
     }
    ],
    "error": false
   },
   {
    "name": "Middle East",
-   "count": 100,
-   "capped": true,
+   "count": 66,
+   "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1owT2pOYVc3bXd5Z0RTeGlaemVoVXVReXNLeHcza0U3aVo2RW5FWDJjUTFGdGtrNm9OVEY4VVZCYXh6aTZ3bzZaVG1NYzdwZGRYOHRlUXVyanBTVzNTQ0FPNnpLbFl5WDBSamUxQmkxRHVUMG1sMk5xMm9sbmZKOEpwMUxVSHJCamsxdFJEZ3dKUWRoSy1SaGJn0gGfAUFVX3lxTE1sMGtPREkyMU1XR0dvQ0pkM2hraWFPblNyWGtsNC1fY1REcjFELUU2Sk9hNFNpT2dxVmxoU3JZQU9QMmlVWlladjlCRW95bEx6MGItcFNjN1VuMHJQSTZwWm1SQ3pLN28zbE05ZHo4cnBGWFZwZXhUR0VYUC1DMGFkTnV2XzlnZTRubzJtSzJ6YzhwUzgwRk1HdnhpVlNNWQ?oc=5",
+     "title": "Russia threatens ‘hostile’ Estonia with ‘open war’",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT2tuUzB4em5zWEgwZUpEZ0szQ0R2ajRaWmgtN0JoX0RhOVFtcFUtWm13b2k5a083bjdjRTJnUVlLTEtadUFYRm5HQlh3aXFFWkNhT2JCaUJPWTJIWm1jcmJiUW4wakYyd3EzZHhOenBUX1lud0JvWVN4YmIyQURaVTBQUnRkeG1hd09OT3YzRzlmd9IBlwFBVV95cUxQZ3JmTVA1Q3FTaTBjMUZldjgwTHJpcXRYSHhoTXlUbnNNVTg3UUltZzd1eTNhc3hDYlZCOHdjdFluaUpRTlVuc1E2XzBKMmFwQVBFT2pqNDhPc1BDUG4xLUhhX2VIOHpWTnB0cm9heEthblZmemhjQ2U3WHExWS02WlRCc2JTQVlDVXpiMDBKcE1HTkk0YWVF?oc=5",
      "domain": "aljazeera.com"
     },
     {
-     "title": "IDF intelligence said to warn Netanyahu a unilateral Israeli attack on Iran could spark multifront war",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb04tQWtCYUJ5Tkl2QXBjUFdfT3VsLXlNZFpZdXRMdklaOGVLRXRfUWs5R3JRY2JhMnRtZldLR2FBYW5NamNBdG9mU3BtdmRzcDVVZXVab2JJWkVtbUVrQzBhSVpzYXJUQ3lEXzNwUUlvSTJZZTVuOFdmQ2N6UzZZazN1UXM4dDJnZ01IdXZ4dHA4R1pNT2tlSXFyX2FtSEpDQUlydnZjR2RGZ0ZkaVVUUkpQZmc2eFR6RW1sX1NTYXpwVnh1?oc=5",
+     "title": "Kushner: Israel facing fork in the road as it ‘trends’ toward ‘global-pariah status’",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWG02ZUR1WmdSWS1JV2tTd3hQZzgwUWljLWc4X2lxV0FrVEtvTkFiaGRMTnZnT2pGbG81dF9VYXZvZ25tUENlcTZ4NzZVSEZ3REZ1YmlCNzNqbWJkRTVXRTFQYkdhNUlGWVgyRzVlNGxELWhkc2FRcXFKb09JbWhWakNscmNyb1djWlB6Y240QmNpSFdPSmp5N1l3dURXTlBpVnBzYmlhQ3c4VXNuYklJ0gG0AUFVX3lxTE1WU3A5ZjZVVEhsZWFVTWlMclNnam50VENfdmhOYnV4YnhwNUVzMldWaHVwZHdmTXltXzRNd2dvZHdOdXd4Wm4wZmphUVBNOVF4NkdVUnhpTFp5QWZFZnBJZnpVdEhMV0VLdS1PeHFxSHd2Yy0zWmcxaHplSG4wSHdXTXEyTDdxaWZmOTkxOUlRUmNmVDBKT2ZoYnhYOWM4SWx2LXU1cEo3MGRCN3ZMWC1ucC1ncw?oc=5",
      "domain": "timesofisrael.com"
     },
     {
-     "title": "Iran unveils missile launcher as commanders tout capabilities in war with US",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUldINFppYjZOVVBmQlM5Y3RGS1VnX2pmYnBkOURxV2JaLWpuZUZvZnl0OFdHRFBOTFNMek9FSTdhalcxM1kzWGxZNjdPcS1ncGRWRTFPZXNuQzk5cDZ5TFNHcTQ5NFpyMVJTS256V0lpUG5aZXU5T0RadWw1c0ZyWWkwTVZ4ZS1Jb0R1NGJBY29OZVo2TXF6TjFOT3dYMXM2UzNkb1JFaXFlWDlzaklhdGFINm44UldZMTVOTmhacWJqcHpkTnVjaGhvZjZXeVnSAdQBQVVfeXFMT2FDeVRvUGx4RlpLclBlNXM3STJhWHVQZ3FZLTk5Nko2T2U1NHZCV1IxX0RBSXJnZVl4QlNQUExSYzRER3RKLVFVZVluVUFWUGhVNVJpSVRsSU9CU0xHa2tiaUY3RWNoV2RjZnVQa2VTeXNTM05ja21Ga0Z3Mk42djVSekRnR05GMnlrRW5DWXBjQmphOHBzT1dsOURaN0w2bHBzVlA4Y3hvR3R3b2hwRVlRRTVDdF9SRVhiM2hnbVFvbVFhZ3Z5cmhEQ3hoVWdYNkxlb3k?oc=5",
+     "title": "Ukraine behind strikes on two Russian vessels off Libya, Zelenskyy says",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSHJOYmpvdWFvSGlGUzlWRXVZZldWbVBMcWhqYVEtS1gyaU4tbHplWXNQNk1aa3p1bmRsZ3FBaldiSm9Yb3BlbExycURDOVFwLVNYcWVRcWx3aXh3U1NITHFLSUFFZEhYX01pSlBPRVByZ2dleDZncVUzZ0t0UktYRERnQXAtTzBublhOVXFKVVBQVWppSjYwajh4dDRVWDV2VVN3ck5VTk01cmNlVklEd1ZFeUFFQTRhYnJwRDhfRlB6VHNycU1xYjRR0gHPAUFVX3lxTE56NXdxSERiaUx4M0hDLU1rZ05NbExrLUZrTFJnc0Rua09WTUpSX1JTMUxnV2pSUm93dFFZZW5mblRFLUU2dVA3RkhEUUgzdndpNU83WEpEOUZRWUd2bHZyRHVaLWhnQThpeGY0VTlpWFZLVVgza0pRa0U2M2thRzZwaEtUMXFTWWctaDBXRnNiMEdhMkFTbWM5aVZxTlhURWdsMnVVdDFMazFsYUNKd0pQam45UGo3Z3JxMnk4Nkl2NEZaUS02LWZ3emFEZWRuaw?oc=5",
      "domain": "english.alarabiya.net"
     }
    ],
@@ -156,29 +156,45 @@
    "tone": null,
    "headlines": [
     {
-     "title": "Aggressive Iran, Markets Slump: Trump Made '3 Predictions' Before US Midterms",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQTB3dUZrOUNsSWxvTklTLUtBdVJCUGFYUnNSSFZQY0NReC1tNmdyeHgyQXhxNmNHemFnSy0tY04xX0tHZUk5dEg0cTFfemxMRkRGZktwMUstOEg4REpGbHpwd3ZYdThwVmlscGtuUDY5czBYQ0hCbmhUT2RDd2N4MHBGNDdCalFhdHJTMktlWjhtdnBFb051SWQyWXFTWGNlMGNvWm9B0gGuAUFVX3lxTE9zbzlOZ2RqUzZTbVAxbXV6ZlVELXluMlk4cG00T0tQRVpDa2pCXzQ0Y1RpRkhvcGJ1a1I0OTM5NjZLMnI4Sk9Bci1Yc1pqZVUxYnZ5RExYQWhyYWQyUndwd2xIVDF5T3Q2aTNhcDNkb19YSHZSS3BiY2kwOEc3UlYzT243S0RxVmhreDZIbk96MTJmek1KbUZKbUpyb3dFS19xWWNhOUI3NHk2UWI3QQ?oc=5",
-     "domain": "ndtv.com"
-    },
-    {
-     "title": "Trump threatens fresh strikes on Iran after New Year if talks fail, accuses Tehran of stalling negotiatio",
-     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOY1k3NF9NOTJrMWxNNDNaZmNjZHoyc0JydnZJdFJqZUU5ZlJBUmV0QVhmY0VjUnYyY1BSNVFiMWlrd1BpVEFVcHZJbkhZbTdFeXB6OEpxQ3Fqb2J0T3ExTzlJaWV6Q0I5ajlIeG94OUlVTjgtNnVHRFM2aTFIanhleGpuZHpsSUNqSk5wYnlQVUx2RFVna0QwZ0xTWGx5Q2JWYkpOVWRMa0htd2I2d2kyaTBLNmRzMGVFY3hPVUJicjBYd3Q3UjBCRlozSlVEUl9scW9FOVRkSms4SWp5REJmOGV0SWJ0Q2Vqald6MzFuUG05SnpmZXpDMEFHSzl3cU8zdXN3QnNUNETSAY4CQVVfeXFMTmlEYnZBcFQwclVVUUVCRHhTSzRpVGdWYWxxMk4yTVZobFZiaDdaUTRqSGFWOUhib2lWSmNWVHJtSUZ2dEVSWmtnWnh1SElrUFRHQzNnOTQ3b08yRWQ4a1V4UDZXZUc0YnNaOTZZVlNsSUtyNkJzbWd6VmUxaUplRmdLaDgyRDdFQTFoc05ybXhMaXRGYlRHMzVNbDRPSVJodDE0Wlhvc002ek5nMzRlSklOd1dFUDVLa2kyV05TaWZCLVBuV2t1ZnBwdjVSQ0c0WXlEX2hkcDV0YU94TlhtSTNZTFBNZ19iUWhYSFM0TlhHLW5YLUx1R1R2eVlWbmlVZDduV0JFMFVTcXFwR3Nn?oc=5",
+     "title": "Ukraine sinks Russian warship Merkury off Libya, releases dramatic video of operation",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNR0xlcXJ1dnNLS1RNdlQzMGdpa05sWXpSRjVmY2ZrX3ZqYTlpUmItWWlJcUprR3hrUnpfQW5zT1lMY2M5cEdFQjA2cFBMbG5hT0RwYVdqMjFxRXpiLWllRkViRDlvWjBDQlBocTlINjVxbkM5NGJ3X2R0RGY1bTNraG94dXM2ZGU3WVl6THhRMnJBZEw3Wjk5dVNWT05GVU9HN2IwV1RjYW90aEEwUjNmN3pGdjRKM2pHMUt6ODFqYjVHc01lZkRTVElXMGVRV1hMQjJQMHR6NU13V2lOZXg3X0Z5VGdyVzZCRnZjSWZ6ajl1QjlDcmJLV1Rn0gH_AUFVX3lxTE5WX0Z3ZkozeWxxZm1xQkVudGYxdDBscW1QQmZXYVdwcTc0M0RidnZES0NKVzRSbXhkZlVtT0p4VGxMUGs3VkdkUVVGa1pfY01rYkNTdDI2dE5yczZwZWdwNzdtYkRvbWlvS0pPblNwdjIxV1JLSTZ3M0dUQkxGY2FHTXNmTEpJeE1JVWpqU1B2UUJfMXhsZXdUenVUam9PUVk5UmdYTDVFd181bTdRaGpQZGVNeVVKb3JSajdDT1IxZmxaY3p5cDJJeWw2THJRcDM0NDhoa05xTjhQSGF2TUE1cnFma2RnZ3BSMUZFUks2X05wSFp2NkNKeXRDWFd4cw?oc=5",
      "domain": "timesofindia.indiatimes.com"
     },
     {
-     "title": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-     "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5faDBiWWpLa3cyS3BWYU1RQ3BrQmt2b0d4dnp0ZjRvTWZPdndZeGNzdzV0OTF3OXlCa3A3akhB?oc=5",
+     "title": "Ukraine says Russian strikes kill 15 in Kyiv region",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX0hvbWZkSjNmOHNhUHFwb3JHRjFubFJlYV83anYtX3NxenYwZVI4NVR0dXdlMURJTkZaQkxUNng3Q2s2dFZnczNVNGtZdFhwTlgyVjJkOXA1QW5IQ0ZrRWRaTXBhU3FwaWM2Y3VYZE4zcHloT3dYUVZMLWZjaXY0Sjg4RlQ5cUhLdUR3MGktVEpyd0czODFoeDZKQ2VYT1cxdWViWFgxbmQ5U21sczUwMWtGX2dtQkNORElzWtIBwwFBVV95cUxPcExNTl9RYV9FYVlsMlh5c0ZvWkJQT2J4dk9wck91ekdPOENBRnRteXJJQVJuM2tQUm5obnd3SEZoS0hNeE43NXU5dldrbDVUQkVxS3RZbVdmX1pna0JOUXRyZjBoUlNPOFloSnVyemthN3UtS0xoN1hCUHQ4OUJ2UXRSN1RtcDZ4c3dGTWh3eHNQTGFxUG1UNjRBQl9fREFiTUZHV0liR191QjBCUjdieHFYUzdaYU5kR1NNc2psWXhuOWM?oc=5",
      "domain": "thehindu.com"
+    },
+    {
+     "title": "Video: Ukraine Sinks Russian Warship In Libya, Zelensky Says \"Exemplary\"",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdUNEWE4tMnJEUHNGczUxVVVLUlVlNWhoSjl1WUJFVllKNG5jNFdKR0RRV0JpS1gwelkyRkpmOFFXSnJYMEdMNHE3WmRjQ1Z4TjlKdkZZcHNqSTJTUlNuREYwdG5lZlFRNUxNTjBfWDY5MnU4bVo5a2dYUW9WRzBFNmRqVWRrZllYcnFfYTV1ZWQtQTVCNW5CdjN5YlhnM3ZTRXlVdUFTbE92V19HNlHSAbYBQVVfeXFMTkJKY0h6M1ZqZDgta1JlbXBGUlJhQkZMQmdfcGcxUEF6R3NLeEZ4czVSNDJadDFGZ05HVlNVVFlXa0hWeVpISXUzOUZ3S1Y4U2FEeFcyM3NYRGlqdmxXdVZFYldoN1pmbmVCUUdXT21jakphOUoyaEhQVDFaZ2F5RDcwMUpuMlI3U2NjWjJtb1N6RnlSMFh0cnl3YnhDN3o1YXozbmxyLV9uVll5NmxWeDJsc2pIWXc?oc=5",
+     "domain": "ndtv.com"
     }
    ],
    "error": false
   },
   {
    "name": "Africa",
-   "count": 0,
+   "count": 5,
    "capped": false,
    "tone": null,
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "Lisette IJssel de Schepper | A distant war could be costing South Africans R110bn more in fuel",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSms4Z0szY1M2cDNFSTlOZ3BMUTl3MXdHMzZna1U3bkFpSkpvYmFBbk5OUXhUZXNFRThLMDI2c0tUS3BYdGwzanl6VHVlNFVRbXB6X3BWSk1YblFfUXl0M0lIMm9XSHhuOHgwTzBZX2V1bmRLeUVib0V4VGdBR2JMNW5ZQ0ZYVHpwVnBTTk5UMlR1WVpueWQ1aER6YnpkNHpVSnFRclVnV0NEbXJLbjFtaUVlU2lZTnVDbWE5ZGJHMVdMaXNpUHpVejNYQVhKNjVZY1gwVkFBZl9FbEtUQUJN?oc=5",
+     "domain": "news24.com"
+    },
+    {
+     "title": "Russia-Ukraine war spreads to Africa as ships attacked",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM3VzajNJNGJfSHRLZVBrTmtYRGpfWE45ekxOZDltU3RMY29rTC13TnVmdFUwVkt2MjZPdkhUYXdrcXh6Q0lQYlpLb3BzYm1GTFFYYThJa083QXdDbnEwRWJCOHcwWjlTWWxPc2FISzFPbWtENExKZDRUbGNPQWhfalpKZlFxQkprZW9lclBoelZETlFKQTIzSk03Q09WYzgyUTRGbk1YbDZyaDkwblhfTGw4eEZXc1VSN0Zn?oc=5",
+     "domain": "premiumtimesng.com"
+    },
+    {
+     "title": "Zelensky calls for four-way talks with Russia 'as soon as possible'",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbnVoOHNrTGY2VjhYRW0tR0JzSzJxRHI0YXR4YWNDQVJ6RkJvQzBITjFhR25oRjlKZlEybjlkRmFNaUhNdEJwZVFaUG54Y3oyZkgtQlhiWGNjd2NZbmlSU0hnYXdNN0k4d0tCR0JKejVhSHVCU0UwUzZ5MzAyNFo4SmlPM3h2RzkxeFI5d1hjZnVqVUkzbExBMlRvcEI3SlNucm9jY1VUSFdsRkNS?oc=5",
+     "domain": "news24.com"
+    }
+   ],
    "error": false
   },
   {
@@ -191,7 +207,7 @@
   }
  ],
  "framing": {
-  "text": "UK coverage emphasises environmental and humanitarian angles, with limited Iran-focused reporting. US, European, Middle Eastern and Indian outlets prioritise military escalation, Trump's threats, and Iranian capabilities. The US also covers broader geopolitical concerns including Ukraine. Russian and Chinese coverage remains minimal, focusing narrowly on Trump's statements or regional dynamics. Africa and Latin America have no detected coverage of this conflict.",
+  "text": "Western outlets prioritise the destruction of Russian military assets and casualty figures, with UK, US, India and Europe all emphasising the sinking of a Russian warship near Libya and high Russian losses. Russia's coverage focuses on diplomatic and geopolitical matters rather than battlefield developments, whilst China has minimal coverage of Ukraine itself. The Middle East frames the conflict alongside other regional concerns like Israel's international standing, and Africa highlights economic spillover effects on the continent. Latin America shows no substantial coverage within the timeframe.",
   "model": "claude-haiku-4-5"
  }
 }
