@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T19:45:11Z",
+ "generated": "2026-11-23T07:45:07Z",
  "window": "last 24 hours",
  "source": "Google News",
  "topic": "War and conflict",
@@ -7,7 +7,7 @@
  "regions": [
   {
    "name": "UK",
-   "count": 54,
+   "count": 48,
    "capped": false,
    "tone": null,
    "headlines": [
@@ -17,8 +17,8 @@
      "domain": "theguardian.com"
     },
     {
-     "title": "Strait of Hormuz swim highlights environmental cost of war",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LX2FFeUo5ZjFkdWZBZXNTSWU2LUV4UVVhQnk5NFZsVkNiOGFwdHZPTkVDRmd3NHZLYTktX1M2NXJhaWNZUlZ4QjRLV1ZWVzgtdnVEcXpXYmo1dnNVOFE?oc=5",
+     "title": "Sunday with Laura Kuenssberg - Brexit: Remain Out or Rejoin?",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZUNoTUtyQnUyYmd3T1ppZHpIVW9vSU5sQmVGdENTbTU5bnVQcUZsdWhXVTJ6X1ZmLWwtaGJ4VGFrZ0sxYWNDRDFrX1Z6WjNnRl9xdnZjdHNra01XNkxEc2Zhdm1QdmRfem1pOG4zVmEzWEgtd1B4RV9hX3R0ZlM1ODI2d0JmSkk1dGtDNDJQajlRenFib3JRMGxfVXlFOWJpdEJyMU1R?oc=5",
      "domain": "bbc.co.uk"
     },
     {
@@ -36,18 +36,18 @@
    "tone": null,
    "headlines": [
     {
+     "title": "Opinion | Democrats Must Defund Trump’s War in Iran",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ab0labFB3MEFNdGVZcnBDS2phdVNQMVFIbE96VzJBN0YzTmVzVk9NSVNyM1RKSlBMX1ItQktFZjRBb20wNEo0NGFUYURFN0t3QzN5QlFwQXk4OV9xQmVHMjRBNGtWSWg5djBuT3d3QnByQnFhNnhaUS02OWRtdw?oc=5",
+     "domain": "nytimes.com"
+    },
+    {
      "title": "Trump warns of new strikes against Iran after new year, calls negotiators ‘professional tap dancers’",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTWlUTXBfYUZwTTVPcllIRkpMZ29FM2lHa25PdkJEZ3F4cXpYLVdpcV9zLVFEdmhKRkE5MUE4alNSZEFDZjQ3Y1JiWlNqQmctXzdTN1UtblpFWmJKRzZwbGNMWWthbUFXSEd6ZV80cWNhb1RNYkRzdElmNGJtLTExZkhvUzg1QkZhY3B5azhKRW1NU3RwVXFWdVk0Q18tZGprV3JVRXd0RnZRUURuOFBOMjBpSWxFMkh5eFl2TElOczBkY0l6c0E?oc=5",
      "domain": "foxnews.com"
     },
     {
-     "title": "Democrats Clinch 258 House Seats, an Election-Year Record This Century",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRTlhVl9TdFB4TzZPMHExRjJKdGJvQmZJcDRTcWl5TzRlMUpoalpDRmpJdjdpZWlQQTZrSWhfU2lXRGdSZVJCWVpMUFVubjNzRGpfUHEwUEptdHJJODZ1dlNoVk83dlN6aFgyRkk3RlRwUGJ2VXdNNFZSTThfOWxnclFjVzV5RS1iZ0R5QTZVcVU1YWRvamc?oc=5",
-     "domain": "nytimes.com"
-    },
-    {
-     "title": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa2RiNXlYT1VFSmc3cEJmU0N4QW9Ydk9rX1RBZ3hvakVOYWtIa1ZDdGlhVm8wSUp5MUk2bWg0TFNyc2lvN3VXazhaamp3WTZBOVpqXzBPcnV5OVVGREVtU1FNVDBXb2d2ck5mVmhybmptaUtCMGRJNEt0UGhxU25fM0JWZE5NSUF2NmRxZVlZOGJSaUpncmt6dnFkNEpDdG9ZejlidXU5RnJUdm8?oc=5",
+     "title": "Russian attack near Ukraine’s capital strikes apartment building, killing 3 and burying others",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV0dYbG15VGlQaUxBOGJXQkhMem1ZTEJVSWE3QkJHT0FaaVo3Tk5iai1LcHd0NEVPRm1EYldUR1pHNENaa3dYTmpfOUpsVHJnTGtXa2VvRXNLaHc0bjNBZWNXTVowT3FWRTk0MzgtNXktN2hUNFhnUlVYSjFXRVBNNUt5bDcyNXMyb3pQV2pCbWphUGItclFzeDVKV1pTT0xUQzVZQ2xrVUZ0UWtoZEo0?oc=5",
      "domain": "apnews.com"
     }
    ],
@@ -55,19 +55,19 @@
   },
   {
    "name": "Europe",
-   "count": 82,
+   "count": 98,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Iran launches attacks in Bahrain, Hormuz and moves against US blockade",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWUJYOUdFdXlpMHE3RUhFVzFQTENEc2pUcEJ5WDZuckZlQjN1bF9aX055VUZUelpSSGVwT2dHLXFVQmR2Yk9IYUxPU1d0MlJhS2lWRDlWaTRleFZkeXlHTExaVTNTamZ0Y216QTJEVXpEYkdfN2pGN0xYSXZ5Y01Yb05FRE1qOVpXMW1yUWgtcEt2RVBzRURyOHJhRnZWcjNDbmh4aWI5RWE1ZDFVQW5UaTAwZFhmOVp0TEE?oc=5",
+     "title": "Tanker incident “involving military forces” reported in Strait of Hormuz",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQm96RExBbGw0OERZX1lMWGxhczRYS00yOXR6Rlg0XzJ0VHk2bEhZVHVFNmFRYllVUjZvZUhqYzFQSnNULTNhRjNhcE5IOXFNQmFOU2RlZlRZYWxrUnVZbWJrWGEyQWF6T1Z4MUUweHVKTmsyNnMtSS1KeHhxeWdoUWlZYU03eUR0X242RVdjNUp5dnU1R3hXRmNwOV94Nkx5UGtySXZMVnV2QQ?oc=5",
      "domain": "euronews.com"
     },
     {
-     "title": "Bahrain accuses Iran of striking industrial site as tankers hit in Hormuz",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb2JDZ1FhbWU2VzFfcU5TbWgtb0JMRUhDTjhIb1ozRnlMS3FVZU5RTXQwZ18zOVV5aVpkWm8xUmo3bFRTZm8xaHdNcklITGUxd2pnekktekFqLUxZX0xvZXpnQlAxbnF2NUpRSlBENEhlcEo3d3dOSllxWjk0SVc0QUtWbnZmUXkxV18zdjhUd3UwUS15NG5ZSGN6TXdpVl9aNThfLVZ1SENwLXAyc2wyUjdNS0lFaVZjY3dtWlVOcw?oc=5",
-     "domain": "france24.com"
+     "title": "Iran : Téhéran frappe des bases américaines à Bahreïn et prépare ses pétroliers à briser le blocus",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeTJLQXZ4TkJFMDNlajhRWndXNnVLUGxWYm5PZmRvNlZsc01NQkZaamlCQzBISkhkV0gyTFhWZExkNUhkS3JoY3lnV245ZjJxdk10ZmM1R1pCZmJWcEZTU2EyU3p1dklDNXBnTTNLZ09CVTBHSkJ4U0ZUZWxWdndHdmdKRHBXNktNTFVMNHpTc0dKbFhJdGxKdDdXVlBRRXBJUkhhWTV3MDhEU0preE1BeE9wMGNZaE5Ic3lkaWNVVzF2RzQ?oc=5",
+     "domain": "fr.euronews.com"
     },
     {
      "title": "China, ASEAN countries struggle over South China Sea code of conduct",
@@ -79,23 +79,23 @@
   },
   {
    "name": "Russia",
-   "count": 6,
+   "count": 9,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "World",
-     "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5TY0ZIeHdkOGhhWWJRdDd3dUsxV2VldkZwT1hoNUVPdWVZOWItaHhzaVoyT3pYcXY1RGc?oc=5",
+     "title": "Trump says Iran uses missiles and drones for strikes more often",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE91amJEaUY0S0ZRWm5mNE5lcHpVZE1JM3phejVleHdFSWFZQkRwUm8xUWtOeWRyZjZvLUlnTkFOa3ltVVhl0gFKQVVfeXFMTlprWVVqYkFuUkhZYkJNa2JEM2czajkzcm9Fd3dVR3RlTU85R0dWV2doWk9fMlFhc3dGVG1vdTIwazhNMElmZThVcFE?oc=5",
      "domain": "tass.com"
-    },
-    {
-     "title": "Russia-Ukraine conflict",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJTUxiTFNyMnFDaXpMNjBQNXhKZk9CaTIwbGNXZ0c0ZDM2Y2ZBbVhmeEVWZ0xSZThsRERiLUVWci01Rmp3aS1zd2FCLXZ0ZV9ZTXBscDBnV2FkOGtqQ0Nn?oc=5",
-     "domain": "rt.com"
     },
     {
      "title": "News",
      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hODBtUzN6Nmg5ckN4cHNBVHlhcEYxc1Z4ZkFUaGxpQVB6SUdDbjVFRUVyb2s0UXNzajBzbXJzbThxMkdtRHREeEZVOEdyRjV5?oc=5",
+     "domain": "rt.com"
+    },
+    {
+     "title": "Russia-Ukraine conflict",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJTUxiTFNyMnFDaXpMNjBQNXhKZk9CaTIwbGNXZ0c0ZDM2Y2ZBbVhmeEVWZ0xSZThsRERiLUVWci01Rmp3aS1zd2FCLXZ0ZV9ZTXBscDBnV2FkOGtqQ0Nn?oc=5",
      "domain": "rt.com"
     }
    ],
@@ -103,24 +103,24 @@
   },
   {
    "name": "China",
-   "count": 15,
+   "count": 11,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Iran's IRGC targets US radars in Bahrain as Trump says he wants to sign 'permanent deal'",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT2taOWk2dUtxYml0ZDZid2tUdTl4cmNJR1lLcW1hOHhwWkJfVnU5UnE2bjdxOGVlT2duU3RYdXlBVkNLUXhaNDBiRXNCbm00eUlfTWRXN2w5WUpJZ09HaVFhRFRFUWhMbGRzUTNOZzh5bUJkWE14OUg5YlpKNF9tYllsdndtWDFIeTRsZ0Q2aVBDWExYYTFGUmZoc0xPX3V0OW4wajE5VUd3VlNRSlFjOVJ0aGg4aDMzRDV6UjZB?oc=5",
+     "title": "IDF warns Netanyahu strike on Iran could trigger wider regional war: reports",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VM3dfRkNMdjQtRmJRd1F5cUg5dld0eVM0WWxNd0xNOWplZTRkU1hkbW8yZ2FXN2g5UjFfSWdpaG14U21hNnoxcnZJeTFURkRqR25mUTlpRGdtRnY1TTFTLXJUVkJBZjlUUFgxSGctN21kVXc0ZEpRcFF5TEY?oc=5",
+     "domain": "english.news.cn"
+    },
+    {
+     "title": "Saudi-led coalition says it intercepted Houthi missile in western region",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTWlna3FWSXlXaDhFWFJyOTd5WkFTLTUzbU5xLW9PdWhneHg3UDRwdGtoWDJ0elBlanlPYTBtS2RiX3BNTm1kSnNVd3dQb2tKSk5kNm9xNjE1eDJERFJWblJTN19IZkMtSU5TM184SHRqM0hCaW8yTFJHUjU0TDZhY3RfNlczSHVpemhoTWU0Y25UbkFVZUVjNFFmRVFKY0U5RkpTSlFVT0RYcTRURHNxQ0piNWxxVTc1NGQw?oc=5",
      "domain": "news.cgtn.com"
     },
     {
-     "title": "J-20’s radar signature could nearly double with 10% stealth coating loss: study",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ1o0cHJLdmlxdFBvMG1qX19UbXNfOVVlWTA5ZllaRUpvdFVEOUZsS28teWtIdnZLLVJ5VHZ2T3EwaGVjNjh4ZnpycjlxRm5GYXA5NEwwTE9KcHJZTjFLbHJsZE9hczZaWDVuZ3dyMkphS3U2a2RrSmRVdDYxQWEzVHNaSkhfaHVRMWVieE4zWVk5eWJZcU94MHR2RG53c3lobTRNWUZNcDFCR2pvOE9zS0U4UlJFRlVmS1JpbWhHdlUzS2FDSUp1ZG5tcnFtMDVV0gHQAUFVX3lxTE1WaTVBN0VQazZnNFh3ZXhGYzQyVVQ2dEQ1ZVJLdXRQaFB0YkhCN0tXcVpvSnI4MlRlMFpPcVVqWWFFTHZKWUdCSkI1RG9CemRRd1RJaGZ3dUJxZjIyRHlFR0RZbEtZelRpY21ja2l4aURiSDNmQUpEUUo5TmQtQlRwZzNpNGFuN2RQdXRnaTBCMU1Cd0U2Z2YxaFR0aUN1R1ludUdEczFmZzVHeEs4VDNlVFd5Zkd3ZmpCampYeEUtcmI4R3hEWVZRdThuTjllOHg?oc=5",
-     "domain": "scmp.com"
-    },
-    {
-     "title": "Iran's IRGC says targeted U.S. positions at 2 bases in Bahrain with missiles, drones",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhQnNxa1p3SEQ1MmRacm11NTFpRDlmN2JpZmV3eWtDemdDOEFrNXlGcUNPQWVOZVpzT05yUGh2cFlyZlZoRl8zMFk2cVpzV09Xb1BRNFVVTGJQRHplTVNfV3VrYXkwYmdZQVM1UjJEaUU0eTRCYy1ES3BEVFY?oc=5",
-     "domain": "english.news.cn"
+     "title": "Washington’s ‘missteps’ narrow US lead over China in annual Asia power ranking",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMTVOMTJNRzVFRU95OGVnd3hxNzkzZ21rOXZMWjlVUXNaV1U0SFpQWnBGSUFvdkthdjFfemFrVTF0Z0RMaWlUWHd1Y0s1NDU5Q0RxaU5MdjNCSTJtOE84ZmJsaUVrdU9GR1Zpc1FhZ3N1elNVWjBRSzNfTUZzUVFwZzNMVzRZRS01aWNQaXd0RGZnMXQwaktvUEwzRUNfZFp4a3ROa0RWTEtoUnR6UzhIc051cFRpSjB6TS1OX3FTb0xRTi1ONm1TMy1R0gHKAUFVX3lxTE8xNU4xMk1HNUVFT3k4ZWd3eHE3OTNnbWs5dkxaOVVRc1pXVTRIWlBacEZJQW92S2F2MV96YWtVMXRnRExpaVRYd3VjSzU0NTlDRHFpTkx2M0JJMm04TzhmYmxpRWt1T0ZHVmlzUWFnc3V6U1VaMFFLM19NRnNRUXBnM0xXNFlFLTVpY1Bpd3REZmcxdDBqS29QTDNFQ19kWnhrdE5rRFZMS2hSdHpTOEhzTnVwVGlKMHpNLU5fcVNvTFFOLU42bVMzLVE?oc=5",
+     "domain": "amp.scmp.com"
     }
    ],
    "error": false
@@ -137,14 +137,14 @@
      "domain": "aljazeera.com"
     },
     {
-     "title": "Bahrain says Iranian attack hit industrial facility; IRGC says it targeted US positions",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaTJxdl9Zc0s1RUVOT2FNRTg1OFBaallUdkk5LV9fRzE5TXlibjVfZVNST201S1BMQ2tTNXFNajJXaWZQeDR0TjJocHVuUnpfbW9IOGRzSVJuYm9zMHNlOTJMckVna1N5M245cmdlTzM4WHc0RFhPa0ZQQ3pxRWEtdEFFcEEwZzZ4TWhLMEZvclRHbmpVRW0xeXJvZWowcm5ndW9KVUo1ejVqck1xWUllcFdvdm96S0dm0gG-AUFVX3lxTE5KbjBzMXN0aF9ZX3g3eHpWUHRZNC0zTTd1SHZsbnk0VU04NjdFcXdGV04tVFdmTDJJV0dqMTBDcXRoTkE2YnNPQ2ZFSjZicEh3YS1CMmJJdkI2VTZVdjBBMUh3bFcyOENxM2ZhY0xvaTJHTDBkd0llLWlTU2hxc0ZtQzJ2blpFbDRRRWFXRmhfTy1LdWwxcDBvSlIxZGZoOUp3Y3RWajNjS3ZQaE5RZXA4MjBYemJRTDhrMUhWcmc?oc=5",
+     "title": "IDF intelligence said to warn Netanyahu a unilateral Israeli attack on Iran could spark multifront war",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb04tQWtCYUJ5Tkl2QXBjUFdfT3VsLXlNZFpZdXRMdklaOGVLRXRfUWs5R3JRY2JhMnRtZldLR2FBYW5NamNBdG9mU3BtdmRzcDVVZXVab2JJWkVtbUVrQzBhSVpzYXJUQ3lEXzNwUUlvSTJZZTVuOFdmQ2N6UzZZazN1UXM4dDJnZ01IdXZ4dHA4R1pNT2tlSXFyX2FtSEpDQUlydnZjR2RGZ0ZkaVVUUkpQZmc2eFR6RW1sX1NTYXpwVnh1?oc=5",
      "domain": "timesofisrael.com"
     },
     {
-     "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZWZsOWN0bmtuM0VnLWpjVnlLMXVfeVdqdFlkZjVsb01uLUJhUjFoOC0yeDZtLURYbVBObWg3T2dUQm51akxZMVJfeU43Nl90eHNfc29hNVVNVG40dXd1V1VvTUtUSE5nVGFDOTdRN0tVa0xGS3BXUm9Ycm5MVDdtRXpyZWN5WFhZc2ZnSldjcXI2N0ZHTTMtSjFLZVdYTFpYWGNubk9ZM3FJUdIBrwFBVV95cUxQTGlqSVNoVU0xLTB4MDNLbW9haElfa3ZsWFVqVVFvV3I3RU04eEItYnlUTTUxNEw1N3ZMUjJab2wtcmw5M2FHbVJOdmpnUG40bGVBdURINWs0cXVMaUJuNjRHV0RSemV4T3ZBQS1nQ1VITGtUemZaY29JMVJwaFlVTm1NUVZsRlNBeUNVRXg0aVNlZWdFNmhDRWs5UmR3cFplVFNaTDl0RnRpMXpIaHFZ?oc=5",
-     "domain": "aljazeera.com"
+     "title": "Iran unveils missile launcher as commanders tout capabilities in war with US",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUldINFppYjZOVVBmQlM5Y3RGS1VnX2pmYnBkOURxV2JaLWpuZUZvZnl0OFdHRFBOTFNMek9FSTdhalcxM1kzWGxZNjdPcS1ncGRWRTFPZXNuQzk5cDZ5TFNHcTQ5NFpyMVJTS256V0lpUG5aZXU5T0RadWw1c0ZyWWkwTVZ4ZS1Jb0R1NGJBY29OZVo2TXF6TjFOT3dYMXM2UzNkb1JFaXFlWDlzaklhdGFINm44UldZMTVOTmhacWJqcHpkTnVjaGhvZjZXeVnSAdQBQVVfeXFMT2FDeVRvUGx4RlpLclBlNXM3STJhWHVQZ3FZLTk5Nko2T2U1NHZCV1IxX0RBSXJnZVl4QlNQUExSYzRER3RKLVFVZVluVUFWUGhVNVJpSVRsSU9CU0xHa2tiaUY3RWNoV2RjZnVQa2VTeXNTM05ja21Ga0Z3Mk42djVSekRnR05GMnlrRW5DWXBjQmphOHBzT1dsOURaN0w2bHBzVlA4Y3hvR3R3b2hwRVlRRTVDdF9SRVhiM2hnbVFvbVFhZ3Z5cmhEQ3hoVWdYNkxlb3k?oc=5",
+     "domain": "english.alarabiya.net"
     }
    ],
    "error": false
@@ -156,18 +156,18 @@
    "tone": null,
    "headlines": [
     {
-     "title": "Iran says 428 children killed in two wars, Red Crescent chief calls for independent probe into Minab scho",
-     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPbTNRMTNIYndZT1RkaTA0RkhQVUFqaXlvaEk4WDZXMFBXVFctVGRxZGlqUDhQQ2hIM3RJaTZIQmFSc2dBeHVhNkF5blNVUUdNM3BZQnlBVWVrb1kxRnF1VGN6MlVxWXByUGc0S05DYkpRb3pzWTdCT25vN2JBdDc3NlNnQXhMTWdUdVlybG9NOEF4Z193N0RsWU5GMnYyMVVLRUFzbHJkcnd3R3VYSjJYVW5mT0pmTGpRbHpBVVF6OVdNTWQtLUlvLVp0bndkSEV0a0phZUdHUGJjMzNZR0tiYjFIVXhXLW1WX3JqaG9DYkg0Ukx4MGhLQmRLeFlPMDZSUVhqZ3pVUUhZSmoxelY3WEJzSlRUc21DWnVSRV9n0gGjAkFVX3lxTE5aLXNWa2RSMldENGMtZDNVcEVpWnZKSHdjWVJ1Y3pjajR3VXU0cDBzekZpYWdkX0xkSjlJU3VRV0xwVlh1ZEpjS1AxMlEzZFVscmdPOF9sTXExczlmbDR5dkJoYk84Nl9MTW1tRy1OSi1tWFN2VzN4Z3hJY2F3TzlFNzJTTmNBcnNxQkJvOWVIRUE1UWduOHNOd1lINWtORmtLdVBtYTVRYWR2ZktVb2poLWtDalJydnBpX2U2YzlGcHNSS1I3NkdjcjdPWHlCMVVjLWtSQUhyU3JYcGpFZmxFTkhKQmwyWUJCRGlMU3JJaDJBQlMzSlktbXU0bVhRR1pWQldTRV92dmlrWENZX0xUTjVjeERzcGc3LTA4SzVlRXpycw?oc=5",
-     "domain": "timesofindia.indiatimes.com"
-    },
-    {
-     "title": "Why A British Swimmer Risked His Life In War-Hit Strait Of Hormuz",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa1A2b1RGUXBwd2l4dkN6YkluR0dlRy13RmZEOXRUYmppR1NWUExjQ0ladmlERk5nVnd3YkJRelpESk9JZXBBUnFKZEkzQkRXb0xMY0pMSVhRejZ4YmM5WkJzS3p4THEtVGtpci1sTTZZS01RVkZRRnhaR3hKcE5mRGl3N3NmNmg0Z19id2ZSTG1NNl9nMkhBZkUwUU1qd1VGREoxMXRQRURfVERXYUxXOUVGOVNWdmVHa05Zd0FXNU12Y01ZMUNkb0ROUVpKSkpfWTRlOWRtWXRHdkoxLUHSAeYBQVVfeXFMTkdHS2ZlTHpwdWVqcG9IWE84THZGRDloQW01emw4M21STGdjUEpIMDFEQ0dMS05TR21lNjFfMl9sdmxnZWpLWHFLVFI2Q0JTRlhuVTRlWUpMemVaajV1NFh5TndlS2p3RU5jbmtWTDJxUVIzS29mZC1kM2RmMWNoY0pMWnQ4djhsa2JzbHFpMVI1c0ZvUVV2SzBBU2NvQmlzV00tR2k2VG1WM3RoWktBNnVud0taMmtTUXdQa0pnNVhxNGF6RDRhM2ZRWjBKclRfVEZib3FHTE5FazBYSWVMY3lQTTdfV1E?oc=5",
+     "title": "Aggressive Iran, Markets Slump: Trump Made '3 Predictions' Before US Midterms",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQTB3dUZrOUNsSWxvTklTLUtBdVJCUGFYUnNSSFZQY0NReC1tNmdyeHgyQXhxNmNHemFnSy0tY04xX0tHZUk5dEg0cTFfemxMRkRGZktwMUstOEg4REpGbHpwd3ZYdThwVmlscGtuUDY5czBYQ0hCbmhUT2RDd2N4MHBGNDdCalFhdHJTMktlWjhtdnBFb051SWQyWXFTWGNlMGNvWm9B0gGuAUFVX3lxTE9zbzlOZ2RqUzZTbVAxbXV6ZlVELXluMlk4cG00T0tQRVpDa2pCXzQ0Y1RpRkhvcGJ1a1I0OTM5NjZLMnI4Sk9Bci1Yc1pqZVUxYnZ5RExYQWhyYWQyUndwd2xIVDF5T3Q2aTNhcDNkb19YSHZSS3BiY2kwOEc3UlYzT243S0RxVmhreDZIbk96MTJmek1KbUZKbUpyb3dFS19xWWNhOUI3NHk2UWI3QQ?oc=5",
      "domain": "ndtv.com"
     },
     {
-     "title": "Iran strike wounds two in Bahrain, Riyadh denounces ‘criminal’ attacks",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeGZ3RWR0aDVPcURhWTZCbXJsZmh5bkt0WVBtTjdvaWRBUU1jbDJrUlAzYTBkYUMzTm9VRkpiSWt4TU8wTEdyUmo0NURrOHdjTjhlYkx2cWJtZzFTbi1JU0RfTWlzYUg3Yi1YRFV5ZTB0RFBGbFplWUxYeTRIc0tZRXpLcUdxQUVhUEgwaW5hUzIxSXJZdDNnNzJvU0ZJZVhIUTd4T3VqRFNTams3REdGd2RYcDNFbDlRVTdmUmZjMGVJZEJDNGwtaNIBzwFBVV95cUxOVm5MV2R4OWVoS3loT2xPNVRoSU9yazVXLVBvY3dYVnlxckRLc1NqSFFheFRzNmVLd1lEa0ZqV2h4YVFhRjhCbG5BcnM4Q1NUMjNSWXZ5Vm5NX3U0VGd4cVZjbm96S0Qtc0JIM1J3ZkdDUjdqNFU3QXdCX0p1cHQ3akdqbkNMbWc2RTRjUU8wRnZ3SG1yYWNfOEQ4ZHlHMWo4b3Y3THRxYXIxc2ExMFNvZlFFNzFjbFhpRjZ6LW9waWhwWXF4YXdCRVc5OTNHaHM?oc=5",
+     "title": "Trump threatens fresh strikes on Iran after New Year if talks fail, accuses Tehran of stalling negotiatio",
+     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOY1k3NF9NOTJrMWxNNDNaZmNjZHoyc0JydnZJdFJqZUU5ZlJBUmV0QVhmY0VjUnYyY1BSNVFiMWlrd1BpVEFVcHZJbkhZbTdFeXB6OEpxQ3Fqb2J0T3ExTzlJaWV6Q0I5ajlIeG94OUlVTjgtNnVHRFM2aTFIanhleGpuZHpsSUNqSk5wYnlQVUx2RFVna0QwZ0xTWGx5Q2JWYkpOVWRMa0htd2I2d2kyaTBLNmRzMGVFY3hPVUJicjBYd3Q3UjBCRlozSlVEUl9scW9FOVRkSms4SWp5REJmOGV0SWJ0Q2Vqald6MzFuUG05SnpmZXpDMEFHSzl3cU8zdXN3QnNUNETSAY4CQVVfeXFMTmlEYnZBcFQwclVVUUVCRHhTSzRpVGdWYWxxMk4yTVZobFZiaDdaUTRqSGFWOUhib2lWSmNWVHJtSUZ2dEVSWmtnWnh1SElrUFRHQzNnOTQ3b08yRWQ4a1V4UDZXZUc0YnNaOTZZVlNsSUtyNkJzbWd6VmUxaUplRmdLaDgyRDdFQTFoc05ybXhMaXRGYlRHMzVNbDRPSVJodDE0Wlhvc002ek5nMzRlSklOd1dFUDVLa2kyV05TaWZCLVBuV2t1ZnBwdjVSQ0c0WXlEX2hkcDV0YU94TlhtSTNZTFBNZ19iUWhYSFM0TlhHLW5YLUx1R1R2eVlWbmlVZDduV0JFMFVTcXFwR3Nn?oc=5",
+     "domain": "timesofindia.indiatimes.com"
+    },
+    {
+     "title": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+     "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5faDBiWWpLa3cyS3BWYU1RQ3BrQmt2b0d4dnp0ZjRvTWZPdndZeGNzdzV0OTF3OXlCa3A3akhB?oc=5",
      "domain": "thehindu.com"
     }
    ],
@@ -175,16 +175,10 @@
   },
   {
    "name": "Africa",
-   "count": 1,
+   "count": 0,
    "capped": false,
    "tone": null,
-   "headlines": [
-    {
-     "title": "Adriaan Basson | Is a Doomsday pact Ramaphosa’s parting shot to SA?",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPelNUcnlRcGhqck5XZEZBUjlPeHFMdVhEUDl1MzdmU3NLcVNyRG5Ea2R1Zzh4R0RJVUdqbTdMSjBwcDRKNHlqTmRrQXIyTDZzZEJPQWIxYnc0d1pRMDBXQW56bXcxZTJpWWMxaEdJbVlsSXVNeXA3YzBOS1Y0WlB3TlhkVHFONDVmbUVqdWFuY29aeDdfMFNUTE1udGhxY2NueXVYSHZJVVhQSksyNGwzRGtyakd1eGVoMi1YRw?oc=5",
-     "domain": "news24.com"
-    }
-   ],
+   "headlines": [],
    "error": false
   },
   {
@@ -197,7 +191,7 @@
   }
  ],
  "framing": {
-  "text": "US coverage emphasises Trump's threats of future strikes and his characterisation of negotiators, while UK outlets focus on environmental consequences through a swimmer's expedition in the Strait of Hormuz. European and Middle Eastern sources stress Iran's recent military attacks on positions in Bahrain and the Gulf region. China and India report on Iran's military capabilities and casualties from conflicts, whilst Russia, Africa and Latin America show minimal coverage of the story.",
+  "text": "UK coverage emphasises environmental and humanitarian angles, with limited Iran-focused reporting. US, European, Middle Eastern and Indian outlets prioritise military escalation, Trump's threats, and Iranian capabilities. The US also covers broader geopolitical concerns including Ukraine. Russian and Chinese coverage remains minimal, focusing narrowly on Trump's statements or regional dynamics. Africa and Latin America have no detected coverage of this conflict.",
   "model": "claude-haiku-4-5"
  }
 }
