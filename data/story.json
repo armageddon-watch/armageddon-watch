@@ -1,57 +1,25 @@
 {
- "generated": "2026-11-23T23:57:23Z",
+ "generated": "2026-11-24T10:01:56Z",
  "window": "last 24 hours",
  "source": "Google News",
- "topic": "War and conflict",
- "focus": "Ukraine",
+ "topic": "Extreme weather",
+ "focus": null,
  "regions": [
   {
    "name": "UK",
-   "count": 100,
-   "capped": true,
+   "count": 0,
+   "capped": false,
    "tone": null,
-   "headlines": [
-    {
-     "title": "Russia’s war dead: the hidden toll of the Ukraine conflict",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcHEzaFFZSHUwdzN0LS1RbTVLRlF1MFpWblFUV2l1eUtybk9fOHJzNmQzeW8zSi13TEdMWGtYTE9UTFNHbGx4UUZ6Z2UyRlJQUU1kY3hKNmtsV3V1ZkVsWWR3UmxvdDlud0NQa2VRRldnWFQwdV85R0RNZTVKaTJKbko0UV9Qa3FLR0J1S1FNSkZxM01k?oc=5",
-     "domain": "theguardian.com"
-    },
-    {
-     "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzRlpROXRSV044RXVOaF82dVp1Y3NpM0FjdGgtcm1EWTRDY3V0REVZckZEbHE2Y2F1VGp5S3NLdk5kUkNrN1lBOW1IQVVnXzN3TXVHTUNVMzJyNkdWWWc?oc=5",
-     "domain": "bbc.co.uk"
-    },
-    {
-     "title": "Dramatic moment Ukraine naval drone hits Russian ship in Libya",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcHlyZTh4am9YMGJhT0hTM1IzdTcyS2UtSGdPVmE4Tk5FTzFrQWxjUGx2bW81ZlF6VjBIMnZpME81YU1qQ3dHRkZKVFd4U3FIRzVqUjhqNlFuUGR2SE9sdlAwTTR6T1R4bHo3ZmhUNVR5T3duV0djTzZhVGJhZ25CRmQtWXJyRXF6eTczWWtaNkV5dlRpY2Y5Y2k5SGprOTg?oc=5",
-     "domain": "news.sky.com"
-    }
-   ],
-   "error": false
+   "headlines": [],
+   "error": true
   },
   {
    "name": "US",
-   "count": 100,
-   "capped": true,
+   "count": 0,
+   "capped": false,
    "tone": null,
-   "headlines": [
-    {
-     "title": "Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbGtaSVAtSnh5RTRGUmp6ZW5BbUhiZFlPTnloTlB0MHpsaFRsWmJkQTB4czRDWUl6OEdfcXZmUVNITFY1ZjFSOHoyLW94VHFxZm9SLTRJZHUtM0hZNmMyX3JMSVBCUk5VV3hzU211VVpUb1lBcENuWGtTZm05TG00bDFCSGM?oc=5",
-     "domain": "nytimes.com"
-    },
-    {
-     "title": "Russian warship sinks off Libya as suspected Ukrainian strikes take war beyond Black Sea",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0dwRWFkeGtST1psY1NEYTc0TEdyZzRpdzFpcTBubDJKaG11T3FXSVlIVWw1dW5NM25IVWg1TWJ1T0VvVWNJWWVJelBsT3gxY3lfSkxvZnk4eWRFTnU4MzNVT3QyOEU3WTlGaDAybWFnWG1LeEF4OHRIcXF1c001MW5OTlJONDJKLURZSkU2Yk9RZDJBNHBoQUdqWnNKNHpyXzRqWW5pazlhaGtyMFEzRNIBtgFBVV95cUxQZkhJOFdwM3lJZmtXUVRWSGZuaDBhSGthcXUzelFSS1VrRl9DOEprbGFrMnlwN3Z2bS1OdmtQQjd6WmdWTDJEaWJUUTdVME9Xb25oZWZtT3otWWdsS2s2bklfRFQzMWdGVFZMd0pHQ2hwLU9HMUprRFd1TU1yeGlZVjFvSkxVY2J3dEtuaTJwZzdZdERwMThXTGJiUkFSY0YyQmJlRVI4S2d3cm10eXlXaE1qdnB3Zw?oc=5",
-     "domain": "foxnews.com"
-    },
-    {
-     "title": "Zelenskyy hails Ukraine’s attack on a Russian warship docked at a naval base in Libya",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR1VjenRaWHFSYy04RXNZOGtGZ21ldWg3a1B4WVp3dk1OY2pPZ2pRcXFCLTk0YnJjalVEMnBqV2M2UnpCSENVWVNPVDhEZXhNQTdPZnlPWDJhNXR5VThOTVdKT2JRYmJfOW9hTzdqRUdMakNOUEFHVmdwWnNNOEx6ZmFiRVc5Z1JyZE5nNHFwODlkTkp5aHRVNUZxZVo2aDR0TnN6U2VRTlE?oc=5",
-     "domain": "apnews.com"
-    }
-   ],
-   "error": false
+   "headlines": [],
+   "error": true
   },
   {
    "name": "Europe",
@@ -60,18 +28,18 @@
    "tone": null,
    "headlines": [
     {
-     "title": "How to stop the war in Ukraine, part 22 – and a climate summit fiasco",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS0l4dFJCelk5Vlhoc2J2bGpURWtreEVsWURaNUtkUnlHdnFOYi1lc0RIb1pRMXY1RENQSkdJTTNZaWVoRm85SktwbWpzSmZUTkk4TEJjNThteGhTLW5ucGlJNlo2VGN0UDRJdm8xLTRyZ3R5cXhBZ3NwSTJZc1JxVHpwVGN5UTBaenhVcVlVVGE5eDdXUTYwQWJBUDJPVFpUTU5yZDhSTnEwNXpYdGc?oc=5",
+     "title": "India pledges €1.4bn to help Nepal rebuild after deadly glacier flood",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2dhVGJrVmEwR2h2VkctcDg2VnlnTm51Y3l5YXVhekJ3UnR4TTBfa1BMalFfZ2R1NE5GN1Jvc19xWnl4V1ZnUFFkZjAtLVdlVTlDWU5DTFVIa3NSa1J0ZUdaZ1BpMDJpa0x3STJ6eExSdmNTT2k3RTFUQ1VjbHI2VlFLVVA1M3gtcklyT21fMjBBWEt1TWEzQ0ZmaWhUQXFmbE9FUkFB?oc=5",
      "domain": "euronews.com"
     },
     {
-     "title": "Ukraine updates: Kyiv claims strike that sank Russian ship off Libya",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWDhrMTltOFVXcFo3ZXhzNjZLeThPT3ZreFlXYjN1cmN3S3VNa01iOE5DMlNVM2IwQk00dEdaaDk2V01SRmJJZTA5RHlYUVBva3R3NkRfMXpid2JveDg1SFRjVlpTaklIVXA3OFVxd2ktZVJSMHQ0cUpGV2FwRmlwWGp6SXNwS0hQNjY2S2xFaHVGR0FlNTlPbFY2RDMxVVNBeHVPZ0t3?oc=5",
+     "title": "Woman rescued after 22 hours under rubble near Kyiv",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ0Ztd0lRY1VjRWFJUDNnNmNHZHYxVFQtVlVMR2dQV3dQRktTbE1SWU1rQ29KVGY2a3VaMVowM0FrTEZNYmkzdm5ZMjlQZFhNRUF4R3hyUkZTMG5SMjJvOTR1WVdrYWNpSE5fallkMU5oSnFOVFQ1Y2hnRWk2QlpTVnBEdndnRFEzWllzd2hoSzVIZw?oc=5",
      "domain": "dw.com"
     },
     {
-     "title": "Finland summons Russian ambassador after suspected airspace violation",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNU5ZUlVlU1hDUmE2UGRrc3ZScHlSaksyR1dPZndVbUJBMGFHMlNzMWNWZFJUYmk2UU8xWjlDSGR2TFBfMHZKNzM4djRVRFprRUZzTTJWcHRtc0hlWUQ1Q3JDdzJDR1BlY2ZfaUgxSVdLWUFHYzRtbWpIclNoLXBla0hWdlVJaWdoakd3VVFiYlRVWTRRaE5pSERkTnBwVWtNdlNnaFRNS25weHJBd2xqak5saw?oc=5",
+     "title": "'Out of control': ICE agents make arrests at Seattle airport in 'horrific' scene",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc3JQODNsMG1fSWdTcUpVUjBkWDk2RDhFLUkxTVV4ZnRtMnZmZ0YwT2d6LU0xSUZ0WWNuZmxrU3lLanZYdnVaNVcyYWs3eGc1MVlpTWotOGlHaFFOVHRrckZ0SDd5UFBUbGRSeFRuNTlHeC1ib282a1RuSkt4bF9fc1JqdnVJRHFtVUduQ0M1bFNNTjR6anlrR1BJdnY0Zy1ZRW15a3VsQkxERmZDSkNtcTdRX1J0OVpLVmc?oc=5",
      "domain": "france24.com"
     }
    ],
@@ -79,47 +47,31 @@
   },
   {
    "name": "Russia",
-   "count": 64,
+   "count": 0,
    "capped": false,
    "tone": null,
-   "headlines": [
-    {
-     "title": "Le Pen sees no connection between Ukraine’s future and accession to EU",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1kN1lEajFWd3JzbVVMeElud2MtVTVVdWkzS3ZMWTdIZ3l4RXhDb2k2RkdCSXUzbTZfYmdOVXZRUVJ4ZUFD0gFKQVVfeXFMTjhJTllHakpOMzNvbjZCSl9lZlprdDVlSUtYQjRCZWFsejA1QVEwdjJjOWtZRmx2MGJDWS1ra1k1Z0tUMnE1XzduNWc?oc=5",
-     "domain": "tass.com"
-    },
-    {
-     "title": "US",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rc3RteVdmS1VGRzUzZ2RIWjFtajhrcms2aTlqOUZpb0dJeWE5MUNlaUhZY3VuMjV2ZEZrTHZVQ0FDU0J3NE1UNkNocHFsZlNVMjNHODhzSTkzRzgwT2VF?oc=5",
-     "domain": "rt.com"
-    },
-    {
-     "title": "Pakistani PM to pay three-day visit to Russia next week — newspaper",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9tcmEwMmQ2bHI1R0xCbnhZYkdmMjBBbVAwMlpmaURzQUZGcUZNb3NXdHl1OEc2dEZ3YUJsazVUYndTU0wt0gFKQVVfeXFMTW1MYVFJeEFuSkp1aUhDVnpoYnRkNW8yRDJSYlJ5U1NFZWNuSVdZci1MUmc5YmFkS2JnempqNTgzUm1KQkIyLXVPdXc?oc=5",
-     "domain": "tass.com"
-    }
-   ],
+   "headlines": [],
    "error": false
   },
   {
    "name": "China",
-   "count": 3,
+   "count": 11,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Opinion | EU’s absence telling as Xi, Putin and Trump met in Shenzhen",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZllXZVZ3aW1vWFRfMmZrU2JHeGdEcW1scHlobG84UzlJRUJ2R0d0RHNPSEIxSUF1eXBpeWJtcWtvWVNMM0NLY2JuemEtVlVac3NLQnJlVHpVUGVMOFlFZ1F3ZU9pNzVTZEM0c1dCbGpRQnN4YjRBUjRKQUQ2ZURfc1d3c0FpVEJvcjNSQVRJdnN3bDdkQUdpSExpRmNmSUUwQ1BZaEtSSjhLM1J3UzJyeE9iTHLSAbQBQVVfeXFMUDh6U25ENFVGVmFBTzdpQklGUXV3RzYyRll5TnNJNDhtQjZIRnBBQmZ5TkJjOGVPZVY5TnZxaGRPa1VCZ1R3djdBaXc0MENYTTkwa3JlVVhMSWZzTUo1Zm51VTZJVk1QV19pYzc2ejJuNThsejNFUHlYY2stZDFRWGoyVk9RUFY2QURyblVIYzdFXzlueklNOGR0cEtyMU10d0hIVEdmbTBvU1hYZ1pqbEk3TExp?oc=5",
-     "domain": "scmp.com"
-    },
-    {
-     "title": "North Korea seeks power for security, not supremacy, Kim says",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbGpGMTd6WTFseVAwVm41cm9fY0p2OTZRcFRpYktfX1VqSWJsQ2xsRVZ5T2ZyUzR4a241MS01TE5lelFyVXlycVhLc3d2bTExOXJCc3B1WU1vZG5hY3FPS192dXNqVVlJZmFIWHdMX2Z4b0VGZDdGRU9hRnJwQlZyel9EOF85UG1IQ2o4S1JKS3p0Q1NkM2pPX05JX1hzX24tcHJpVkZBSFlNOV95aE9XcmhB0gGyAUFVX3lxTE1sakYxN3pZMWx5UDBWbjVyb19jSnY5NlFwVGliS19fVWpJYmxDbGxFVnlPZnJTNHhrbjUxLTVMTmV6UXJVeXJxWEtzd3ZtMTE5ckJzcHVZTW9kbmFjcU9LX3Z1c2pVWUlmYUhYd0xfZnhvRUZkN0ZFT2FGcnBCVnJ6X0Q4XzlQbUhDajhLUkpLenRDU2Qzak9fTklfWHNfbi1wcmlWRkFIWU05X3loT1dyaEE?oc=5",
+     "title": "US states sue Musk companies over sexualised images made with AI chatbot Grok",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQc21pVEhsangyZGhrVDBZbjUxQjNpUkd1d0VaX1J1Y0k3OTNqSlFPeFdfMlRwNWF1cnhxYTlzRHZmWThPd3h5bi1RdUI4M1V6UjRXb0VfeGptSkZVSml4MXBwLU95MVRER2ZPbmJkM05DeHU0LXQ4ek16ZjNiamFJU09iS1p1cW5vNjE1dk1Ud0NpVV9qblFwOE1DTlRiUXY0R1QtZ1pQOFIyNGNaZXRwWWxhR2c4RVBiMUhNQVFJaURrRVFDc3NNN214Mng4cXFWVG5tT1pNemtSNko2MGNxa9IB4AFBVV95cUxQc21pVEhsangyZGhrVDBZbjUxQjNpUkd1d0VaX1J1Y0k3OTNqSlFPeFdfMlRwNWF1cnhxYTlzRHZmWThPd3h5bi1RdUI4M1V6UjRXb0VfeGptSkZVSml4MXBwLU95MVRER2ZPbmJkM05DeHU0LXQ4ek16ZjNiamFJU09iS1p1cW5vNjE1dk1Ud0NpVV9qblFwOE1DTlRiUXY0R1QtZ1pQOFIyNGNaZXRwWWxhR2c4RVBiMUhNQVFJaURrRVFDc3NNN214Mng4cXFWVG5tT1pNemtSNko2MGNxaw?oc=5",
      "domain": "amp.scmp.com"
     },
     {
-     "title": "EU moves to ban Russian flags at sports events under new sanctions",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOXdTRGVSbmtWamFCV3p1TjhYdVVEYi1xdFhRb1lTQW5vSEVCeEZHUmVmTFBhQ1BhVG9UTkNVbTY3QXlOUkVIS3V2RmFpcEFiQ01tUXJUQVZKM1pIaDZST1F0VHQtTURLeGtaNHVBNmlVb2ZXaHpHaWVLWU0yWktreEx0WER1N0dNN0o2NHV3QWNTSXJrQjE4ZGhDcFJPa2x0R0h2Y2FhRzlZZjlGNGUwRkZPbFVhMmJnc3Y0dXpXUXJ2Z2ZYbDBaZkhYZWttaXRBTDNlal9IV0tjMV9HVktMOQ?oc=5",
+     "title": "New Zealand droughts curb economic activity, push up prices: central bank",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ENnBxN0ZfZ2EwcGl5TGN5SV95YU5wTGR4Ujh6akFTQ1Z1ay05b1Nta1dFOEFCaldtOTN1aFBwdWlWaXhaQUtNYVQ5X2tkV2FnRTNWTGR3SHBpQndBazJwR2lTZ0ZqU0RfOWIxMlYwM2JiejQ1eWwwRDR5T0k?oc=5",
+     "domain": "english.news.cn"
+    },
+    {
+     "title": "Malaysia’s Anwar says easier to deal with China than US amid tech tensions",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObm9DRU1CVDNZTWlxNF9lOVlkcG5ZRjRwekg5REFPSE1idm1DN1E1OGF5bmhBRmN6OFhzZWdlRGt0bGZFUUtNaFJCR2V0OXdpblNtRHJjd1d6MnpDYTJhbmc5cm9ia1EwVWtYUGRITG1iSDJST3h3T0NzWE1LVms4NE95Y1phS3pGWllIUm9PeXl3a2lJbG0xU3Rjd3ljM2NLV25TemxUUzdHaXg2TF9BTlExcTBnY3lrU2tDczdDQVNIVWs1NDFCM0dJMGJzZw?oc=5",
      "domain": "scmp.com"
     }
    ],
@@ -127,24 +79,24 @@
   },
   {
    "name": "Middle East",
-   "count": 66,
+   "count": 19,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Russia threatens ‘hostile’ Estonia with ‘open war’",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT2tuUzB4em5zWEgwZUpEZ0szQ0R2ajRaWmgtN0JoX0RhOVFtcFUtWm13b2k5a083bjdjRTJnUVlLTEtadUFYRm5HQlh3aXFFWkNhT2JCaUJPWTJIWm1jcmJiUW4wakYyd3EzZHhOenBUX1lud0JvWVN4YmIyQURaVTBQUnRkeG1hd09OT3YzRzlmd9IBlwFBVV95cUxQZ3JmTVA1Q3FTaTBjMUZldjgwTHJpcXRYSHhoTXlUbnNNVTg3UUltZzd1eTNhc3hDYlZCOHdjdFluaUpRTlVuc1E2XzBKMmFwQVBFT2pqNDhPc1BDUG4xLUhhX2VIOHpWTnB0cm9heEthblZmemhjQ2U3WHExWS02WlRCc2JTQVlDVXpiMDBKcE1HTkk0YWVF?oc=5",
+     "title": "India pledges $1.6bn in flood relief for Nepal as Balendra Shah visits Modi",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkxXYjZDcEV1OENMUFpwT2VQdFhnLXk0WlI5eEk3U3BuU0FjU2IzLVhOMHF3VjN4Rll3TlBMaEw2STl4OF94TFU4R1hZSEpiejBVaDJhRktPakRucm9CZEZ6ZHhJRVhuTmU5TVpSYW80MUtSRFlSczlacV9PM2dqWDliSHRWWTJNVkFoVkhzS0zSAZYBQVVfeXFMTUFuX0ZxSkliTGxLNm4zV3BWTFk2M0QyaTc0elRtOFhzdm5FVTlBeTNIQlh2TUU2UW1sOG5MNDhrQnp3UllfaUFSa0xSUk1SQmRmUEFHNUI2ajVEQWFXR2tidW41ZlJkNGtMb0FZcy10dFpOUEFrUzV6TGQyN19DQzc4YVpZYlpkSE05d3N4UzZmN0c5NTNR?oc=5",
      "domain": "aljazeera.com"
     },
     {
-     "title": "Kushner: Israel facing fork in the road as it ‘trends’ toward ‘global-pariah status’",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWG02ZUR1WmdSWS1JV2tTd3hQZzgwUWljLWc4X2lxV0FrVEtvTkFiaGRMTnZnT2pGbG81dF9VYXZvZ25tUENlcTZ4NzZVSEZ3REZ1YmlCNzNqbWJkRTVXRTFQYkdhNUlGWVgyRzVlNGxELWhkc2FRcXFKb09JbWhWakNscmNyb1djWlB6Y240QmNpSFdPSmp5N1l3dURXTlBpVnBzYmlhQ3c4VXNuYklJ0gG0AUFVX3lxTE1WU3A5ZjZVVEhsZWFVTWlMclNnam50VENfdmhOYnV4YnhwNUVzMldWaHVwZHdmTXltXzRNd2dvZHdOdXd4Wm4wZmphUVBNOVF4NkdVUnhpTFp5QWZFZnBJZnpVdEhMV0VLdS1PeHFxSHd2Yy0zWmcxaHplSG4wSHdXTXEyTDdxaWZmOTkxOUlRUmNmVDBKT2ZoYnhYOWM4SWx2LXU1cEo3MGRCN3ZMWC1ucC1ncw?oc=5",
+     "title": "Normally stingy with water, sabra plant switches gears for rainy days, study finds",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQjNvb2dXQVJ4ZERaazRTbTZzaHc3ODBnZjJKdWlBRkRkOVdfOE53SDhNc3ZFMFJuWGhsUmlIa0llN2FIREJfZUFvOUhYZktJYUNuV1dVNzZHanZJOTNIZmhQeFRzRVktM0E0cHRWN2U2TThrMmNaWDFUZ1NiRU5uaVRlb2VZaVd2VmtCaldNa1ZjakplVWRtbjRnNGY4SktETUxpWTdEOHdpRzFtRTQzYtIBtgFBVV95cUxQaHM2XzVPR0pMcXR3Q2tVOU93SnJLMTE2QXg1V3ZCUWYtRk5GcnljR0o3aUJnbHQ5elM0cVA3NVFickMtclp3NXVmLThpTDdvMWFLdExDQld4REZydnk5cnVlbjVLTnBHa1BxSndTeTRBWnZoN2JwZnhsd010SE5ScWpsTjlOSTBuMWMzS2NZTURYTWVMQXR4S0g5aGV5QlhWNlBtVTVILXN3a05GU28yajRVUUhrUQ?oc=5",
      "domain": "timesofisrael.com"
     },
     {
-     "title": "Ukraine behind strikes on two Russian vessels off Libya, Zelenskyy says",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSHJOYmpvdWFvSGlGUzlWRXVZZldWbVBMcWhqYVEtS1gyaU4tbHplWXNQNk1aa3p1bmRsZ3FBaldiSm9Yb3BlbExycURDOVFwLVNYcWVRcWx3aXh3U1NITHFLSUFFZEhYX01pSlBPRVByZ2dleDZncVUzZ0t0UktYRERnQXAtTzBublhOVXFKVVBQVWppSjYwajh4dDRVWDV2VVN3ck5VTk01cmNlVklEd1ZFeUFFQTRhYnJwRDhfRlB6VHNycU1xYjRR0gHPAUFVX3lxTE56NXdxSERiaUx4M0hDLU1rZ05NbExrLUZrTFJnc0Rua09WTUpSX1JTMUxnV2pSUm93dFFZZW5mblRFLUU2dVA3RkhEUUgzdndpNU83WEpEOUZRWUd2bHZyRHVaLWhnQThpeGY0VTlpWFZLVVgza0pRa0U2M2thRzZwaEtUMXFTWWctaDBXRnNiMEdhMkFTbWM5aVZxTlhURWdsMnVVdDFMazFsYUNKd0pQam45UGo3Z3JxMnk4Nkl2NEZaUS02LWZ3emFEZWRuaw?oc=5",
-     "domain": "english.alarabiya.net"
+     "title": "The Golden Cat of King Solomon: What the Wise King Saw—and a Literary Agent Missed",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUHlMWXBKZ001NU8tZVNtNFVyYWRoWTlwVzBXaEp0VGlJNzc4a2d1SFA5N2dVblAyd2hOMmdQdnBQU29LdEtMX1drRGk4N1BoZnhIMnpHVmRJZnVpdkJPcEJ6NF8xemNua2o5ak5mTEtEVjdCejYteEY1M0NEcHM0VWV5emVBcnVJRllsTWZMUENMaXV3RWJXS3FhakpQcENMQzVrbVlCbk54TDQzemgzZ1JJdks?oc=5",
+     "domain": "blogs.timesofisrael.com"
     }
    ],
    "error": false
@@ -156,58 +108,64 @@
    "tone": null,
    "headlines": [
     {
-     "title": "Ukraine sinks Russian warship Merkury off Libya, releases dramatic video of operation",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNR0xlcXJ1dnNLS1RNdlQzMGdpa05sWXpSRjVmY2ZrX3ZqYTlpUmItWWlJcUprR3hrUnpfQW5zT1lMY2M5cEdFQjA2cFBMbG5hT0RwYVdqMjFxRXpiLWllRkViRDlvWjBDQlBocTlINjVxbkM5NGJ3X2R0RGY1bTNraG94dXM2ZGU3WVl6THhRMnJBZEw3Wjk5dVNWT05GVU9HN2IwV1RjYW90aEEwUjNmN3pGdjRKM2pHMUt6ODFqYjVHc01lZkRTVElXMGVRV1hMQjJQMHR6NU13V2lOZXg3X0Z5VGdyVzZCRnZjSWZ6ajl1QjlDcmJLV1Rn0gH_AUFVX3lxTE5WX0Z3ZkozeWxxZm1xQkVudGYxdDBscW1QQmZXYVdwcTc0M0RidnZES0NKVzRSbXhkZlVtT0p4VGxMUGs3VkdkUVVGa1pfY01rYkNTdDI2dE5yczZwZWdwNzdtYkRvbWlvS0pPblNwdjIxV1JLSTZ3M0dUQkxGY2FHTXNmTEpJeE1JVWpqU1B2UUJfMXhsZXdUenVUam9PUVk5UmdYTDVFd181bTdRaGpQZGVNeVVKb3JSajdDT1IxZmxaY3p5cDJJeWw2THJRcDM0NDhoa05xTjhQSGF2TUE1cnFma2RnZ3BSMUZFUks2X05wSFp2NkNKeXRDWFd4cw?oc=5",
+     "title": "Don't be a Baahubali: SC to Bihar judge over criminal case against SP",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYWR3Rlg1MElpSlRzNFVvLTdMMTRZRGhjMVJjWFhOczcxUDMzMWR6UFlNRlRxOWg0Y3J0cHZxS094YVdGOU1hVDY0ZHh2V3VSRTRTOExUOXJxZkZMYS1MV1FyX1dsaU5VMDJ0Tk9xY2dhNy0xeV85dVhmSFQ0RlBZRGtQeVViTXlENE5Yc1Z1Rk1lQmZEQlNmaHl0VzVPV04wM1dUaEdEX3pvSlozbVpFLWQ4SkdZaWM2VC1udHpWOHBzTENvNUlZTklmckU4SGtT0gHWAUFVX3lxTFB5R1hHbnFSbTA0cWFMWFFZTlVQV1BEZzk1ZmxBb2xBLUJMT003MGZoeVI3dHEtYVlHVTRiM1pJclFQV3dxTGVNYjEwSjFHVjhzXzdZZzNKbi00LU5uU2p5MEJ2SzBUR3V6Y2JTUmNqUXFfVFJOLU1WbDFVZzZTTWhKalhpd0RrdEI5VHZCcFlVTmpVY29qdHpZNFY2OEFGN29nYzBVUGEtV0lIX08tZk1uNnhqSkRVT0xyNVl2bmNCN1RDaF9mRXZSWm1BN296eHpBQmlKTHc?oc=5",
      "domain": "timesofindia.indiatimes.com"
     },
     {
-     "title": "Ukraine says Russian strikes kill 15 in Kyiv region",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX0hvbWZkSjNmOHNhUHFwb3JHRjFubFJlYV83anYtX3NxenYwZVI4NVR0dXdlMURJTkZaQkxUNng3Q2s2dFZnczNVNGtZdFhwTlgyVjJkOXA1QW5IQ0ZrRWRaTXBhU3FwaWM2Y3VYZE4zcHloT3dYUVZMLWZjaXY0Sjg4RlQ5cUhLdUR3MGktVEpyd0czODFoeDZKQ2VYT1cxdWViWFgxbmQ5U21sczUwMWtGX2dtQkNORElzWtIBwwFBVV95cUxPcExNTl9RYV9FYVlsMlh5c0ZvWkJQT2J4dk9wck91ekdPOENBRnRteXJJQVJuM2tQUm5obnd3SEZoS0hNeE43NXU5dldrbDVUQkVxS3RZbVdmX1pna0JOUXRyZjBoUlNPOFloSnVyemthN3UtS0xoN1hCUHQ4OUJ2UXRSN1RtcDZ4c3dGTWh3eHNQTGFxUG1UNjRBQl9fREFiTUZHV0liR191QjBCUjdieHFYUzdaYU5kR1NNc2psWXhuOWM?oc=5",
-     "domain": "thehindu.com"
+     "title": "From 'Spy Affair' To 'Nothing Wrong' In 11 Days: What Brought Jensen Huang Back As Nvidia Boss",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcmJoWHh4RnZDeTBPNGNzakZGcWRKcnlvVm9HSVlfcENHOVZnSVVQRnN4dEl1WEN0UC1UUlJHVTV0ZkZTRHRXQVRVMTVjMkc2dERLTVA4dF9oR00zZzJWdzR0TzBqb3BIVjdNQ2MyaDBxNnlRSGNodlAwLTc1ZHkyRk5XRkJUN216Nkh4YUN0R3dEbFRfTUhERTJVOWFfbFo4NmdhZl90elF1Qk1zYzlmX0tEeGw3b3FyLTJPYldsNVNBVUNGS1pBcndR?oc=5",
+     "domain": "ndtv.com"
     },
     {
-     "title": "Video: Ukraine Sinks Russian Warship In Libya, Zelensky Says \"Exemplary\"",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdUNEWE4tMnJEUHNGczUxVVVLUlVlNWhoSjl1WUJFVllKNG5jNFdKR0RRV0JpS1gwelkyRkpmOFFXSnJYMEdMNHE3WmRjQ1Z4TjlKdkZZcHNqSTJTUlNuREYwdG5lZlFRNUxNTjBfWDY5MnU4bVo5a2dYUW9WRzBFNmRqVWRrZllYcnFfYTV1ZWQtQTVCNW5CdjN5YlhnM3ZTRXlVdUFTbE92V19HNlHSAbYBQVVfeXFMTkJKY0h6M1ZqZDgta1JlbXBGUlJhQkZMQmdfcGcxUEF6R3NLeEZ4czVSNDJadDFGZ05HVlNVVFlXa0hWeVpISXUzOUZ3S1Y4U2FEeFcyM3NYRGlqdmxXdVZFYldoN1pmbmVCUUdXT21jakphOUoyaEhQVDFaZ2F5RDcwMUpuMlI3U2NjWjJtb1N6RnlSMFh0cnl3YnhDN3o1YXozbmxyLV9uVll5NmxWeDJsc2pIWXc?oc=5",
-     "domain": "ndtv.com"
+     "title": "Elon Musk’s companies sued by U.S. states over flood of sexualised images made with Grok AI",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeXNfakhmbU9WTC1NT0xVRE9uWWlnTzV0Rno1OXUwdVp2Z29FN0NENi1fZFdYWjQ4d0FXNkYtakFYeUxzNGtIQXNfX3hFc1FGcnZlVExZWWZ5dkpUUVF1WFZTOW5IMXBXc3ZjdDJZSlAzSHhKeDg3TDZaRDRXbXE0blRhTG9TbWJQN1NiN2M3NkZFNHJTQVA1T05HQjdaZ2JNWnVrbXRxN2gyTkhGTnFuQW9fUXdieHF0Ujd2YzhsRGkySzBOVTJ5YkIwamZtOWE1UUNVU0FWT2lNOTE0Y3dSYWlBTWJFdXlL0gHvAUFVX3lxTE1wS2xyLWdSeVJoRVQ3QVNHa2dLS0x5WXdBVGt3amhWby1mUy1ldGJGNDEtMjVFaUpvOUVENWpPRDRaUS1YTVJEa21VRVA2TmRzREZOWktqQmwzcjA1MklBNVdybzAtZV94S0tkc2w4TnNnYWJQcHhodjdfQ1hvRV9xNTBHYl9VQl82SDZ6SkxGeFkyRzVFS3kycWlydGhwWFdXZUxhdzZrN3dVMERSU1k0X29RRFlVMFB4NENrLWd4OW1aMW1TcVRocklzVGFwUzJFRlhkajVQdi14T1MtQl9HQnd5bnFxLUxLMnJyMUl3?oc=5",
+     "domain": "thehindu.com"
     }
    ],
    "error": false
   },
   {
    "name": "Africa",
-   "count": 5,
+   "count": 81,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Lisette IJssel de Schepper | A distant war could be costing South Africans R110bn more in fuel",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSms4Z0szY1M2cDNFSTlOZ3BMUTl3MXdHMzZna1U3bkFpSkpvYmFBbk5OUXhUZXNFRThLMDI2c0tUS3BYdGwzanl6VHVlNFVRbXB6X3BWSk1YblFfUXl0M0lIMm9XSHhuOHgwTzBZX2V1bmRLeUVib0V4VGdBR2JMNW5ZQ0ZYVHpwVnBTTk5UMlR1WVpueWQ1aER6YnpkNHpVSnFRclVnV0NEbXJLbjFtaUVlU2lZTnVDbWE5ZGJHMVdMaXNpUHpVejNYQVhKNjVZY1gwVkFBZl9FbEtUQUJN?oc=5",
-     "domain": "news24.com"
-    },
-    {
-     "title": "Russia-Ukraine war spreads to Africa as ships attacked",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM3VzajNJNGJfSHRLZVBrTmtYRGpfWE45ekxOZDltU3RMY29rTC13TnVmdFUwVkt2MjZPdkhUYXdrcXh6Q0lQYlpLb3BzYm1GTFFYYThJa083QXdDbnEwRWJCOHcwWjlTWWxPc2FISzFPbWtENExKZDRUbGNPQWhfalpKZlFxQkprZW9lclBoelZETlFKQTIzSk03Q09WYzgyUTRGbk1YbDZyaDkwblhfTGw4eEZXc1VSN0Zn?oc=5",
+     "title": "‘I can’t be activist forever,’ Bukarti defends aligning with APC",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUzZRSU9kVnBfQlFsbG1vVjJXRTFKaUNDT0V2UkZoYW9jbHBvQ2RqSDY2NDNpTFVaM2V6aERURlA1S1FYRTNCVlZaNjdTeVI1UjR2eVNUVjduUGlxcUpEZ2h3c1ptVFFUaEVvbTdhMlpoUzNldGNfRDZHc2YwXy15VWJpUV93YWpIbVZJQldDVmFnZERxNXRIM3RITW9EbmlnY2g4allXUW9jdjNDZ1prQlp4R2M3LVB5YVE?oc=5",
      "domain": "premiumtimesng.com"
     },
     {
-     "title": "Zelensky calls for four-way talks with Russia 'as soon as possible'",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbnVoOHNrTGY2VjhYRW0tR0JzSzJxRHI0YXR4YWNDQVJ6RkJvQzBITjFhR25oRjlKZlEybjlkRmFNaUhNdEJwZVFaUG54Y3oyZkgtQlhiWGNjd2NZbmlSU0hnYXdNN0k4d0tCR0JKejVhSHVCU0UwUzZ5MzAyNFo4SmlPM3h2RzkxeFI5d1hjZnVqVUkzbExBMlRvcEI3SlNucm9jY1VUSFdsRkNS?oc=5",
-     "domain": "news24.com"
+     "title": "Ozekhome’s defence grills CCB official over probe into late Useni’s London property",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOX1A0U2MyNFRvNzllcFVRRFFrZjNVbGRNdC0wR1ZQcE96d0R2dkJia0pXajloR0pVVmVsVG9TcnBwUFJWbnQ3WkR2UnBPSC1XMG4wbUN3OXpvbXVxVHlnSVhqaXF0QkxOQWdscV9QQUt6OEQ3SVNnbGtHUHVyRmdWb0hSZS0weF8wcW9acmZwb05pSTZKQ0p6c2lXR1Z2UXM2Y05CODQ1OERrb1lWbVo4bld4ZjJrRWVtekRKYlVjMnBWRUlkX25CVkE5M3BMUFlaWWpXMkV3?oc=5",
+     "domain": "premiumtimesng.com"
+    },
+    {
+     "title": "Gunmen kill four as Omo-Agege escapes alleged assassination attempt",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcEhfV3JCNnJwbUtUNHFQblNiOXpHZkdBcU1UZ0s0ajRoTlRFY1RUVXdrXzZfRC1HYV9weVhzNUU5VFBEZVlZVTNNcjVXSjd4Z1JwdVNnRlpFQTFfenloSVlqQzBoVDZ5WG9GUmlSeGx6UExMUUdfSTFDMmNPak10NUxUUGVJN0VzTGdKSFpsSEpTVFAtRnU5YjgzMFc1V2hoMy11RTlueDlJaTJmTTVOTDR0WHRiTmQ3T29JSC1VRS1Bdw?oc=5",
+     "domain": "premiumtimesng.com"
     }
    ],
    "error": false
   },
   {
    "name": "Latin America",
-   "count": 0,
+   "count": 1,
    "capped": false,
    "tone": null,
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "California braces for potentially historic flooding as king tides threaten Thanksgiving travel: What to know",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUU12VU9wb01yT1QtLWFVXzdSMmkyTHhrOGJVWHRzZTl3WFA2d00tMHpCbTNMOFpkbEotN2Y3MWNPYTJFT2FWZUU5NmZOa1pnNmhvcEpCMWU4dUVEUHRYZFFpNk5GYUVoWkZTYS14dlJfNlJCdTNfakxTdWpZMzA4SHpXNVp1Z2F6Wl94bS0tN1VweG00WXBpdzE4S0I1TnZ6WDladG84dl9vTVd6ektzMW1zd3RmVUJHS0tYelVkYlN4YVNlMlk2UF9USEFoRUE2MjMyR1hNa0plSzBQcExVQng2Xy1WYWVQYjd0ONIB8gFBVV95cUxQMDYzdExPTWxyNEtIQzV6NFFLM1VZeGMxV0VtajFPRHREeWU4enkwaHVWbjJVaXBWVWhRNnhxUUpiNzhySERGdWJKUVpicFMzbG03am9EZlhxMGF1RmRWTVVOMHFIRnpxQklpVUVfeGpXQjd5OVFfbHJvUVhZbURfVHFKVXdXQnhOcUZYOTFqZWkxOWUybzBmRkFXeXdIaFBuUC0wTHlWQU1IVVU1ZkFDeUZtTHliWk1taTlYa3E5QkVfem1wUFFHZmRMNEg3VmxwN0pDd1VwX3E0TG1KbThyYnFlUTJUTUxXODM5SDFqTlNHQQ?oc=5",
+     "domain": "clarin.com"
+    }
+   ],
    "error": false
   }
  ],
  "framing": {
-  "text": "Western outlets prioritise the destruction of Russian military assets and casualty figures, with UK, US, India and Europe all emphasising the sinking of a Russian warship near Libya and high Russian losses. Russia's coverage focuses on diplomatic and geopolitical matters rather than battlefield developments, whilst China has minimal coverage of Ukraine itself. The Middle East frames the conflict alongside other regional concerns like Israel's international standing, and Africa highlights economic spillover effects on the continent. Latin America shows no substantial coverage within the timeframe.",
+  "text": "European coverage emphasises humanitarian responses to natural disasters, particularly India's aid pledge for Nepal's glacier flood and rescue efforts near Kyiv. Middle Eastern and Indian outlets also report the Nepal relief effort, though framed differently. China's coverage focuses on AI regulation and economic impacts rather than acute weather events. African, Latin American, and UK coverage is minimal or absent on extreme weather, instead covering political and legal matters. The US and Russia show no detected coverage in this period.",
   "model": "claude-haiku-4-5"
  }
 }
