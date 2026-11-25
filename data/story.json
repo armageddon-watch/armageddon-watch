@@ -1,98 +1,193 @@
 {
- "generated": "2026-11-25T08:43:46Z",
+ "generated": "2026-11-25T21:45:25Z",
  "window": "last 24 hours",
  "source": "Google News",
- "topic": "Earthquakes and eruptions",
- "focus": "Weak",
+ "topic": "War and conflict",
+ "focus": "Ukraine",
  "regions": [
   {
    "name": "UK",
-   "count": 0,
-   "capped": false,
+   "count": 100,
+   "capped": true,
    "tone": null,
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "How will Putin escalate war after Ukraine sank warship? Michael Clarke live Q&A",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNnNWQUFPeFNZUkt3a0RmUHgtejA4eXp5M0hzUXhwWnRaV1VVbFNLTHlvU19HalliREZGd0k2VDlsMS1sVmFQMjFaM2FuZGlWSWI1SEh4VnNjVEZOdkN2NHBiQ0VuMW9CWFdnejNMT1lMNmpsQU1nTmpPUFZ6ZXlyVmxvOGlUWXJHdjFyYnh0bXRjRUJXNk9LemZSZ09uUHNCdkt0UkRfWTNzSkpEWUVwMVprbkpqblk?oc=5",
+     "domain": "news.sky.com"
+    },
+    {
+     "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OMkxnUUNpN0VwdFdpMk41aU5yX3pqcjEzSmYxY2VGX1BCOVVscUo3RlZLY1hEQUc3amx5NnFKRXZIcjVjNnNQUUtiOVRKTFZYT1lyXy1qZC1wUDAzNnc?oc=5",
+     "domain": "bbc.co.uk"
+    },
+    {
+     "title": "Ukraine war briefing: Zelenskyy and Hungary PM hail new era of cooperation after Orbán",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS0NGbmNYUlhldnlJSjJhb3pNbGdNSWswaDFERVZWanhxa2FLYmhxbGUtbHZVc1VWS2RCQnZQT2FmVjlUS3ZPY3ozbjYyOVFHNEdXalh2bXZBR1diNUNEbUZCV1E4bUpRaER0MVpWRXlRdjlERmdjUXNmbEk4MV9yeFhMVi12NUFCM2FFR0RDdWp3a0Z4d195VXpoN0JveVV1VExFMWxBT0RWZjBacjNRNXVXMzJpb2xXVkw2QWUycnd1TElCOUVMbFVpcw?oc=5",
+     "domain": "theguardian.com"
+    }
+   ],
    "error": false
   },
   {
    "name": "US",
-   "count": 2,
-   "capped": false,
+   "count": 100,
+   "capped": true,
    "tone": null,
    "headlines": [
     {
-     "title": "Map: Earthquake Shakes Peru",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMFI2ZkdVM21PODM4OUotYlUzSUNudkxJSkREMkp5aEJ4bHFfNVNfNHZXenA3ZXdFeDQ2empmdWJqTDZ2aFp5cy1oNWlHSWRfd1AwOVhRNUdzTlNKcEliazZ0Q2xNMUdRX0pRSjJyeFZ6WVV6TFZmYnpsSzc1QnZWdnhKMl9ZZGhOV3p1MGhZUE1sUHQwMzBIVmNR?oc=5",
+     "title": "North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNalMxMlZZU2NURmZlZF80eXM2TzFzWjRReFctZjJ1SU9WdjhoeUhIbmgxTkdpNXpnYURfSVhYMFRVR3pOdTg3VUVXd0NhWVlrb2hkYm1RdW9MQTcycm5SdGVuSmE5V25INGN5UGFSNk9JaTBkbWpMYUxwcWN6V05tZmZGUnc5UEE5ZjBScg?oc=5",
      "domain": "nytimes.com"
     },
     {
-     "title": "Osama bin Laden",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vdFRGNm04SU4xT3R1eTlGV1RlWllhdEZuNzMzaE53ZG13ektJOHF3T0hlVFlkSlZtYy03YzlQcU56WWhnY29vblpYZEF4cnVfZUVlT3EyVnp6dGNLRnA3dDlB?oc=5",
-     "domain": "nytimes.com"
+     "title": "Putin's war death toll reportedly tops 700,000 as Russia scrambles for recruits",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU1NMcm5VaGI1YU5yZUtBbUxrTFRUcW5WOW9HSUM1QngtQ2d0a1NEZF9KWFVHSDhyNXAzeVBiZ0RqY1JTOWtVcXF0Q1hHRmt4Mm90MjBhNkFHOGMzQkIzcGVEeGJKYk4za1pjU3dhSTJYV19hOTRmc0pyMXlLLTFjQjk3RE9TeThLa2F4elF1Y21ZYm10QllWRmFFVXVwWlV4YlHSAacBQVVfeXFMTlo0TGVaS0ktbXh1czhyaFBWMVZzUzhQX1pXb3lmcGZwLUc3dnZacjdCM2tKcjZsa053M0xaVGFXUmxYSDZHS2tIb3gxbzdUUUEwYTByV3dRY1RVTHY4OTRuRU5PSk80TEFMWmtGaVpTcU5SMWFUWHI4bEZDYVRRYWE5NzR5RTlSamJGYV9CUzktQU10S2RlcERkRXU3RG9qY1Nqc3NEZ00?oc=5",
+     "domain": "foxnews.com"
+    },
+    {
+     "title": "Libyan army vows retaliation after 2 naval officers die of wounds from Ukrainian drone attack",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYlhQMFFISGFSRC1TVkJtS2FtWXl1anZubHJfTnY1VzdiaG5fV2J3MGlWZk84RWUtQUQtRG1DR3Z2b2swWjdacE8zRG1xcHFHN0p3Q25GX3dMTHByRTBnSGl6dHBkcDQxZHF3VF8tMmVLVG5jRm50aGtndHBhWEFaUkFaaVJoZkp1aW8zMDFpVlZlODhqeXhwVG1TV0VNd2Frb2ZsUmg1R0wyb2VxclNscVVRMzc?oc=5",
+     "domain": "apnews.com"
     }
    ],
    "error": false
   },
   {
    "name": "Europe",
-   "count": 0,
-   "capped": false,
+   "count": 100,
+   "capped": true,
    "tone": null,
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "Weapons, war and wavering trust: Germans want to see more restraint in foreign policy",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQem5BYUZLUVMyRFVLaWIwLWVWU1dxb01UdU9mTnVzQk1kcHUxZnhHSjhGbWYxTXdWQzRvYi00d2hJT0FXWERuQVNPcHljNU10NzAwUWZGSTZMRWt5Sy1Vd2FPU180Z2djTGpnVEtIZDlnNGQwN1VYMTJCWm85SlhFZUk3eEJ2WUdLU3daMnZJc1A1UlI3X01qUzVWRUVyRnlUcUVtNVEwQTV6bEdTM085MDVTNW1DMnfSAbcBQVVfeXFMTjJYX2c1eWN6a3MwYWVFNVBLQVdKc0ZHSWNYMGNicEJSNWdIaDk2VUx1WWNMTm5DYk9LYk1iWmMtM080VXdXdVR5RHg4MjM4SmlSUUFnZWktNmg5R05MOXJvNWhXTTVSMlp4TlVxRTZjSDh0LUE0MTVYcmZZU0RTd0lveHhORDNGQlNFbDhvamZWUGExNTVGQnhOT25JdXJJdU8xa3MzSWU2bzhoWjhNZklEMVZLM2Q0?oc=5",
+     "domain": "dw.com"
+    },
+    {
+     "title": "Kremlin declines comment on reports 700,000 Russian soldiers killed in Ukraine war",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa0pVdDdxUURmTmd4NkNvNFAyY3pJSWVKN0RqaUZWNWlJUUlFY0NEM2swSElrZ0p6U2dlR1NNdnNCNTBRMDNCRmJicmJjbTJtc1YwRzRRRjRYUlJhSEJwQmlUdkVPelh3Z1BVY1NwYWh4d3RWMVhCQUVaMXdFUjY0cERRR05Rd2FHYnBKY0VxUHdxSVZUeVNDOXJ2dGtOVWh6MkJKWjBQUXpXLWx0M182SC1IUlBOZ2xhcDdKcw?oc=5",
+     "domain": "france24.com"
+    },
+    {
+     "title": "Magyar and Zelenskyy open new chapter in Ukraine-Hungary relations",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVnhoUV9tOUNGSG51NWVCNFJCNkNfTm9hMkZWenVvOEhRa3doYnpITmNIY0pfRlVuN1JrTmRRekJCRVhlZTRrMWFZSGtMYXpRQXBWeVZMZGh0TV9MbzlzT01oNUkzU2pZZTdrSE5RMHlRakthSnc4OFpWeVpUVlBKckMta2hKVV9abFhYd0VZOXliQktmVnRvTDRHSHhYa0pYSGNXZTBtcHJockFaVGp6VHdwY2wzYzNYa1E?oc=5",
+     "domain": "euronews.com"
+    }
+   ],
    "error": false
   },
   {
    "name": "Russia",
-   "count": 0,
+   "count": 78,
    "capped": false,
    "tone": null,
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "Russian troops strike Ukrainian UAV assembly, storage sites over past day — top brass",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9OZFFRbXNiYU1UR21BRjFJLVMzUnFSMVlKT0lmN2k0OTlxUVhJYmlyaUxVT2czcWZwVXBzVm5NWTlaV2ZXZ1dSMdIBTkFVX3lxTFBWUVBkcUJtQmhkVlNyTXdTRlBLOUVWd0hVTDFTek8wN3BWSXRwalJ4MURTMUU1R2k3My03eFFqRkhVVGNMTjlQOFdIbmRPQQ?oc=5",
+     "domain": "tass.com"
+    },
+    {
+     "title": "News",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hODBtUzN6Nmg5ckN4cHNBVHlhcEYxc1Z4ZkFUaGxpQVB6SUdDbjVFRUVyb2s0UXNzajBzbXJzbThxMkdtRHREeEZVOEdyRjV5?oc=5",
+     "domain": "rt.com"
+    },
+    {
+     "title": "Press review: US halts Ukraine aid as EU splits and Washington poised to pressure Iran",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MeXV0TTd1LUR2MzRMM25tSTNRZHhfZEtNRmtUWllfRXhQa0p2OWd4ZlMta0ZDbjJwRVp2LXBGaTBfaWRjU1lISzQxcnjSAVJBVV95cUxNS1puLV9mcFhqX1VqLU1JekgwejBGU0RWTktWTWU0cGVyU3hfUUNhWkxGUHhzRG1vZHo4T3o3SnQzd3lmdUtPWmFzOUpybGVtdU9n?oc=5",
+     "domain": "tass.com"
+    }
+   ],
    "error": false
   },
   {
    "name": "China",
-   "count": 0,
-   "capped": false,
-   "tone": null,
-   "headlines": [],
-   "error": false
-  },
-  {
-   "name": "Middle East",
-   "count": 0,
-   "capped": false,
-   "tone": null,
-   "headlines": [],
-   "error": false
-  },
-  {
-   "name": "India",
    "count": 2,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Waste piles up at Kargi stn amid handover to DMC",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTl9XdW9jRkhiWElXakh4SXN4a1ZnUlZwU3VHcWhCTVJueEx4ZE9lR2xCTWJHVHRHYmVNUEdMLTJYWXJBS3ZFcE1DeXJENWEzWUxiTTAwdjN1aDJXX2Y5ZkgyRDR3dEJqUjg3RElvelFZTkF2R0FrNndqUnB5d0sxUElFZlA1T1FJOVRMNjNQSFZTRXhLYmQzX1R5bXk5QWo4SDdEdjdXRHlhTWJuN3FoSkUxVFJRZ1ZEVjBHS2pXV1p1QdIBxwFBVV95cUxNX3FVanV6MDd1d2d4Z1BzbzBITnhrN2xnZDJVdmh0bjJPci1BWVltX2hsSDFLckhSMkl5Vm1ycHpyQWpENUVsbFNJY3VabXQ1UW1abHlfQzlnRmpkdDZvRkJjZmJqM2F5LUxoNkl0Zk8wOGQtWnQ4WTRNQ3hhUGZqSU5fbmY3UmhjSVhvQ3A5RS1DVnFQcTZBWF92LW1IVFg0dDQ0LXJXdW9YdWZIM0kyaUk2VWhWWUlKcUlCS0JlUUFJQVBId2pv?oc=5",
+     "title": "As I See It | 2 warlords and a peace-seeker in Shenzhen",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOWlUX2FaaUh6QU4wY0ttNkwwaVB5Q2JzX0JuS2pOOUtlRGtyOGN4cjY1Q0tPQ0JPaGgxOEVKNUYtU19fanUxLVVWYXBHR01wQWNkVWx1bDRNNmxLOUZLVDU0MjhTRThUZzg1VnNUSk12aGR5QnZBODNBSXNJaEl4b29OMTgyZE1va0pJNllwNEdweFZqTWZQYVdlUk9QQdIBngFBVV95cUxPTkNiSTlhdzg4RlBscFJsZTBpZmFCSVY3WUVtelRVWElhODFBSlVIbVQ4dlNzSXNDSVAxUkk0NGFJc016ZUhHV2xwakI2ekp6WjhRc25jckdmR3NzUG9abXJvVTQ5V0tyTi1TWmVOMFYzTmFtRTNkd3dXbnR4V09HeDVVMW1wRzdYY1R5dTZWd1JhZ3lDZlVMU1ZHWElLQQ?oc=5",
+     "domain": "scmp.com"
+    },
+    {
+     "title": "Ukraine says major prisoner swap with Russia could begin as early as late November",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBQT0l6b1pQTXpTVFNXZGdZWGF4cGRMNldPdW1kRlNWXzVva1EyQldqV0Mwei1Gd0o4STBRN3JKdXlhOElPUm9aLWpHSmlmM0dsTzB6TndzUC1HeC1XNEhKdlA1UWY1Qk5iTU9kVWdtR2xsSHoyQ3pfemJHVGQ?oc=5",
+     "domain": "english.news.cn"
+    }
+   ],
+   "error": false
+  },
+  {
+   "name": "Middle East",
+   "count": 39,
+   "capped": false,
+   "tone": null,
+   "headlines": [
+    {
+     "title": "Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVlLVzNGdDA4X0FlQVJiZDFvR2RncEpnbThvT3ZhSTVrUzlwaXh6aWtreGRaaV82T1B3WjA5dmpkNldEUHUzRFZaUndnMXQyeF9jTnI3LVZ3NTRSWTBaNkpBT05IVEJDMlFyWVN5eTlHTjRPYmZlWm1JS2VNMGNjb09Da1BieC1WdldIQW5IZzFFUkE1MzRRdFFqWjB5STNFdC1zT1k2ZVRvMFlmRDJYZDhjNC0tZlHSAbwBQVVfeXFMTzlnSnlkOTlWUC1oeEdrU3MybWZuN2g2bmlVcFcwY29mZzRtb3IwamlBMEdjSlp3aEpJaTBiUzB0NXA1NElrWmtwMnZSZWdJWWE4dW9Wb3IyNnFqRU5KODh0eVpyLUZxQXBZSUQzTTQ5RWd5Tlp3UXowMnNBQmxRRW9UVkVad3RFZjRiTDVKYWJ1cGwyM1lubHlBNXI3OG9WaWM2SjhEZHlsNWxEdTF2LURHejZlWE52d3F6dlY?oc=5",
+     "domain": "aljazeera.com"
+    },
+    {
+     "title": "Ukraine says it struck a major Russian air base, damaging five planes",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNemVFck1LcDFIZThKQ0JPUERuTncyQ25BLVEzLWowTjE2TmxXQ0dWUzVvNGVoNzJHVDExUlZZRFhMOGk1ckdGbDJNWnItdWRoNlZuSnV3UmtGdW1SdUFsbVNPcjRHZWxsQlhkTXZzVlYyRkk5dXNYS0lHWG5qV0FaR2xvXzhCQmRvdDdNNktPaHVIWXRMX0h0cVdaMzBqTDZsMjU5UkRJbTF5eW5RZlJ4NHQ5QUR3QzBaalZsQdIBwgFBVV95cUxPdlhqU2dfbTJmX3A3T0JEZHh6ZWYzQ0tFTTlkQjJhVmtMRUVsMXpsUXRodkE1R0Q4d3Rjc2JhVG13eGM5ekYtSjhnR2tLLXFGenRtZFFuUWFhQ3FuNXhXYlFVSEVFbm5QNndkMUVVNmxqb0RXNFJ5UUNOQkZRdXBZYmpuZVJwd2lFVUUwdjJMTEkzMzN4cW9vTjJoa3M2eENvc3QxZ1pRRjVsUzhPVnA1enprS1ZSMTUyNW9iR0d2UWlPdw?oc=5",
+     "domain": "english.alarabiya.net"
+    },
+    {
+     "title": "The News Feed",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10eVRkXzEybTE0Q3ZpUVExa1JYc2tVc3poY25XaW85VTNBQ3JDQzl2WTFxaWZ1VWhIOFFVaVcxQjYzemoxU1ZCZUVTbkFfY1dI?oc=5",
+     "domain": "timesofisrael.com"
+    }
+   ],
+   "error": false
+  },
+  {
+   "name": "India",
+   "count": 100,
+   "capped": true,
+   "tone": null,
+   "headlines": [
+    {
+     "title": "Warren Buffett’s son Howard Buffett has visited Ukraine 27 times and committed $1.33 billion to the count",
+     "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPOXZLWVo4dGt0dkZHNGZZTktYMHNYR3NPV2RpcTJWaEx6a0gyaTYySG5aZ1d1YzFmdnZrb21QSDJ5YkVyTXRCWEJIMW02QTFpd2l4am91MjBxUUd6RE4wVC1jckl5S0Q4SVdTMWVwRlJ0WHg4Nk1GeU01UF9YZjY0NzNuZTZZZDVTMndzQ1FMdmFsd0pFMms1WDBrR0R3Rm5tQzVZc1Z0V19Hc3FKLUJoLTlrbTZVV0pnaURXWERWSWhId1ZoalhjdEJGOFRKS1pWNndoTHd5Y0h0VUlmNW9MUEhDOTFmWTNYNEUyaVpCTktXMXZCNmNETmVKRENURWh6Z2szeW5Jay15QmRTcEFaekFIblg4ME00MFpnTnR1dmpWeTNoX1FiQ3JYb2hjTHVVSGxTLUlvZW9pYVVBT25QSnZYclhQUnRSSmZUNHhweVNzN3VhcmdMd3Atc9IB4AJBVV95cUxNXzBoaUt5ajBKaDBSbEVoanlBbFlWdHp3MmFLdzhucFJYS1dKbGx4TG80MWpZUl9kbUI4WTVyMkVvY2w3U2VoT1BZeGtoT2M4UDV3UWFOa3k1Q2hfYi1xYlBHWHN0U3R5UEFMbGRxbU1hb2UyYThtOTNuaHZPZzFSVno4UHNFckc2bVBhdFVmWlpxZFA0LVhsaWJaSXpKSUJTZTlNcktlY0hNNjJROUxFdHpSYzhyQUFXa0N2TEgxUmYyUmVIVEt4R1hSdDktNlR0N3A1MHk2QnJhTm5RcEhSbDVCY3Z6SzlXbGVoUWZ4OWJJYUI3QWNEclhiTlk5UkJySnBsb1NGZ1VXWVV3MzZENUpaWnBYd20xcGFYb08wTUgxeFlMMVNWWUxxUnBFSENvdUlwSnZ3a3VjNnFnejBSYzFObm5fNFBRME5zZkMwVkFlWGlSaDItNEFicmM5R1JZ?oc=5",
      "domain": "timesofindia.indiatimes.com"
     },
     {
-     "title": "HC flags concern over public fund wastage, seeks affidavit on quality of public works",
-     "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOQ0lVeHJQTGY4SXB2emV6c1NCRDFPZlZFeWZvQ2V2SXBxQ1VlSGNqT1FESEJFT09jdXVVQU9QN1U1OVJrdV9aZW9INlJPOWp6YVowUjJ3VDV6OTZrUUFrdlg5elFLMW1rRThPR0JKV1hDam15UWVOcnBoM0hqa1FJbGhSSC1tXzlzRU9DQ0NkRHVxREozeEpCTDYyZVk1MzMzdkxzSW5fSUk4YmQzWUpxZ1ZMYXprejU5UVpHb2tKbE1rbEtaa2lYTDhUMEczcEF6STVhQmZSVjdiMVd3TGFQdVdub2Z2b3prSGd2dkZQZWhPLURHSHhjYk5yTEhSQ3pXaWtGYTk4RXV3NWNQbFljTDVnaFB1RlpQRTRENlhJY1oyeUhZRXhicUhZZHF2TEw1b1BicWpqS1BlZllxWFBycHJB0gH3AUFVX3lxTE8wLU1RU3Z3X1Ffc0pEU0dNSUlTZ241ZndTRDVuelFNcDF4azI5WER1VTJ2SVBOUFJkVE04bWpTcVBfLWJXSUhXYzNHa3lmRU9JNF9xMGxLU1hWZk4zMkFnQmJxRzhxT0dYOFF4ZmhwZDFETWY4WFNYdTYxRzFXQUdkeWVZWTVQU1FZQ0ZheTNEUTlhdVRkYmZLaE5BUUVhNk53SFRkYXdtN3dncW54QzMxaVNsS0dxU1RoaXU3U3E4UzBDUFZTVS1kY2d5U1FJeHZDX2ZfNjFlbnRFb3FqODVwMUpzZlNRdzJzdlJ6dVhXWV8tbDdYR3M?oc=5",
-     "domain": "timesofindia.indiatimes.com"
+     "title": "U.S. shelves proposals to use business deals with Russia to end Ukraine war, FT reports",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMC05SVNNeUVJLWFGYUV3eV94eWZYejd1YmlSajI0QzVJZDlHTG13S3JxY1FkWDAtMjk5djRQTjVobHh0dFRpcEQxU2hPdHpPeHJaLW1zczhXOHpydkN3bDYxc1pXR0pnTmRvM21YMHd4N3U3WlFkdzZHMVQzQnQ4YnF5TGZpci1kcWFpbDl5TlF5Um9LVlZKWVhjVEdaS3J4S0Vad1RPLWVuSDNtR0NTNEl3LWZ0MXh0MHJuZHFxTWpYMXVvekc1WVgxRE1JVzdrR1lYSTl3TnF2amdJMlVnME930gHoAUFVX3lxTE0tUDBlQl9pQXVhODQwRGR1WFJHeHRTTWdYS283TlVsS1RlRjIyT0NmbzNJWGYwNlZaMkh1b1B3clBzbVVPNlpPdEx6RldjUnIzX1JxTF9EVXAyYzRvVVVuMG1XRm0yUmJ0ZUI2d2MyMXpVUWpONnJPVWJwd2U0Vk8tWGJVbmJldGhmeUh5VmdIdXRXYldmLVRpYkZGRlhFdTUxQ19lOVliUDFYQzNYU3ZJVzlVZzlOUGlEQXFOQmxwRWVvM0JjZldpNHU4X0YwQVJFdXhNVGFlR2ZjUDBVTzladGVFRFFULUE?oc=5",
+     "domain": "thehindu.com"
+    },
+    {
+     "title": "Video | Russia Ukraine War | Putin Issues Retaliation Warning Over Oil Refinery Attacks",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ1FCb2FUbXQ2LXM1YXJxc0x4V0hSYzJrcTBPcG9fVWJranpMRG03ZmExZDBqVU96eUxPeHpGeEduZmtJSFBUVEVFNzZwc28yNi1qU2dZalc3c0JaVG45R3VjVENUQkJmblphSUpGby1oNmI2X24tTHAwS1dzNWY4aDRhX2pLU19Wd0NoMWt3ajFBcUpnSlV4WjR5QmN4YWREbmJTLWVLU0dxd0ozMjlFVzZR?oc=5",
+     "domain": "ndtv.com"
     }
    ],
    "error": false
   },
   {
    "name": "Africa",
-   "count": 1,
+   "count": 10,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "John Matisonn | US and SA’s blue waves: There was a difference",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYS1ZR19FbU45ZUo0TFdqaXJsTTA0ZzdkZmZHVFBHdllLdXNxTFdCU3EtZElpeUNHZmt2NE1jbVVYdlIwRGhpMzBPbWgxbVEzN04zVHBFQkY2aUFqSVk0Q25CbjlyczA1XzVTaU45ZUYwTGdRTkphbEdNNTV3S0EyOTZIMTd6eWtSY21HRXZ6b0dmRzc0Ymp4a1VreW9TY0dWVF9Bc1I4dmN0UDZ1M0ZxeGRnYm9EQQ?oc=5",
+     "title": "African insurgents take war to the skies with off-the-shelf drones",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNUtOSDBfS2tnRkNfcldDSGVCaUh4R2JoOWp4TE9LUU4za1JuZ25NbzlPQ1B1NUlCcVlQckRRaF9hbWpNeDNXUl9kSFZMZENZckhrQzZEZnZ5TWpPM3JlRzFOZTh6eFgzXzluR1dWWWRJUXlNS0tDWUlMQWZCM1diTFNjQ0c0SkVTU1dneEdjR1JmM0xURkFXdE9BamcyZFo3UUhfOEIxcWI1TllWRnc?oc=5",
+     "domain": "nation.africa"
+    },
+    {
+     "title": "Suspended sentence, deportation for man who tried to join Russia-Ukraine war",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSkt5WXk2VldhcGU4c3p1emJyQUNwWXl3OEYwdDNHWUppeWtkSk9ET0RwSEpvSDBfVmlrWDRnVHN2REJQVnNSaW12YndvOWxEbXlXbWE0NDBhUVY0cElLNWx4bV9uVVpyRFBVWUJ4R2hCM3laRHQwZElJUFRwemY1NjdDRFBiUkg5M2VCenhvd1pZRG9wbk9kdlVtdjFHMWNLMk0waTJuN2syVmtEdXg3cFVPZFNnNnQxaUViaVY4QjU1bUx0dmJHbjZZbkJGT202SlkyMXNrLWc?oc=5",
      "domain": "news24.com"
+    },
+    {
+     "title": "Ukraine defends Libya drone strike as two Libyan soldiers die",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYUlWbUFwOXlnbHNQOUFDMENnc1FjMzlKSjRoT3p1TTNvY1ExVExCc1I1UWdmWmV3bHAwdC1KVXcwM205QjB5NlhBdHUxVGRicU5sRm1LNVBuNHFnOVRfVjlNNmltX2QtN1ptRkRWUDNCaWE1MWFlajRGZThJeG5EMGd1VWE1LUVuNFBUWmhVV2hvTHMxUDQzZDNYc2VJWWNiQnlZdnZtbTZyUHJ1a1BZ?oc=5",
+     "domain": "nation.africa"
     }
    ],
    "error": false
@@ -107,7 +202,7 @@
   }
  ],
  "framing": {
-  "text": "The headlines offer little basis for comparing framing, as almost none relate to the ear",
-  "model": "claude-haiku-5-5"
+  "text": "The UK and US emphasise military casualties and escalation risks, with the UK focusing on strategic implications and the US reporting death tolls. European coverage highlights policy divisions and diplomatic developments between Ukraine and Hungary. Russia stresses military operations and accuses the US of halting aid. China and Middle East outlets provide minimal coverage. India reports on humanitarian efforts and diplomatic negotiations. Africa mentions Ukraine's drone activities. Latin America has no coverage of this conflict.",
+  "model": "claude-haiku-4-5"
  }
 }
