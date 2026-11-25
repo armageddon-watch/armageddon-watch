@@ -1,198 +1,98 @@
 {
- "generated": "2026-11-24T22:30:38Z",
+ "generated": "2026-11-25T08:43:46Z",
  "window": "last 24 hours",
  "source": "Google News",
- "topic": "War and conflict",
- "focus": "Ukraine",
+ "topic": "Earthquakes and eruptions",
+ "focus": "Weak",
  "regions": [
   {
    "name": "UK",
-   "count": 100,
-   "capped": true,
+   "count": 0,
+   "capped": false,
    "tone": null,
-   "headlines": [
-    {
-     "title": "The Ukraine-Russia war is escalating – and it will go global unless Europe speaks with one voice | Simon Tisdall",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR04wVEpvVktIXzloaDJpTndrT2N4ZndnSVlheldaWUx6VUhtbnQzSVRSM2pWZV8tOHUyV2o5Mm56VDBQNG8xS25JTV80OWh6UFNNdFNHODd3NFBfZG8wTi1PcUQtOHp0SGJJZVU3RUhtSkI0YlhkLUIyLXotaU1rakhLMl93YWxsT1E1eS1QUkNWUzhNOXFtRm1wWGdMN2duX3RpanNn?oc=5",
-     "domain": "theguardian.com"
-    },
-    {
-     "title": "Businesses supporting Ukraine told to 'act now' to protect against Russian sabotage",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Oc1E0WnJZUWlpRU5CNEd2am9Vekt0ZFFBUlRaUkMzZGtXaXdqNTZKczlvcFBMd04wM1Z2VF9JWEhQNmp1RFBTdFF2YnhyYmVlRFdWU2R1R3BWZVNJZlE?oc=5",
-     "domain": "bbc.co.uk"
-    },
-    {
-     "title": "Trump calling Putin a 'friend' was 'nauseating', Boris Johnson says",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLUVPLWRzMHFpU3ZUTm4xdmotcXlVREtidHNFcFNpQUFOdFJMOU01ZGFNSjlKLVRoRXN0NXhUXzBrcWthQnhyYWpyVmRwSnA3NGZuVGRockRKMU1VdkpOUlk4NUR5aTBON1J0YXJDZ3VYUmJYWGJLS1JSM2plVjRtRnJGVjhhbUl5YldsSFhNdnJNeHVPRTFz?oc=5",
-     "domain": "news.sky.com"
-    }
-   ],
+   "headlines": [],
    "error": false
   },
   {
    "name": "US",
-   "count": 100,
-   "capped": true,
+   "count": 2,
+   "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Radio Offers Russian Troops Classic Rock, Nostalgia — and Pleas to Surrender",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaFhSMWNKOHQyYm5UamVCemJkVFRTN18zam5HOHEwVmdoUkF1elBZLTNqWElfMVJxdVl3cHZmeC1XZmRxeEFfb3h2bzBOOTdKQ3lrcjExTlJBYnZodnlaM3pUQnRsYWZxaDN5Zm1NcVd0UHU0VlpsbjV3UXpCdGJ3NWRzM0RMbkV5TEQ4UGFSYw?oc=5",
+     "title": "Map: Earthquake Shakes Peru",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMFI2ZkdVM21PODM4OUotYlUzSUNudkxJSkREMkp5aEJ4bHFfNVNfNHZXenA3ZXdFeDQ2empmdWJqTDZ2aFp5cy1oNWlHSWRfd1AwOVhRNUdzTlNKcEliazZ0Q2xNMUdRX0pRSjJyeFZ6WVV6TFZmYnpsSzc1QnZWdnhKMl9ZZGhOV3p1MGhZUE1sUHQwMzBIVmNR?oc=5",
      "domain": "nytimes.com"
     },
     {
-     "title": "NATO warns Putin could strike before European army responds, points to US as military model",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQamoyVG5YYks5dkM5VURsYk9VcWxLYkJsQ0lITDJmUS1ubTNzZ1hCdWtDdmowejNfXzdWRE5rWXpNVng3MU9ZTGMwaExCbENIR2RBdjhZLWlfLUU2c3FOS0g3Qk1uSnlzZlh6MUJSdFVqWGZ0QjdJeXY3dERqbDdiYUtfRFludjJGNW95dndTZWlGcWVjVURraF9hYVhkdm9WMEdhaENiaDBNLXfSAbABQVVfeXFMUFdYR2tIYkczdVNmci03REZEVU9wSlF1VlpzOTctZVl1X0NPNDJiM2p4OHcwY1M2NmNrQmhiUThfVE9kNk1HeWFpSkFqYUlGaF9yRzd2d1g2ZV9EZTJNRTZlWTlIRS1XYXR5clBPSS1XTVFHNGxyUXljY1RXT0E0VXR3SF9TSDV1VXA3SE52X21Ub1NtdGRwNnRGWEViUnMyeVI0SVg3eFJiaWVrVzZVM0E?oc=5",
-     "domain": "foxnews.com"
-    },
-    {
-     "title": "British officials warn UK firms aiding Ukraine to brace for Russian sabotage attempts",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMjlhMGNhc2xSNHhZdFRiSmZOaXhPZE50S2hxczJ4U1IwNWV0dmZyeTNkM0IyMmFMcHFJNDhjZnVUcHV6dG5vU2ZqUjRwS09yYTVqRm1ob2tZQktGZkM1NmktTVJKbVZUMWtHX0MwcFRYeUhmSGFTRm1KM3dDTFpLUTVGaVZ2YWdiMjR4QkNrZGtZbFV1V0VJRFpDSGZ2Zw?oc=5",
-     "domain": "apnews.com"
+     "title": "Osama bin Laden",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vdFRGNm04SU4xT3R1eTlGV1RlWllhdEZuNzMzaE53ZG13ektJOHF3T0hlVFlkSlZtYy03YzlQcU56WWhnY29vblpYZEF4cnVfZUVlT3EyVnp6dGNLRnA3dDlB?oc=5",
+     "domain": "nytimes.com"
     }
    ],
    "error": false
   },
   {
    "name": "Europe",
-   "count": 100,
-   "capped": true,
+   "count": 0,
+   "capped": false,
    "tone": null,
-   "headlines": [
-    {
-     "title": "Weapons, war and wavering trust: Germans want to see more restraint in foreign policy",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQem5BYUZLUVMyRFVLaWIwLWVWU1dxb01UdU9mTnVzQk1kcHUxZnhHSjhGbWYxTXdWQzRvYi00d2hJT0FXWERuQVNPcHljNU10NzAwUWZGSTZMRWt5Sy1Vd2FPU180Z2djTGpnVEtIZDlnNGQwN1VYMTJCWm85SlhFZUk3eEJ2WUdLU3daMnZJc1A1UlI3X01qUzVWRUVyRnlUcUVtNVEwQTV6bEdTM085MDVTNW1DMnfSAbcBQVVfeXFMTjJYX2c1eWN6a3MwYWVFNVBLQVdKc0ZHSWNYMGNicEJSNWdIaDk2VUx1WWNMTm5DYk9LYk1iWmMtM080VXdXdVR5RHg4MjM4SmlSUUFnZWktNmg5R05MOXJvNWhXTTVSMlp4TlVxRTZjSDh0LUE0MTVYcmZZU0RTd0lveHhORDNGQlNFbDhvamZWUGExNTVGQnhOT25JdXJJdU8xa3MzSWU2bzhoWjhNZklEMVZLM2Q0?oc=5",
-     "domain": "dw.com"
-    },
-    {
-     "title": "At least 490,000 Russian soldiers killed in Ukraine, data leak reveals",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSmQ0NktNbDhmRnRrNzk5SE9ZOXcyLXFGbS14ME92TXpHS0pTY2p3cjFkOEY5aExhRy04c0pPeUVsMFlGbnVkXzdvTm5lVEgzRjRFdjhLYkVRUlpMSHpZYS1reEhjR3JvMXNQdk1xQnNRaEVYdEtmd1BCSGwxaldRTjlYOW53M0RVM3FISkZ3Wlg4d2twTG1TV0taZFpRRHk2ZHVMX3ZtWmIxNVhwSmtfelFR?oc=5",
-     "domain": "euronews.com"
-    },
-    {
-     "title": "Zelensky urges four-way peace talks with Russia, Europe and US 'as soon as possible'",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVEtqa25rSm4yYnMybWpTam9YNEVLTzFMbjQ4cDdqRkJoc1IxNUl2UWtGc0dkQXU0a3FjVGM1NTlYSXZoM1ZhakxfblhibjB1cXB2Mks1MWhITEVfZzVxYXVKQ1NGZDhvX2stbmNwU0NqdjhYWDFuVGp6SWZBTGJkejdOTVN6Q2MwN2tqSlpNLU93SU1NMndZeUhCY0NwQVRyR21PSkh6Z0NzZDNOLW5PemJGVFc3LVJ6NVJfRzFFWG1BY00?oc=5",
-     "domain": "france24.com"
-    }
-   ],
+   "headlines": [],
    "error": false
   },
   {
    "name": "Russia",
-   "count": 81,
+   "count": 0,
    "capped": false,
    "tone": null,
-   "headlines": [
-    {
-     "title": "Pentagon delays Patriot missile deliveries to Ukraine — newspaper",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA0clBmMThnWktPYnFKVXJnUlJLbHJLcWMxdkhtZzVxYktrSVJtYjd1dEpSWkhvRnhZVXN6VEczc2Z4Tmwt0gFKQVVfeXFMTktETXJTeUp6YUVzdWhSdGExQlhtcU50QTBlQlhPQVYzSlZBQUV2R19VNUtiUWRJQnZ5TWJiRlFnZlN3UTd0emRYRlE?oc=5",
-     "domain": "tass.com"
-    },
-    {
-     "title": "US",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rc3RteVdmS1VGRzUzZ2RIWjFtajhrcms2aTlqOUZpb0dJeWE5MUNlaUhZY3VuMjV2ZEZrTHZVQ0FDU0J3NE1UNkNocHFsZlNVMjNHODhzSTkzRzgwT2VF?oc=5",
-     "domain": "rt.com"
-    },
-    {
-     "title": "Russia so far sees no added value in EU participation in Ukraine talks — Kremlin",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBNdFdmUUpQZXBNTlV6QmItN21qNlQzdC1nbFN0MFB0Z1RuSWJTNGNnV05GOWpHbnRPcDRZUXpfbjcwNmVDeXNON9IBTkFVX3lxTE1zRklIYUdWcmViWWtSa1ctS1NKQ3VLakEwU0FNc29iRDM4dHlzakN3OWZvTU5UQnJSYzhnSVVSeHZiVXRjY21BS2x0d0lmQQ?oc=5",
-     "domain": "tass.com"
-    }
-   ],
+   "headlines": [],
    "error": false
   },
   {
    "name": "China",
-   "count": 7,
+   "count": 0,
    "capped": false,
    "tone": null,
-   "headlines": [
-    {
-     "title": "US PENTAGON DELAYS PATRIOT MISSILE SHIPMENTS TO UKRAINE - REPORTS",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iOGxOQ0taRXc4b2NUSEZIbktMbE5ISFBRbVR4T3luSFNSM2Z3NVYxaGk0SXlzZVhYeEVzYzVFWURPODVqZHRkZDBmNlFTMkJlNzhhQi1xT3dYOTVvcmU4alJQdXVwSWVCR1VhUWR6anVLWWM?oc=5",
-     "domain": "news.cgtn.com"
-    },
-    {
-     "title": "Hacked Russian data suggests nearly 500,000 soldiers dead, reports say",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWmdzREpoQjd6S2dQWWx4SjMtekFQeXgzbHlUdWpydmU1RHNhNFdoWkZ6cnMyRmpGOFVTdGU3aHp1dVM0SzBVUGluZ3RHaDRUU1poNnZTdHlZVHA2UGFzdDVwVkNWWm1velU2S25jQS1aVW5JTTBwdDJ3RlpfNWc0QWRrcUQza0o2dGpxcFY3T1ByODVIRHBiWHFQZDRUUVRMZDBtTjdLb2ZCMmtYQzUyZGhsVVZnbl9hUGtVV2NldXZOYjdDTnFZazR2RVVyYTJWM0HSAdIBQVVfeXFMT1pnc0RKaEI3ektnUFlseEozLXpBUHl4M2x5VHVqcnZlNURzYTRXaFpGenJzMkZqRjhVU3RlN2h6dXVTNEswVVBpbmd0R2g0VFNaaDZ2U3R5WVRwNlBhc3Q1cFZDVlptb3pVNktuY0EtWlVuSU0wcHQyd0ZaXzVnNEFka3FEM2tKNnRqcXBWN09Qcjg1SERwYlhxUGQ0VFFUTGQwbU43S29mQjJrWEM1MmRobFVWZ25fYVBrVVdjZXV2TmI3Q05xWWs0dkVVcmEyVjNB?oc=5",
-     "domain": "amp.scmp.com"
-    },
-    {
-     "title": "Russian oligarch Potanin gives evidence in blockbuster UK divorce trial",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQTZaajdtOWJvaGxRU0RnVUozczFfaGkzNUpWYnpxbFdmaldPWW90SHFQU2kxcHQxX2RBUlJDd2Y2YVdZQ2FuaG8ydXJwTW0zbXRaZVRnTUlvY25rSG9Zckd4aDVqTGRtQmtRWDRCX1U3azVSQ3hXbUhjRllqV3ZfUC1KaDdaeW03YzNpeXpURjN0WEo3Q2NMaWhkaGdNV3JTc3N0NmotN05Qd2owUWxxM2hKVERnZ21IQ0dFWTV3UWFidWx0d0Y1R0NGX2ZwcUVj?oc=5",
-     "domain": "scmp.com"
-    }
-   ],
+   "headlines": [],
    "error": false
   },
   {
    "name": "Middle East",
-   "count": 38,
+   "count": 0,
    "capped": false,
    "tone": null,
-   "headlines": [
-    {
-     "title": "Why are Russian warships off Libya, and will Ukraine’s attack change that?",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSk85RXFLazAzd0N4clEzTXBnaVhFVUF4VG9MRlFfSHVuLW02RFNlaENvQzM5OVF1a0FrUEdQUk1PU0dRbUZEbjhqSHpULUJtdzRBTWlubm9ZTWpFYklDZ2VxdXlBR2lfMVlmZ2xQaGt1aC1Tdlo4RTVXUmFBdzRhLUxvNmY2S3hvSW05SjN1aW9jV1A4SXMxaEpuNU1BcURXbnRHVURJM1c0V1dsQVg5aTZaRdIBuAFBVV95cUxOWnc3X1o3VExtU3dOaTMxb0F4MERlaWhhSVoydVdJM1FoN2xDOFMxSHBPa1MzeEcxN29KSlMtaTI0N3NwSnpGVnZ6WFlZR1JWSEZxUEd4dEpwN0I5bzFLNVhjaWo2ZkhaRkwwcml4RDFLdlp1YWJfeFlWU0p1aE5wVHBvb3dOTEdWRzdIOEVnV0JWY1lYdndzSkpZRlNELU5ORmJiczVPSy10SENrcC10Y0dfRmJtRXBZ?oc=5",
-     "domain": "aljazeera.com"
-    },
-    {
-     "title": "Hegseth yet to approve Patriot missiles already allocated to Ukraine, report says",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbVdlajJJMU51N3Q0MklxY0d6dXczS3RFd2NWTTY5N3RVOUFodGQ3Mm5OQlpTbnFhNDFfSTdjcDdTTUNwM0xOWUN3Zzh2UWlmemM0am82amFKMHZuNDQ0QlJSeHB6czRlTEp6dVJsYVZvcThyclJqdUlNTzZHVHNfQVFUVkM4VXNJbDE3emdEclVpbnlTQmxzV0tQbUNES1RfX3lHWXF0ZF9VaFRaY1Q5U2FfUy1qMTZsTExmNXVWVkd4ZFZwZDZWTDZSQkjSAdIBQVVfeXFMTVFqZlBFRDZJdy1RNG53NktjOVJYODFXaEs0Q3Rtb1d5eFRVcG1idjZQQ1ByZGtUeGJuQ2wtVTNPZkY3UDNyaWczT0U4YkZULWtIWGl5NFZpUDhxaHpkN05UQThid1BsZkFpZmZCOXhLTlFYQ190SDE0d0lYYU96em41RWR5QjZoZlNVZ1k0THdPN2lVLXlRbEpzdVhGWHpDVTNXRktUUDE5LS1TV2paRUkzMzFKR29OVldsLWliNmFjV3RBM19vZ2V4SF9ldUhtcExR?oc=5",
-     "domain": "english.alarabiya.net"
-    },
-    {
-     "title": "Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVlLVzNGdDA4X0FlQVJiZDFvR2RncEpnbThvT3ZhSTVrUzlwaXh6aWtreGRaaV82T1B3WjA5dmpkNldEUHUzRFZaUndnMXQyeF9jTnI3LVZ3NTRSWTBaNkpBT05IVEJDMlFyWVN5eTlHTjRPYmZlWm1JS2VNMGNjb09Da1BieC1WdldIQW5IZzFFUkE1MzRRdFFqWjB5STNFdC1zT1k2ZVRvMFlmRDJYZDhjNC0tZlHSAbwBQVVfeXFMTzlnSnlkOTlWUC1oeEdrU3MybWZuN2g2bmlVcFcwY29mZzRtb3IwamlBMEdjSlp3aEpJaTBiUzB0NXA1NElrWmtwMnZSZWdJWWE4dW9Wb3IyNnFqRU5KODh0eVpyLUZxQXBZSUQzTTQ5RWd5Tlp3UXowMnNBQmxRRW9UVkVad3RFZjRiTDVKYWJ1cGwyM1lubHlBNXI3OG9WaWM2SjhEZHlsNWxEdTF2LURHejZlWE52d3F6dlY?oc=5",
-     "domain": "aljazeera.com"
-    }
-   ],
+   "headlines": [],
    "error": false
   },
   {
    "name": "India",
-   "count": 100,
-   "capped": true,
+   "count": 2,
+   "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "US delays 60 Patriot missiles for Ukraine as Russia intensifies attacks",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcTc0UWRLVWtscW1GdTlZSEMxbEFpbThzdm0xRnhDREM0WVlDQ09hZnV3cWhHQXlrb0pJT2I2aXA4LS1IdXlBSkFyTlZkcDluYWN2aVdxQjJYd2dpSTNxUGpZb2owbE51bmIyd2lROS13bHRpVVM3SWZsbGdUN2dBZ0pnTlpneUxKSUROQ0NpQkM5dXNfMTRqVkdMempmcFpPTUYxaHdWWW56ZEVZRmxoOVpjUnZrdURzWVVwZVVESjJXRW5jQ3pieFZIN3kwVzAwVElNMzA3SEhFUW5nbU1F0gHkAUFVX3lxTE9qYWF4Q3FoYlF4cS1lZmszQUpPOFBZMExIUm9PMGtFdV9raVk3bUJRTG5qaW96Qm4zNm52dHgyZFVUdVU2VEtYR2IyNUVxVElBeUhORkRXRGpjLWVyaEotSUtFWnB2ZWZWRUZDSGViUEtXS1BRUV9OQVRhQktNUEtMbHJSMTNJM3RZOTlBOTNSbmFRUXNHeElPNGUxRWE2UDZ6RTgwWWhNbDI5cUFTM25ORW5oYlhrUU1XXzVwM01SaDZidlVRSTN4NXRyX2dYb2RIb1Z6ZHBuQmFoUnVraUdxWDlRaA?oc=5",
+     "title": "Waste piles up at Kargi stn amid handover to DMC",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTl9XdW9jRkhiWElXakh4SXN4a1ZnUlZwU3VHcWhCTVJueEx4ZE9lR2xCTWJHVHRHYmVNUEdMLTJYWXJBS3ZFcE1DeXJENWEzWUxiTTAwdjN1aDJXX2Y5ZkgyRDR3dEJqUjg3RElvelFZTkF2R0FrNndqUnB5d0sxUElFZlA1T1FJOVRMNjNQSFZTRXhLYmQzX1R5bXk5QWo4SDdEdjdXRHlhTWJuN3FoSkUxVFJRZ1ZEVjBHS2pXV1p1QdIBxwFBVV95cUxNX3FVanV6MDd1d2d4Z1BzbzBITnhrN2xnZDJVdmh0bjJPci1BWVltX2hsSDFLckhSMkl5Vm1ycHpyQWpENUVsbFNJY3VabXQ1UW1abHlfQzlnRmpkdDZvRkJjZmJqM2F5LUxoNkl0Zk8wOGQtWnQ4WTRNQ3hhUGZqSU5fbmY3UmhjSVhvQ3A5RS1DVnFQcTZBWF92LW1IVFg0dDQ0LXJXdW9YdWZIM0kyaUk2VWhWWUlKcUlCS0JlUUFJQVBId2pv?oc=5",
      "domain": "timesofindia.indiatimes.com"
     },
     {
-     "title": "Russian Man Who Opposed Vladimir Putin Is Now Making Missiles For Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTUNHN1lENUdPSlU5cTRQZ0tJTnNkQ01rc0xUQkI0eTV3cjFueFBxRWw4WnhWbGg4WGo1YXpkeXF4ckxUMVFuUkg5d3lwQXAzQlo4MGprYXBtMkRXX0JsYXN3dnZHUV80emVQeERGem1jZkpUTjhNbkxsQkdTTzg4ZjhLRmNSSk5aUGgyaG5Cejh4aU5jazh2LWxNSDBIeVJaV2dET05SVklYTFRCN0FtWWRNOTlHSTlYR3YyRDVoelU3MUVCU0NsWS1vQdIB0wFBVV95cUxQZFZ2QWJrb1BXdDlGY3RCeXJyV21LREtWclZWcWFnb0tzOGd4SjFsUE01V25EbVhuaFJGYi1Cd0xQazh2SlVzQjUtMUJCak9sSHVid2xnVTNKanhycDhWOTBnR1kyTUlsMDctdWxXaDBHeTJFVktUajdEMGViRGZTQ1NueXlic0l4NGNyOFdRdlRMQmtnWTFfc09Jb05pVmFCay1MZmlsZ1NkLWRTN2hVNWF6eGJnZXl2dzMycTJyV05xTG5hc3hyNUFQRXUzcjdmaVV3?oc=5",
-     "domain": "ndtv.com"
-    },
-    {
-     "title": "Invoking Bengal famine, India tells UNSC costs of conflict not shared equally",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNczJMc25jTko2OWQtN1NSa0dOaFdpZllEdjNzTVBJN3ZncHAta3hvNFZnNGF6ZVFQTEhQWmV4ZFB4b1huVzA4OTNHNy1zNXFhdWZvZW1ucmJvdmFvNkZ1V19lRk5mdTNVZWswUWRjcld6N1ZuRlFYSWdnX3h0VEVmLUxFWW4yUzJKTkRoUXNLbGlkZjJKMGlzQUNDUmhRT1pIbFNvdkVmeHBRc1NkSnpRS1FXc0Zoa1RvcVdtTUVPekd3VEZSb2VYM3hnbkFDUnhH0gHXAUFVX3lxTFB4Vng0Tk5sWWZKRnl0b0ZKODFBRlpRQTNrX242WTk1SndGay1QN0VNcmtTWFVkTXFuV21fS1VsY2ktRVVnc1FKc2pHZlJEcnlISnFIUkhzSF9OenJnNnRSWEpNdE95YmRpT1hLYlA3VGU5QlRaUUd3b2ZQOTlkSlFuYlZTc0FwNGMxeEIzekNXMV9IQ0ptMzdTUV9DeWloZnRUV1RzRFhTVXl0ZGlHOE9ENUpVdlBtWGVKYzgyMTdkN3RYVGJwM2h4WW9nMlYzU2F4VklXMk5z?oc=5",
-     "domain": "thehindu.com"
+     "title": "HC flags concern over public fund wastage, seeks affidavit on quality of public works",
+     "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOQ0lVeHJQTGY4SXB2emV6c1NCRDFPZlZFeWZvQ2V2SXBxQ1VlSGNqT1FESEJFT09jdXVVQU9QN1U1OVJrdV9aZW9INlJPOWp6YVowUjJ3VDV6OTZrUUFrdlg5elFLMW1rRThPR0JKV1hDam15UWVOcnBoM0hqa1FJbGhSSC1tXzlzRU9DQ0NkRHVxREozeEpCTDYyZVk1MzMzdkxzSW5fSUk4YmQzWUpxZ1ZMYXprejU5UVpHb2tKbE1rbEtaa2lYTDhUMEczcEF6STVhQmZSVjdiMVd3TGFQdVdub2Z2b3prSGd2dkZQZWhPLURHSHhjYk5yTEhSQ3pXaWtGYTk4RXV3NWNQbFljTDVnaFB1RlpQRTRENlhJY1oyeUhZRXhicUhZZHF2TEw1b1BicWpqS1BlZllxWFBycHJB0gH3AUFVX3lxTE8wLU1RU3Z3X1Ffc0pEU0dNSUlTZ241ZndTRDVuelFNcDF4azI5WER1VTJ2SVBOUFJkVE04bWpTcVBfLWJXSUhXYzNHa3lmRU9JNF9xMGxLU1hWZk4zMkFnQmJxRzhxT0dYOFF4ZmhwZDFETWY4WFNYdTYxRzFXQUdkeWVZWTVQU1FZQ0ZheTNEUTlhdVRkYmZLaE5BUUVhNk53SFRkYXdtN3dncW54QzMxaVNsS0dxU1RoaXU3U3E4UzBDUFZTVS1kY2d5U1FJeHZDX2ZfNjFlbnRFb3FqODVwMUpzZlNRdzJzdlJ6dVhXWV8tbDdYR3M?oc=5",
+     "domain": "timesofindia.indiatimes.com"
     }
    ],
    "error": false
   },
   {
    "name": "Africa",
-   "count": 5,
+   "count": 1,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Ukraine sinks Russian ship in Libyan port using maritime drones",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOci1MTkluNktBLUEwUm1qTW1ZTlpXMzBoZ2xDWExtWlJCRzlGcXVBYjRXUUZMNkQxTkVtZFRELXZyeUdfVHpDdmJlMHFXU1Budm1GQ21VNk9QSEJJcXNBUnVHMEtjVTUyeXFXMldvVW11ZGF6MjJGaE5aSF9HRnJxdTJGVzdIaHJ0YU5hYm1pWklab28?oc=5",
-     "domain": "nation.africa"
-    },
-    {
-     "title": "Ukraine denies expanding war with Russia after Libya attack",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTnVJWndNbTlhZVk1bTQ5MDBFOTdVR0VITEdsRDdTdWV2TndoVTZvNmw3VlE4Y25ZUnlGSFhpV3FlYmVHa1R1NVNVRDBYZ2d1NkJqWC1FT0pzUWpvZTBubkhxNXkySzBKeEk0VW9GWWpUTjBMVUdUdnJiNkltVy1LSDRiZjU1U292NDNkRWJLYThfbG8tMG9nYmZJUzZPRXpKZFNuckVqSWExTlU0VEFEV1lPdEYzR0tRMlN3bWl4TmFTZw?oc=5",
-     "domain": "premiumtimesng.com"
-    },
-    {
-     "title": "UN mission condemns Ukrainian attacks on Russian ships in Libya",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcUpzSkVZd1JTT1IyVWpJbzF6c0JNTGtjUktKVkIxeE1XN0xrS2VaT3pGOGZPblp5dmh2cG41cFlYeG0yQ2o2ZDhlNmhscXpJS3RtUjlSZXBURjhMbTFpWHpwQVhESzhSTG8wNmhtZWhaSWlZSnFRTTFubjY3dFVfSk5SOXA2WTI3cVk1cmFEb0g5OVpEQ3V2a2pVXzgxbXc3NUNPWUJKeTNIaDdzOHFLNW5YOEo?oc=5",
-     "domain": "premiumtimesng.com"
+     "title": "John Matisonn | US and SA’s blue waves: There was a difference",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYS1ZR19FbU45ZUo0TFdqaXJsTTA0ZzdkZmZHVFBHdllLdXNxTFdCU3EtZElpeUNHZmt2NE1jbVVYdlIwRGhpMzBPbWgxbVEzN04zVHBFQkY2aUFqSVk0Q25CbjlyczA1XzVTaU45ZUYwTGdRTkphbEdNNTV3S0EyOTZIMTd6eWtSY21HRXZ6b0dmRzc0Ymp4a1VreW9TY0dWVF9Bc1I4dmN0UDZ1M0ZxeGRnYm9EQQ?oc=5",
+     "domain": "news24.com"
     }
    ],
    "error": false
@@ -207,7 +107,7 @@
   }
  ],
  "framing": {
-  "text": "The UK emphasises political rhetoric and business security threats, featuring commentary on Trump and warnings to firms. The US focuses on military aid delays and NATO's strategic concerns about European preparedness. Europe highlights German restraint debates, casualty figures, and Zelensky's diplomatic initiatives. Russia reports on weapons deliveries and dismisses EU involvement in talks. China, India, and Middle East outlets concentrate on Patriot missile delays and their regional implications. Africa covers maritime operations in Libya. Latin America has no coverage of this story.",
-  "model": "claude-haiku-4-5"
+  "text": "The headlines offer little basis for comparing framing, as almost none relate to the ear",
+  "model": "claude-haiku-5-5"
  }
 }
