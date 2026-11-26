@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T21:46:04Z",
+ "generated": "2026-11-26T08:26:41Z",
  "source": "Google News",
  "quakes": {
   "us6000ucij": {
@@ -63,14 +63,14 @@
      "source": "Nature World News"
     },
     {
-     "title": "Magnitude 6.5 earthquake strikes near Vanuatu in South Pacific",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JUkJqal9idmV1a0E4eHhYX0o0ajl3RG1TZkU2X0Q5X3dBYTNLbVc3S2xIdW94N1NuenZtUWZwQzBYNXR5ZU16a28zQjhrRW9KMFg4?oc=5",
-     "source": "سانا"
-    },
-    {
      "title": "6.5-magnitude quake hits Vanuatu region",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0RUhZdUlWN2ZHSFZvSzhmMXRJRVpsLThvd3BTZzg1OF9pUkxUNi1wWDZRdGEzMkxqSVFBeEhWeExZdzd4VXc2SGJSZUtCcjBoSzlDZW9UMm41aVJEdVo2bWZ0MVlYMmZMY0NjWHJyTzBZdVE3eXF3YnB4Vi1kNDg?oc=5",
      "source": "Azərtac"
+    },
+    {
+     "title": "Vanuatu region hit by 6.5-magnitude earthquake",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbW5NSmpyaHBRcUl1MjVYeEZiOEZWcUNLM1ZwbGNlLU01RDRPWlRqcm83MjlJeTROOVdRVGRnNTdYckhVSzhWWHF6NnV5MW4wSGNNTFlKOGFVUXlBTDJleHRJU0lITlFYRHkzLWQ1RkZpS2k1SXNaVnRVQjctODVlc041YzNmNi13UkZ5N3hZeHhjTWVQMXc?oc=5",
+     "source": "Breakingthenews.net"
     }
    ]
   },
@@ -207,6 +207,11 @@
      "title": "5.3-Magnitude earthquake recorded along Carlsberg Ridge in Gulf of Aden",
      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQWmY3ZmViUXZqN0FxeFdXbmxGU2o1N0o5OWM5R1hqTklyNlFnMzIxNzRXXzRCX1Q2WjBmSUdZakY4RzQ5T0k4UUU3OTVwQ1U?oc=5",
      "source": "وكالة سبأ"
+    },
+    {
+     "title": "Strong mag. 5.4 earthquake - Arabian Sea, Yemen, on Friday, Nov 20, 2026, at 12:44 pm (GMT +4)",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUXBkc1hURnJJSktIdU91ZTRCTk85aEx4V1BnMHMwR2llLWVZRlVPTHVKdml2UHRFRTRwUlhZYlgzT29CMTR0OEo1TGowazFqeHdUQUNWSjZpNjRjM1NpUXA3dHBPX3FWODFCYXI1eU12M2phQkdSQkphMDQ0b213azJwa1hkVEx1b0E4d1VEUHUyc0Q2U0ZrYkxlRUpreFlFcVFyMHRBenRWX1RWTk56NlJlUQ?oc=5",
+     "source": "Volcano Discovery"
     }
    ]
   },
@@ -222,11 +227,6 @@
   "us6000ud3i": {
    "headlines": [
     {
-     "title": "M5.6 Earthquake Shakes Eastern Nepal Near Tibet Border",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb2FnUEJMTHRxQVlBUGZxUm1sTDFEUHNiYlYzRHdUNnFRcjV6YkkxdnU0R245dEJQY3RBM2JuOG5iSVhsRWhGRnlZOGMzdTRVOTNyb2t5SC1ubkstYXhwSU1KbS0wZ0RSajk0LTdWRTlfRXloMDN0Qm54d3VoMXR2Y1JacjdyMUNXVFBmVWZ0OG80SmFXQ3JHVjB3TTRKeEdjVURfWlVaTTA2S3dPNjJJejRveE1TS3FNS21LbTYwYw?oc=5",
-     "source": "Nature World News"
-    },
-    {
      "title": "5.3-magnitude earthquake near Sikkim’s Mangan, tremors felt in Nepal and eastern India",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQT3BleG5yZExPd2RuVDZQZExtMmRDQ0ZsN254S2VDaVh0ZGNHTlNQN0hXZVQ5XzdYeXdzX1A5TDdEbkJCMGtEb1dQTGU0VzZBbnhoUVZzSERSNS13bGV0N1BRQUctZDZUczczVWxtbmJhMC16YUZ3RVJpR0dVNVA5anZweWp6a29oTlhaR2I3WVpNYjhDLWotRnk0ckY2MGlDYVFRTjF3NzlaTldWUnJzclhabVZEUTd4cklkRmgxaHJxTjhCVHBTeVA3V1BuQlHSAdQBQVVfeXFMT0RwZmw4QlJGaHotMWItSzZrYmdMTmtONk5XeWp2SnhwdHQyRGZDVGZiZ2RzU2RYUUxTbWE4bUZqeFBpSWNReW5ZU0dqaGVfNXR6NHhnOERoV0RXUC1ZeE1MUnVqaWRqWWVaQUk2Tnh0U3FQOHBnZG15bTlDMy11TTBUdVJ3M3g1ZjkwNy0wcGpwTzN6ZFdKRG5aWVR5SEZwejFEMFJLWGVQczliU2xNaFBsTXRmdmpNRS04b0hOVmZ5WXl5SmdlN09WdlN0QzlHcFV0d2o?oc=5",
      "source": "Telegraph India"
@@ -237,9 +237,14 @@
      "source": "Dhaka Tribune"
     },
     {
-     "title": "Magnitude 5.3 Earthquake Strikes Koshi Province in Eastern Nepal",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORTBIRVJZeE1TYnZfcV9FUVBfSlJ0NkNnX08yWW5xTDBiYXEyT1c0OWNSM0RhQTRENXhIN21yYW83cDdlOFdaS21CVVVvVER3TThLSEQ2NFIySGkwMkhnb2Y4bE1PZDljQU9NMm0tbk45S0t3M0FRdnVfcWQwSkxyTXRrQVJMdUlPcEZTb3ZkNmI0V1RfdEhqTnJOd2N5YktkM1lXN1dKelZoV01MVXN1bg?oc=5",
-     "source": "Qatar news agency"
+     "title": "5.6-magnitude earthquake hits northern border area of eastern Nepal",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVUctTWFNVGxfNF9IbDZtR0hRR2x0a1pKOGdXcndzM3pGZ3QybDBrN3ZYOWZMT3M4WTg3Q1g0LUV0Tnh0ZUs5QkZxa0dUSUMzbVZCOFlLaFRvR1dCX1pJOTYyWmZwbkQ4dXhCZWlXN2VNb0E1dF9sNmJDU0xxSE5lUUdIcDlkSFdDdk14SzBnR1VNV1pOTllON1FhSmxDcjRmYV9QUmxoaDQ?oc=5",
+     "source": "OnlineKhabar English News"
+    },
+    {
+     "title": "Earthquake jolts Nepal; tremors felt in Bangladesh",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBHYVlFU3oteDdIejk4cjhHNWV3M0pOOVdHNXQ3NXNyWnNfRURXVWNfX3ZpXzlXSUhoWi1mZjVZVjZ0ZV9hT1cxeUN3?oc=5",
+     "source": "Daily Observer"
     }
    ]
   },
