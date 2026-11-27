@@ -1,14 +1,14 @@
 {
- "generated": "2026-11-27T08:40:32Z",
+ "generated": "2026-11-27T21:22:00Z",
  "window": "last 24 hours",
  "source": "Google News",
  "topic": "War and conflict",
- "focus": "Ukraine",
+ "focus": "Russia",
  "regions": [
   {
    "name": "UK",
-   "count": 100,
-   "capped": true,
+   "count": 46,
+   "capped": false,
    "tone": null,
    "headlines": [
     {
@@ -17,13 +17,13 @@
      "domain": "theguardian.com"
     },
     {
-     "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PX1FDR0pvT0tNb3ZHb2xqNFFGbVIxdXFJVEQ4SXRtb080TVdWaERSOWE0V0dUeEs5cDRLV2swbDE1ejlPVVo4N2ZDUzBfazlqdjBLNWtXVk9VTWs?oc=5",
+     "title": "Ukraine is bowed but still unbroken as freezing weather sets in",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GbWV3dWZ1b216UHgyeTZQcWZIeWNodW50emlkd3FnQ3V2NEJyeW1ZaDJvdHN3cEZOcFM5U2VMRllRYkdmZGtPTndQTmZkMmhKNUJnbkxzVDg1RmpBMmc?oc=5",
      "domain": "bbc.co.uk"
     },
     {
-     "title": "Wife of assassinated Russian defector on Ukraine war and Putin's regime",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ1ZKdXRsOEQwYTh0eXJxa0J6TC1CbVlxS0tnclRzOVZwNjA4aEx1TlZHRTRFT1hJYXZHRDFUQ011ZUNDaUtjUmdaRWxOYS1lVm9RaHBqd2Q4dTE2UjBKalE4ME9VbVdCRFVZNXBVTVhGbjhmWHhxeUxnTEozR1NoSm1yRFktWmxLZFk2ekdjZTZCd1R0YmZtVUZvTVl2UmIxXzQtQ3NUSXZJQQ?oc=5",
+     "title": "What areas of Ukraine is Russia targeting? | Ukraine war",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdkdlY2RSSmZGZHV3c2NBdHBUa3R0OGotcjFUVmg0TFdINGtSMFV1QmJfNVVoOERSa2ljVEQ5bmVEMV9xQ21EVlNJTmtzSVRzd1ZzR0JsSGhuSmNJYkN1amc5dG45c0NRQVNYZ3V5dUdacWhNeEhGSlluc09vMWh3bTFMZG1WOERfSThMN0wteGViRFk?oc=5",
      "domain": "news.sky.com"
     }
    ],
@@ -36,19 +36,19 @@
    "tone": null,
    "headlines": [
     {
-     "title": "Trump, NATO chief push Russia to avoid any actions that would 'expand the war' with Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcnVTVzN1UXlLODNIalJUcFJsUFIyRjJiRHFfS1ZQQ1dkVnI1UDV2VnprZE5Kb3RSMk9tbE11eGpWUkYwdWJDQmFiMUFTdVF0MThseWdmTGJqcnVaTDAtTHE4aXFVUkt3aVNJdEhxcEJxajdTMWRQRTZER3VHY081dURDREVIb1dCN2d1dTg5TEZ2V2RpWlZ3Q2hB0gGfAUFVX3lxTE9iTXV3MnZ6eTJHd2FhdVVVRkNEdmw0UXpUSVNoV29QZjJZRmJOdnpXU3QzckluZXNHZDdQWDg4VzllNTU0S1FlU2I2RHFZUFBsX3YyVkZEMl8wVzR0ZmRsMFJzZHpCbGdreDk3UjI2bHRYbzM5VjJaWHQ3NXdzMGpSQnhpVGVlNTRVd3VCTVNmelBtN0MxTWRpaHhaRGVJRQ?oc=5",
+     "title": "Plaque by Plaque, Russia Erases the Memory of the Gulag’s Horrors",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9pUEpPd01JNWRYcWp6dm9rMTNJNDA2aTlLNmhiazd3YWJVTEt1R18zWlQ2aXF0T29SSmMtTFQyX0N6TUlsSXZrSFpTM3JubU9BQWUzQmNqeExmaTdJRFhOeVRvdkNFZXlMell0SGZTVWhsbk91RGgyOWFISjE?oc=5",
+     "domain": "nytimes.com"
+    },
+    {
+     "title": "Zelenskyy warns Russia is planning a ‘massive’ strike against Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LeDJ0c191dV9rdWRndkttOEtscVhBcW1sY29IMkkwU3NTTlFGOGNRUU55ZDNIclNzcXNUMjdTY25HTC1FQnFIOUdMMjR4a2d5Y2tuVnRn?oc=5",
      "domain": "foxnews.com"
     },
     {
-     "title": "Zelenskyy warns of imminent major Russian attack on Ukraine’s power grid",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR3dNRHNDWkJtLWk2U1poUUJkTjNwb2lHcXZweUN1d3ZNRDRkZ0FsRU5adXNVRzcxWVVvbGE2ZTBYRzZDUlhPa3IwT3JlMlpzS055Z0Rqb3R0RTdHQkwwVXlzSXhXamVNU2c4cS1iQTZoREZicHZKUmVGRHNKQlQ1QjNGMnNWdm1lcWk1Nk9MZ1FJNmRtRjNmZEJB?oc=5",
+     "title": "What to know about North Korean move to shut down Swiss diplomatic office",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRC1MVFk4b0w4Y2JmSFlwUDdSZTRJU3FYSEV4alp3dWg2OVNDMUM1b00wQndGb2VtSkR4N2dhV0FfV1NCUzFBd2I4ckt6NU9HVDJNckNaY05EUjB6V1I2NWRsVWN0eVFzZGFTa0dULWhBZGVORUo4WXNHM29ZQjFfbFprZkNmdEI1U1gtdFB3SU1VNG5kR001c0J0UGJJMWFmc2xPdllVbnVaRTA?oc=5",
      "domain": "apnews.com"
-    },
-    {
-     "title": "‘War Is Hell’: A Foreign Soldier Writes Home From Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTUtzUk9TS1EtOENIeS1WOUVKS21xTTA5MFNRa1lmTmtHbnN3cDloV0JLbklJeGlnNDlCWGxBdmpnVGZ1QVVPNTNHR2NZNFU0Z0FTOW9ZZHF5dS10VGRWZnZFS3BRbGtleGo4T21CMmxGX0pIV1EyLVdFVkY4VkNjWEgzN2pPZkJE?oc=5",
-     "domain": "nytimes.com"
     }
    ],
    "error": false
@@ -60,18 +60,18 @@
    "tone": null,
    "headlines": [
     {
-     "title": "Ships in Baltic and Mediterranean targeted by Ukraine and Russia",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUkZhY0dtanNtTG1HMTc4TTRDS2R1MzJDS2t2S2M0SjlwS2ZRcDVxcWdqZ3A1VEtHSGpZYkxtNV9CS0tvWnF6d1hWUnMzeDFBdm5MOWZ0c0ZLZ0Z6ZzdId1kxRDFqc19lXzdyWFdHN0tCR2JSYlU3Nmw4cW80WGR3bUN1cGg0VDFjOW9zaDFvM0kzZExjWXBaOVhZb9IBmwFBVV95cUxQd0FxbkRYMkRzQ3hzSFNiTnROaHRlTE9jYzg4ZWNnU3NRRjZzU1lvX1Z3cUtSbFQwNnlYV1JoMFB0VjQxLXZ3M1RuVUQxY2RUYlJxaHA3ZnJZTzM3M2JPUmF4aURWYkVtNHhDMWFfOWNhNnViMF9BUkdSOWh3TW5QVUFIRjhjWTdnVkRvREVTdWg2U0IyMFVUWUtVRQ?oc=5",
+     "title": "Rassvet, Russia's answer to Starlink, already being used in Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc1pjcHJKRnNnbHdNbUtBZlBNNXJiTG9sYmdsMndGeWxQQ25ZSGoxdVo4MS1rN1J1ekRjMkxYQ1lmQjZjX2l2Q0llRDYwVGlyVmRLSkJpQXZBNmRHdC02NGNEZUZwTGpLdlhKekdscGVpYi05M0hCcGdmQ0t2VTJxVFIxUnVqXzZyOW5kM3ZmcUNqcTMxMURiQ2JmU1YySlFlTUpj0gGjAUFVX3lxTE9BQ19vQTJMUExQOHFKb19YT1pXZjVONkM2XzlMSWIxRk8xSFdjZlpGYVQ5R2pkRHZQUWU4Rko0QUdqc1RZRzRHM1F3dVZRZWdSRjliVkp0OXdmdkNQOUwyRVg3TWp3RDdrRlNZdTlYYTBvYThsTzZMVlgwZmRqVklpSUdENUd1M1NaMXd1NjRlR2hFdTNQUnNIckFZc2k0OWhwRk0?oc=5",
      "domain": "dw.com"
     },
     {
-     "title": "After initial reluctance, Bulgaria will join €45 billion Ukraine loan",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcjVTWHZUVnBYdHcxQjZrZW9TYzNXdU9VT0ZxZ0VoTXJSTXdrR042NXZPRXFqREtOUFRtazlfTGFlSG8yMjlZUkhQanVRY2RDQkNoUXU0MUJDVEU3MUs0b2xUVElpenowV09QemxOMVhSQWlRdDdqVXRNcnY3bGVIWmw5WjkyMmFDOG5YVXc4NnNpdTMtZGg3dG9SSmJLaFlSNGxXZDJ0MGRXN2dnbGlTWVVMTkZuSlE?oc=5",
+     "title": "North Korea halts Russia military aid over Seoul row, Kyiv says",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWVNIZ0d2OHBnRERBR05hTDN3ZVFtVnJWRXBVTmxrdTk1bHBSMjViVF9WY0N1eWdYSzFyRmdub09HWHRHT1dHMlRSZVJzeG5FX0J1N21rcnY2WXNUeWtBUUUwbTVJV21tYWMyU2wwczJKNHYwWjhzRFFQNnEwRmQ4ZzFERmstQjljODFYdmVGQzM3dTVzRklpakRoeHpWUzg?oc=5",
      "domain": "euronews.com"
     },
     {
-     "title": "Iranian monarchists disrupt Paris event, highlighting bitter diaspora divide",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNDlpWkExVlJVQkRGZGxPaW1qZE92aTU1RWgtTEo2Si1QU1dkdEdKdTFMZWJRZ3FqbXhSVFB6SWxsaExBallQWGZ0dVBTRnhVT1Q2c09RUThnTGIwV3Q3MU55akYzWkxLTnBUVHU1VXZySGtMMmVtY3M1VWNlQ2V1SXZLTUI0Szc4eXEyODFRSUtuM3I3VmotZ2xXMloyTEdtV2FjdFd1RzdKSTZBMlN0XzBoZ2JkeHNRZk1F?oc=5",
+     "title": "France and Germany push for EU budget deal by year-end as far-right rise threatens Ukraine aid",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSVpTeVpUa2tSaG8zLTJwcGJzdEpEVkZvY0N6MDNaMVJEaUlPc0xoYTB4cHJCZ3Q1QTdsNWg0X1c3ck5VSFFJTEZFRy1STWhGY0doc3pYU1N3azJWcEpmaG5HaG9jUl85UjBvTmZEcW1iVEdSZEhrSXJqQXV0M2FUNzJQQUNlWmlEZGZzb21uN3VwRlJDUVpHOUNtX2NxY2s0VWZnN0JGU09teTR3YlI2Q2VLUFhWb3EzaUsxR0hCWUZjbnJhMm45bnZOR1RRSjBjM3dBQw?oc=5",
      "domain": "france24.com"
     }
    ],
@@ -79,23 +79,23 @@
   },
   {
    "name": "Russia",
-   "count": 59,
-   "capped": false,
+   "count": 100,
+   "capped": true,
    "tone": null,
    "headlines": [
     {
-     "title": "Russia, Ukraine hold new exchange of bodies of fallen servicemen",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1JVGNxWDYtRF9OR1Y3bTFCd3p6cTMyNXZCTGhLYW1TVUhLa215MUQ3Z1RnYTNZQlZRald0Qjl1M3ZPNmRKVGo40gFMQVVfeXFMT3BrQ2wteTU3MFl3eXFDWXRXTk9uRWVoOVVuNTZHR1ZpY3BJNER2NWFqS1U2MHE1ZGIzRm1oUlIzTDM1c0M1SHU1SUhGVw?oc=5",
+     "title": "Lavrov calls UAE Russia’s real strategic partner",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE53SzJhbjRqbjdJVGFnbWl2ZWFrQjlHak5jeGRpSEtKRjZZZ01tamtVRmxOV1dRa2pxVHlUd3lCeWx1SDNVRWRjddIBTkFVX3lxTFBrbmRxQUxJWnZkTWNDQklNZnUwd1A4dXJ4X1phNUNYZG9wN0ZRSUJpNGF6bFZZWV9LN3lSX3dwdG9kZU9KNUVydTcwWFd4QQ?oc=5",
      "domain": "tass.com"
     },
     {
-     "title": "Putin is ‘a grand-master of politics’ – Kushner",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2ZndEaUNmdlRtWXhqUXM2bnI0UldYVmFhXzJHX0N1RWVsU0U4M0VfSVAwRUxVdlU0R1ZFR2Rzb3BISUlqODZxeXE1Q01Cd0lFbGdmZWFkNnhSOWZpQXotOFhNSU5CalZhWVHSAXpBVV95cUxQeEsycW9pOUIzbnczYVFKbzVQcnl0eFZtRXFGZEhQMUdtX3p1SDhybG1YZnQ2WXJtRUZqcDBjSnBhdy10a3gwMXBLUjZKeVZRcXJSbXNKc0d3T0pnODZIVjBKMXJyZTN6Y19VaHQtTUQtR25WX19OTzJZQQ?oc=5",
+     "title": "Ukrainian attack on Libya is latest instance of blowback",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nN0ZWMlRfb3BmQ251MmIwXzVYQ0pCd2d3cm5xR3RLMC0yTFAxNkw4MVUyN012dE9GeGtmWEhIVldINnRNMnlFbTlVV255d1dNOUx1SjNILXV6ZndPRS1VSm81RHRnVUVBNzRj0gF7QVVfeXFMTW9jc0REUEFhaFJwb1FGc0E3TFlKU0dNbDVnYmE0bUFaOWNmdFdGRFpvc1JBdU1lbWZSYjBUMVNadkxFYlVtVUZHNU1aX2JiN2c2ZF9IaHdVYnVWMy1Ud0lBVW9hcmktUGZENjR1RDN1dnFZajlta0FwOGs0?oc=5",
      "domain": "rt.com"
     },
     {
-     "title": "Number of French mercenaries in Ukrainian army drops sharply — expert",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5RTE1RZUpkLW5YMlJoaEVQRlF6UUhPZTc5Wld4emoyWnZjSW1fQ1ZBTG1QUE5sMnJ3NDE3NWRkaUZtQ1ZJ0gFKQVVfeXFMTWItTWRXQnI2NllVNnpYdU8tZmdLX2dNdVhoQldMVUNZMG1YS1pkRTNKNThQcmFvV0piWmpLZzZKdUduZ1ZkdzNpNEE?oc=5",
+     "title": "Russian troops liberate two communities in Ukraine operation over week — top brass",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHUlk1SlY0aGFxUTlVcjdtODc4dmxHaHJIT2pnUTNmWnR5WVpObnFEMmNNOWlvR0lpNEUtMVZrRGhnVXozcHhFONIBTkFVX3lxTE84aEc2LWh5aTk0QVJKZmw2a3hWTzNLcGk4Ym5BN203UDU0aWdjdlNqYXlfYkpXbks2SkFMUWZUYUI5dVdubTQyd3FNTDZRZw?oc=5",
      "domain": "tass.com"
     }
    ],
@@ -103,48 +103,48 @@
   },
   {
    "name": "China",
-   "count": 7,
+   "count": 5,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Could EU delisting of Chinese firm pave way for wider sanctions relief?",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSmJiMnlnOVlfVkRTbnNPQVlUclUwRUhIeDhaV240OFdkSzRlMnVBSzJOZWphMVlvNGxhTW1wbU1HeUVTQkNGLXF6eFAwcE1vMjZBV0NJVDR3Vmk2VU8yMm5WLU5PY1g0NGdNMjJQUDhBNUxoZ2hYamo4ZkN2REFpMy00NEVLR0VmMFMzRWNKOGtRdmJrOG13eGlCOFU4Z1g2NE0ycmRwX3RjUUE4VlJBMXNZUWRhQdIBtgFBVV95cUxNWkZWc0xmR25JZ0RwMVBpalRYRU85MDBIMlN3N05tNkVOMUxTUm9SZUNZckpkRzNZQkViVnpmSU1NM3ludEpNTDJrcXQxM0RmRlV2Rk9iNDhFN2JYbl92SVZqYWhFZFYwc2pKVmdZajczbVhCRC13RzQxc2g4YktZYUxia0l5Qk5jWndhUXZ2UXBpckhzRW13aVhxSUY0WWNpNjh3eUFQWmVWRU9IYkg2bldRY0thdw?oc=5",
+     "title": "Trump says he urged Putin to pull back ‘all military aggression’ in Europe",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeG1CWTA5eTBSNW9hSHJIbHhfOHBuYXhLaHRfRDdZeV9NXzVvbjZ6ZW9wOTI2NmxPazhiLThKeXNqNmRoTHRHbkVmc1ZycXFjY2NyWWpMZTY3ckZpZEhJUl9ucEVxam1GVGVGaHZOanIxN29OSDhSRHVYN3gyRVZPT3ZjSmpyd2FsVU9FS1ZaekRfM1ZlSjZ5N1gtcGdYNFp4aFN5NkEzZWtiakFMSGFYME9BeXVUOU9icHJzS2NkNnJsOUpwTFRNWGw4bC1EUldySDcyNnptZ0I1RUR3cGdTbEhLbUpLZw?oc=5",
      "domain": "scmp.com"
     },
     {
-     "title": "EU leaders unable to agree on budget after over 12 hours of talks: ‘zero results’",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZDdwNm94bHFjXzE5ZFB6MEN4Um1JaGh0MEJIVGpSWW1hbWZoanFuc0pmT0RsMUJoTUc0ZXZ4MWdZRTNZN21jWUtKTjRFMFBHamdVWTQzX2QyNkdubHlJVTdEal9XTll1LVNIUnZVQUpIdGxTWF9nOEdrWXdWQnFxSl9lQXgtUlpYWHkyZnBWUERvb2ltMHBZYnFDZWpGOFhyaDlHVDVSOFRkeUxQWlVHd3NvME5kU21ZeE4wLW92MUM0d9IBwgFBVV95cUxOZDdwNm94bHFjXzE5ZFB6MEN4Um1JaGh0MEJIVGpSWW1hbWZoanFuc0pmT0RsMUJoTUc0ZXZ4MWdZRTNZN21jWUtKTjRFMFBHamdVWTQzX2QyNkdubHlJVTdEal9XTll1LVNIUnZVQUpIdGxTWF9nOEdrWXdWQnFxSl9lQXgtUlpYWHkyZnBWUERvb2ltMHBZYnFDZWpGOFhyaDlHVDVSOFRkeUxQWlVHd3NvME5kU21ZeE4wLW92MUM0dw?oc=5",
-     "domain": "amp.scmp.com"
+     "title": "Russia, Ukraine exchange bodies of fallen soldiers in Belarus",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdmRiWTdCVHhfeTJoSnhoSzlZV1cteTRZS3Ixd00yVmhtcEFiTUx2LXV5Mzk5NkNKR2dNZkRNSlhzZ3ZfSy1ybHJ5UkdXV29yNDhBTWhCY3lwZ2NPa3dlazdEYzNnR3RObzl5SVEySU4xVFlFeUMzSE4wenV6SG5uMVZrSkxCUQ?oc=5",
+     "domain": "english.news.cn"
     },
     {
-     "title": "Italy's Meloni talks tough on EU budget, warns of Russia-Ukraine conflict spillover",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMzJTU3lGREN4ZEgxUzlVUl9aa2I4OW1nUDhGSkZPUno4VW8tM1FobVRjY2xzR0UtcmExS09UOGpET1N5WjVzRDlOcVllTnhXeXBFeXRiR1lsdUZYYXVUc3BPTkFfMzlGY2ZFZDdwd0JrdklQd2g1Z0c4NldSTDNiVGJDeDFuV0Z5QXhpY0NidWc3NUo2S0QycnVETXpMeDRudndUR1B4ODRGa3FBc3RlLXk3SXp3QUFCd0ZoM3BXeThaaXpUcnRuTDZtYjA?oc=5",
-     "domain": "news.cgtn.com"
+     "title": "Zelensky says Trump calling Putin ‘my friend’ is like saying it of Hitler",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOanZWaG85cWV6WDZoVjBORG5kWW1VN3otMjBUZzVMVW1KblhxNm1KMHZiSUZmalhBTW12QUJsTzhac1lTVFZsSDE0UWQ3YURSU0RtU3NNLWFjNXBVZ3JkbE1OdHl5cUtDanB3U1FYNEl1SlN1VG5WR08wMWRsQ0U0S1Bldk1PaWdlYlFkVkJkN0J1NnVBcldJZ3lkcjBUYzcxTmJGNUM3XzczNDlYcGczUGJuQ28yNExhdXRLeVR5c2Exd9IBwgFBVV95cUxOanZWaG85cWV6WDZoVjBORG5kWW1VN3otMjBUZzVMVW1KblhxNm1KMHZiSUZmalhBTW12QUJsTzhac1lTVFZsSDE0UWQ3YURSU0RtU3NNLWFjNXBVZ3JkbE1OdHl5cUtDanB3U1FYNEl1SlN1VG5WR08wMWRsQ0U0S1Bldk1PaWdlYlFkVkJkN0J1NnVBcldJZ3lkcjBUYzcxTmJGNUM3XzczNDlYcGczUGJuQ28yNExhdXRLeVR5c2Exdw?oc=5",
+     "domain": "amp.scmp.com"
     }
    ],
    "error": false
   },
   {
    "name": "Middle East",
-   "count": 33,
+   "count": 58,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUWhTZEtvSHh2TnVxc2VyZHdvaTFta0F0WGI4TTc3aHhIZzk0dV9iZXJSSGk0VEFDd3JQZ2puU3dERnlzc0h2TEdFcVVSaXhOZXVrTlN3MDBmZmZXUlFrQno0MDNWQ1dCU1hsTnVWYzBFOUlXRjQzd21CX3ExWmR1T1JDNEkyTm9yU2JZeW8waFFCTDI1cHB3cmFWXzNuemkyR3NRZ1hnMDdUZHVTOGpjN3U3MDA1QdIBuwFBVV95cUxOd242M2lqRVpQSGdGdEEyMk4wQWZzZjFPTnJBWXoxaURLaFdhUnZHQUpubzlVVTJzYWp2SUtRTVNKS1FhWG5TMGNLSlltVmdFZXNNdUEyUmx0THZ5aTdhQ1ZzTlFQaFJ1TThZY1B0MHpObS1YeGFxeFk4czg3aVZpRElDcVVnYTJjRDB4SjRXYlY4QzkxZ0V1SWNQZ3hnOXRaNWRLam5HdkxZRTF0NzFkWmxicmNEbWNodkxj?oc=5",
+     "title": "Russia’s hybrid war on Europe evolving, but failing: IISS",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSi1EdWxpNDFBQ2NFLWNNZUJjSHloMDd4cXM0QVIxY2dKOVk1SlA4SThmTWVEVGc1SFB3WTQ0WWZBejU0dUZlRE5CblRjbC04UTBJLWlGSzFEX0gxMVVHQkc4X1dhUmJMRHdKdjdlNV8tUkU3WnhfeHlCQ2h0OXoxUzVIdHI2cC1KMEN4cGUzTG9vTHo4MGxhR1lPTnHSAaIBQVVfeXFMT3ZGMERBTzlsUVd0a240SlpPNVhJYjB0akdlMXI1U1RwR2sxSHdpWjhLWVhNcTcxQWg0MVFZRzY0ZTZpZ0FZRHZ4SzFMdHhKYjNxaTY2RWdpNzcxMVZwXzRfVlpNakw2RlV6cXpKOGMySjJxWTl6QUVpQXBJZWJrOWhGNnhROHUtVzJMb196d3N5dVJjTldtZ19CSnFFYkUxMHNn?oc=5",
      "domain": "aljazeera.com"
     },
     {
-     "title": "Ukraine says North Korea temporarily halted missile shipments to ally Russia",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN01BV2VDMHp1QlRsNnBHYVpTZ3M5Ym8teWpOaFZNVG9aMy1kVWdkR0tmcTIyWGk2by1MLTBWREs3SE1DYTlBblJ3OHJ2UVlkYkRELUhEVjNsNE1hWTdCY2VvTF9FTFZ1NmNVUmQ0d1piNEN4aVROdy1lNzQ2WE5kTDlMUnMyRUJnSmhMRWpvb1R0YVowTjY3TklKX3hJeG8tODFObXFxRlA1Y2hFSWdOZEF2Si1hbGJPaThNSnZIeEdyRktKaFBV0gHMAUFVX3lxTE9NV3VjRktHYzhTNzlvcjdQa3RCYnRRZlVrYW4xV2hxREVBbW0xOG84NC1zSjNiWkJJQ1VGNGF6YlkyYmpaR2FXSkVWc2hEemt4QkUtelZyTEN4WGFLWUpHVXFCRWxyeFI1bnk0ZkI4anV0RlU3ZV9ORm44cVgyUVJDTHN5YWtrNU5ZaG9UOTQyYUtCM1ozRTV0bFViNUtRa2w1ell4LXVlY0xPMFoxd2MtZTNmazlRZ3pTaTRnQmp4bFc4ZVZBdWV1SENsVQ?oc=5",
-     "domain": "english.alarabiya.net"
+     "title": "Zelensky: Trump calling Putin his ‘friend’ like calling Hitler a friend",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd3QwQmliV0FkNXdqOVlNakFEQ1kwMHExMWd4dVdGVGpaTWdnTXVyNFVBZGxhLXdPT0VHRTh5NGxWbUdzbjZFdzZ6UkNVYzFKa0Z0WDFfdVp2WHpBQ3lNMm1zOEhXQ09Sd1B1eGhSV05pRExGTjhQempFRjBObVZHaHVCTkROaFBLNTFfUmpMNnRYM21PaFR0Wlo1V3FoQ1BN0gGmAUFVX3lxTFA1c2VGQy1MU1B4eE5sVmpjblR1UTNpdm12YmFoU3gxQlF5NUhLOFRLQTNkTTY3TEFwcTloOGxkZmg3LXJGc09zeUx6ZVRKVjNVSm44cVl0Y3dFZWRlYk4wVUQ1WjRPSkFFMll3S2lpQ1JRdmdsYVZBSnAtM01XVkRLQU15ZTZWZHBVbkRQMld0dW5xMVczU0hFM2syV3BqRWZlNUxQd1E?oc=5",
+     "domain": "timesofisrael.com"
     },
     {
-     "title": "The News Feed",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10eVRkXzEybTE0Q3ZpUVExa1JYc2tVc3poY25XaW85VTNBQ3JDQzl2WTFxaWZ1VWhIOFFVaVcxQjYzemoxU1ZCZUVTbkFfY1dI?oc=5",
-     "domain": "timesofisrael.com"
+     "title": "Trump downplays China and Russia’s support to Iran",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXdub0dsWnExOGlsLUJpd01aWWtZTWZoNzZMM2JpRDZtS1IyblJlbUxGUEZaaTlfT29MbjRHOXpjZWJPWU5RUmRzR1FfdXkxTVU5QTBveFE4NEs4Y1ItcGVsVVFSVDZVX3VzZnk4bTQtQUh1emg4NzRzdDlPS0FEdjZDS3RLRVNsNjRxVEFmWnhqZ2JaWUJkLTdyMGgxQ1dHVHlMZNIBqgFBVV95cUxPQndwbFRYTG1BLW1wZm5lTVR0eWhrVzQzVldGZlM5YzR5X0ZJTUpQa3I2aDY4cWw4V053U0xmajJ2Z1pia3B4b05PeXRtc0k2QWoxNWxZVTZUcFRFQnRtQ250ZWNGSWFOaEdUd2ZtWGFRS0JmVmZReEdrV0xGNUZDcWRYUHJYN2M5UUl5QnhIOHZwODJrY1Y4Z1dHODNndmdBLV9RQXo2Mm9IUQ?oc=5",
+     "domain": "english.alarabiya.net"
     }
    ],
    "error": false
@@ -156,14 +156,14 @@
    "tone": null,
    "headlines": [
     {
-     "title": "Russia-Ukraine war: 10 reasons why peace remains elusive and how the conflict could end",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWTJvZ2xoLTl0RHB6a0pNaDFzWHlOdG1meXc4eDU4LWZneGhzVjV3d2NVb2xpbmZ0MmE2NHNGakx3LWxldDVFalo2aXpEY2tMMEExRDk4M2Q1S1o1VHB4NE12cVdhaHZ3ZGtMVWY4S25oa1dwblRnTGhPTGNSZllmNmgwNG5leUt0OWZ2ZHZRWjNrYnZvVHZMZ3M4YU1nZmdWeWxxVzk1U2x0WFBwbjlSMVpwZ3E4cWdXd2NGUDkzdVFlYWRzZGpPaE5TbjlJci1MdnJmb3FkbGlrSFNUSlNvX0lnazAyVkVqMGFqdUczaF9udlXSAfgBQVVfeXFMTW83MkM0cVgzX1pxaVhSTDNxRnB3b29ZM3QwVVJCX1haa1BUNmY4Zm5xRGhqdHBIVDVFRWNmaFdKaHBvZnN3U3E2RVdqcG9GbnRKcndWYWRwTUNFSGVHLTczWGlFSlpWOTQ3VnViMzZyd2djR1RBVDh6MTg3dVlyM1pCQ2ZwVzRxQ0M3YVVOdDhwdzdtUEMzUktHT2NOQ3VKbDZUSmNObERjakJUdkZfTUFTMnlrb3FQa1NONVFKdEhXMXJrc1hWQVQ2THpsTjRvbzlocUh4dVd6bGM5Rl9WRFZkYTlYWXlSRUVxRW5Pbk9naEhIYUktZFQ?oc=5",
-     "domain": "timesofindia.indiatimes.com"
+     "title": "Zelensky Warns Of New Russian Mass Strike In \"Coming Days\"",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWmpnVGxLUFpMSHZkQ0xNN1pRYjJFZEZ1Y01NckRzRjFSd1ExU3B3UTJEVWlmdHJPOFJGQnpuRzFuaTYwRW13ZWdJRXAyd3N1N2FFbkxwNWZGSUcxdkF1aVBaVzRNRzF2LXZUU0hRSFNLNXhMZ0NrSWs3R0NjQXJnUXJsc0NmaXZKNHBhRFplaHlMeWtHN3BfUm9kMENzRDZkZ3NkX0FmOC1haDNSVTZjTlJPU0nSAbwBQVVfeXFMT0VmSUs5YmhaaHlhQk5lLVo1bDhKcDhCby1EUEpSb2V1TFVjelR4V1BDTjFaV2JZRnMzLVdBWldKSjJzTnk3TmhkdnVueHp3dDl1Nl9UTlp4NDBHQTVqeTBEY01LcnduSzVZZHFRRzR1OHFORFJ2R1VCNTFob0RESEtocmlQcDA0V3JBNVBVSG1lUklNZ0EzVHA3bTczZmxFV1phQUZ3ZmctQnFLUkRBR1JWbjdvWUR0ek95cFc?oc=5",
+     "domain": "ndtv.com"
     },
     {
-     "title": "Trump Urges Putin To \"Pull Back Military Aggression\" In Europe",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdjVlT09qMzUwZkY4YVRMSVdMUE1md20tdExqMU9kQkpTclRNZDFQNTY0VTd2NjVONjYzNzBnREw2djlUVE5Cd0xKT1hldVQxV09obWJyMVZ6NUZrbXBWNXVUYmJXdVMwUjJSU1M3S3QxSTVDcnM0bVFPeUYzNzVhejZPMWFvckRhRXNtclI0VHhsanpjSDlEdVI3S0lkdDFTTEY0ZVFjQzlBMXZOcElQbndVSUNnQUFfNFpQYnU0aERKWlVna2NvYnpLYTAxM0FQ0gHYAUFVX3lxTE5Vc3U4OTltS0tYSFBmMnF6UXhiVEowLXdsVXpPQkdWRm1BNHNGejltUTRudXQydFZSOTBUZFBZMV82Q1VXUFhoQTI2cG9UbzVYWUNNSFhsZG5HdHVMeEN3ZHBzVWlkNjlGMFhzdUhDa3JzcF9QazlVMkdvdHV1YnBiOWpnVDh0X2NHWThpWEtfSXRYdklLUS1FeERWZXFpQnBwektUb0RMQnpyaDNsNXlWUmFsRXA4aGpTbkdJY25BWml4RldHczFZdzZUOGxtOUtyZjh5OFY2Rw?oc=5",
-     "domain": "ndtv.com"
+     "title": "'He can't be a friend': Zelenskyy calls Trump's Putin bonhomie 'strange'; questions US support for Ukrain",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQWDNneEFabnFEODJXcHFLYUhMUERLZnVmOXlLX3g5d1otemFmTmFkZl9ESkt3QzhRTVIzUlpMRnpFLU9JOE9wajM1UUV2c2FHbUVmR0NQZ1UxdGRhdU9rUkN6YzVqcFh0ZnMyR2FNM3RUVkZRR20tR0lIQmg5bWtNMGNhVy1TZzdrekV4T0dUeTB2TUcxNjNQLTBEOE0zdVNQTnZTN3hKeGFGeXgxTjdWR1htemNla0JTcUxJMzF6bG92a2xyaGdvWElacWd1c19pb1BOWTJldGdzM3J2eXVyZGhPb2xmdW5RWVFCMVJ1ZzNNdDhsWmQzMjlSM1Z3Z9IBgwJBVV95cUxPWDBjZnI1Z3h4TEkxUllmTUlVM2JSbkJZaGdLb0VnNW9hN1ZJaU9Pb0hiU1hpbEVmMnBwOVFvWUJIQm9RLVE1enpHNmtGa1Qta3VIbVdKYmc1YjhRdFlhUlR1RDhxcHVxX0cwcWo2YnUtLXFoV0xRQTV0QmlhSEh3dlNob0VvUER0N014TDFBNUdoZlJrYW1jMWJ6ci1PRUtwRFVWZDU3Q1dTVGJCdU1VX09TMHlwSUw4cEIydXJSN3N2TElCU01WNzBVRkFvLUgtTHRHYTR1dGNrOUJVM2trR3lJMmJJclpmZnZGV2FCOFdkbkFOeXRGTmxQQWw0bVllQ21v?oc=5",
+     "domain": "timesofindia.indiatimes.com"
     },
     {
      "title": "Donald Trump urges Vladimir Putin to end ‘military aggression’ in Europe",
@@ -175,23 +175,23 @@
   },
   {
    "name": "Africa",
-   "count": 4,
+   "count": 3,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "The Nigerian living through war in Ukraine",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdTZFS1ZFcm9BWTdrMXBkdm9McVE5SWVoUUVVRkFwLUl0V1JfbVhZT3pPNU9rRDNmM3VkQ0ZwdXlGUVZzT3FIQW9WcnM0TWJwdjBFNXpNalpIeldxano4OVk0UDlzNGJYYnJZN09ic0ViYzZyckU1cHlac2RfVFJnZVo2NDM0MEk4YnlpeER4M3ZSQV9NNUZnNw?oc=5",
-     "domain": "premiumtimesng.com"
-    },
-    {
-     "title": "Ukraine says it received 250 bodies in swap with Russia",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeGN3UlJFbkpzdVg1WUhiRFpiM0lhZTNZTDFfRGNaNU9CQTRmUzdXZUp4alAxckgxazZrc0FtRFZmU0VtMnFkUm1yQk94ZlNEMTVTbGtTLTF3R05UWWl6a3JVWnBFd2c3Vk5IMTltUFNFaC1fZ1c2UlFyZlhwcEY5WEVldGFXLVNMNkgzdmZwYXdNZ0I2WS1uS3dFQ29OdFE?oc=5",
+     "title": "World",
+     "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1Yd0YyUFI4VFZjSTlxeHkxdVprYVROTmhReUp4NHkzMmd3S1dzMDNqMzVaZ2t5eC0yaWE2VE4talZtZw?oc=5",
      "domain": "news24.com"
     },
     {
-     "title": "Man shot dead outside Joburg coffee shop",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSWlyb3RobVFaeWFuZ0hiR3FDOHZzS21GTkhiSFBWX1NfZ2ZQUjNuanp1cjdsVlNnRnNKQ19DU1Nwcmx3NmdCX0xMMS04aDFfaXhjenJsT011dUxPc3Utb3hvZ0t2Q3JXSDlzZmJxWGJsV240c0JfdGJ4U05YY1p5cDZpX2NQWVB0Uk93YmJQMkJ0dG5kMG8zV19LRklyZVZCU1lrQUt0cHZvZw?oc=5",
+     "title": "Reno Omokri presents Letter of Credence to Mexico, formally assumes duty as ambassador",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOekx3dlBsd0tkd2VnTUZvWE8xbTZlRU5wTXZTNTh5R3ZXWGpkTlh2OU11c1poSlJKV0xxMWpneHVGY2dncFJZelpTNGdqal9KTGROQ2poQjZhaFVUZ1F2bmdMVjFfUkpBQVRUU0M1eG92WnFGcFYtdFZieTNRaFQyZFdGVXNNLWNBLVBGblYtYkZYRlNJSlhnak9mQ2V4NTZMRzNqLUhrc1YyOEUwbUE2bmpQTlN3M0dDWlJtZnpId080UVJlT0hNLUhaa2lVdkR2NHc?oc=5",
+     "domain": "premiumtimesng.com"
+    },
+    {
+     "title": "Crowded waters: Can southern Africa steer Mozambique Channel security?",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONGxpaUxyeGpMdlF1NkhMaGJ6VUtxT1c2WWhONjBBLTFsVVJyNUtOQlVSWi1xLXpRVGRXZmdRUmxQSDRNa3dRM0FfT29JSmstZkNWTnp5Y3dhamhSTHZPQklybGlPU3dtalFxMXppeVpfQTRtRzR0QkdOcFdBS3k4ZzFHVEZ3VnhnS3ZGLV9JdGdWRXpTLTlKYUhiQmZwaDltbExMRTExaXFDNDhXOFhVQw?oc=5",
      "domain": "news24.com"
     }
    ],
@@ -199,15 +199,21 @@
   },
   {
    "name": "Latin America",
-   "count": 0,
+   "count": 1,
    "capped": false,
    "tone": null,
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "Who was Strobe Talbott? How the Time journalist became Bill Clinton’s Deputy Secretary of State",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeDVLUWphN284QmRpZjJ3ZGdIaWZfcnVyQWhWSFA4c3U1TW9nTU8wdVhUVHVpZHNwVjFCcU5SRjBPbVJpYWl0X0tlTFB5OElzYUJBemJlSFdaVlVHZTZuRGFzTktaNThjbEdydDBMWGRkcHBsR2VpYVN4ZFpjQ21iU1cySDI3bjFuUXpqUWwwYlAxbDVLZUx1alItS002MERTUms1YWRUOWxUenBLeENnSl91c3BhWmhyc3B4VHNmOVptWmFSOWYydkcwWkQ3bjMxcGM5UDJlSkctZ9IB3wFBVV95cUxNUm52SXZGOFFDQXlsS2lLZHY2YUZBc1JFNndSYnN4NnRZYWxSYjZuOFU4UkhwaTdqSTBwVUZYVGJrVTA4bFI3TnJkYUI1UmhMNWdzTXNpaHNrWWk3WFZMSGw5cUhGMXNFMEVQb2Y3d2NMVEtpRDcweHIyUW8yeC1TcWJyV3J1VFVLeWRkbi1DV1BIRlU1M2tFbkhuVlV1cV9zZE9ZWFVRSDdlcFFRcUZGeHg4MjlhVzBmT0VyNnl6V0M0d3RnbHRUd3J3OUNDVm03VXdBdURHSHI3ZUsyMGpF?oc=5",
+     "domain": "clarin.com"
+    }
+   ],
    "error": false
   }
  ],
  "framing": {
-  "text": "UK coverage emphasises Ukraine's military capabilities and diplomatic concerns, particularly Zelensky's comments about Trump-Putin relations. US outlets focus on Trump and NATO messaging to Russia alongside Ukrainian warnings. European reporting highlights maritime conflicts and financial support mechanisms. Russian coverage stresses body exchanges and praises Putin's political skill, whilst downplaying Ukrainian military activity. China and India provide minimal war coverage, instead prioritising broader geopolitical and economic implications. Africa and Latin America have negligible coverage of the conflict.",
+  "text": "UK, US and European coverage emphasises Ukraine's military actions and Western diplomatic responses, with particular focus on long-range strikes, North Korean involvement, and aid concerns. Russian outlets highlight territorial gains and diplomatic partnerships. China has minimal coverage. Middle East and India show significant attention to Trump-Putin relations and Zelenskyy's concerns about US support. Africa and Latin America provide almost no coverage of this story, with Africa's three articles appearing unrelated to the conflict.",
   "model": "claude-haiku-4-5"
  }
 }
