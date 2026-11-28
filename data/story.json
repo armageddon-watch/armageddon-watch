@@ -1,97 +1,145 @@
 {
- "generated": "2026-11-28T07:58:25Z",
+ "generated": "2026-11-28T20:10:20Z",
  "window": "last 24 hours",
- "source": "GDELT and Google News",
- "topic": "Extreme weather",
- "focus": null,
+ "source": "Google News",
+ "topic": "War and conflict",
+ "focus": "Ukraine",
  "regions": [
   {
    "name": "UK",
-   "count": 0,
-   "capped": false,
+   "count": 100,
+   "capped": true,
    "tone": null,
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "Keep Russia-Ukraine war out of the Mediterranean, Italy's Giorgia Meloni tells Volodymyr Zelenskyy",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZTdFMWRST0lmRXNZeHFHSklNX2RJSnpwNy1LdGJBOE5STXlaOWxubnJoTFpMaUNuLVpoNGJVbUh3OEVMQU1UWHpFTFhNZGxmVmtNR1U2YzhNQWFmNVB0SXhQOW5BSkN1UGI3b0xsUVBHU0hSQWFoTC1seHc1SnkyQjVLX0EtMWxYbmFhR1BMdXZOa3FCdjV3LUM2SnpaYk55VXBsQ1lJMkE4R0JIYWZBYXdDQlhTYzVBdzY5b21NQmRSNC1KcXVxRklBek4?oc=5",
+     "domain": "news.sky.com"
+    },
+    {
+     "title": "Ukraine war briefing: Zelenskyy criticises Trump for calling Putin his ‘friend’; Kyiv deploys new laser weapon",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcDZrYTlOdTVmYnJEelBReDNXdF9CRXAyZHUyVlhQNjczRTk0Q0RNM0FYdWlHY3RQc3RZTVZPQ0MwOWZLSExFczk2cGlhMXMyNk81dVVVNGZfUHozUDhCV2xaaEZlNGh1ZmtkeFlsTE94dGhzVEp1UGJKOEg4Si1WdnhqVUNKcFlnTm4wd2NBZDc5TzZDeGh0c1F0OUhEcUxLUjJQSjBVVHp0MFpIay1jZXVUZmNSNXAxb3RJNTU1SkJad3VEWVRwRUhyWUNNRmtXdEJQbmtLWjNMN0NTbWhWdXZhbkUtUzQ?oc=5",
+     "domain": "theguardian.com"
+    },
+    {
+     "title": "Missile manufacturer amends plan for former RAF base",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11aDE0MVVZU1N4Nm96cGozR2NScmZsYVhmZ1NsZXAzUi1rZTdYM09uWkRyNjNjYlhsVjRoZWJkcVg3Q0RBb3UzTnhLNEhERHV6UUVQejJSUllfRXpGNHc?oc=5",
+     "domain": "bbc.co.uk"
+    }
+   ],
    "error": false
   },
   {
    "name": "US",
-   "count": 2,
-   "capped": false,
+   "count": 100,
+   "capped": true,
    "tone": null,
    "headlines": [
     {
-     "title": "Summerland celebrates 30 years of friendship with Japanese community",
-     "url": "https://kelownacapnews.com/2026/11/27/summerland-celebrates-30-years-of-friendship-with-japanese-community/",
-     "domain": "kelownacapnews.com"
+     "title": "Ukraine’s Deep Strikes Grow in Scale and Scope Across Russia and Beyond",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNFZjQ2xkMHo2aUpiZUIwaVp4UlV6U1k3R3gyMGFVS1RRS1VpSUFGNzZzcEVEZXBWRE8tdk9wLU13WWlNaFdRV1IxeTZnbi1UMm1Vb1dMNTIxU2lvWlhyTWU0OWNITEs1anYyRDliUTZqdHFLck42TVNPWXA3eUFYX3V3Nnd3aWVaWUFkRUpiQQ?oc=5",
+     "domain": "nytimes.com"
     },
     {
-     "title": "Florida YouTuber rebuilds stolen coin collection for Summerland woman",
-     "url": "https://kelownacapnews.com/2026/11/27/florida-youtuber-rebuilds-stolen-coin-collection-for-summerland-woman/",
-     "domain": "kelownacapnews.com"
+     "title": "Zelenskyy compares Putin to Hitler as Trump pushes to end Ukraine war: 'He's an aggressor and a killer'",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdkV2aGVmalN5LVJObW5YM1ZWMk5YeVY0LW5VN1lMYlZSM3ZNZDRoYzl4WXY0NGk0VzRMNHdpRU43UzlUcGs0RGdHVktvWVJ3UjNsem5waE9mRlhfa1RVRG9xcDVmN21vVzhwNm82anpuNWg3S2NMem9CQ2twUnh5QXNHUkxSVTBpY2dXS1pENjY0OVRqTXBOYld3MHhCOUFDUWo0R0FtbU9QVTjSAbABQVVfeXFMT1dZT1FaU2hHUnloT19XQTUyWHo2ZWtPbGFveHREU0hfd0tpTFBLUUJvcnZUVU1YNThBR2VuVk1FeFBwTEhyamZRUWhnNHpuODJtZHptSmtfdUVaT2hDeEMza0V6MmFNS1NlZldIazlSTGw5LXRUUW5jNTBOZHJXS25sRE5xUXR4WThHT1VWTFoxaUY0dTkzeF9PVE9XOHkzWDJIVXJJQnI3OGdERHdReHU?oc=5",
+     "domain": "foxnews.com"
+    },
+    {
+     "title": "Voters delivered a rebuke. But Trump is sticking to his agenda",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSTFwWFpWV1dIMVdveDdWZWMxQnZLWHpVNHM2bDZlLUFTSHJoYXhWRV9wV0F5VzJjUXNFcG82Zm9jdkh2NFBwYkN5NmV2YnNlZUxwQlFKLU9CTDhZRnRRdHZacEMtNE1ydTZDbWl0SVJBdUNFZ0NwWGVFUlNwajZhN3plSG9JdFJiX1FUSUZsWWdiQ29wTUhmLUhNYnFZUklMaXNKbkk0YTJ3X3BlSXJZSVEzbW9vbXNEeFE?oc=5",
+     "domain": "apnews.com"
     }
    ],
    "error": false
   },
   {
    "name": "Europe",
-   "count": 0,
-   "capped": false,
+   "count": 100,
+   "capped": true,
    "tone": null,
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "Russia downs drones as Kyiv reports first jet drone shot down by laser",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaWpCbWJkWEZhQXY2d2RLYmFJcXoyUWQxbGF1LTk3dThibG5OemRqRktFVm1vVDFtNUl0Tk45Tko4RENWMGJKU2FEUjF4NFdBdUFUS0dWcl9ZSk5aQ1B5d2g3b0VMUElzWnRwOC1lQlhGOXhWYWVhTUhYdzVESVFaSEg2cmpDMGh1QXR1UEk1dUtfd3N6Y0hLNjRvbE0xVlZVWS1YNGI3NnJEcXVWZG5tN3l3VlpkZm9VUUVTY0lkZmY4V2JP?oc=5",
+     "domain": "euronews.com"
+    },
+    {
+     "title": "Ukraine submits Black Sea ceasefire offer, awaits Russian response",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQXNRZXdNdVkybkZ1TXRQSlFzaXNXT2xNM252Xzg4TWpfUmVYUi1DVjhuREFHT1ZKbVdWNjc1U2pTUWJtZmRFeWtKa2Y1cFBXR1VZRGg4dHZ2NkxPSE80YTl1VG1rdnkyYW1OUFFDRUhzUGJnQzcxOEkxSlUxU0hXb19ZTjQxYmV6eUFCWUZZc24xMkJubE9BNFAxZlVuTXZTRG5OUGdlQTVmWVEyOEE?oc=5",
+     "domain": "france24.com"
+    },
+    {
+     "title": "'We are not living in a bubble' — Ukrainian Olympian challenges IOC over Russia's sporting return",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVno0MENLdmhjS1FmbFIycEQ4WHlLbGpHMURfMU1LRmU1MFVoemNHcGh3XzRTRG5meFZ0TDd5UFJSQTNCaUtTb3pkc2hrX1AwTVlFUVFiZDBoRm9qVEtBVFlQZm9QTjdFRnAyX3BwTS1CQUlUbjVuZGptbjZVcWdBZUNsZmpTNjE5czRfSzNwRkpKbUnSAZMBQVVfeXFMTVNjenBIVzVQTVYzUVI5YmItaUt5X0I2UzdsZ3VKOEg1VUhPT3J1eW9hQ2JFNWlibjFSdmsydzhzeHJiQ29DUFFCM25QeW0wYjR3a3ZVV3dEc0h1bUJoQ0hwYmV4b3FKNjNqZ1IyNzVZN0NBRUlVY01nLXM0U1VPTFhvcUxKdmQ2UnRJaERLMUhfQ2Rz?oc=5",
+     "domain": "dw.com"
+    }
+   ],
    "error": false
   },
   {
    "name": "Russia",
-   "count": 0,
-   "capped": false,
-   "tone": null,
-   "headlines": [],
-   "error": false
-  },
-  {
-   "name": "China",
-   "count": 17,
+   "count": 35,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Mongolia to step up accountability over wildfire linked to Japanese-invested company: PM",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQlpBeGN4OG5MaVdPUF9TV2xGc2JBX19aQmpiZ09VLXBlcHNOUWhXTmgtM3JDeFR1XzRsSVZtVGU2UnM4V0VVcDZpMmtCNXN2aHd5Q0pGQnJ4OEtOS041X2xWWU1ZVEk3VTgxM1B5aXhDZUpEUTljMHBaNzZTWWc2LWdjb0p6cUNzSlA0Tg?oc=5",
+     "title": "Melania Trump says she continues humanitarian work on Russia, Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5QNFVYMlBHTDZpMUUxVG0yUExVSUlhMk5aZ0hPelV0SGs2ckhhTjkzVFVYeU9CMUsyLXdUMlI2MG9HNmoy0gFKQVVfeXFMUFNJTldYc1RJT0I1NE4zS0ZPY1RaVmd3X1B2RnVMVVBNTDVHeGZ3N1RWWjM5U2l1RVNWVWRwM09sekJRb1E3V1ZrVGc?oc=5",
+     "domain": "tass.com"
+    },
+    {
+     "title": "News",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hODBtUzN6Nmg5ckN4cHNBVHlhcEYxc1Z4ZkFUaGxpQVB6SUdDbjVFRUVyb2s0UXNzajBzbXJzbThxMkdtRHREeEZVOEdyRjV5?oc=5",
+     "domain": "rt.com"
+    },
+    {
+     "title": "Ukrainian armed forces lose around 1,100 troops in special military operation zone in day",
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8tNEZTVzBKRWF1eXN6dHgycG5JelVnLWJvcU5ETVlvckFaU203dU5qUFdYdjlhaEFKbHRNdS1RNGJleVRrR1JZ0gFMQVVfeXFMTXJlQTNDeWloRFlEMjlQcHdxNjAtZjFwWFljRkl3SEpFMENsS1hQZ2s4WlNpbnZ3aDk1YWFaQ1dIRmRtUHRreXhOZ3NBNA?oc=5",
+     "domain": "tass.com"
+    }
+   ],
+   "error": false
+  },
+  {
+   "name": "China",
+   "count": 2,
+   "capped": false,
+   "tone": null,
+   "headlines": [
+    {
+     "title": "Ukraine reports at least 9 killed, Russia shoots down over 1200 drones",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaXY2dWJFTmd0SkIzU1loNDFjdnllSjR4R3g4SE5pV09oSEdVVlBMeTlNUFJUTzh4WFA0NkV1NTJWVGFBbU10Yk1VcTg3dkVtbU13bGRjNnRSYkl6ZjFYZHhwdnhEX21WMm93d282Y2poTkVpdlNEajFrNFlkSnh6c19oYUxqczZJT1ZTcWVDUkUyRFg4OU9GWGRfbU9qYWlOcVN1UGNEcElPXzF6OG9GYWtIY2JEcVljbnR3THRwVjBPU1FHQlNvT2ppbllrbDDSAc8BQVVfeXFMUGl2NnViRU5ndEpCM1NZaDQxY3Z5ZUo0eEd4OEhOaVdPaEhHVVZQTHk5TVBSVE84eFhQNDZFdTUyVlRhQW1NdGJNVXE4N3ZFbW1Nd2xkYzZ0UmJJemYxWGR4cHZ4RF9tVjJvd3dvNmNqaE5FaXZTRGoxazRZZEp4enNfaGFManM2SU9WU3FlQ1JFMkRYODlPRlhkX21PamFpTnFTdVBjRHBJT18xejhvRmFrSGNiRHFZY250d0x0cFYwT1NRR0JTb09qaW5Za2ww?oc=5",
+     "domain": "amp.scmp.com"
+    },
+    {
+     "title": "Daily World Briefing, Nov. 28",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1uSVo0NVNsZm9uTC04YkNVQzNGel9Yam0zOE5fa3NNZ3BOd3Rob0JacG1EVmc2Ni1zV3hJU3NmOHAwQ1lDNk1fdkpFRWhMMmRkaEg1VjNJTldqR1VPa28zVkZtRTBVaGJBRVlCN1ltbkJHZ1NhSFlmbzAxbUk?oc=5",
      "domain": "english.news.cn"
-    },
-    {
-     "title": "Indonesia Mine Pit Flood: Heavy rain hampers rescue of 13 gold miners still missing since Tuesday",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QVHVqYmJMR2dFTTNYQW9fQzhhMjhxTEVFZElzVU1DUEp5MFBwWTEtelo2ZS1qZ3BPemdBaFJ0MmxHeHRmSU1FWERqenJDRlFHanQ2dExKdEZFeFlSTEZhR29UM0Q0aDcyMXN5c2U2WHVOVXBELWVZMw?oc=5",
-     "domain": "news.cgtn.com"
-    },
-    {
-     "title": "Olive groves in Afghanistan offer farmers relief from climate crisis",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVDNBNmRSRlM1YVVzTDZUMmhpWHRxWTFtTWl2aEQ4c3pZb1Vkelh6bHBPQUN0dklTbHV3a0c2YjF1RjV1QldfUXA3Wjctd3d0Y0xtcGVsYlJkcHlKOFU3cmpJZEM4bWY1cFZqc3Y5cm5LS0hZUGdiVVpSOGxIMXlVMXI1TzVBX3c5bDJfQnh6eFI1WGU0Ml91aEpxY1VfNllqem8wY3NPVUY0a1k5TGRFRzFkT1VoaTM3bDBhU0VKQy05NzRy?oc=5",
-     "domain": "scmp.com"
     }
    ],
    "error": false
   },
   {
    "name": "Middle East",
-   "count": 43,
+   "count": 31,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "El Nino-linked deluges flood cities in Peru, Ecuador",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSVU4LXhPNk9SZTBVNjZtUmRlQ3dLZlhWWjJDX0JJWWVybHdwOEFtZkl2bFpvZldKQ1FsZVhVanZlSURvdkZycnh2MlFma2JlQXVpWXhPa2NHVU4xODNVc1cyRERSWnpaVXVoRnZYclRFcWpEeFpRbGVBaHVaRnVPcGhocTdrTk5RalFGaWllUllCSTRpcGY1OdIBngFBVV95cUxPdHZzdERDUnZpeTRyLXg5NzhGY00xS0c0dzJBd2U4QlJURmVQbk5QT0dWZm84ZVZaX2Y2ZFdGYWtrZTRMWHRyeU1WTnFFQmp5ejVHU2tEaElmMDIwYVEzbTdPMExGcGlWMFQ5R0t5UjJ6eTJmX01meGJEWmFWd1c3WkZha2k4RExmSDdpaG9hcHFCb0x0dkZuSlpXTndpUQ?oc=5",
+     "title": "Russia and Ukraine strike energy infrastructure, as attacks kill 10",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMXdUVnEwWnhhTm9SZS03U3JNc1E3cWpWYjJtb21OZTNvT3lmUEFYTWtXa2dPajVla19SdDgzZHdiUlh5Y0RlZjNKeU9jOXRvMXNkTmNMZGRLWDhNcEx1ZzRzY1lVWDhyWTk4LUlPNXExQkVZMlhRNHI1eVkzaVRoeklPeW55SjN5ZF9MbldydzRJbUZENmd6dTJpc1M5OGNTMEVWSElXVFdaLXIw0gGyAUFVX3lxTFBqU3RhR0p5UTQwcFRnM01xRnVsTE9IcmRJdnZjVUxyZU9wWm5BU1RCR3Vad1ZkVFZ5Zk5nVDJqcmZ5RDR4eVpYbTBycjlWb1Y3TW8xUUpnaGdUdUlneGRiSzhYZWgwTzVib1A0dnZVZDFUbl92cmV6NkFWTkNDajhBQ3dJRFJKRWNqQlQtU2NGTVNEUnQ4RndZamJYUHNFTEFpQlRGRnJXd3pxYWxndEFRSUE?oc=5",
      "domain": "aljazeera.com"
     },
     {
-     "title": "Hamas chief’s son said to survive Israeli strike targeting his family in Gaza City",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc0M2amFFRkJUaTM5Sjc3c0FuS0JpeWhfUkREdV9XNzJoTml1eWQtOTBiajBRdmgwUTZ0UlFMaGY5ME9ZbnlFd3l5V3dkTG9Ubjd3ZnJqemMtMnItTzk2QmxweUdnZDdlYVdXSFBVWjB5ZFJSUXpCYjhiYzNUS1FqbE1SeC0ybWpvM3JZUnJEUG5XdjdXZS16ZUJPODhaajFOTm03Z3h6UUJjRmlH0gGyAUFVX3lxTFBXZDJrTDZObFZrbENtVnR5SVdzTEZIYlRSWHNYNEJncF95eHBwb2dRSmtxby1nakV4OVFuNzJ2M0VZQXgwWW9yNDhWM244d0dVS2tSRVQ4aGVjNFFWRzEzaXZvdnFDSVRBVmZpajNCU0xremEzQnFScjEwaHRLelJhZmZnZm9NTkNibW01YjczV1k1ZThnbmVrWGZPUTRnMF9PNXRqTVlzQlpvZmpyeVZJTlE?oc=5",
+     "title": "Global top brass increasingly shuns Israel’s annual music showcase as boycott spreads",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQnVlem50YVB4U05kb2kxX0RoQTRZSjVwbnhyam5HZnpfSnllMzVOUkNxWDNOZVYyS2QzbmpCR2o4OU9PZlU1X0c0TXBOLWNjbXBlQjl0cTR2Rk9vblR2bUw3NUtMcHQ5bVQtZmU2NFdLbU01VnIzQlpqSzZ2MUhQRmNxR1pzb3ZaYnRCSHdUT2VqRU9kaHpFcmQ5eVpEOWcwY1h3YXk2a1VsdkFaU25UcVRzSELSAboBQVVfeXFMTU1JTXJCUFZBQjNDUXZtTG4xdDVMaDg3eWFDSWswcGJNLVczQ0F3VG1JZHNCdGltU2hhMVpMa3QzcU5xanlmTE0tX282TjlDLS1qQWhEZnZla1pSSmJKckVLZWthaDdXakd6YTcweDRHR2o3b3BwYkYxdVhrME1udXdqY3BuUDhQbUxIcnQxbWg2MTY4OUFpcEdSTVlsWTJ3bGRxdmtRSmJYZEZTaEpGSk1qdTMydVIxTzV3?oc=5",
      "domain": "timesofisrael.com"
     },
     {
-     "title": "Thanksgiving storms leave nearly a million without power across the US",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV05RRm9ueHQ3Qmdpb09FZUJxVWN4R3JUVGk5SWI5SGh3MlNJZGVxTXNrRURzTmN1OWgzejIxN0dxSzZfTjNaaV9paGZfN3I1cVZUOTJMYTlEdUFlUFZEN2ItM01pVVMtWEcwVVczQjBtMUVfeFc0Y2MzbDdRSlFzcXRPMnRMWUdkSFRjTHUwS281OVBMTnNQV2Q2Y21LM1pCZ3dXa19zVFFSQ0RsTndLMFVR0gG3AUFVX3lxTFBLT2JDS2VjblItcVVUbkdIUWZXc1IwcUJGSGNKZTZUUHhhYXlrazIyZGtXNDFvaGJSOGxmVEZYVDVzM1ZIdWU3cEJJbXNuSC1ybjNUQmcwa21vY3VPTWkwRTBMVHREWENlNTg3ajdFUTFRcU1McVJMWF9VSTB4UGxzTzVpWlZjSU5sQjZTNXJyYnJPTEc3NFIwM3Q3LVZIV1NyV0cyYktESTEzR1drcFdLaHQwclBnbw?oc=5",
-     "domain": "aljazeera.com"
+     "title": "Ukraine hits three Russian oil facilities, Kyiv says",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcU1rR2pVbU5GWjNYUHlDcGpkdERrcEQyaW9tNHpQRFhCWXUyY0tuWUxtbS1jZzUzN2pXZnNMY1dnTjVITFJFREYzZnh5MGlLSV9lak1PZ050U1B6N296Skp4QTc0YkxCVlRCVW5OREpBT3dWblNBd18zS1dGMHNVaGtfNmg0Q2tuZUN6TGh2OXVaM0NBanF0Tmp5cDEyUWZaTTlWd2Jn0gGrAUFVX3lxTE0zaHlXdV9fVkFQeEhiRjZ1dDJDOXY4UHN3TlozQzZxeGNSbHlQRUxQb0xCdWg1dDk3V19lMWkxaDlQZGF2Nmx0c3R0eTFPY1JuQXJleWxYaDFEdVhObWhJS3JDV0J3bFBTazd4Q2kwcU1GT0J3eVhRN294eE9XOW80ZjZ5Q1JGZnVsanRyTTRwTVVuZUVSNWNIczRrcFBDenRlaGstNjFWcXhUWQ?oc=5",
+     "domain": "english.alarabiya.net"
     }
    ],
    "error": false
@@ -103,42 +151,32 @@
    "tone": null,
    "headlines": [
     {
-     "title": "In 1814, a brewery vat burst and sent a wave of beer through London streets; eight people died in one of",
-     "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOUGRTd0ViMi1yNXk5LVEtbHJhcWZDWktGVElGakR6SXJQay12NXdpNFctOHJEQTJlYWZuT1FpOEV6eUJoUmwwSnJkUmdyRWFOZjQ5M1lBM0REQ2NvcURPWlo4U2d2NzVqRWNUTDAzc0tkX2dobi1MVlpST1VpY0FIQ21ZYXRpb1RGcEF0aG1BanpKQjQ0QzB6NE01NTU2cHAyYVJ5T0QzMDZvT2RKYmluejRSY3Q2YU1Rc1hsVzlaem9SdXpraUhZc1dUY191ZW5MdnFwOVpta1hFbkc0S19iWW5TSzZjTUpMUG81djdWZlhLVjdLckhCMDFvTkV1cURGc2NRTDlZT0pWdXpITlRFSUd0WXFHR3VZcHZXSlRPbUNYczc0ZDhycm1yQkhnbHJBTmljVTdzSzXSAb4CQVVfeXFMTnhqZF95NTJuSFlPc1RDYlN1RTdBQXZMZHpvcURMSEFRbFEwcjUtTzIyblNEZW5BSmtHSEhpNnVMeHpFOTNXeTZ6NjJxeGJVb3NhZ0VrS0NBclZYNTd0QnZDeU9SVUdRX29vV2pvcWxnWXRqb3Z0OXRUdXFDdE82YzNobHZwY05IdmRRdGpfN3I0RWdFZUdBVnZWZE9RaHhDLU96WTZaT3E2aTM1ZlpWaXFKRnNCY0tMSWx5clh0czlETUFmNXBLb1VXQlVidFgxdlNKaVplVU1lQjItbnh0SG43NmdlNGV0NDZfU3lpelAweUdkR1l2MnpQeUcyZ3Q4aWt3eDZuSC1UTjgtTWhuWGl2eHIxMGxlQ2VraXRjRTFJczZ1S3NJaVNPbnF0TzVFOTdZQmptdGpIVGIxa3B3?oc=5",
+     "title": "\"Strange\", \"Killer\": Zelensky Denounces Trump For Calling Putin 'Friend'",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNWNxRXo0V1IxUXJVQTRGZlgwbHJXQnFXZUtkSW1BMEpkczB6T2lZMnlzZ2pZeXdEam1WQUZYOFZxNHJvRVgxUWU5ck02Y3V0dk5SUG9ickVDU0UxNl9SSGI1engxMy14bGkzWWlIT3VRNWtZMm04MXdRYjROSU1VR21tUWtvdm9fdWxab2xzVWJzT2hDakxybENudkg2Smc1WFHSAaoBQVVfeXFMTWhCYkR3RGxHcWttQWE3V3VMODhPSFpIUWg1R2s4dVVKUnJYX3ZiUWliLVR0c2lEbmQyNldPX081OEluVFJITXBTZzIxUjFTSlg2TW11SWViNVpuTGpJb3Y5RWx6bkZuTjc1MEphcmw0UUs1TUNoYm56eTZBYzI0SkhlbTVDdGVmS1pVRmlQeUNxSmR2cnU1NEtGTUZIUl9fOS1hVGNTWExvQlE?oc=5",
+     "domain": "ndtv.com"
+    },
+    {
+     "title": "Netanyahu willing to serve second to Eisenkot in Israel PM rotation deal: Report",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYzlJT1VEWmpPTjdQMVBRVzJqMktvUU1tb2llYlFhaGlLX2V5NkFwSWptUEpYTWhZTHE3M3RHdXNvU1lCVUFMYlI3UXlUWW1xc1hTRU5ZTHJtNDQ5bGpXRG9NSERQNUNIOUduTmhoNEJCWUFMSm94VFdlOTllVnhxWHBwakVMYTMyLXhFcEkxbVZOUXFsTjVFM2RXd0FiQWxUTlE3WlhkRl9mYWh4WEhVSnBQMEowUzNGUzFSZ3ZLUFZ4a1NRdXlKbXFTRTlud0pScGlNYVpqaEhxSG5aZHp5cEltSGFHYUN6Um5fWDR4SzjSAfYBQVVfeXFMTW10QTFKSjNNeERqdXllSmdNSGF0MEFBY2Q1ZFVubjlJbWRrSXJLSDdWbHFQUXlVODZzZEY2SndQSnQ2LW1ZNUJKeFplY2g1Q3dNV2pUSHk1dHIweGo1bGFUMEVBX0NaN1JKZmNNTHQ2WGRYb3RmeW5ZOTdtNlRTQV9JaEFLN0U1WUdVZGRMVWJlakZpbEowUUl0X0lOeERYMDNoYzNHekloQjEzTkExanVvcmplYms0MXY2SUo0MkVHN0k0aWZMYnljTnRBSjF6a2Rac2VjUGZyUVpWTzdSOEFhTEwtX01PaHVERFN0Nmdwb0h1TGhB?oc=5",
      "domain": "timesofindia.indiatimes.com"
     },
     {
-     "title": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
-     "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5faDBiWWpLa3cyS3BWYU1RQ3BrQmt2b0d4dnp0ZjRvTWZPdndZeGNzdzV0OTF3OXlCa3A3akhB?oc=5",
+     "title": "Odisha worker allegedly forced into Russia-Ukraine war, family seeks rescue",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaWdWdzRqYlBScVdGcmxRMDRjQmV3NUN2bWlrS25qQ25GM1NYOFRTS1A1SGpjTzNaOTVBMTZYeTRMdks0UWtWYzBHVndkMENISHlRSWFERE42TF9Db3Racml6TDNEX0JtLTBzTUw2Z29KV2xTZlEtREV1dFVIdmUxMVRBUWhHOTV5YlZqaWVPenFhWmlVSHlRekpJcmpESjU2ZC1GZ0FLTmdsTklFSFQ1ejZQMlVMa2QyVUoxU3lwRW9hNnNSSHExVnQ3cHZQRzAtZWctVzdSNNIB3gFBVV95cUxPczdfM29jNG56VVVkZk53VS1EUjZibXN5QjJOeUtFbGJVbklSQ2dSZXAxczQ5TU9La2MyQ1I4N0JwQXF2WlE1a0NiaWc5eGsxUVNRSDZKemxDZDIwUGtSRGV4Uy0yZS03MS1RdG1Ib1F2bkNUTE0tbm1aNmI1ZnNXRHd1ekdGS1pJUERGeGtrUFN5eEVaM0ttNDdkRlNWQkdwUHhVX1U1TE1ZU3NZQnd3RmVUdnlmaXNzeFRiWkVfOVVTeFFoNnI5Tk12M2cxMGhjd2xNUDJKc0lsWEZOa1E?oc=5",
      "domain": "thehindu.com"
-    },
-    {
-     "title": "Char Dham Helicopter Accidents Expose Safety Failures",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSkY3QUhobWRoN1JCTVpIWE9mOVB0Nl9FbU05OUJZVDB3cE9DWE9zT0Z6dmtKUldEbzlnd05COHdmSFBQZlFRUWV5ai1CMHlKUGRqQjJRdGo0dTBXeTllU0JEQXdJam85NVNRd3RvQm52SkVCUlctWjdoT19ybVBUY3NLZ2p5T1J0LTNDS0dGX1dWRUZjaVdNV2I0dnVHM1M5OEs1NXR4YlNSWnRn0gGzAUFVX3lxTFBMbGEzZEFrLWh0ODVWaEh5SUJXNkphY1ZBQndnV1cxa0VlZGFJTUFpZ3RJOFJFTkljdXEwUXRMRm16YmhtTkw4enN2NU1rbDR5UTVpTGdlZVJ6eUt0Wnp1cFlHNVdYc2tHQmhGRTk3LTJkLWdMelh5Y2pGSlQwSWpTNkpyaXQ5ZzhjLUZReGcwLTdZQ3RobDhyWXJwdzZkZjlfN3BXWHEyZmFiOTRZRjhVeFFz?oc=5",
-     "domain": "frontline.thehindu.com"
     }
    ],
    "error": false
   },
   {
    "name": "Africa",
-   "count": 66,
+   "count": 1,
    "capped": false,
    "tone": null,
    "headlines": [
     {
-     "title": "Makinde says he challenged Tinubu over economic justification for Sokoto–Badagry highway",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZ2E1ZS1rRHJYN2toRG5EaHhld1FSbGtYU0FoUVkzd1BPMktzN2FNM2dqcU5yM25tR3VOaEtxUU9md2RacXlTc1VPQWJxNl9rckxhMnBZWkF3WG1mV1dXZDlQRGNlcXU1MUJzVFdjbW03VWZ0Sm1WdE40RGlqcm52VlM1QkZnV19rYzJYT3IwQTBudUVZNjF3andJMm5zZkkzLW5lQXVZbnV6a2ZFS19Na1BHMFpfMlFGa2EtallBX0U0M1N1UlNlQ0lMNVIybTJNY1ZlOERfUlhzRks5aEEw?oc=5",
-     "domain": "premiumtimesng.com"
-    },
-    {
-     "title": "Premium Times - Nigeria leading newspaper for news, investigations",
-     "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBud3plQmYzekhRb3E0a25FMHdVMEE1MG1LMXhIMDZ2T0FxUjhEaEV3dHZ4V2JXR3RRUE9TSDEtVl8?oc=5",
-     "domain": "premiumtimesng.com"
-    },
-    {
-     "title": "In defence of Jankara diplomacy: When quiet diplomacy has not worked, By Olabisi Dare",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNY3pJNlY3eGdwSWhGd1lRZmZ0UGRxY2pkQl9TNVFoVFFMSkpvQ250Z29iMExabmZaa3piWWZaalVGUGNjMTZfRElnaGltampjSVVOME4zSUIySUh1VEE5dDlScllMSGFRVERXTDM0Mm55ZXdvU0pZMGM1eFR3VDdSX280M1FZMlFreS1aVVJpbGxOb0otc0JXa0pTRnFSaDVyNGg1ekNCbzhtTVItUW5iZVhsRGhxaUxiOUtnMG1ORHB1N2hpTW1kMVBCZE5rRjg?oc=5",
+     "title": "Two MSF workers killed in Israeli strike on Gaza",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWVc2cUxNZ3lIMU9vakxKQ1hjYnYtVUtJdWxXdTFwRnBJVzRoa3FiVlpoU0ZSMkQ0TXRObDVqWFluVlctWGRyMnlCeEZSNUthOUR6b1Nsb0dHQUlBemtkLXFYUEZHbzEwaHB3LWx3LVhQYWItSldaV2wtNkhVU1N3Z3JUQVFSSHp0ZV9vV0dvVFN2NWpJRWZYQUJ0X081NThO?oc=5",
      "domain": "premiumtimesng.com"
     }
    ],
@@ -146,21 +184,15 @@
   },
   {
    "name": "Latin America",
-   "count": 1,
+   "count": 0,
    "capped": false,
    "tone": null,
-   "headlines": [
-    {
-     "title": "Brazil Hits Record University Enrollment as Black, Mixed-Race and Indigenous Students Become Majority at Federal Universities for First Time",
-     "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPeGc5MWNOUFI1azNUai1CTXpqbDB0RXlXS3V0b3luQkg4Y25jR0tLYldDekxfTTQ2Y19ta1RydGEwbWE1YzdhR3VDWGNmbFpHRklldnl2OU1NMzNuOE92MWJ5bk45WmlqQi1raFByZmpDNGt5ZW9TNnMwMzdkcG8tUXQ3UTl0RVpqcmJ5MlNBcmVDVkVnVWpVcE1BSGRnRGc5S0pKM1ZMN1dHQXZSVnlUVENSM1JRQlZjdW95dkRWcWhPcTUtMUdXX3p2ZXdKQkxXT29mQjRfbGhLSHJRZ0NnMVdNMkJwSzZtV19jd19lTk5CUGxMcTFJUVg4SkVaZEZobGhMSklZUUxpSUkyY3ViMlZrbmtlUjVpUzZDRjNxTG85dXY5b3l2MDk1YW82NFUxNU9tS1JRYlpZQWV2aHc?oc=5",
-     "domain": "www1.folha.uol.com.br"
-    }
-   ],
+   "headlines": [],
    "error": false
   }
  ],
  "framing": {
-  "text": "The Middle East leads coverage with 43 articles on extreme weather, emphasising storms affecting the US and flooding in Peru and Ecuador linked to El Niño. India and Africa report extensively (100+ and 66 articles respectively) but their headlines show minimal weather focus, covering instead political, safety and educational topics. China reports 17 articles centring on wildfires, mine flooding from heavy rain, and climate-related agricultural impacts. The UK, US, Europe and Russia show little or no coverage of extreme weather events.",
-  "model": "claude-haiku-4-5"
+  "text": "Coverage of the Ukraine war is heavy in the UK, US, Europe and India, where headlines focus on diplomacy, ceasefire offers and Zelenskyy's criticism of Trump. The US leans towards Ukraine's deep strik",
+  "model": "claude-haiku-5-5"
  }
 }

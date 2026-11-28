@@ -1,115 +1,219 @@
 {
- "generated": "2026-11-28T08:00:45Z",
+ "generated": "2026-11-28T20:12:41Z",
  "window": "last 24 hours",
  "source": "Google News",
  "note": "Counts are headlines found, not events. English-language coverage only.",
  "countries": {
-  "France": {
-   "lat": 46.5,
-   "lon": 2.5,
-   "protest": 4,
-   "riot": 13,
-   "headlines": [
-    {
-     "title": "Thousands of girls and women report bleeding and miscarriages after French police use of teargas",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeDVtdFh3bl9lb1VXUWNVVDZHSFhiTjU3NDNmdG1kb0VuUjM3YVdNaGlKMmZSdlZRWUxjRXhhb2NDTnM3SzY3ZEVEZ1lpMi1FXzdPTzVaY2NWLWFOVEN4S3RsSVdJRlZKN29PX2NRc1pMT3p0eDFQbTFvc2RoM2ZkNU5iR21kc19iQTFFQ0JqMlpFZjJMXzFUTEl2SlpHTHpacXdkbVYwZDdEMy1KLWlkX0o0TTRhX3hqcFM2bElpczhrc3NPdkNvZHlac1B5M3FDODJualF2UDBGVDByeG5sdHB0ZFBOTmt0N1Bn?oc=5",
-     "source": "The Guardian",
-     "kind": "riot"
-    },
-    {
-     "title": "French student protests: A 'very bizarre' government response",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQnhmdXNqazNsR2FQczVzdmFIQ2tGWEs1Q3gyMGg4QUtDaEhwYWkzcWxROTV0dXhWWnV3VFlSa3J5clFsUXhhdV9tQ3F3UFI2QWdjVFBDRncxVS1DZlBZSnhLUjhlZHZJdDBjcE5oZFVRZUtIRUxUVzdVZ3IzWVNfR212NTRvTmdnd0FKYXNuQmtOWjQ3TVpZT1JQMWJnaU9VLThqMXFFa0RmMkY5Mnd5MDZ2RzFkZHFMZHR3ZTRuMXgyTy1NRHlXbg?oc=5",
-     "source": "France 24",
-     "kind": "protest"
-    },
-    {
-     "title": "Women report miscarriages and bleeding after French police use teargas at protests | The Guardian - newspaper",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOGVLMFFyeUx1V3VZWkY2OUdack9yWXExOFEtdDR2UVBVaXVJU0o5QnNyT2h6MU16WGhrZXlPVkpBYlFJVjdhdkgxMlRrWm9Oc0JBMDU1MzBOU0FuQVotM0ZhWUpCbnNQV0JPV0FPRktqaHE1MXZabGtUOHZFWnp0YzBNanB4cjE5eTdycTVLWTRQM3lkb0NsUmY3Q3c1YTFxVW9wTjRJQmtXMGNKZWd5QUVHYWNJa2xaYXVMLWdORXhXS2RDc1RGdVphVDI0TEVRaC1N?oc=5",
-     "source": "Magzter",
-     "kind": "riot"
-    },
-    {
-     "title": "November 28 demonstration in Paris: route and closed metro stations",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZU9PNThXazBhYkpPZjFDVU5qOXZXb0NhSENtSmdRRS1ZVUlDX25LZTFyT2ZuNzVEY1VIWWs3SjF6bUMzcnVFNkQyNWJfZFozSVVjU2IyVGVacGRjM3ZEYUVlOENYYjZkRmtZY1RKVXFtUlpsbTJfcjJGeVJVc3NFZndRZE5jaWtFYnc0QU1LU09ySWRKRXZudzNmWm1aSDd4X3J1bTVXMWRyZFdjMmMwU043Q0YxU0llZFBRRmlmMA?oc=5",
-     "source": "Sortir à Paris",
-     "kind": "protest"
-    }
-   ]
-  },
-  "Bangladesh": {
-   "lat": 23.4,
-   "lon": 90.6,
-   "protest": 3,
-   "riot": 18,
-   "headlines": [
-    {
-     "title": "Protesters gather outside M&S on Black Friday over retailer’s silence during minimum wage negotiations in Bangladesh",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZlVYZ2s4Sml6NGxYZnZiNVVvY2Raa1pSREprT2FOeXhfQWlJdmd5VTgtNFdlZWRydVVHaGNMTTZNQWJoaFNBcVZUYXp1MzM0VUR6c2hFMTQ1UzJFZjdLbVYwT0ZSMVFvbkIwbFFKdUNxbXhJY1pLd3VfNThqRE5pNEdLMWNTRXg1RHBqNTdXWVBVbk5vXzZSR1FJajVPZ28zNEhVWXJCNS1TcnNTR09XWHR1QzdjSDcwZjctaWVyZndMUQ?oc=5",
-     "source": "Morning Star | The People’s Daily",
-     "kind": "protest"
-    },
-    {
-     "title": "Bangladesh garment workers protest wages despite police crackdown",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTnNvaEw0a3FDZ1RVRlJ3eDRLNnBkVTZMQWNac0NMX0lGQzZDMlFoNFA3WEgzZWhueVpNamVyWXpqTkxWek84QjZsZWRyTVVobDZaWkFkaVFXanJ5RmFjbUVaaVRiY3IwMkVIZGFaNXo5TzgtMzZHYnFwZ3BaeUU0eDNNSVNXaXlsejd6bjVTcEwwQlpqbW93YXd3bDg?oc=5",
-     "source": "Asia Times",
-     "kind": "protest"
-    },
-    {
-     "title": "Bangladeshi garment workers stage mass protest",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdWFkaUFXOUNGSmdYcnVENHhnMVMxelhfUmV0NFhIQ196LUVaeWtlekRpQlN3MWdOYXZVaE9pc3FQNVBlRWwzZnRpcWVYOTlGYnloT1dkQU1JY1RzN0psVkkySThJMXRsR3FxVjZIQXVqNHpDdHQ3VXBIaHctS3hmUlVRbw?oc=5",
-     "source": "Palatinate",
-     "kind": "protest"
-    },
-    {
-     "title": "EXCLUSIVE: Global fashion brands shift orders from Bangladesh to India amid unrest",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQWJhaVBEcEFiX2hwb0lHanFvdTJncnpwM3JVMEh6WTUxSmhaWjV6MHcwdGJueHd5M1pmcVB2VG9UbGxKbzlseklNR2FjNHFWMlFLbmxLQkxxeXptM1VWUVRkWngxS2dwNTVWTng2NXcyUlo4NHM5OFM3NWNsNUY2WkdJblJmcVFRaVV4X1IweXZQWUJya01ZVi1qc19IVjF1OGEtQU9aVDd0eW5xYnBkQkxhcWg0dHFUWEwyYzlPdkdqZw?oc=5",
-     "source": "Reuters",
-     "kind": "riot"
-    }
-   ]
-  },
-  "Turkey": {
-   "lat": 38.4,
-   "lon": 36.8,
-   "protest": 0,
-   "riot": 4,
-   "headlines": [
-    {
-     "title": "Turkey summons Georgian envoy after football fans' pro-Palestine protest sparks clashes",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSmpwYjlzVEJqWXBSMDhSREZtQk9RZjNRNHJzTXV1d3ZtNEVBSC05bHlGRkVkZ3F1SWFaLVFEbVVaS2s3d2puVEFpdm9wWnp3LWVUQmdxMTNIdVJXZThpWUhSSEdHQlpMblRmZFI3WXAzUnR2cUR5SDliQldJQWowLXJWemRLb0VENnhkeVdGWVBaS2NHYnBOYUZDNEd2MjREbTBiQVZEU0V6TTFvMmdpZEZMTDdkQUtjMHIzOHRHMW45YzUtY00ycA?oc=5",
-     "source": "France 24",
-     "kind": "riot"
-    },
-    {
-     "title": "Georgia arrests 16 Turkish fans over riots at Hapoel-Besiktas",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaVN0Z1VXdVZTUU96M3lYUkxUNTBNa0RONDliYVJkU2p1V1J4UUN5bHc1TGkyYVFQcjN2UXFYVVJsNm9FRWtWTHNmUkhQZ29mTDdodFcteElzblFzbDNJRUZadDBvVWZiMEhJMDhkcGpVOFBTNTlxdkJ1S1NqZWpraVduMXhsc1JMSkVPOExPUFd6dXVKcU5VUkl1X1ZuX1FWYlNNWFpNOXAtanJ6OW1NcllYZzdkLVFaalRLWFd4RW1vYlhuUGZXLTNIVmtmemZNYThN0gHTAUFVX3lxTE9pU3RnVVd1VlNRT3ozeVhSTFQ1ME1rRE40OWJhUmRTanVXUnhRQ3lsdzVMaTJhUVByM3ZRcVhVUmw2b0VFa1ZMc2ZSSFBnb2ZMN2h0Vy14SXNuUXNsM0lFRlp0MG9VZmIwSEkwOGRwalU4UFM1OXF2QnVLU2plamtpV24xeGxzUkxKRU84TE9QV3p1dUpxTlVSSXVfVm5fUVZiU01YWk05cC1qcno5bU1yWVhnN2QtUVpqVEtYV3hFbW9iWG5QZlctM0hWa2Z6Zk1hOE0?oc=5",
-     "source": "Mundo Deportivo",
-     "kind": "riot"
-    },
-    {
-     "title": "Georgian Interior Minister: Turkish Fans Detained Over Batumi Unrest Released",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTDYzZVA4Y3RTLUpKc2prMkdybmRhZjVGYy1BWmVIU19BTUdydlRKOXRTT0tjWWVncFpKdFhubzhFUWtzTURQUFROY3pQWjRVbzdnajB3a1lSRUY1aG5ZT2xaN1ZnWl9jRVJncnY3Njl5Snd0UmZSc2JYd3FPaEl6RjhXSkR0SlowMFFCaU5aRXhqS2J6ZGdBaU9RVHhCUGIyOG9BODlBZ0JGV1VMV3hIQtIBtgFBVV95cUxOX0thSm9neHJBS183M3ZKOFAyR0pJNDUycmdKdmpMRlVuSTA0TmFBRWFoRktKMXVwT3Z4eWFkLXJUdm5teE1iZGpCa0MyMWdzci1jNENNMDNFaWNvM1BZcjlfaHozYVd4VlEyUTkzQW9QenhsdWFGQWIxT24xNm1zamFtd1hCXzZVa284Z1VpVElBSjR2bjN4SEpXMGRyUWVDQ0g3TFpHSHpQUWxmVTdMMGJMUWNSUQ?oc=5",
-     "source": "SOVA",
-     "kind": "riot"
-    },
-    {
-     "title": "Turkey Reportedly Summons Georgian Ambassador as Batumi Match Unrest Triggers Unease",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1iR3U1YUJFWlo3Q0dpaVpsczlxNzYwYTAySG5EWkl3dG1SUTdVLXV1aG1VeUhxMnVWV2Q3UEI1cEl6UWZrdDVCQ3oxYkPSAUxBVV95cUxNYkd1NWFCRVpaN0NHaWlabHM5cTc2MGEwMkhuRFpJd3RtUlE3VS11dWhtVXlIcTJ1VldkN1BCNXBJelFma3Q1QkN6MWJD?oc=5",
-     "source": "Civil Georgia",
-     "kind": "riot"
-    }
-   ]
-  },
   "Albania": {
    "lat": 41.2,
    "lon": 20.1,
-   "protest": 2,
-   "riot": 1,
+   "protest": 6,
+   "riot": 38,
    "headlines": [
     {
-     "title": "Albania's youth are protesting in Flamingo Revolution, not leaving the country anymore",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVDhYOV9zVmNabklsMnpGV1VGN3k2cE1ydnJxWXJIcXY4empwUUNCT1ZTdzBuN0VXOGgwS0dGeGo4MlNZcEpyNWVLajZlaTYzTUsxdmFjOC1DQy1NX0YyOENyYkRmTG9DV3N4MmwyTzNadC0zQnFIMzhHdzlhODVXend1N3NqRUo2N0xxLWpFdVJpTmdiSTRnOEVhTUh0NGpuYjlSalhwR3NyWEhGby16eXEwX0d1QnQ20gG4AUFVX3lxTE5pZGxLWE1SM1h3ZkJFclFQM3RJREc2VWd0REt1QUdTekY4YXFza0FqbEZBcWFEZUVYNWZwZ0hfVlJBNk1PSW5uWk84Y25ZeGQ2amFxTG1uVTB6bk9aRlZ4Y2V0Qnp0NXpJb1N2b2w4Uk1nX0FYWlJDaGNuVTMxQzhNOGhIQVJmYk5oWjdtWGQ5MTBlaUZOSWRoVUJxTUlZczRxM1RDNUVpWFZsRVlBQVlaUE5EUVdyWTQ?oc=5",
+     "title": "Albania police, protesters clash as thousands rally against the government",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTFVnVDFPZjM1V3AxZVg0dENfQU1YeDJtOS1ZT3luTFZmY0pNRGxvUEY1UFZHSGpCVG44NUVRRklFU25ITTBMY29aamo1QXk2Ulp4Y3ktelpMdVY3ZTVxaEo4LU9tMWdudUhfUmxhek8zMHRwY1RrcDdEYVVCOGNnYVBtRENIUnhYdF9LV2hZRmhrRFdFTUNoOXhYTGptaVRUR3BmZHc2NDctZ3ltMEpkSi1oaVJDUdIBuwFBVV95cUxNLTF4TW9BRjg2VnRQS3J4WHBTN2trNXU3SEw0bktuY2RNOWJZVGE4ME54S3FCZ2tFaDRwV1NHUHIyai1qZVpuOGx3amJIcWxlQ1FXWjQ2anp2bjYyemRMbk9vZTh2X0F5YnpmQTFydVVqNUkxbzQ1Vm9BazV6UXFMRDktVVhHbGFYbHJsWHpLb3VZVHVmc2UxeDdveTVCeURhMEIxOFhqVGYwd2ozbkJQMUtFc0E4M3VzVFBR?oc=5",
+     "source": "Al Jazeera",
+     "kind": "riot"
+    },
+    {
+     "title": "Student-led protest against government turns violent in Albania",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbWR1RkhnZFQ4bkwtc0RrcGR1aE9Vbjd4LW1DMFNYN2RDbk81a3lkZ3lLWnl3d05BV2RLQjAtc1JwOTBoS09iVTA2RG1RR1RFczZVOFcyOFdHaTZsTkhCSW94SnNuQkFpcC1TbEhJMzFma2k0X2dad3FQZ1NaT3BRNkF3Q296Tm96SVU0?oc=5",
+     "source": "Reuters",
+     "kind": "riot"
+    },
+    {
+     "title": "Clashes erupt in Albania’s capital as protesters call for Prime Minister Edi Rama to resign",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcEhWdmg3Qk02QTJudW5iazY2X21peHNBNG5rTWw5NjJtR29pQVNPVDJ1NVBmOGFkc0hxRmRvVUNVQlFKWWZqLUx3TkFPM1dXczk0b2xWSm9WMmtpQXdBaTFHNklRQVlNa1NacmRJWGF3dmxGTlhpUmdsT3RDdTFVaWJrWGtmdS1pTTZmQ0c1UUJQRkR0RWVVcTVmaw?oc=5",
+     "source": "AP News",
+     "kind": "riot"
+    },
+    {
+     "title": "Clashes erupt at anti-government protest in Albania",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbTNtSW96OUV5RFY5MTd0TDFJRUVvZU9hNHlMZ1E1NnlKMUg1dnNzWDFjN05KekxjVk5qaFkta1h2S2NqSDR0MXJLZ1FvVWkzZTc3NFFoTnBLdENDVDVqT2NuTzVTM2dxVUZ3VGpXbFJIeVZvYmY0ZHdISWJSdG14YkN0aURNN3ZHbGo0MFg3ZEstU00ta1HSAZYBQVVfeXFMT20zbUlvejlFeURWOTE3dEwxSUVFb2VPYTR5TGdRNTZ5SjFINXZzc1gxYzdOSnpMY1ZOamhZLWtYdktjakg0dDFyS2dRb1VpM2U3NzRRaE5wS3RDQ1Q1ak9jbk81UzNncVVGd1RqV2xSSHlWb2JmNGR3SEliUnRteGJDdGlETTd2R2xqNDBYN2RLLVNNLWtR?oc=5",
      "source": "DW.com",
+     "kind": "riot"
+    }
+   ]
+  },
+  "United Kingdom": {
+   "lat": 53,
+   "lon": -1.5,
+   "protest": 1,
+   "riot": 3,
+   "headlines": [
+    {
+     "title": "Protest after Burnham rejects Wales devolution calls",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRXR3OWtGWUFDTTRnQTd0S2pPMVUwWmpETmE4LVBEYlc5NmFTMW5FY1BoUnZNMDRzTUJpMnVHX25Pa1ZlbVhLMGxzNVNLbHk3WmhGSU12YWR6LVAwbW5Cb014eVMyb0c1anA5WmU3dTloM25LdWpXSjNmVVhOalFVMEloank5b0VQWXc?oc=5",
+     "source": "Channel 4",
+     "kind": "riot"
+    },
+    {
+     "title": "Animal rights activists protest outside Louis Vuitton shop in Edinburgh as store forced to close",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPckV2eXpOb3QzNnhxTDRqa0t2YjN2MDhPa3RxbUdEZC13bFVQN3plbHNmUXJJd2Jjam04U2tYb2Eta2ZHY0lVYXItbmEwY3hnU05uWDNqMTlOdm1PUkVaU0VPTVlIU19MU01LOGNxbmNDanRaX2Vjbzk0dGx5aS1nRGN1elF3eFRyTnhCUzF1aDZtN1ZnNzVlTkFTV1BYd9IBowFBVV95cUxOQ1daNENxT3VqMDNvOU5DMXlmVVMtZ0lpdk5ITFhWVDRQbjhRRzdSYlRZQ1dPZnNQanJtaFgwMEpzejJGa3NFRW5vVWhzb2c1el9RVzZIMDlHUEp4NDJsRl9HWlVlYjJTNDFKSW9fOG1fUjFnTVI5LW1iM0FpU0I1aVlDZ2tVU2FBck1KYmtiSEM5cTdkZlhUNFlMR2Y5dUJiaW9N?oc=5",
+     "source": "Daily Record",
+     "kind": "protest"
+    },
+    {
+     "title": "Don Toliver Postpones London Concert After Suspected Tear Gas Incident",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaEFQbWpucVd5Rm9yNHljQ2dRYmU2V3plRXVpZmxCcmNRN2o1aWJ6ek8wSU9jT1c3NmhxVUE2YVNJT1IwQ2E1VVBSZzB4cWdFMHlkODBuaGxxWkhKZnVGT0tqZGlRY084SFBwNi1CNm5fV1NaMENXZ1l6eHpNa1RSSUt6eXRXV3QtaDl0ZjZzUU9MelBhV3MtUnlJVGxqNjZnNTJSa3hKWldCeHV3SHdSXw?oc=5",
+     "source": "Yahoo",
+     "kind": "riot"
+    },
+    {
+     "title": "Don Toliver’s Manchester Concert Evacuated After Apparent Tear Gas Incident",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNmFhNU1LMl9zUHVDMFB1M25Ec1NLQzVIWFpIZFNHeUFwS0VqbWZTS0xaT1p2YnRuOEdGek9RMUpJeHhKb00zOUpiaXdyMnlEc1BPY0VsdmJ0RG4zY1ItVXVfNTZRMkhwLXNQOEFaNmx5cmV6a0thUXR6NTU1UzFsWmtROUU3MmZsX19KMmh5NzQ5aW4zaVNGRDdFV2lqdUJrX3gzVDVjaXBNNXNNekdPZVlUbHJvZw?oc=5",
+     "source": "Yahoo",
+     "kind": "riot"
+    }
+   ]
+  },
+  "France": {
+   "lat": 46.5,
+   "lon": 2.5,
+   "protest": 2,
+   "riot": 12,
+   "headlines": [
+    {
+     "title": "France holds nationwide protests against violence towards women",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZlQ2d3dWNzBIcW1ycUl2YTl3SWxmMVc4U2tNVUJYZUdZS1A2ZERSRTR0aW9VR2pjejUtSURqbWlpWHVZTUd2dExnMXhJbVdUVXRrbkZzY0tTbU9ROHpZbnZqM1VVNkZtTF9PdEEzVWlyLWduTVZ4dklqXzlRcDEtSWdrMGVpVlJodHA3UkdyMFFsNVBHM1ljMi1GLV9jRWthNkFfQVBWUXN1ams?oc=5",
+     "source": "France 24",
+     "kind": "riot"
+    },
+    {
+     "title": "Protesters against gender-based violence denounce 149 femicides in France",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWGhiajdCZXZZTEl5bDFHRzcxWWxLdTdfSno2eFdjSEh2dkUyRkZiWG9DdHVHMnQ5THl3aUZEalBaUFdiZkM0dDRUN0tVV2w2dlNpRlNvZU1zYUlpbnZFOG5PWmRpQkg5YXNEX0FKd3BES0lDZngzRENDM2lzbTJOSXZiTUNuVVVySmhfU1JwRUZ4VGlXZUJUVXEzNnVQdFR2Zk40MGMzQzdRalN2Z2JUeUlkZ0g?oc=5",
+     "source": "France 24",
+     "kind": "riot"
+    },
+    {
+     "title": "Turnout down sharply at largely peaceful marches across France",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNHZ0cXB1X2pldzlTQS1zX3BkMkM0V1hheTcxSHd6dnhzOEdxMG9OQXlWREl5dXY5cjRGLWVqZUxzS0hZWkRRUFdOU0t0U3JGdmpFSy1sQWNhaVplcDhqZk5MYkhaTHlSSEI1NENYNVNDZm1rWVduR0dBcm1EcV9PMWNkSkZiZVFCYi1BcEFnSjJ1ZzZELWZXc085U2p0UjV6WWgw?oc=5",
+     "source": "Reuters",
+     "kind": "protest"
+    },
+    {
+     "title": "France protests violence against women and rising cost of living",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTml0U1NHTktBY0xpcHBROHRpdjRhS2haQ19kRWcwM09pYm9WYWpHd2d3MGN0TXBWb2xvNy1zLVBVODA1VkZLcDJwSk9zMG5MX1FDMXpYWXlwZm5vdkZfWkhCUGttTng1TVFUUVdKZWhrMVZzazJDN3JTZEhGWkp3aEFtdWtXMjZYTVJnbWh1VWljSkQzVUl1eEFNOA?oc=5",
+     "source": "RFI",
+     "kind": "riot"
+    }
+   ]
+  },
+  "India": {
+   "lat": 24.0,
+   "lon": 83.6,
+   "protest": 3,
+   "riot": 9,
+   "headlines": [
+    {
+     "title": "Indian police disperse protest outside Meta offices with water cannon",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT1FMamFEdzdHVi1acTN1REVHV0NBNmwtTENMZm5rRmdPZHU5ekxQWDBldzZyVHdlRmVtMXEyY1RoWjRrWVRmQ3ZDTzRFeExQWVJ2WFZ4SEU2TDI5NWhrUTlmYXZHQTB3YVZtSlVOdzQ2Mko0VEdHZHlFa1JNYnlobG9EZTJpYUFabjhNd1M3V2lPOVNrSGF1RWxpOHVtR2QwT01TSmxycVQ4ZVFvM0ttVHVBQUt0ejJz?oc=5",
+     "source": "Reuters",
+     "kind": "protest"
+    },
+    {
+     "title": "Police reportedly turn water cannons on protesters outside Meta offices in India",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV0xwbUhxcHQ4eXJYWkhFWmtodVZfRmtGNzlnQWxzMVl6MFlLZVlFRG12eTlhbGxUbDFTVWJJb29uNmFDeGVGOFVEN1ZBc1BQQXBIM1U2TTZTRFBPSlA1UFd4TjJjNGVMSkxVVWJiSHMzRUhVTV9VWUU5R3owSjZIeTVCLU5aUVp6MHU1UFA0SXFkMGdodUtYek9wSG5BZDI1TFM2X1pncm1YWmdfdFRCT3dfVGtYUEU?oc=5",
+     "source": "The Verge",
+     "kind": "protest"
+    },
+    {
+     "title": "India’s Congress youth wing protests outside Meta office, demands end to ‘suppression’ of India’s youth",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNd0xwdXdfRUJUTFI0V20xTEdweW1MNWphajUtb3lSclMzaDQ2bVlUWHpQLTE2Vk9mVHFVM2s2TGRzSWwtUUVLWUV0c3NreFlhaEo2blIyLVktVjRZdXptMjQ1aEFTVlRubk02a29YZ1QtTGJEVGtxdmlhNzFaaVgzMjFPb1A0MEdTVzVxQ29HSmMxQlhOQWVvcEVQQ2FNV0lZSHRMS2cxR3pIX3k4VHEyUEFwTU1xSkhTaDFwb2dwRjlSR3BPcTdxdmtEMUFYbjBuOWU4WGc1VzI2X3pSWlFB?oc=5",
+     "source": "Anadolu Ajansı",
+     "kind": "protest"
+    },
+    {
+     "title": "Global fashion brands shift orders from Bangladesh to India amid unrest",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxN0Vrc095dmlIYXB6eHdTSTljU25RN1lPdHBldEllSG1QaVpTTkhiZDJvN2F3dmJBc3hEMnhPckMyTGc5VGVGbmlTN1hTM2RRNDV2M29rTlpfR04zakdMadIBbkFVX3lxTFBUTnZaTjZZbnFBYlJqcFFmY3M0ZzM5bDhqcS1VeGxKckpaQS1pVWpVZ0NBZnhWSzBOakNVSXJ0Mmlyak9GRjFISUtWMGFOUWV0bXVrcm93S0Z6cmN5aXlmQVNvcHdtdGlLWWprbWln?oc=5",
+     "source": "Prothom Alo English",
+     "kind": "riot"
+    }
+   ]
+  },
+  "China": {
+   "lat": 37.3,
+   "lon": 105.7,
+   "protest": 1,
+   "riot": 0,
+   "headlines": [
+    {
+     "title": "After the protests, what's next for Chinese Gen Z activism?",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT3VaWjRQeU81YXBmSmNNNDJEMGwzeTVVRUd5ZUlUN2l1T2RKZGhQLWNLMFdyNUJCc09OWEw0X0NVMnotUEYwRWE5N1g1azR3R0VRN0JOVzRkMVY2Y1RDcWJIRHRRRURtV2gtc2syVDQzOVRQQWRGc0JxTnFteEZvTFJQNmNwVHRmVjhYZHBXU2xGSXVVTFVXRw?oc=5",
+     "source": "DW.com",
+     "kind": "protest"
+    }
+   ]
+  },
+  "Georgia": {
+   "lat": 42.3,
+   "lon": 43.4,
+   "protest": 3,
+   "riot": 0,
+   "headlines": [
+    {
+     "title": "Protesters gather in Tbilisi to mark second anniversary of continuous pro-European demonstrations",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQWNxZ21RVXkwcFdrVzlDUUl0NXhlLXlaSjJ4bGFnbXA1VGRrNW43U0NpVG94dTBBMm05X3RoMWdCWTdPUUVnR3R2N1VMdzl1TUZXTTU2RktMR0c3N2RlSmNjQTFaWUczdnJtMFY1SUVPNEFRazhSV296VWNDUnBxQUx3X1RRRmREdXZ0TVVtUDl5ejJGRWE2Z3JDbXpCZ2VsVW5XTFludTl4Mzczd1dHTmk2RmVNc0pPcDZkNzJJNA?oc=5",
+     "source": "Georgia Today",
+     "kind": "protest"
+    },
+    {
+     "title": "‘Georgia without Ivanishvili, Georgia is Europe’ – Protest marches begin in Tbilisi",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaEdCTFR5WXkwUW5CQWNCY1NyOEFEX1lHbk1kOHNaT3hZX0xhRTJ5V2VhTHl3MnM3dkVibXY2RUdzTTNMcWZfVExVbEd5YnRVa2xXclI0NHp1M2NSbkZjZ28yTWhUZC1CWkFEZnRacWZqZGhmZ2ktSktUbTVPU2pJMV9hVzZjeHlIaFgyVzIyTWR2UlhMNHZmYy10aTVOc0lndFIzT1lB?oc=5",
+     "source": "Georgia Today",
+     "kind": "protest"
+    },
+    {
+     "title": "Protest march and rally to be held in Tbilisi today",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNENweEUyckR2aWZYS0RDWURndzdhcWtIaTlGWXRmOWJPSDdrR2dmR1BxSlRhQkI5VnZCaDA4TTYwZU1OTWxlTWFkU05lbjlNMGVEOGFSYTNRODBVT0hpeGpBTG9FMVN0ME1WNVl2X243bkFUMW9GbUVDSDFHcXVEYjUtcGtHWjVMclByRFdMcFZjeERtLVBQdUhGdl8?oc=5",
+     "source": "ინტერპრესნიუსი",
+     "kind": "protest"
+    }
+   ]
+  },
+  "Puerto Rico": {
+   "lat": 18.3,
+   "lon": -66.4,
+   "protest": 4,
+   "riot": 0,
+   "headlines": [
+    {
+     "title": "Protesters take to the streets in Puerto Rico's capital as standard of living deteriorates",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa2RXMkdUOHprejRZWkphaW1lbjNZaUxqUFF5TzZnaTFTSGV6TXZQX3NkVUNCT2IzNGdWWDZrUWp0ZU4tVEZOZi1Yc0RvT0lOWUpYaThHZGdwaHR5aHBzNjNyMUNNcWpCWmdRMFo2ZGFLY2ZJS21PZ0VvVzZEU0NRVDROWTEzeTlrZGM1WHN1QllFS01XYm5EYzBEZFdJUEdGY0tSNTc3dDBiOXZLVFY4SERlQldzSHN6anl2aC1lOHBkTHc?oc=5",
+     "source": "PBS",
+     "kind": "protest"
+    },
+    {
+     "title": "Thousands Protest Rising Electricity Bills And Cost Of Living In Puerto Rico",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaXBRajIxOXBRbmdJNTlfSTVZUkpZNlFlY1ZFS2VSTUFuVHZBdm5RcW12VkxKa29jeEtKbHRCYWppNDlsbVJNcHp6dTZ4NEZqOS1qeFRsZVFXMkdqWmNNQzMzc3BNeWFlTkxzVUlkUW12WTJWTk5xYW9URTZyLWtZVG82UEptekxsQk14RUszLXhJZ1g5WUE0QjMwQURWRzA?oc=5",
+     "source": "Arise News",
+     "kind": "protest"
+    },
+    {
+     "title": "Protesters walk streets in Puerto Rico",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQN2JTcEtidVJaajdIWkk0WkJjUXk2cHFENmYyeWdNWVNzeHRwdk1pX0V2Rl9uejh0RWdUcGNPNEJ2Wk5xSVBoSW10VFVKQ1VZdm95cXc4ZHE5TTMwWW9NekM3a1JUTlRxSERrVWJPdXJWRC16a1dIZ1A0U21objlUX0RGS1FSQQ?oc=5",
+     "source": "Boston Herald",
+     "kind": "protest"
+    },
+    {
+     "title": "WATCH: Demonstrators Swarm Puerto Rico’s Capital to Protest Power Outages and Electricity Rates",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQV9fLW5WTE1fUHFGRFJqZUlGWHpfaFJrUWFtQzhxNDZHUXZ3UlczdVc5M1JvNWZGUzNEeTBKeVdjVVllUFBXdGN4M0JnQmlqdjVRV0k0ZWVmOW5SdjZPNHZDTnFvVU1HN1NLSl9DSUs1T0F4WUJjUzlaaWlnUmZLbzdxQlZnRXlRUTVKOXR6cVhtY1p2czJYeFN0Zl9WLVJnYjhhNnpkc2UwZVE4WlVTQjdtRlhiNE9TQmQ1YjJnUi1UTGJEcExkdjMyUmo?oc=5",
+     "source": "Breitbart",
+     "kind": "protest"
+    }
+   ]
+  },
+  "United States": {
+   "lat": 39,
+   "lon": -98,
+   "protest": 3,
+   "riot": 0,
+   "headlines": [
+    {
+     "title": "Iran Is Trying To Erase Memory Of January Protest Victims, US Says",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY181eDl0OUkyVC01bEpYUTNjcTd4eVZvaVJ0bWttaExPQmVyd25rTEZKbV9JM1VDZHhnQ2Y2bmNpWGM3cXJYTUctT1VvZnJZT0hwcndUcE82RWo4WU5KWXZOMGZHTGRINjl6MHJOWVBUeC1YdnBWOW1abmlfOXlad0tqS1ZSQkZuTHdyWXFCZjFCcnhTbHUtY1ZaNHYwNm1lZ3RHbU1EU3BMNEU4Q1gtcnFoTVRBS1JHQW5lOE1FbWt2eE5pdjBwMmhIc0NKZw?oc=5",
+     "source": "i24NEWS",
      "kind": "protest"
     },
     {
@@ -119,109 +223,9 @@
      "kind": "protest"
     },
     {
-     "title": "Frontline Voices of Albania’s Gen Z Uprising",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMHB0bzZoOUJrWnhQREw3SUoxaFdyTFF3U0Jtczd0b0JPNTJsRHM0MEhGSDBMX01TclRsUkxSYTNvU3JHM19kT2M0SS0tSWlzN2dTUDRHWWV0SzNlQ21SWUZHSm5aV05MWkNRMVZVaDdsS1V4WXVLeU55aEl1M0VPSg?oc=5",
-     "source": "Unicorn Riot",
-     "kind": "riot"
-    }
-   ]
-  },
-  "Poland": {
-   "lat": 51.7,
-   "lon": 19.5,
-   "protest": 1,
-   "riot": 0,
-   "headlines": [
-    {
-     "title": "Court overturns Warsaw mayor’s ban on protest outside Constitutional Tribunal",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbGxVYWNFOUhEVkt5STJuMEpleWgzaTRSTHJ0clpwV0gxTHVBUy1XLUJmV2xmUGF5WGRnYUladnBDdXdCM0diRTRWaVp6RGJsdzM0ZF9uNnNWbGtqYTB1dUQ4QzVYZWV3aUs3RVRPaU91VG4xOWlBbDloTlFPVVNCYnZQNjE4M2FBMHFLbHpONlJxSm9ydk9RWWhJT292TnVSMkxnVm9YRmZXTFFZQkhILVpmbUtuV1E?oc=5",
-     "source": "Notes From Poland",
-     "kind": "protest"
-    }
-   ]
-  },
-  "Puerto Rico": {
-   "lat": 18.3,
-   "lon": -66.4,
-   "protest": 6,
-   "riot": 0,
-   "headlines": [
-    {
-     "title": "Thousands of protesters take to streets in Puerto Rico's capital",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUjNhbEhYUkNVNjM1dHFmX3JURDgyeXRjUDN6TlRGclB3MW1pb05UWFJGMVBlcFZxUkRhcFl2b29lcWItbWdzbE1IcXJnUVg2WFNlYVI1dHpqc2IzQ0pJOVJOLVcxQlAyUkhzRDl6Y0NkZm5JdGQzOHd0WkREQU9Kcm03U3daMVZTTXFyTTlZc3NxenkzOXYtS0R2V1pVMzA?oc=5",
-     "source": "TelegraphHerald.com",
-     "kind": "protest"
-    },
-    {
-     "title": "Protesters take to the streets in Puerto Rico’s capital as standard of living deteriorates",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR21NNThLZkZqM2NyR2lSUTM1aFZBYnNXajdabGhzVEIxUERNczdUNUZ6WVVmX0Q4dGZrZ0dBUjlZYlUwSC1PcjFGblB6LWo2dlk4TUxjb0hJSmtFN05sZ0RRbV9WclhIWXJUZFRVckhfOUF4bDlSeG1XWTJuWmRiUU5Mckx3RXdxbE8yV2Y4MXJxWEduU3I2aVRaRDc3QldfbGYzaXZPT2k?oc=5",
-     "source": "AP News",
-     "kind": "protest"
-    },
-    {
-     "title": "Protests erupt in Puerto Rico's capital as living standards deteriorate",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYkRXMGNYdDlYcnJNbm4wcFVmb3o1WEdpdGo1QU5kTldrdnMtN3VlR1hQOXd6WjhYYWltVjhnanZXZ3pqWWFvSzdkTjhSVGtaRlRlVFBMWTkxdGswWkR2cmQyU3BIRE1yT29LVzI5LTg0dnNGVW5fa0dNdW1TbzFYMDF3?oc=5",
-     "source": "Yahoo News Singapore",
-     "kind": "protest"
-    },
-    {
-     "title": "Protests erupt in Puerto Rico’s capital as living standards deteriorate",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMkJfTlpkWVl3a00ydWVUM3J3Tlg5dm12MG16NkNtd2ZvYTM1OHE5T295dGZKdG5QaGs3emNfelhUNWNmX09TZ2pmMmtfcVdlSFRyVV9TUzU4a1lVWTRGMkt4aVBYQUZNVkJ1V0FRa2lnbGxqR0lXOTc5V1A5U3FVVzBuNW0xY1lNMTIxS1FNcTVOQ2xiMkp1czlzNEJVelotNi15UHNvWUtCV0lYd2NBcGR2aUlNSmxuMVNIS3JYRjk2c0pJVjdj?oc=5",
-     "source": "AP News",
-     "kind": "protest"
-    }
-   ]
-  },
-  "China": {
-   "lat": 37.3,
-   "lon": 105.7,
-   "protest": 2,
-   "riot": 0,
-   "headlines": [
-    {
-     "title": "After the protests, what's next for Chinese Gen Z activism?",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT3VaWjRQeU81YXBmSmNNNDJEMGwzeTVVRUd5ZUlUN2l1T2RKZGhQLWNLMFdyNUJCc09OWEw0X0NVMnotUEYwRWE5N1g1azR3R0VRN0JOVzRkMVY2Y1RDcWJIRHRRRURtV2gtc2syVDQzOVRQQWRGc0JxTnFteEZvTFJQNmNwVHRmVjhYZHBXU2xGSXVVTFVXRw?oc=5",
-     "source": "DW.com",
-     "kind": "protest"
-    },
-    {
-     "title": "Hong Kong school children form human chain after weekend of protests",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaV9jQjFDNmlEbFhLTFJmZjVFNjdxWXlRUVBaNFVTamxpUi03LTRTNDNUaFA1YjhpN002RVQ3LVhpNlFHR2lBUG9XZGNlaWhvdDZKbGU2R05kVEU1SURVd2VsR0Nub2NQWUZDbGFjWXdWdjJFeE5wVG5kQkVyNDQwcV90MEtvN2ZWRzZENm5ScVRJV3BvN2JlWDBTU0d1SlZpYk1hRExDdTlsakE?oc=5",
-     "source": "Yeni Safak English",
-     "kind": "protest"
-    }
-   ]
-  },
-  "Mexico": {
-   "lat": 23.9,
-   "lon": -103.1,
-   "protest": 2,
-   "riot": 0,
-   "headlines": [
-    {
-     "title": "Nestlé to boost Mexican coffee purchases amid grower protests",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVHJQankyRkc1enQ3UlZyNmFjdjRvd3p2clJURjc0NmdPd1pQMUtoVnNCQUNRN0ljcy1qNmVaQXpTTjN0eGxjclkwTHZQb1o3bG9vc293VlNPbFFYRE9EWjFQTXphR0t4Tkhrdmw5VE9EcWNMdGQ2aHdpaVp0VVU5aUc1VzFTbG5KMFV4WVp2RXZQM1hKQkpGN09Daw?oc=5",
-     "source": "Just Drinks",
-     "kind": "protest"
-    },
-    {
-     "title": "Mexican President Claudia Sheinbaum protests new DEA tip line for reporting criminals, corrupt officials",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWWozSTZHcERHYTRrOVNyOVRCdHZoZ1pJREJGNzF1eVp1Tm9uRGZPWEY3RmVlMFkxclFCTFlWajBZaGN1ZHBWcXVoVEZNVTUyRjRGSkFlb0ZEYTF6d0FxeFN5MFFoUzdwQldKWUZ0QlNxTEF4U1cwNEFZblgxbUpMeEQ3d21vODBmeU5NWkxTVzBhV3RteVZTVWtmaC0tUmJHeTU3Q1MwWlFESjFfbXU4Nm0yZw?oc=5",
-     "source": "New York Post",
-     "kind": "protest"
-    }
-   ]
-  },
-  "Serbia": {
-   "lat": 43.8,
-   "lon": 20.9,
-   "protest": 1,
-   "riot": 0,
-   "headlines": [
-    {
-     "title": "From street protests to power: Can Serbia deliver democratic change?",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JQTFTeTRpeTNxV2tGdmExQWtuYVlUNGtZZWxqeUs0SmQtVUZNY3l6Wm0ydnJqdjBCNzBKT3ZuNWY5QXFUSjFnc25PNmVFckl3dGgzU1FULWlFREJOcV90c0hPNW1wZw?oc=5",
-     "source": "TVP World",
+     "title": "Washington Post Highlights Putin’s Demonstration of Russian Military Power",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSGE1RERmS0ZLUDh5T2RoakxfSnJpbGl0T0doSlVBTTB5aWJDblJOMEVrT2VscVh5U1RSdUg0OWFtM18wREVEdmJQLU82WWFjQ1FvUjZURVNjTjdNYVVld2VOMjRtT09ONU9nMEFnWTAxc2stalFqeDNsVEdBbmp4Sm1DbDY0RXZZUUpfZTQ0LS1SN2o4bTRlN1Z4aWxnVVFZUjl3V2I5bXZ3M2dvc2ZkTDNZQTZnZw?oc=5",
+     "source": "Военное дело",
      "kind": "protest"
     }
    ]
@@ -229,162 +233,74 @@
   "Iran": {
    "lat": 33.3,
    "lon": 53.3,
-   "protest": 4,
+   "protest": 2,
    "riot": 0,
    "headlines": [
+    {
+     "title": "Iran Is Trying To Erase Memory Of January Protest Victims, US Says",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY181eDl0OUkyVC01bEpYUTNjcTd4eVZvaVJ0bWttaExPQmVyd25rTEZKbV9JM1VDZHhnQ2Y2bmNpWGM3cXJYTUctT1VvZnJZT0hwcndUcE82RWo4WU5KWXZOMGZHTGRINjl6MHJOWVBUeC1YdnBWOW1abmlfOXlad0tqS1ZSQkZuTHdyWXFCZjFCcnhTbHUtY1ZaNHYwNm1lZ3RHbU1EU3BMNEU4Q1gtcnFoTVRBS1JHQW5lOE1FbWt2eE5pdjBwMmhIc0NKZw?oc=5",
+     "source": "i24NEWS",
+     "kind": "protest"
+    },
     {
      "title": "Daily protests in Iran as Tehran pushes workers to pay for crisis",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQWJzYnVCaHFjY3JNbWFLcXRxTC1RX0VVT1k2Q3c2WEVpcjRaWkRMVk43YmdIZngyRk9GTTRId1BoeXBoS3RMdXI3TkNwSnZzRXY2Q0RUcmtBQ0NVeVhucnJndTR5UElrTTNtZnFTbTBqRTk4LWxGSUprRXRIWUZ4OWJVTS1PT0FwQ3JlUnNFOXlabUZTclM1ZDhsbzRrQWJzdTFF?oc=5",
      "source": "The Militant",
      "kind": "protest"
-    },
-    {
-     "title": "Iran arrests journalist who warned of protesters’ execution, rights groups say",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbVEtVm5BeVdpNTY5eWRLS2c1aENtdVU2OG1PTmQ4UnRfQml3dmRVYzVmUGFYRE5qY052dDNrZDNvSkdKdjBuVVZtZ1A1eHg1MFI2czBGU2xJSVl4YnZyVFNWMllZNzFOeWZUU1NDekRpSUhiYm55OTBYWFFKRkJnU2xMRzY2ano3X0MwNHd0RmJZRjFGbG9GQU9CZlZibzg0SFFGNkh5dHdxTXN6enk5Y0VLbUs0N19LdHZYME1RYw?oc=5",
-     "source": "The Times of Israel",
-     "kind": "protest"
-    },
-    {
-     "title": "Four years after Mahsa Amini protests: What is really happening with Iran’s hijab?",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOM3hwY3dRQk1GNkJxZk03R2FwMnpvZmJiQzV0RmlDVVVJYXNFZndxYl9WRmMzRU1KWFY4U21CRHo4dFFGS3FCTWxoSVVwMDVBQXNaajRHUUIyWDl0THJnbEVybHJEWXRBQ1REaGVUSXhWc1EyRTJlTV8yZFdxaDhvOU1UWVBQR3QyUlBMcThiZUpTV0N5YTBmandCSVh6TlhjQTVoOXpDb0JibUZUVVRpWk9fM1ZaSFZMTDNKcDJ5cHlHYk85dUlB?oc=5",
-     "source": "Kursiv Media",
-     "kind": "protest"
-    },
-    {
-     "title": "Kuwait summons Iranian ambassador to protest continued attacks",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nbGF1RTAtV0RYZlVSdkc4dm5XeTFrbmJUU1VlWU5NdlhVcV9Md1RaWlRlYUl3SjBneGhqaEpmdXhOS3FKVmVob282bzVyejZCU2c?oc=5",
-     "source": "Yemen Online",
-     "kind": "protest"
     }
    ]
   },
-  "Indonesia": {
-   "lat": -2.5,
-   "lon": 118,
+  "Canada": {
+   "lat": 57,
+   "lon": -102,
    "protest": 2,
-   "riot": 0,
+   "riot": 1,
    "headlines": [
     {
-     "title": "Activists track repression of Indonesia's Gen Z protesters",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTFVHYVNRNllRUnVMdXZHZnE5T0Y4cElUUFY5QzlFdHZBZjNrVWdiOWdaRG9ENjJ6MGF1YXJ0c21vSzhSTGNTZ3ZvaUNuZHdXWXlXVDBGdjZRbHR5dk54TUVueEdERmhHRHJ4dVA5TGxpYldRc21zYjhZdS1fR3d2X3dGMHpmWmVMUUdxZW4xeGxxcHVrenR0dEM0N0tybGJneFNYT2xKaTZpVjRQMW9GR191SQ?oc=5",
-     "source": "DW.com",
+     "title": "Sault protesters call on Carney to defend Canada Health Act",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOalE1WGFnRG8tc21rMklJcXprbzd0STZpM2IwRFF4NGE2VGVfRWRBWlNHamNaV29GRTFJTzllbThNRzVSWUFtek5NWE1rZ0YyaGpaN3JzTWU0SmVMakNHU2NNM3pfY1NFSW9SdWFuY0hiUGNBeHJselFOR3RFUUlJaXd4MEpGdjlISnc1QUVfS2VtWGczY0FiWld3TlFfZ21LMldCVENkUQ?oc=5",
+     "source": "SooToday.com",
      "kind": "protest"
     },
     {
-     "title": "Indonesia: Queer marchers attacked in Jakarta",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyVm5DelpoS3FMZ1U4Wmg0NGExN3RyaGlQcVdITjdrLWpJVmtaeHpEOER6OVFvMDMyTWN3bjNGWGlXTzNNZGdYOHpaLVkzX3c1ekJuYXJjOHJOdkVM?oc=5",
-     "source": "Erasing 76 Crimes",
+     "title": "Sault demonstrators want feds to enforce Canada Health Act: GALLERY",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZzhVR1JuM0NZWlVrZG5lUzJybkFraUotOW1kbUJlZ2hLaXFKZkRsT1pHTEplN3FlZXhNb2dYeW9IeXU5c24yWUoyNkROdVJhVjVHVzhkZG5NNmlnLXFlQkd2SnpZMlF3Y0FjdlE1YmpVSnl2cGVnOEJkekxsblNrUExXSmxObnNOVTFBYWJWd2Q5QnpDRnAxeWpuVQ?oc=5",
+     "source": "Sault Star",
      "kind": "protest"
-    }
-   ]
-  },
-  "Lithuania": {
-   "lat": 55.2,
-   "lon": 24.0,
-   "protest": 1,
-   "riot": 0,
-   "headlines": [
+    },
     {
-     "title": "Pro-Palestinian protesters urge Lithuania’s Vilnius University to cut ties with Israeli institutions",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWXlPb1RyY3hxamFaZ1lUNnJLQWNmeGttRHBRMWYzR1pLZ2hlSHVCWlhFcmFTMFlnU0Q4RWpBRGpGUGRLUThmMjQxTTFWRXF2SnNGUjVDeFJBSFVIRUJnYV81RS04MGdWOVVPUHhYMW92d3J1Sm1PSWgzRGxrYWNXdTZSS1c1b25jZy1RRHhLTXlxZEJHT1NuU19kbHk5TDl0RUZDQkUzOFgwdVR3Nks1S0s1VDFHOVpaNkFfRDllZW1KSDRfYWFRb0RVaHFIMG91S1VaeHRuOHNzUnfSAeABQVVfeXFMUE45WHQtUXJIU2RaLWV2cUtyWWlUY2xZa3RwLXAtVUFBUHRvNDJiUmVfZjJNVnBlX1NkZWtpN0VjNmxFSTY1aDBDbVBBbjNfNk1xa2xqODQtYXNaQ3A1bGJKQk05M3M5YzNGOVpmdG92Y2U2QmRTNWpYRkpxMWpUdnZGTURDWmtHQ3FEOGRFRHRqbmpkMU1LX1FlaXI1WkZ1ckxqVVkwdV9uM2t2V3luTnI0Sk9RSmhITnM3QTVNMk9ZMDRNQ1RGRk9vVUdlbWtzdTRGQjh4TjhlRUtVQkNDNjE?oc=5",
-     "source": "Middle East Monitor",
-     "kind": "protest"
+     "title": "PBI-Canada Research Unit examines the human rights implications of the export and police use of CS/tear gas",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdWdKaXQySG1laElBbzRoUzY3MmhkMFdUZHhqLTN6WE5HRUYybGkwYllEYW1CWmlOWEtwa0Q3eE5oNjFHVkhMN3pSMHBwUjhERjJTcHJMVjhfTVJWSXc1bGxlZ0FkbDNWQTJUZlZlSWhLY3pfYXotQ2dIemtvV2JwbEh6azRIQnNndHZCYUR6MzhBa3VYUEhXQlZPUUV2TjNrZzdhSkFfRE1TWXhoeVd6dHFpZUlFUzQ0OTlBbFd0UGo2NHl6a0o1YUtFTXQ5cmdvYVJId2toczc?oc=5",
+     "source": "Peace Brigades International-Canada",
+     "kind": "riot"
     }
    ]
   },
-  "Israel": {
-   "lat": 32.1,
+  "Palestine": {
+   "lat": 31.8,
    "lon": 35.2,
    "protest": 1,
-   "riot": 2,
+   "riot": 0,
    "headlines": [
     {
-     "title": "Pro-Palestinian protesters urge Lithuania’s Vilnius University to cut ties with Israeli institutions",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWXlPb1RyY3hxamFaZ1lUNnJLQWNmeGttRHBRMWYzR1pLZ2hlSHVCWlhFcmFTMFlnU0Q4RWpBRGpGUGRLUThmMjQxTTFWRXF2SnNGUjVDeFJBSFVIRUJnYV81RS04MGdWOVVPUHhYMW92d3J1Sm1PSWgzRGxrYWNXdTZSS1c1b25jZy1RRHhLTXlxZEJHT1NuU19kbHk5TDl0RUZDQkUzOFgwdVR3Nks1S0s1VDFHOVpaNkFfRDllZW1KSDRfYWFRb0RVaHFIMG91S1VaeHRuOHNzUnfSAeABQVVfeXFMUE45WHQtUXJIU2RaLWV2cUtyWWlUY2xZa3RwLXAtVUFBUHRvNDJiUmVfZjJNVnBlX1NkZWtpN0VjNmxFSTY1aDBDbVBBbjNfNk1xa2xqODQtYXNaQ3A1bGJKQk05M3M5YzNGOVpmdG92Y2U2QmRTNWpYRkpxMWpUdnZGTURDWmtHQ3FEOGRFRHRqbmpkMU1LX1FlaXI1WkZ1ckxqVVkwdV9uM2t2V3luTnI0Sk9RSmhITnM3QTVNMk9ZMDRNQ1RGRk9vVUdlbWtzdTRGQjh4TjhlRUtVQkNDNjE?oc=5",
-     "source": "Middle East Monitor",
+     "title": "Watch: Protesters Take To Valletta’s Streets Calling For Peace In Palestine And Lebanon",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMDZTVTdQLUtPNXpSYTE0c0pnSVQ4Uk11Tm5NcUtVeFk4SFpxOWZFMVVTT3VmY3NoVUFYLXJjRHVHb1N2TFFLLXJVd3ZRSjN6ZXdXdjM4SGpCSW9Salg5aWhKR1NpWmFDeWVxZTVIR2NJcHBuWWVCdTBCdXdfT09saEhNMmQ4QmFHSmV6d0tTdS1EeHQyVEdOLWNPREhENlZBbDNETlFfcEhiVlNLWlhBYzJITC1uMm4xN1A5NFU4c1lUYTg?oc=5",
+     "source": "Lovin Malta",
      "kind": "protest"
-    },
+    }
+   ]
+  },
+  "Austria": {
+   "lat": 47.6,
+   "lon": 13.5,
+   "protest": 0,
+   "riot": 1,
+   "headlines": [
     {
-     "title": "Hatred Of Israel In Disguise: Who Funds Europe’s Violent Protests?",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVnBTMEc1NTNoYWxEVlpTS2RSNVRYY0czdzlLSW50TXgtRUp4cnA5ZjE1aEUzWXpYWmJCTWRxaVZnbXZTZElwUVRSeUlMaVVuYVFpc3N3VEpXeDhVYlZlMVJCWmQ3TmJ6V0txVmFvRjRjYU5NbTdCdGkwSjdEMkkzb21rOXMwZU9fWmd3emkzeklRWWcxR19pckJBVllZZnFYTU12dG1xTDVHTlFPQ19hN3pxeUpyTjdu?oc=5",
-     "source": "i24NEWS",
+     "title": "Demonstrators in Austria, France and Italy rally to end violence against women",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMXphQ3AzQ2x2X2U3V0hIb05qSktyQUhlYUZkVjJpTzdZcHY0M0JmZEpZY08xN25DVWwyX0RVRzMzSF82dTdFcG1uQUpHRHQ1RHJfYXktTEpjOVcxMVhfSzd4Zk5BQlJYc1Q5a3Ffczl3Uk1iNXBKNTJYMEI2blJFRUZqeUR3ZS1aNndGQkRrVVBMSzUxVVhtZHB4Yk5zLWpLenhqcVlBYjNqNGFZak94R0owOA?oc=5",
+     "source": "Euronews.com",
      "kind": "riot"
-    },
-    {
-     "title": "In this West Bank village, the road to school runs through Israeli tear gas",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRjVlNk5Na0FUbnpWbV9Tc1psUC1yQzY5dzVZNXZ4emN0VTNjWEI2VlFCSzdBQ1FremNQcFFJcml2bS1tU1RtQ2dabHZYekh1dUp4d1N3NVNlbGxDZ0kyTWF1MVNRZjVSd2kzbGQ2M1hYeVBTRWNNTGEwQ0NPZ0xyN2xIRm1adTBPT3ZsMXkxMEdBMGhGSGtUbkJmOXQzSDZ5NGRJcGsxTnhaQQ?oc=5",
-     "source": "Mondoweiss",
-     "kind": "riot"
-    }
-   ]
-  },
-  "Germany": {
-   "lat": 51.0,
-   "lon": 10.7,
-   "protest": 1,
-   "riot": 0,
-   "headlines": [
-    {
-     "title": "Pro-Palestinian protesters block Amazon warehouse in Berlin over Israel ties",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOEJfb0o5VFowZnpPS2JNMGRMUExpNXk3ZHlKNWdlZFo2QUtYMFZPdmlOQXlOc284Z1pMRnhEWEVZbng4NmJudjZkTWQ3c3V3dkhIMWtMd3pKWXZLXzdqOTBZRldyaGN1QTFHc3JLaVB1MngtVnJ1bFpmQlppM1pRNEJHSldWazlCVjFOM1FmeUZNcExJNmxJSVcwQWU1RDktN04yS09xWjRPSXh6ZG44bjMyOUpHRXRnUkQzZEFseFNtWms?oc=5",
-     "source": "Anadolu Ajansı",
-     "kind": "protest"
-    }
-   ]
-  },
-  "Lebanon": {
-   "lat": 33.8,
-   "lon": 35.9,
-   "protest": 1,
-   "riot": 0,
-   "headlines": [
-    {
-     "title": "Southern Lebanese residents protest to demand return to occupied villages",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMEJfTzh0ekdUdUZxUVVtOXdOeVdiczVHenNKOTZleno2YUp0X2prTnNOVHpLZ0RldVNUcEJCOTlrT0xXN0tWbGlCZDVZa2NzcW0xb1dtcVY0RDdkOXEzc2w3R1FoOHY2cVZOQ0NHc0hpREhMYnJNTld1eThPZzdNR0Z4Ym1GTmhnUE40eWIzbk4wTFZQTFNrSTYzaVM5eGNk?oc=5",
-     "source": "ABNA English",
-     "kind": "protest"
-    }
-   ]
-  },
-  "Saudi Arabia": {
-   "lat": 24.0,
-   "lon": 43.6,
-   "protest": 1,
-   "riot": 0,
-   "headlines": [
-    {
-     "title": "Aden Protests Condemn Saudi Arabia as Airstrikes Hit Yemen",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaEJUX2R2aE9aWTlKOWd0RzNwVzlrTkxCcVRKTzhvNzVpRlg1aHc5S1ZLTVVPdGp4UGNNNUFYN3JmLWtiX3BNaDY5SXV0OGdOYW1pa2tGVFBqNWVnNXNhaHh4dEx2OTdJaGtVaWlCaEtXYXNvc0pzdWMwb1QzWEc5TmEza1VQZ1R6RlEyTUlVcHc4Mkt0ODNuMkhWdUliMDF1TzVSOGJmazh2MkhTSDQ5cdIBtgFBVV95cUxQa1lKa3AtejVVSGJoUHBSX0pWTnc5Nld1YlBObTE5dGJPUlFndVZxU3NDX094bFF4WHh4MklvRXZQZUs3Uk1vMEdyMzdQNzNjbkVIV0Nycm95aU54cGM3emhoTkp0alVUSUdQNUhDOXBGV0R2NjEwY080OVA3dE5EYWdVeGlwUVBvVk5qMG80MUNDNUxPSVNGMkk2dlRVNWhjcE9VdUxSV2t2N21uSWdRdFRtMEQ3QQ?oc=5",
-     "source": "تسنیم",
-     "kind": "protest"
-    }
-   ]
-  },
-  "Yemen": {
-   "lat": 15.5,
-   "lon": 46.5,
-   "protest": 1,
-   "riot": 0,
-   "headlines": [
-    {
-     "title": "Aden Protests Condemn Saudi Arabia as Airstrikes Hit Yemen",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaEJUX2R2aE9aWTlKOWd0RzNwVzlrTkxCcVRKTzhvNzVpRlg1aHc5S1ZLTVVPdGp4UGNNNUFYN3JmLWtiX3BNaDY5SXV0OGdOYW1pa2tGVFBqNWVnNXNhaHh4dEx2OTdJaGtVaWlCaEtXYXNvc0pzdWMwb1QzWEc5TmEza1VQZ1R6RlEyTUlVcHc4Mkt0ODNuMkhWdUliMDF1TzVSOGJmazh2MkhTSDQ5cdIBtgFBVV95cUxQa1lKa3AtejVVSGJoUHBSX0pWTnc5Nld1YlBObTE5dGJPUlFndVZxU3NDX094bFF4WHh4MklvRXZQZUs3Uk1vMEdyMzdQNzNjbkVIV0Nycm95aU54cGM3emhoTkp0alVUSUdQNUhDOXBGV0R2NjEwY080OVA3dE5EYWdVeGlwUVBvVk5qMG80MUNDNUxPSVNGMkk2dlRVNWhjcE9VdUxSV2t2N21uSWdRdFRtMEQ3QQ?oc=5",
-     "source": "تسنیم",
-     "kind": "protest"
-    }
-   ]
-  },
-  "South Korea": {
-   "lat": 36.7,
-   "lon": 127.5,
-   "protest": 1,
-   "riot": 0,
-   "headlines": [
-    {
-     "title": "South Korea Protests After Russian Tu-160 Bombers Fly Within About 1 km of Its Airspace Near Ulleungdo",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcnhURmlMS0p4dThZcFJJSlAwbDhtTENNXzMzQ3prM1RTY2VRVFFQaUZxVWdvVUZZY01Dc19RbWl3TTdDTVVqMUtBSGRZdWZOQnFqd3Z6dkU0LVg5aGFGNzFhX3ZwWk9YQWNGRzBubmJGc01lV1pxLVE0aFNJWGstWlBvWVRSbndKcnBR?oc=5",
-     "source": "Envanter Medya",
-     "kind": "protest"
     }
    ]
   },
@@ -395,279 +311,117 @@
    "riot": 0,
    "headlines": [
     {
-     "title": "South Korea Protests After Russian Tu-160 Bombers Fly Within About 1 km of Its Airspace Near Ulleungdo",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcnhURmlMS0p4dThZcFJJSlAwbDhtTENNXzMzQ3prM1RTY2VRVFFQaUZxVWdvVUZZY01Dc19RbWl3TTdDTVVqMUtBSGRZdWZOQnFqd3Z6dkU0LVg5aGFGNzFhX3ZwWk9YQWNGRzBubmJGc01lV1pxLVE0aFNJWGstWlBvWVRSbndKcnBR?oc=5",
-     "source": "Envanter Medya",
+     "title": "Washington Post Highlights Putin’s Demonstration of Russian Military Power",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSGE1RERmS0ZLUDh5T2RoakxfSnJpbGl0T0doSlVBTTB5aWJDblJOMEVrT2VscVh5U1RSdUg0OWFtM18wREVEdmJQLU82WWFjQ1FvUjZURVNjTjdNYVVld2VOMjRtT09ONU9nMEFnWTAxc2stalFqeDNsVEdBbmp4Sm1DbDY0RXZZUUpfZTQ0LS1SN2o4bTRlN1Z4aWxnVVFZUjl3V2I5bXZ3M2dvc2ZkTDNZQTZnZw?oc=5",
+     "source": "Военное дело",
      "kind": "protest"
     }
    ]
   },
-  "Italy": {
-   "lat": 42.8,
-   "lon": 12.5,
-   "protest": 1,
-   "riot": 0,
+  "Bangladesh": {
+   "lat": 23.4,
+   "lon": 90.6,
+   "protest": 0,
+   "riot": 11,
    "headlines": [
     {
-     "title": "FIA announce final F1 Italian Grand Prix result two months after Audi protest",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb0JXb2JkOVM1dUtCOGxDNjFOWWVHVUN5ZjFvaHNlaWo0SWliUjF2d2pjSkpfNXpRNGw0MU9WMzloNmlPVlBSRUkyaWwxSk5TdXFCUEFsQjlPazZYb2FwSV9IeGpmRXFsUlc0NG5vRW9uQ3JnME9RVVNmVkhZWndqYldhZTFRbUZ0M0lQSmNfTVNieUNmcmZzWDFMNmhTaHpialhudWVhbHNHa2ctemhJQnBGSFlnZkpGaUl6aHYydFI?oc=5",
-     "source": "GPFans",
-     "kind": "protest"
-    }
-   ]
-  },
-  "Bulgaria": {
-   "lat": 42.9,
-   "lon": 24.7,
-   "protest": 1,
-   "riot": 0,
-   "headlines": [
-    {
-     "title": "Sofia protesters plan to block key junction over heating outages",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZGtBNDZPaHR4U1NQaVpaNnI3eTRHb0J6aXEtX3ZVSDY4cjJPRjZ1QlJVaVVJNzJZa0c1Zjd0Y0FEbFN0SGVrQURub05xQm41c1dvVV9lZkNxa3ZFdmxHelllVloxNElrSm1IZkJYWFJxT3ZIenYwSHlxRF9MWU5EUmp3Z2JJa0oxSUV0M2lOVXZ6dFNncHRteUx6LUV5TlU?oc=5",
-     "source": "БНР Новини",
-     "kind": "protest"
-    }
-   ]
-  },
-  "Nepal": {
-   "lat": 28.2,
-   "lon": 84.6,
-   "protest": 2,
-   "riot": 0,
-   "headlines": [
-    {
-     "title": "Displaced Families Protest Eviction from Nepal Holding Centre",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR0dWa3EyM1pIQjNxOVpGN0tFdF9NYV9iSW44MHRZLXVwQ2hrYnphSFN5cDllc1hCeTdRVktOWGRKZkVDaWZrVnBRLUwzVmNEeURaMTF0dHVsRUZnNjUyVUIwNEkwQk1WcFVCdW0yTjk0Um0tWGtCT0JLYmJXc1pPVjR0cnhwVmNzc1FPSzZ2NDd5R0kzOFE0U1prcllER0tnOFFYXzMtUVd3QjjSAbABQVVfeXFMT2hReEdhVGVzRzRHbXN4cHNyRVBQaHZxYktqdWY4TGV0dFFFeVRMVDV5S215QWcxem5jaWpHc0ZiRi04VGtqaHFwNmJ5M3BSVWxpU0s0YnpVSGcwMVdMSWN6N2RVSTJwSkRvbHVyQWtidDQzNm5Vc1c1T0RRcDEzZi02bjZoWnFsbWVLLU9iVFJqQ0RpREkyckJuRXVsMUFnNHRUb2Q5cXFvWGthUGhNdXE?oc=5",
-     "source": "Deccan Chronicle",
-     "kind": "protest"
-    },
-    {
-     "title": "Displaced Families Protest Eviction from Holding Centre in Nepal",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVUk5R05hdHNKaE9pb1ViUVdVZXVJZW92Yzh2WUxYMWZvUFNvS1FnVGRpcWk0U0MzRVQ3aHZ1MjE1dUpIbVVjZm9UZTRXX0hHZHIzMVJaNFAxSFJKMjFUejdSVlpOUTBBbXhuUVo0akN5dVNPbzN2NjhIUFI3bkFZOS1EcmJPMUJjTmdBQ0oxcGZXYjlTTlhN?oc=5",
-     "source": "Bold News",
-     "kind": "protest"
-    }
-   ]
-  },
-  "United Kingdom": {
-   "lat": 53,
-   "lon": -1.5,
-   "protest": 5,
-   "riot": 3,
-   "headlines": [
-    {
-     "title": "Protestors stage demo outside east London town hall over new traffic scheme",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcVFmNGtFT1NlMVJBendWNG5Oa0FDMjRUUklodzlkSVZOT0FHOUhnNmZLNURjOHhhQXl5b1p0NEMwWkVNOUdqRlVSSElPNG92SHplQVVjaHlSeDZ6a2ZvM1ZqZmlMTVk5Nm1YbTdiS0NvbkphdWFLc25JY0ZFblY1dzVZcFp0cDlCZXVRbHMtV0I1M3RqaWc?oc=5",
-     "source": "London Evening Standard",
-     "kind": "protest"
-    },
-    {
-     "title": "Swinney will march with and address Scotland’s largest anti-racist demonstration",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV0NDUHk4SjVXNTZJdVJCS3l1dV9CZTAwd0xHWERaS1NDMnFhdlliamFpS0l5ZUVpczdwNlZTRnNhQTRGX0ZmQXU2Q25LNDhNTVBhQzJzN2tIeHROZ0NJM0tWb0dfUzRaQ3N0ckNkakxXT0w4Vk5OblJ3b1V1U2RIWVVZLWgwY0VVdnJlZnZWRlB3bHJmQzB5WUlkblI5cGhUd2toWGlxYjhVQldVbW9n?oc=5",
-     "source": "Morning Star | The People’s Daily",
-     "kind": "protest"
-    },
-    {
-     "title": "Scotland's top trade unionist issues far-right warning ahead of major demonstration",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOXJPRUdUTmQtZnpyQ0dqYkF6aUJoa0hsaDhTeFBIeTlkakNDN09HZGlOdU9SVE1mSGRGcjVvMkhCOUNndXdBZzhtakhGc2FQNjZkWkJFSVVkOVo5enIwbXZHczA0UXAwN1pYVEFNSDlhaTZ0d3dpN09nU1JXZ25IcHhkUlhfNUZZN2dTU0hNYmZCU1hXV3N1MW9XQnVJd2dr?oc=5",
-     "source": "The National Scot",
-     "kind": "protest"
-    },
-    {
-     "title": "Masked youths stage demonstration in London, demand ban on Bangladeshi politics",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54bjAyQjlWQnI5RlNxdUVoWWc3OU5BaG9uYXV3cEhMTjhzVUE0RW5UOWxWLTU0NGdoQUgyc00tVnRmT1RrSE5hTHpPM1NjSklmRUxjSW1wemVycU3SAWhBVV95cUxPVHNiRTRXalU4OEptMWs2QmlJMjZIUTVBcS11dS1OZk5ZTFVnSzFOX2E1TGtjeEN3dGFDV1FacU5QcGp1aF8wX2gwR2RWck9qVDZMRDBVWEM1bEVnc1BXc1pXTGROcmRoWg?oc=5",
+     "title": "Global fashion brands shift orders from Bangladesh to India amid unrest",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxN0Vrc095dmlIYXB6eHdTSTljU25RN1lPdHBldEllSG1QaVpTTkhiZDJvN2F3dmJBc3hEMnhPckMyTGc5VGVGbmlTN1hTM2RRNDV2M29rTlpfR04zakdMadIBbkFVX3lxTFBUTnZaTjZZbnFBYlJqcFFmY3M0ZzM5bDhqcS1VeGxKckpaQS1pVWpVZ0NBZnhWSzBOakNVSXJ0Mmlyak9GRjFISUtWMGFOUWV0bXVrcm93S0Z6cmN5aXlmQVNvcHdtdGlLWWprbWln?oc=5",
      "source": "Prothom Alo English",
-     "kind": "protest"
-    }
-   ]
-  },
-  "Kuwait": {
-   "lat": 29.3,
-   "lon": 47.7,
-   "protest": 1,
-   "riot": 0,
-   "headlines": [
+     "kind": "riot"
+    },
     {
-     "title": "Kuwait summons Iranian ambassador to protest continued attacks",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nbGF1RTAtV0RYZlVSdkc4dm5XeTFrbmJUU1VlWU5NdlhVcV9Md1RaWlRlYUl3SjBneGhqaEpmdXhOS3FKVmVob282bzVyejZCU2c?oc=5",
-     "source": "Yemen Online",
-     "kind": "protest"
-    }
-   ]
-  },
-  "India": {
-   "lat": 24.0,
-   "lon": 83.6,
-   "protest": 2,
-   "riot": 21,
-   "headlines": [
+     "title": "Sheikh Hasina's Planned Bangladesh Return Induces Fear, Unrest In Hometown",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbzJabFhicTV5TjRBUUpWR1VZLWhXWVVkZ1djbWhncmFHekV2bkxUbldKUnB3X0FNZENIUG5vZGpVREp0ekNoNEw2dlZFT2RfaWxvdDF0WjVYX2VvSFYzTVFEOF90S1lJZW0wQ0RDbDJBYW1BamI1SDBQOTNfa3ZXV3BSVkdZRjJQU21NSFpsM2dIQTlyZm5PUlBlczV6Q3pmcGlkUUVjR3c0OTNfWGo1SThWQdIBuwFBVV95cUxNYnJKdzRCUjRqWVdhUE9XT0ZiUjZIZmp4MHh1OWVSMzUxZ29LdDc0VGJGY2pwUHJzOWR4Ulo4VTNKZTgtTzQwajFkdXN1Tzh6eEdqMDAzeTdGamlMSm1FMVdYQ3hsRGN6XzlVWFB1eHZ5UWZMUXcyNkxybVhoLXNSdG5HcS1BeENDUHRERVZ4bDhOd0lKckhFV2x1YS1tRmc3eVdrN1JVdURUX0lOa2dtM096czRSWHgxZ0Y0?oc=5",
+     "source": "NDTV",
+     "kind": "riot"
+    },
     {
-     "title": "Karnataka to launch ‘Delhi Chalo’ protest if Centre fails to release drought relief: Karnataka CM D.K. Shivakumar",
-     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNdkk2Y1oxc2c5UVRfQ3BMY0stTXJSZXN1S3ZhRzdBd253dVhGNVhIZ19XVHVvc1Fob2xIc3RBR0lJeUZ5bGg1eDNxRHU5Y24zXzVQYUZ1SWRoQVpSRjRLYzFqS0pKTVpEMlA4ZXRvYk9VQk5yZHlrZlpHYVpWcEdqZDZPRTJXa1JIOUlSdkF0M2pBWWZCMnpjaFkwcmQwWGhUY0JDeXdCRzZkeksxMnJZX3paczh0OEdFY2ItQlJTZUN2SFdRaDhMR29DVXVhTm8tZHM3dHU2N0d4c3VHNkVRS3hqSWtoUlhMM29YTTNsN0RHME5HTDllZXc3ZGk5NHoyRDBRRUw4Q0jSAY8CQVVfeXFMUGEyVkhsNUpJR0RtRGt0NFFxRVJlVW5ERk5kVXZnOC1UX29oeWZUbTJHVlJyaUxwWkx6Y0x2bjc0Z1lSWDUzT2g3VkpNQ1RsNlpqaEdoSHRkaWwxcFBpWFN0WEhRYkpLY1F5WHVHRmR5NnB5YW82RDluSXdMMklpakliYW04RGpTZmsxM2diSnB4WWo0Z2VVRDYxU2lWVzlqakFocjZOOUlDZllYT3o0VEFRUzRZQWxRVENGeGY5bnp5eTlKUzBTRHVORGdVSHhqQjBwYjhnZF95SFM5SURwQjJ1ZXh0NW5PUUFqR2xHSkhMaHpHVE5VN0JwLTdXNFlTQmJfTkVJekdLMElwbXNGYw?oc=5",
+     "title": "Zara, H&M Pull $254 Million in Bangladesh Orders as Unrest Reroutes Sourcing to India",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Ha2ZxZlNob3ZrNzc1UVZ4NTZDeE9xb2dLei1iZUdBWktuN08xUndCdWtGMEoxQnllbXFvcVFxVDRGS2RSQXlGMWp6cm9EcTFqdUh6M1JYcFMzWkVGcDZ4WlZ5TFkzMGRoWUlrYmI3RDEyV1lWT1E?oc=5",
+     "source": "BigGo Finance",
+     "kind": "riot"
+    },
+    {
+     "title": "Bangladesh deploys border guards across seven districts amid political unrest, says report",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVnRtc0JvU0xjdE50VUpKdndnOGdkSmtNeWxVdENMVi1qZ1FxQXV6SHpqeVYzMGdjLUotMHRwZ1ZOUGxVeDJ1SExFY29mWlhhTldOQzY1dmFjSEwtcHVqQ1NuMkRTc3VvY0VqcnFEVFJOTkdLd1U0VWEzb0FFWXNGSWJYUU13WjlEd3pWSENMUkVCRU11T1hTdDJkb1JWbnJaX2ZrVFpFZW9icXBDZ0Jjei1iMDB1elhlNjMwbWQxTi1MNkw2MkZVWlJIWnVZR0FCMDFFYjNrOTZyZW9iR3Z4c09TQUdOZEhm0gHvAUFVX3lxTFAtM2pEV0FjcHMwQU5YSzJYc29wM2N1Wk1qQzl1MWJnM21URXN3RW04REZqVTdHNUs5UmJhUVNfWGQ5OFpNZ0hGcXdQMzUySjFZOUFuZXoxSkVZdmRqdTlIZnA1eUtqZXc2b2gyRDFoYmgxR0wxQ2dfdHpSNGtBN3ZGOEc5Q3pCWTRld3RHT2YycUlfTnRLZm1zR3RNcVRDUGZUMjQtTG1FU0JaUFB4bS1SZnVzOW1xZjB6NkRKeDBMTW9rZGJXTEdpT2N2WU9GVkt2N0ViMmd1WjJrWVRZU0k3Uy04bU9KYTJ4dlJ3ZlZZ?oc=5",
      "source": "The Hindu",
-     "kind": "protest"
-    },
-    {
-     "title": "EXCLUSIVE: Global fashion brands shift orders from Bangladesh to India amid unrest",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQWJhaVBEcEFiX2hwb0lHanFvdTJncnpwM3JVMEh6WTUxSmhaWjV6MHcwdGJueHd5M1pmcVB2VG9UbGxKbzlseklNR2FjNHFWMlFLbmxLQkxxeXptM1VWUVRkWngxS2dwNTVWTng2NXcyUlo4NHM5OFM3NWNsNUY2WkdJblJmcVFRaVV4X1IweXZQWUJya01ZVi1qc19IVjF1OGEtQU9aVDd0eW5xYnBkQkxhcWg0dHFUWEwyYzlPdkdqZw?oc=5",
-     "source": "Reuters",
-     "kind": "riot"
-    },
-    {
-     "title": "India’s Bhargavastra counter-drone system clears Pokaran trials, set for Army demonstration",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdHYtYUVnaTdtbkZXejU4VkhNeU01ZC1iNUx3YlJjN3R6MjFRYkd6SlB6dlJ5M1NCdVV4bGQ1N0c5dGowMzk4Sm45VzZJdk1LZjBubDAxWW5GaEFVd2prbExGVjRxUW1STTBPVjhFelhIY3ZUSi1nQU5IQVZ5ZGJXRl9SanRSY2w5am5aWGpUYnJfY1d4Y3l5YnNnWmQ3RFdCdi1CWGZSX0gzdFNuUDBuRUFQYk5LZjA1UGV2SHcwaWZrUQ?oc=5",
-     "source": "MyIndMakers",
-     "kind": "protest"
-    },
-    {
-     "title": "SC declines interim bail to Sharjeel Imam, Umar Khalid in Delhi riots case",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZmRRYm05NzZmMG41VU1XNmJFdTFCZlVLLTJyS0JjMTUxSjVQTFZwUHI0aEZBa0dCQURMSW9NeGk5UldycW9DVC04d0ZpdDR2dWdvSDEzeXJ6QTBuSjhsdkJ5M1habFF0eTBwT1lBUDNCUk0yYUxMekNXa2VwNGJTcU83RVgwYjQxUG4yNlpMbW5UY3hibUZ3R2VmWDV0ZkRUQjdVOTlZVGh2VWdJTnVxcHU2b0dsc2piREFXcWJIZDlwQQ?oc=5",
-     "source": "News On AIR",
      "kind": "riot"
     }
    ]
   },
-  "Brazil": {
-   "lat": -9.7,
-   "lon": -56.9,
-   "protest": 1,
-   "riot": 0,
-   "headlines": [
-    {
-     "title": "Brazil Protest",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS2cyWk8yZzd1RDktOXVGeEk5M05vOGZuNWxVWGZjcEZFWjRXRkJ2ZGNfTXp4RkRVcDk0NGc4OVhkRDFEaFNyMDcyRXdLN3pURDVtekVBam9ZOVVzOGw0MWdYTDhSb1Z3SEs0V2h6eU9DRm9CT01STDRCQlpNWlVGSUtydUN6b3J4c2pqdFprYklMV3RWLTloMkZDMlRrcEFW0gGgAUFVX3lxTE9LZzJaTzJnN3VEOS05dUZ4STkzTm84Zm41bFVYZmNwRkVaNFdGQnZkY19NenhGRFVwOTQ0Zzg5WGREMURoU3IwNzJFd0s3elRENW16RUFqb1k5VXM4bDQxZ1hMOFJvVndISzRXaHp5T0NGb0JPTVJMNEJCWk1aVUZJS3J1Q3pvcnhzamp0WmtiSUxXdFYtOWgyRkMyVGtwQVY?oc=5",
-     "source": "CILISOS",
-     "kind": "protest"
-    }
-   ]
-  },
-  "United States": {
-   "lat": 39,
-   "lon": -98,
-   "protest": 5,
-   "riot": 2,
-   "headlines": [
-    {
-     "title": "Tokyo protests draft US tariff rise while reading it as inside the 15% deal",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iZ1QwUmdGZXdfQnBjbTJSYkw3VmY1eERMcnExdTNQckl0ME1KZGY4LW54bXA1RVJKV1FzSFh4X1Z3Zk9OLXMyNzVtdXpUMllaQVNtSm5FbHpMa1F4dFRjRzVLcU91eWFqSWVIVHA5cl9QNHpV?oc=5",
-     "source": "Tokyo Brief",
-     "kind": "protest"
-    },
-    {
-     "title": "Demonstration Alert: U.S. Embassy Tirana, Albania – Friday, November 27, 2026",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSVQxYm5pY2otaDNOaGxmZmxCN3VYX09aN0pLSWduNC1sNDR4dmc0VzMwRkJQSzQ1WVFsZ3ctUEZ0YWdjT2JUcTlWYVhKQ09QSy1wODR1YmRrRHYyMXY5a1ZfMTRpblpPX1htOWpKNGhGT2Q4NzYtWWtDSnRoVUZvaURmTmxrZmozeDk0cU1Wc0VURWVUUFlqWnA5THo?oc=5",
-     "source": "U.S. Embassy in Albania (.gov)",
-     "kind": "protest"
-    },
-    {
-     "title": "George Washington Conducts an Airpower Demonstration [Image 4 of 6]",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX2h2Q2Rxa0JVT2xEb3JRcVI4WlBheDBPZmFKbGw5N25wWHFKUnh5a3NISVNuRm9ZcDhMQmFZWGdRbUt4YlJPWWJBbTFuRElaMDdvZmtLYUpFSldDMUVEQTZLX1RNb0FmUUwxdmVBZ3BvbnBtMXBTS1JLT092dlVDa0NKSnBZaHd6emtaT0pPNXdZSUE?oc=5",
-     "source": "DVIDS",
-     "kind": "protest"
-    },
-    {
-     "title": "Hawaii marchers stay in New York after weather delays parade",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORE53aVZ0Wm9LMWdtZU9fazJDRkZ3TmdaYlNhZzE1RjAwZ0lVR3ZmczJBV2VCTmtIRXNGWTZGS2VUQUI0UE9pNEZmVElzNmRHbnBYRmJPUHVtSWRMZXB5Vm9XVWxMRmY4b1JGOGRlWUJabFBmNDY4VjM2bS1hZU8yNWdjX21GTzhfMkVIV1htVGtEWS1qazExb2lISFd4MG8?oc=5",
-     "source": "KHON2",
-     "kind": "protest"
-    }
-   ]
-  },
-  "Japan": {
-   "lat": 36.5,
-   "lon": 138.5,
-   "protest": 1,
-   "riot": 0,
-   "headlines": [
-    {
-     "title": "Tokyo protests draft US tariff rise while reading it as inside the 15% deal",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iZ1QwUmdGZXdfQnBjbTJSYkw3VmY1eERMcnExdTNQckl0ME1KZGY4LW54bXA1RVJKV1FzSFh4X1Z3Zk9OLXMyNzVtdXpUMllaQVNtSm5FbHpMa1F4dFRjRzVLcU91eWFqSWVIVHA5cl9QNHpV?oc=5",
-     "source": "Tokyo Brief",
-     "kind": "protest"
-    }
-   ]
-  },
-  "Cyprus": {
-   "lat": 35.0,
-   "lon": 33.2,
-   "protest": 1,
-   "riot": 0,
-   "headlines": [
-    {
-     "title": "AFCOS Cyprus Strengthens Cooperation with OLAF through a Practical Demonstration of the Registrar of Companies’ Information Systems",
-     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPRjYwLTJrMndkeGRxMnhVRE54dzNlM3NJOE5RTHd4YVRjeUJnZ0wwR2RuUnBPX3VwMnM3MW1oYkdhdmhDM0tLNW1pRktBbEc1UE9ORHYyYlB0UHQyYzZ2MjdsWHdRYUZWSmxCc0ZXWVZhc05ZVllzNlhUZGdsT0hnREJ3VGZHdk9NQUR6YUZhbHF5YnlHTWZyTUJxQ1VORDNPQTg2R1ZYQXI2dzN1VFhnaU1NUkk1MzlxYTBUQVlicFJDajY1R2pEQ0F6VHFBUElndjVsOUFWaEhUYlg3RE1LcUxPbC1YTkZtbEI3UGdTbmdES3FiY3ZvdUQtV1ViX2p1M0JweVB4bnZ2eWc?oc=5",
-     "source": "Κυβερνητική Πύλη - Gov.cy",
-     "kind": "protest"
-    }
-   ]
-  },
-  "Luxembourg": {
-   "lat": 49.8,
-   "lon": 6.0,
-   "protest": 1,
-   "riot": 0,
-   "headlines": [
-    {
-     "title": "'Make Amazon Pay' protest in Luxembourg: Demonstrators gather on Black Friday to highlight issues with e-commerce giant Amazon",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeW8xcFlfdV8xa05TbHJCZHdhNkwyTEt0VnFrdkZOU19hM01SS3VoUU1vSENKQTMta0FmQ1lwYk9iZVRwMmtLV0MwQ2tqaDR2WG5iUXM2Wl9LejRVSEh5TlgtOXNPeE9vWjZJRDNoeThOM3F0ZHQ3bmtubWRKcGQzTzE2cjZZVDZ5VzFDd05fcmFLcWswMTFuWEtITzAtUlV5NXZid2t4WUd4eGRiWkV2Y0hiRlBfZU1DaXNwU1c2eXU?oc=5",
-     "source": "RTL Today",
-     "kind": "protest"
-    }
-   ]
-  },
-  "Iraq": {
-   "lat": 33.4,
-   "lon": 44.4,
-   "protest": 1,
-   "riot": 0,
-   "headlines": [
-    {
-     "title": "Kurds protest Iraqi moves on oil, border",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb2VmNzlta1hBVldXaDJZZlFVZUFwVEdZc1NPckxyVlNXdENDQWM5SC1wNFFaQmFHZlRqQWtLa3RDbkxud1FCc05OV181SjhSNzZlbnlKU3l1N2NzRFZwUmF4ZUZ6MTR2WHBEdEd0bjR5a1RRV1hBamhpRzhyT20zMG9YZWFZNkx0SDl6d2twTGQ3dw?oc=5",
-     "source": "The Arkansas Democrat-Gazette",
-     "kind": "protest"
-    }
-   ]
-  },
-  "Spain": {
-   "lat": 40.2,
-   "lon": -4.5,
-   "protest": 1,
-   "riot": 0,
-   "headlines": [
-    {
-     "title": "Demonstration in Madrid for education and public services: date, time and route",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU05sNXV4R2p3bE1iNUxWamNKRHZteHM0RWRpcTR5YmlaM1ZKb3AtMFhjbmdBSndVNzdvb0pLM0QzNVJBdFFtTllOblpVS0Z4RmpWVHV3d01ONjRkQWlfTExKc0QwalhPajdRRWpXdHpxb1NKc2lBVU5CNkxWSm9jWFV6ci1jWV8zczhsRUFlaGpQd2RmbUtWajV2Njh1c1RTdndXNGtST2F6S1ZQRGRDUFln0gG3AUFVX3lxTE5sQUxSSUpuMjNqMURkMGpvNV9DN1A3ZkRONGtwMjhLSDhsbnNod0pWb0pEV3plSXBQdnZjbkg3UmRvR28wbjMtNW4wRGlzdVg0bDlSN3ZCNXVQcWtmd2IzaGNVSWxGMDNFbVMxN1Rnd1loRXUtNGdGVlU4Y1pwdEJSRUJqMUEyTXRTakNrWHlRQ21nckhiVzZDMEk3Nk5pWno2eU1KTXVodC1NZ0EybEZuNkNXa196cw?oc=5",
-     "source": "Demócrata",
-     "kind": "protest"
-    }
-   ]
-  },
-  "Pakistan": {
-   "lat": 30.8,
-   "lon": 69.4,
-   "protest": 1,
-   "riot": 0,
-   "headlines": [
-    {
-     "title": "JUI-F stages protest in Karachi over Fazl's alleged house arrest, detention of workers",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZm5VTWZ3RlBzb3E1WUlITGZVd2VSbDdHVmJfQkh0c2NQb1Z2VmhVYm13MDJVZ1VRZFVkaUtDTGJacVRSQTNMV2FNb0RSWGg0RVIzOFEtWEREeW5CT2pSMU5NTUxKYkszRGVSTF9CVUEycmFFdVlRQ1NSV1Q3S3JWa01ONzQ1S2RKQlRzWmZERGpfUFJsWlNFaTZRLUU1bmZvVGdKYWZ2ZDJkdDRVNkN1bTExc21LeVVJM09WUHdB?oc=5",
-     "source": "The Express Tribune",
-     "kind": "protest"
-    }
-   ]
-  },
-  "Bolivia": {
-   "lat": -16.3,
-   "lon": -64.1,
+  "Qatar": {
+   "lat": 25.3,
+   "lon": 51.2,
    "protest": 0,
    "riot": 1,
    "headlines": [
     {
-     "title": "Bolivia formally charges 32 people accused of looting $62 million in banknotes after a deadly military plane crash",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN09CcS1vb25laVNnamxjX01vcjJROTRNUTRjU3Fvd2FBcnd5enk4ZUNqdXVVR1dUOVhaSndQLTVmQlBSSmxlWWVRR3JPVkNWVjE1cTJKWHd4UF9tOEljRVlBdlducXQwRmVmSW5GVDgxYXp0RzdZYm81MWxGSTMxbERIUXJ2ZnFTNXM4dmlXbmRMWVh2U2ctN1BURmlMZmJUVndEajdJOUc?oc=5",
-     "source": "Latin Times",
+     "title": "George Russell clinches sensational Qatar GP pole as Mercedes run riot",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZk9rcFVteVRHd0hPdnZkRk9mWEM5UGhxdjY5bElxdVY4UC1lUWZTdHNCSUhYSWNDSklJSFNFb21TbEFKdmdkc0stWmhENTctclVYbllBX2ZuRlhwQzFCdi10YjRoWVlzQ2dBaVRIWnBSWlNhZHJvNVl5bWlfX0QxbHNpZGxrbUZoRTlFRExaS1M3MUFPd21HSk9pcmc?oc=5",
+     "source": "RacingNews365",
+     "kind": "riot"
+    }
+   ]
+  },
+  "Sri Lanka": {
+   "lat": 7.6,
+   "lon": 80.9,
+   "protest": 0,
+   "riot": 1,
+   "headlines": [
+    {
+     "title": "Sri Lanka appoints parliamentary panel to study 1983 anti-Tamil riots",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZXUxeE9IRndHeTE4ZlZEcUNONHRIYkNCZWpqdTJJYmk1dmltMEZodkFidi1TQUxJaTlVUnROVi05aGJvcWJWNE1rQXZfV0h4NTlkd0ZjVHpGTFk0U192X2QtMGN4N2VwU05qVmtLQlpZSDNPQTVrc2lvUmJkQmQ1bVFreXVRTFN6VjRTRjluU3dfdGQzSjFkUFVqVkN6NGFZdnBXSnZuWUdQQVJaSUNHcWc5a1BFbE9fZFdVdFRuaDBVU2psSHRHVERsM0VKZ9IB1AFBVV95cUxOeENxOXZaUFV1dk5vU1RWUzlXVlZaMk1uTFZ3M0RTTHljV1ZFc04yVWpmNGdIS0N0VlJmUW4yTWVCYlZqYTQwMmJOS0dBRXhsTFI2eXJOLTE1MEFNSExTUFZQcGFQSU92NXhHTzMxZjRzZmF0Q1Q1R0pzc2N0VmdQZ1dGYjVJcTl2RkpiUmFqVG5VTXA4N1dvbTNfMUx1Yk1rRjQzQkZvWktlYkFETVFYNWxwbUwxNjQ2dDJ6WElwZE13TzdTTFh0ZEU1THA2bnVlOHNKUQ?oc=5",
+     "source": "The Hindu",
+     "kind": "riot"
+    }
+   ]
+  },
+  "Israel": {
+   "lat": 32.1,
+   "lon": 35.2,
+   "protest": 0,
+   "riot": 2,
+   "headlines": [
+    {
+     "title": "Israeli, Turkish fans clash at Georgia airport following riot during Hapoel Beersheba soccer match",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56RWFqM2xab0FMXy1YOTJ1SndjNU9GT1pLbmhpcnF0RGJkS2VWZXdZa3NUWGtHc241YlNrNWp2MGdNWXFpa1cydmxiVjYzOHhjR0RKd2RWN21BQk5EX0NMU0RXbmZDZw?oc=5",
+     "source": "The Jerusalem Post",
+     "kind": "riot"
+    },
+    {
+     "title": "In This West Bank Community, Students Face Israeli Tear Gas to Get to School",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOEljdUVyYXBVY2Nsb3dDX2NGOVNsR3FnYnc2TDFYZDB2UnFJZHFIUXNBWnVNQXkyV09YeUh3U19tYVR2U0txRGV4cmxUZFB5NERrYnZjRlc2ZG5QS2FsT3p0Z3dKVW43ckxqTjdWR3dkdmJDQ2FqdmpFU1VrX2NHT05JczJDZDdRUmV6Q2ZxbHVsQ1FEMzA3RW14Y2Q0ZjFFYVVUOEJnRGJBZw?oc=5",
+     "source": "Truthout",
+     "kind": "riot"
+    }
+   ]
+  },
+  "Turkey": {
+   "lat": 38.4,
+   "lon": 36.8,
+   "protest": 0,
+   "riot": 1,
+   "headlines": [
+    {
+     "title": "Israeli, Turkish fans clash at Georgia airport following riot during Hapoel Beersheba soccer match",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56RWFqM2xab0FMXy1YOTJ1SndjNU9GT1pLbmhpcnF0RGJkS2VWZXdZa3NUWGtHc241YlNrNWp2MGdNWXFpa1cydmxiVjYzOHhjR0RKd2RWN21BQk5EX0NMU0RXbmZDZw?oc=5",
+     "source": "The Jerusalem Post",
+     "kind": "riot"
+    }
+   ]
+  },
+  "Egypt": {
+   "lat": 28.1,
+   "lon": 31.6,
+   "protest": 0,
+   "riot": 1,
+   "headlines": [
+    {
+     "title": "egypt-soccer-riot",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYUs1TklibUt4bGJDLU83SjhuaXpQcUx5WHIwcW5ZakhhX0ZaeTN2cFJHdGdJa1ZJXy14cHk4R0hEY1d3NWp2WUtYMWxOMU5NVTNaaEYwUzZoTXBYUmR3di1pSDJDUU1ObFJPeUVPZDA5NEFOcUZpU3F6WWl1eHJMYWYzWDZZZW1wVWJmZHZnc1NEbDU2b3dXOWFlS0x3bHF0ZDVkVWVRUdIBpwFBVV95cUxOYUs1TklibUt4bGJDLU83SjhuaXpQcUx5WHIwcW5ZakhhX0ZaeTN2cFJHdGdJa1ZJXy14cHk4R0hEY1d3NWp2WUtYMWxOMU5NVTNaaEYwUzZoTXBYUmR3di1pSDJDUU1ObFJPeUVPZDA5NEFOcUZpU3F6WWl1eHJMYWYzWDZZZW1wVWJmZHZnc1NEbDU2b3dXOWFlS0x3bHF0ZDVkVWVRUQ?oc=5",
+     "source": "CILISOS",
      "kind": "riot"
     }
    ]
@@ -682,34 +436,6 @@
      "title": "Witness to the Looting of Afghanistan’s National Museum, 1993–1996",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRzNib3NYempxV0ExRjlqZkRBR3RaS0YtZGVEZmVkZFJVSUNXanBUOUZhYmxnUDZzd1p0bkF5U3p4dlZWX2Z5aVZtNi00UnFBNHl1MUZBV0Q5b1FUSUtZSTVoMmJpNWh0d0R0SHRjekd5RlFsY25ueTViVkRsM21VZURxSQ?oc=5",
      "source": "Khaama Press",
-     "kind": "riot"
-    }
-   ]
-  },
-  "Australia": {
-   "lat": -23.8,
-   "lon": 133.2,
-   "protest": 0,
-   "riot": 1,
-   "headlines": [
-    {
-     "title": "Jamie Overton runs riot with five-wicket haul as Australia register lowest-ever home T20I total",
-     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTVUtbjltYk9RQy1IUE9kZkNnUnpPXzVMVU8zbTNkdW5CQUtWS1pWUjhYXzJUdXByZ2pVcGtzQnoxTEM3UlZralRCOHVld1VQQ2pubFZrcHM1SGJhb2JGZmtmT0NibmgyRHduTVdJeDZzSEVIWWNBNFh6MnAwUkVBdm1LVFdfVUI1dFBid3RvV1EtQm9TVHdnMWRFaWF5eGMzaGI0N1BrQWFPb1VSLUs5OUJOSkJqZGlFaXpaQ0xkckw4YWhob0pHQ05seFVKSzZrcVZlUVlnNnVCS2JhcVlIVVBKNVFiODIzTHVCZ0dnQ09EVF85LWtmQnowSVg5UTNKMXdqVGRTVDPSAY4CQVVfeXFMT250ejRNR2VUY1FaM0N2dU5uRjJZUkxCRXMzaDlWNm15MzFrOTlvRkR4Tm1mbEM0dFB3R0N3R3RhSHFpTE9mbEpQQzYzaFRRd3h3TGFxRWxRT3QyWkJGenViYURRRzRINUk0WTR1Znl3dk5mT0JwYVhMQkI1cjZXaHN6ZGFILUxCMDRGa19QRHI1ZVdpcVAxbXVyWmxLTUtxMzNsUklTal95dzRFVWoyZk9wLXpVTWZBbXdhd1Y5QmlqNDBCYjlwUnRfcUJqazhSR3F3QVVWa2ZVQko0V2I0M19sdGhVZFlHVHoycEdWUGZlTWp4MkpfR1BTYkZwdDB6Y1JBNHJ5MDBjbndnQ0dB?oc=5",
-     "source": "The Times of India",
-     "kind": "riot"
-    }
-   ]
-  },
-  "Nigeria": {
-   "lat": 9.7,
-   "lon": 8.3,
-   "protest": 0,
-   "riot": 1,
-   "headlines": [
-    {
-     "title": "Olafeso accuses past leaders of looting Nigeria’s resources, backs Makinde-Daura ticket",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVVpyT2pUWmJIY05OVjY4a3hiSGw1UV9xbmp1dlhETi1welViVjU2Y2xuVHZYcXA0U3R0Vm9FMTEzV0tnNzIzV1VsendVOVk1aUV1WFljM25qWUo1cnNxNThSclFIcU9Tc1NjdHlvTmMtTC14d3dueGtVb2dlS2JUUUVMeUMxNHJmdmVoTmxtSzRUNnJvU0p3M3FjQkxvWlVYZlVqNzc1UWZXcTBOR0JSV2plU1RzaE9x?oc=5",
-     "source": "Nigerian NewsDirect",
      "kind": "riot"
     }
    ]
@@ -732,32 +458,26 @@
    "lat": 8.0,
    "lon": 30.1,
    "protest": 0,
-   "riot": 2,
+   "riot": 1,
    "headlines": [
     {
      "title": "South Sudan’s Kiir lifts state of emergency in four states before vote",
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfdzVXNUp1Q1VXRlpGYTlTcU56ZWZXX1VYMzhZTHBKYzZsY01vRXlsMjdBMmF3eUZaWldGNDFKYXQ4blQ1cmgzYTAyU05JMlItVU1xdFhNWS1vRDg1bHpBTzU3S2sxM3RTM3pkMXV3ZXRXS00?oc=5",
      "source": "DNE Africa",
      "kind": "riot"
-    },
-    {
-     "title": "South Sudan's president lifts state of emergency in four regions ahead of polls",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQemdicTdlS0VHeTF3LVVldG40RHpJSjd1dXpZbFZOZkdDUUdnelozMC0yUDNPSDE1S2oxSWt6OTdHSTRuelJ6YVZrbTdBY1dUb0VIR2daaWZkMVgyTUxSd3NHaHhSRFc4OHJTQVpVVGhoTHFrMTRjM2J5SV9HVjNqQzhYWml1TFJjSXF1X1llM3o5a3ZlMERCX2hTRVJYMzhQY3oxM1JMWEZxV1RqUVRNbTYzcG5kMmh3SnV6Mk5n0gG-AUFVX3lxTFB6Z2JxN2VLRUd5MXctVWV0bjREeklKN3V1ellsVk5mR0NRR2d6WjMwLTJQM09IMTVLajFJa3o5N0dJNG56UnphVmttN0FjV1RvRUhHZ1ppZmQxWDJNTFJ3c0doeFJEVzg4clNBWlVUaGhMcWsxNGMzYnlJX0dWM2pDOFhaaXVMUmNJcXVfWWUzejlrdmUwREJfaFNFUlgzOFBjejEzUkxYRnFXVGpRVE1tNjNwbmQyaHdKdXoyTmc?oc=5",
-     "source": "Africanews",
-     "kind": "riot"
     }
    ]
   },
-  "Canada": {
-   "lat": 57,
-   "lon": -102,
+  "Sudan": {
+   "lat": 12.8,
+   "lon": 29.3,
    "protest": 0,
    "riot": 1,
    "headlines": [
     {
-     "title": "AMC calls on Canada to take immediate action as Marcel Colomb First Nation declares state of emergency over drinking water",
-     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNGVYT2x6bV9lRW1oYlkxLUs5QU9UbGhfMVBUQTVoZzZ4el9pUC00Q0dzY0MtTGdEXzZOQUJCQ0NWQmwxNmg2eVFsWXQ2S1ducmw3WHhacFBpSkZweHJOc2tuQ0lGSHgzd1gtNV9UNVJfZEROZy1QeUJIaXdpNjJFRlR0WnBwa093ZVpMNmRxWmxyaThpcC1KMDBSRmtNZWFwX2ZoU1BDbEVVRFdWeWFNdWhLOVpXTzM2ZzJCNUJWdG1VR2ZXdHZ2U08zQ3hxN3doTHZLQ1pYZjA2T0JsaTFtclEwZktmc253V3VqSlJld0xxU0Jxd3BwZw?oc=5",
-     "source": "Assembly of Manitoba Chiefs",
+     "title": "World: S.Sudan leader lifts state of emergency in four regio",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbFpXMjVxYmpTS3pZRGxmR3kwNmNYYWlVWGhJeGl0VUUzYmFXZEZpMEtZVDhOQmRlMEc0RnBCR3ljNG1sY3JrNDdQVWpLWHI1b0lqbDNHVmdvN1JESGVSOXVtMmVmck04MkhOZW1fZU5YLW9QeFlkczJQVjRiX0kzbDZVQ25PcDhKd2ExNUN3QmJmQkRxbFU2S0FmbW1DZ0tUQkRJc0k1OVY?oc=5",
+     "source": "NewVision.co.ug",
      "kind": "riot"
     }
    ]
